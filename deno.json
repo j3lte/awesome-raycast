@@ -1,7 +1,7 @@
 {
   "tasks": {
-    "local_checkout": "git clone --depth=1 -b main git@github.com:raycast/extensions.git ./repo",
-    "local_pull": "git -C ./repo pull",
+    "local_checkout": "git clone --depth=1 -b main git@github.com:raycast/extensions.git ../raycast",
+    "local_pull": "git -C ../raycast pull --progress --verbose",
     "run": "deno run -A scripts/run.ts",
     "clean": "deno run -A scripts/clean.ts"
   },

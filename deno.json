@@ -1,0 +1,27 @@
+{
+  "tasks": {
+    "local_checkout": "git clone --depth=1 -b main git@github.com:raycast/extensions.git ./repo",
+    "local_pull": "git -C ./repo pull",
+    "run": "deno run -A scripts/run.ts",
+    "clean": "deno run -A scripts/clean.ts"
+  },
+  "imports": {
+    "@std/dotenv": "jsr:@std/dotenv@^0.224.0",
+    "@std/fs": "jsr:@std/fs@^0.224.0",
+    "@svarta/walk-it": "jsr:@svarta/walk-it@^5.0.1",
+    "badge-maker": "npm:badge-maker@^3.3.1",
+    "date-fns": "npm:date-fns@^3.6.0",
+    "nanoid": "npm:nanoid@^5.0.7"
+  },
+  "fmt": {
+    "indentWidth": 2,
+    "lineWidth": 100,
+    "singleQuote": false,
+    "useTabs": false,
+    "proseWrap": "preserve",
+    "exclude": [
+      ".github/",
+      "README.md"
+    ]
+  }
+}

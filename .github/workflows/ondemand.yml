@@ -1,0 +1,39 @@
+name: Generate Readme (On Demand)
+
+on:
+  # schedule:
+  #   - cron: '23 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  main:
+    name: Generate Readme (On Demand)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Checkout Raycast
+        uses: actions/checkout@v4
+        with:
+          repository: raycast/extensions
+          path: repo
+          fetch-depth: 1
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v1.x
+
+      - name: Generate Readme
+        run: deno task run
+
+      - name: Commit changes
+        id: auto-commit-action
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Readme (On Demand)
+          commit_options: "--no-verify"

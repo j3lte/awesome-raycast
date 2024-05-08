@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/e4b503cad91890b1_update-time.svg)
+![Last update](/icons/0b4a72c80decd5b5_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,17 +38,17 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1503** packages in **15** categories
+- **1506** packages in **15** categories
 - **12** packages use Swift
-- **982** authors
+- **984** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (42)
   - [xmok](https://raycast.com/xmok) (19)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **505** contributors
-  - of which **365** contributors are only contributors
+- **510** contributors
+  - of which **368** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (141)
   - [j3lte](https://raycast.com/j3lte) (18)
@@ -295,6 +295,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Random Password Generator](https://raycast.com/textnav/random-password-generator)** - Generate random password of different length [`@textnav`](https://raycast.com/textnav) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-password-generator) `api@^1.30.3`
 - **[Ratio Calculator](https://raycast.com/justiniscoding/ratio-calculator)** - A calculator for quickly calculating ratios/proportions. Replace multiple values on one side with variables such as x or y. Example syntax: "1:2 = x:4" outputs "x = 2" [`@justiniscoding`](https://raycast.com/justiniscoding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ratio-calculator) `api@^1.59.0`
 - **[Remember This](https://raycast.com/Ek217/remember-this)** - Remember This is an app designed to help you stay motivated and focused on completing your work by its due date. Simply enter any information, such as tasks, notes, or reminders, and set a due date. After the due date passes, the app automatically forgets the information, creating a sense of urgency to complete the task before it's lost forever. This unique feature inspires you to work efficiently and stay on top of your deadlines. With Remember This, you can say goodbye to forgotten tasks and missed deadlines, and hello to increased productivity. [`@Ek217`](https://raycast.com/Ek217) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remember-this) `api@^1.54.0`
+- **[Running Page](https://raycast.com/Lemon/running-page)** - running_page project extension [`@Lemon`](https://raycast.com/Lemon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/running-page) `api@^1.72.1` `utils@^1.15.0`
 - **[Search Svelte Docs](https://raycast.com/paolo_ricciuti/svelte-docs)** - Search the svelte docs directly in Raycast [`@paolo_ricciuti`](https://raycast.com/paolo_ricciuti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) `api@^1.64.4` `utils@^1.10.1`
 - **[SEC Filings Search](https://raycast.com/chewhx/sec-filings-search)** - An extension to search company SEC Filings and open in browser. Currently only 8-K and 10-K forms. [`@chewhx`](https://raycast.com/chewhx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sec-filings-search) `api@^1.68.1` `utils@^1.12.5`
 - **[Solana Nodes](https://raycast.com/jstnw10/solana_nodes)** - Browse Solana Validator Stats from Stakewiz [`@jstnw10`](https://raycast.com/jstnw10) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nodes) `api@^1.69.0` `utils@^1.4.8`
@@ -512,7 +513,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Modify Hash](https://raycast.com/isfeng/modify-hash)** - Batch modify the hash of media files, which can be simply used for uploading online disk to prevent censorship. [`@isfeng`](https://raycast.com/isfeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/modify-hash) `api@^1.41.1`
 - **[Momentum](https://raycast.com/leondaz/momentum)** - Create a new project and open it in your favourite editor [`@leondaz`](https://raycast.com/leondaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/momentum) `api@^1.67.1`
 - **[MUI Documentation](https://raycast.com/kgrhartlage/mui-documentation)** - Search the online MUI documentation. [`@kgrhartlage`](https://raycast.com/kgrhartlage) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) `api@^1.55.2` `utils@^1.9.0`
-- **[Netlify](https://raycast.com/destiner/netlify)** - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/netlify) `api@^1.42.0` `utils@^1.4.14`
+- **[Netlify](https://raycast.com/destiner/netlify)** - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/netlify) `api@^1.72.0` `utils@^1.14.1`
 - **[Network Speed](https://raycast.com/koinzhang/network-speed)** - Quickly check your internet connection speed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/network-speed) `api@^1.59.0`
 - **[New Relic](https://raycast.com/cirne/new-relic)** - Search Applications, Dashboard, Alerts, and more in New Relic [`@cirne`](https://raycast.com/cirne) [`code`](https://github.com/raycast/extensions/tree/main/extensions/new-relic) `api@^1.48.3` `utils@^1.4.8`
 - **[Next Run](https://raycast.com/jonathangiardino/next-run)** - Spin up a Next.js project from Raycast [`@jonathangiardino`](https://raycast.com/jonathangiardino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/next-run) `api@^1.47.3` `utils@^1.4.16`
@@ -963,6 +964,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 **[`^        back to top        ^`](#awesome-raycast)**
 
 - **[Addy](https://raycast.com/http.james/anonaddy)** - Generate and manage your Addy aliases from your keyboard. [`@http.james`](https://raycast.com/http.james) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anonaddy) `api@^1.63.0`
+- **[Aerospace Tiling Window Manager](https://raycast.com/limonkufu/aerospace)** - Aerospace Tiling Window Manager Extension for Raycast to see and configure your shortcuts [`@limonkufu`](https://raycast.com/limonkufu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aerospace) `api@^1.69.2` `utils@^1.15.0`
 - **[Airplane](https://raycast.com/pradeepb28/airplane)** - Just like on iPhone, turn off the wireless features on your macOS anytime. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airplane) `api@^1.35.2`
 - **[Airtable](https://raycast.com/marks/raycast-airtable-extension)** - List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. [`@marks`](https://raycast.com/marks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airtable) `api@^1.43.2`
 - **[Alice AI - Your ChatGPT Actions Companion](https://raycast.com/quiknull/alice-ai)** - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes. [`@quiknull`](https://raycast.com/quiknull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) `api@^1.69.0` `utils@^1.14.0`
@@ -1125,6 +1127,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[One Tab Group](https://raycast.com/xiaoluoboding/one-tab-group)** - Search One Tab Group on Raycast [`@xiaoluoboding`](https://raycast.com/xiaoluoboding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-tab-group) `api@^1.45.2`
 - **[OneNote](https://raycast.com/alewandowski/onenote)** - Search Microsoft OneNote notes [`@alewandowski`](https://raycast.com/alewandowski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/onenote) `api@^1.46.0` `utils@^1.4.16`
 - **[Open Browsers Profiles](https://raycast.com/skydiver/browsers-profiles)** - Access your browsers profiles from Raycast [`@skydiver`](https://raycast.com/skydiver) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles) `api@^1.36.0`
+- **[Open Folders](https://raycast.com/timothy_boye/open-folders)** - Open your common files and folders quickly! [`@timothy_boye`](https://raycast.com/timothy_boye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-folders) `api@^1.72.1` `utils@^1.15.0`
 - **[OpenAI GPT](https://raycast.com/simicvm/openai-gpt)** - Interact with OpenAI GPT AI [`@simicvm`](https://raycast.com/simicvm) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) `api@^1.39.2`
 - **[OpsLevel](https://raycast.com/DuckyC/opslevel)** - Search OpsLevel services [`@DuckyC`](https://raycast.com/DuckyC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/opslevel) `api@^1.49.1` `utils@^1.4.8`
 - **[OTP Inbox](https://raycast.com/chroxify/otp-inbox)** - View your latest email verficiation codes. [`@chroxify`](https://raycast.com/chroxify) [`code`](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) `api@^1.71.3` `utils@^1.14.0`

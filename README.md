@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/0b4a72c80decd5b5_update-time.svg)
+![Last update](/icons/98987a263d8264ac_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,9 +38,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1506** packages in **15** categories
+- **1508** packages in **15** categories
 - **12** packages use Swift
-- **984** authors
+- **986** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (42)
   - [xmok](https://raycast.com/xmok) (19)
@@ -48,7 +48,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
 - **510** contributors
-  - of which **368** contributors are only contributors
+  - of which **367** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (141)
   - [j3lte](https://raycast.com/j3lte) (18)
@@ -157,7 +157,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[put.io](https://raycast.com/altaywtf/putio)** - Raycast extension for managing files, transfers, and history events in your put.io account. [`@altaywtf`](https://raycast.com/altaywtf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/putio) `api@^1.52.1` `utils@^1.4.8`
 - **[Raycast Explorer](https://raycast.com/thomaslombart/raycast-explorer)** - Explore snippets, prompts, and custom themes from within Raycast. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-explorer) `api@^1.71.4` `utils@^1.14.0`
 - **[Reflect](https://raycast.com/ryon/reflect)** - Navigate within Reflect and quickly append to your daily notes. [`@ryon`](https://raycast.com/ryon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/reflect) `api@^1.51.1` `utils@^1.6.1`
-- **[Ruler](https://raycast.com/anwarulislam/ruler)** - Calculate Distance Between Two Points [`@anwarulislam`](https://raycast.com/anwarulislam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ruler) `api@^1.62.0`
+- **[Ruler](https://raycast.com/anwarulislam/ruler)** - Measure Distance Between Two Points [`@anwarulislam`](https://raycast.com/anwarulislam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ruler) `api@^1.62.0`
 - **[Safari](https://raycast.com/loris/safari)** - Manage your Safari Tabs, History and Reading List [`@loris`](https://raycast.com/loris) [`code`](https://github.com/raycast/extensions/tree/main/extensions/safari) `api@^1.49.3` `utils@1.5.2`
 - **[Salesforce Search](https://raycast.com/sven/salesforce)** - Search for Salesforce records like accounts and contacts and dashboards and reports. [`@sven`](https://raycast.com/sven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/salesforce-search) `api@^1.40.1` `utils@^1.4.9`
 - **[Screen Studio](https://raycast.com/pie6k/screen-studio)** - Raycast extension that allows controlling the Screen Studio app easily [`@pie6k`](https://raycast.com/pie6k) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-studio) `api@^1.51.2`
@@ -375,6 +375,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[1 LOC - JavaScript Utilities in Single Line of Code](https://raycast.com/kud/1loc)** - Browse JavaScript Utilities from 1loc.dev [`@kud`](https://raycast.com/kud) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1loc) `api@^1.51.2`
 - **[AI Git Assistant](https://raycast.com/popalay/ai-git-assistant)** - Your personal AI assistant for Git commit operations such as generating commit messages and PR descriptions [`@popalay`](https://raycast.com/popalay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-git-assistant) `api@^1.70.0` `utils@^1.13.5`
 - **[Alacritty](https://raycast.com/jose-elias-alvarez/alacritty)** - Adds commands to control the Alacritty terminal emulator. [`@jose-elias-alvarez`](https://raycast.com/jose-elias-alvarez) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alacritty) `api@^1.55.1`
+- **[Alt-Text Generator](https://raycast.com/jack_casica/alt-text-generator)** - This extension makes it easy to generate descriptive alt-text for images. Simply provide an image URL, and the extension will make a call to the openai api to create a concise and descriptive alt text. This extension is Bring-Your-Own-Key (support for OpenAI only at the moment). If you don't have an API key yet, you can sign up for one at [OpenAI - Api Keys](https://platform.openai.com/api-keys). [`@jack_casica`](https://raycast.com/jack_casica) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alt-text-generator) `api@^1.72.1` `utils@^1.15.0`
 - **[Amazon AWS](https://raycast.com/Falcon/aws)** - The best way to interact with your AWS resources [`@Falcon`](https://raycast.com/Falcon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) `api@^1.42.0` `utils@^1.4.11`
 - **[Android](https://raycast.com/mibrahimdev/android)** - Useful Android commands to list projects and emulators [`@mibrahimdev`](https://raycast.com/mibrahimdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/android) `api@^1.59.0`
 - **[Android Debug Bridge (Adb) Commands](https://raycast.com/Quentin23Soleil/adb)** - Run useful adb commands [`@Quentin23Soleil`](https://raycast.com/Quentin23Soleil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adb) `api@^1.72.1`
@@ -765,6 +766,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Hyrule Compendium Search](https://raycast.com/MackoMaxo/hyrule-compendium-search)** - This extension allows you to access the Hyrule Compendium in Breath of the Wild. [`@MackoMaxo`](https://raycast.com/MackoMaxo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hyrule-compendium-search) `api@^1.72.0` `utils@^1.10.1`
 - **[Ingredients Lister](https://raycast.com/Visual-Studio-Coder/ingredients-lister)** - After getting the contents of an entire website using selected text, you will receive a list of every single ingredient necessary in your recipe from online followed by it's quantities. You will also be able to add this ingredients list to a new notes document to be used as a shopping list. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ingredients-lister) `api@^1.57.2` `utils@1.9.1`
 - **[Installed Extensions](https://raycast.com/pernielsentikaer/installed-extensions)** - List your current installed Raycast extensions [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) `api@^1.62.0` `utils@^1.10.0`
+- **[IPA Translator](https://raycast.com/BossElijah/ipa-translator)** - Converts text to IPA (International Phonetic Alphabet) [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ipa-translator) `api@^1.72.1`
 - **[Is It Toxic To?](https://raycast.com/chesterhow/is-it-toxic-to)** - Check if a plant is toxic to an animal [`@chesterhow`](https://raycast.com/chesterhow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/is-it-toxic-to) `api@^1.40.3` `utils@^1.4.9`
 - **[itch.io](https://raycast.com/Aayush9029/itch-io)** - Raycast Extension for itch.io, browse through milions of games made by indie developers! [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/itch-io) `api@^1.32.1`
 - **[Jokes](https://raycast.com/xmok/jokes)** - Get up to 10 jokes at a time from a variety of categories. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jokes) `api@^1.70.3`

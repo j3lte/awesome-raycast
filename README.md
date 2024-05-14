@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a2e10394a5efd7fd_update-time.svg)
+![Last update](/icons/8cb7c52c7b7548ed_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1513** packages in **15** categories
+- **1514** packages in **15** categories
 - **12** packages use Swift
 - **988** authors
 - Top **5** authors:
@@ -47,13 +47,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **511** contributors
-  - of which **368** contributors are only contributors
+- **513** contributors
+  - of which **370** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (141)
-  - [j3lte](https://raycast.com/j3lte) (18)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (142)
+  - [j3lte](https://raycast.com/j3lte) (19)
   - [erics118](https://raycast.com/erics118) (14)
-  - [xilopaint](https://raycast.com/xilopaint) (12)
+  - [xilopaint](https://raycast.com/xilopaint) (13)
   - [sxn](https://raycast.com/sxn) (12)
 
 <!-- END STATISTICS -->
@@ -131,7 +131,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MacUpdater](https://raycast.com/kall/macupdater)** - Get app updates and popular apps from macupdater.net [`@kall`](https://raycast.com/kall) [`code`](https://github.com/raycast/extensions/tree/main/extensions/macupdater) `api@^1.31.0`
 - **[MarginNote](https://raycast.com/ourongxing/marginnote)** - Offical Raycast Extensition of MarginNote [`@ourongxing`](https://raycast.com/ourongxing) [`code`](https://github.com/raycast/extensions/tree/main/extensions/marginnote) `api@^1.43.2`
 - **[Microsoft Azure](https://raycast.com/crisboarna/microsoft-azure)** - Quick access to Microsoft Azure resources [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) `api@^1.44.0` `utils@^1.4.13`
-- **[Microsoft Teams](https://raycast.com/sven/microsoft-teams)** - Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. [`@sven`](https://raycast.com/sven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) `api@^1.48.9` `utils@^1.5.2`
+- **[Microsoft Teams](https://raycast.com/sven/microsoft-teams)** - Easily manage your Microsoft Teams presence and status message with this Raycast extension. Search chats and open them in with a keystroke in the Teams app. [`@sven`](https://raycast.com/sven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams) `api@^1.72.0` `utils@^1.15.0`
 - **[Microsoft Teams Meeting](https://raycast.com/sven/microsoft-teams-calling)** - Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. [`@sven`](https://raycast.com/sven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) `api@^1.48.9` `utils@^1.5.2`
 - **[Midjourney](https://raycast.com/carter/midjourney)** - Interact with Midjourney right from your command bar [`@carter`](https://raycast.com/carter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/midjourney) `api@^1.59.0` `utils@^1.10.0`
 - **[Mite](https://raycast.com/paolo_ricciuti/mite)** - Interact with your mite account via Raycast [`@paolo_ricciuti`](https://raycast.com/paolo_ricciuti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mite) `api@^1.65.1` `utils@^1.10.1`
@@ -349,7 +349,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pexels](https://raycast.com/koinzhang/pexels)** - Search photos or collections on Pexels, download or set them as wallpaper. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pexels) `api@^1.49.0`
 - **[Phosphor Icons](https://raycast.com/marinsokol/phosphor-icons)** - Search, preview and copy Phosphor Icons [`@marinsokol`](https://raycast.com/marinsokol) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) `api@^1.66.2` `utils@^1.12.4`
 - **[Pika](https://raycast.com/rishi/pika)** - Beautify screenshots quickly using pika.style [`@rishi`](https://raycast.com/rishi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pika) `api@^1.37.1`
-- **[Pixabay](https://raycast.com/tonka3000/pixabay)** - Search Images and Videos on pixabay.com [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pixabay) `api@^1.42.2` `utils@^1.4.10`
+- **[Pixabay](https://raycast.com/tonka3000/pixabay)** - Search Images and Videos on pixabay.com [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pixabay) `api@^1.71.4` `utils@^1.14.0`
 - **[Placeholder](https://raycast.com/koinzhang/placeholder)** - Just add your desired image size (width & height), and you'll get a stylish placeholder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/placeholder) `api@^1.44.0`
 - **[PX to Rem Converter](https://raycast.com/raulanatol/px-to-rem-converter)** - Conversions between PX and REM [`@raulanatol`](https://raycast.com/raulanatol) [`code`](https://github.com/raycast/extensions/tree/main/extensions/px-to-rem-converter) `api@1.32.1`
 - **[Random Color](https://raycast.com/srcrip/random-color)** - Pick a random color. [`@srcrip`](https://raycast.com/srcrip) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-color) `api@^1.64.4`
@@ -752,6 +752,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Discord Spoiler Spammer](https://raycast.com/Visual-Studio-Coder/spoiler-converter)** - Discord Spoiler Spammer converts every character of the selected text into it's own spoiler. Laugh at your friends on Discord as they continue clicking to reveal the never ending spoilers! [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spoiler-converter) `api@^1.57.0`
 - **[Disney](https://raycast.com/andreaselia/disney)** - Explore information about your beloved Disney characters by searching for them. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/disney) `api@^1.48.9` `utils@^1.5.2`
 - **[DLmoji](https://raycast.com/Hydrapse/dlmoji)** - Semantic search for Emojis, powered by Deep Learning and intelligent APIs [`@Hydrapse`](https://raycast.com/Hydrapse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dlmoji) `api@^1.31.0`
+- **[Dog Images](https://raycast.com/BossElijah/dog-images)** - Get a random photo of a dog. [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dog-images) `api@^1.72.1` `utils@^1.15.0`
 - **[Dribbble](https://raycast.com/gebeto/dribbble)** - List Dribbble Shots [`@gebeto`](https://raycast.com/gebeto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dribbble) `api@^1.70.0` `utils@^1.13.4`
 - **[Ekstraklasa](https://raycast.com/szarbartosz/ekstraklasa)** - Stay up to date with the polish football league [`@szarbartosz`](https://raycast.com/szarbartosz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ekstraklasa) `api@^1.67.1` `utils@^1.12.4`
 - **[Fantasy Premier League](https://raycast.com/hwb/fantasy-premier-league-rankings)** - See where you rank amongst in your league rivals in Fantasy Premier League within Raycast. [`@hwb`](https://raycast.com/hwb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fantasy-premier-league-rankings) `api@^1.68.0`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/8cb7c52c7b7548ed_update-time.svg)
+![Last update](/icons/8259847100079f9b_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,12 +38,12 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1514** packages in **15** categories
+- **1516** packages in **15** categories
 - **12** packages use Swift
-- **988** authors
+- **989** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (42)
-  - [xmok](https://raycast.com/xmok) (19)
+  - [xmok](https://raycast.com/xmok) (20)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
@@ -123,6 +123,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[iWork](https://raycast.com/HelloImSteven/iwork)** - Control Pages, Numbers, and Keynote [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iwork) `api@^1.39.3`
 - **[Just Focus](https://raycast.com/koinzhang/just-focus)** - Control Just Focus via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/just-focus) `api@^1.44.0`
 - **[Kaleidoscope](https://raycast.com/anfalas/kaleidoscope)** - Opens Kaleidoscope from selected files [`@anfalas`](https://raycast.com/anfalas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) `api@^1.63.0`
+- **[Klack](https://raycast.com/henrikruscon/klack)** - Control Klack for macOS with Raycast [`@henrikruscon`](https://raycast.com/henrikruscon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/klack) `api@^1.73.2`
 - **[Lark AppLink](https://raycast.com/chyroc/lark-applink)** - Open Lark AppLink [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) `api@^1.32.1`
 - **[Leafcast](https://raycast.com/syropian/leafcast)** - Control your Nanoleaf panels with Raycast! Unofficial extension. [`@syropian`](https://raycast.com/syropian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/leafcast) `api@^1.59.0` `utils@^1.10.0`
 - **[Leitner Box](https://raycast.com/gzyannick/leitnerbox)** - This is a simple extension that use the concept of a learning process called leitner box [`@gzyannick`](https://raycast.com/gzyannick) [`code`](https://github.com/raycast/extensions/tree/main/extensions/leitnerbox) `api@^1.66.0` `utils@^1.12.4`
@@ -245,6 +246,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
+- **[A Song of Ice and Fire](https://raycast.com/xmok/asoiaf)** - Explore Books, Characters and Houses in the ASOIAF/GoT Universe [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asoiaf) `api@^1.73.2` `utils@^1.15.0`
 - **[Abstract API](https://raycast.com/andreaselia/abstract-api)** - Automate routine dev work with Abstract's suite of APIs [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/abstract-api) `api@^1.38.3`
 - **[Air Quality](https://raycast.com/earthpyy/air-quality)** - An air quality information extension [`@earthpyy`](https://raycast.com/earthpyy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/air-quality) `api@^1.67.1` `utils@^1.12.4`
 - **[Archiver](https://raycast.com/JinShi/archiver)** - An archive tool for compressing or extracting, supporting multiple formats. [`@JinShi`](https://raycast.com/JinShi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/archiver) `api@^1.44.0`

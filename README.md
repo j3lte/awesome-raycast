@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/8259847100079f9b_update-time.svg)
+![Last update](/icons/aeb662a461c92d3f_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1516** packages in **15** categories
+- **1517** packages in **15** categories
 - **12** packages use Swift
 - **989** authors
 - Top **5** authors:
@@ -47,8 +47,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **513** contributors
-  - of which **370** contributors are only contributors
+- **514** contributors
+  - of which **371** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (142)
   - [j3lte](https://raycast.com/j3lte) (19)
@@ -815,6 +815,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Text Wiggle](https://raycast.com/PineappleRind/wiggle-text)** - Create wiggly text walls for spamming. Satisfying to scroll through... [`@PineappleRind`](https://raycast.com/PineappleRind) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wiggle-text) `api@^1.39.1`
 - **[Truth or Dare](https://raycast.com/coding/truth-or-dare)** - Get a random Truth or Dare, Would You Rather, Never Have I Ever, or Paranoia question! Powered by https://truthordarebot.xyz [`@coding`](https://raycast.com/coding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) `api@^1.37.1`
 - **[Type the Alphabet](https://raycast.com/Visual-Studio-Coder/type-the-alphabet)** - "Type the Alphabet" is a typing game that measures how long it takes you to type the entire alphabet. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/type-the-alphabet) `api@^1.56.3`
+- **[Ugly Face](https://raycast.com/Lemon/ugly-face)** - Generate ugly face [`@Lemon`](https://raycast.com/Lemon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ugly-face) `api@^1.73.2` `utils@^1.15.0`
 - **[UpLabs](https://raycast.com/gebeto/uplabs)** - List UpLabs Inspirations [`@gebeto`](https://raycast.com/gebeto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uplabs) `api@^1.42.0` `utils@^1.4.10`
 - **[Urban Dictionary Word of the Day](https://raycast.com/r0hin/raycast-urbandictionary-word-of-the-day)** - UrbanDictionary's Word of the Day [`@r0hin`](https://raycast.com/r0hin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-urbandictionary-word-of-the-day) `api@^1.58.1`
 - **[Useless Facts](https://raycast.com/xmok/useless-facts)** - Get useless, but true facts [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/useless-facts) `api@^1.68.1` `utils@^1.12.5`
@@ -1618,7 +1619,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Radix](https://raycast.com/peduarte/radix)** - Search and open Radix content directly from Raycast. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/radix) `api@^1.25.3`
 - **[Raindrop.io](https://raycast.com/lardissone/raindrop-io)** - Search your Raindrop.io bookmarks [`@lardissone`](https://raycast.com/lardissone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) `api@^1.49.3` `utils@^1.5.2`
 - **[Random Email](https://raycast.com/rkjaer/random-email)** - A quick way to create and copy a random email address [`@rkjaer`](https://raycast.com/rkjaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-email) `api@^1.25.6`
-- **[ray.so](https://raycast.com/garrett/ray-so)** - Create beautiful images of your code using ray.so [`@garrett`](https://raycast.com/garrett) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ray-so) `api@^1.25.3`
+- **[ray.so](https://raycast.com/garrett/ray-so)** - Create beautiful images of your code using ray.so [`@garrett`](https://raycast.com/garrett) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ray-so) `api@^1.72.0` `utils@^1.15.0`
 - **[Raycast Icons](https://raycast.com/petr/raycast-icons)** - Browse, copy and modify Raycast icons. [`@petr`](https://raycast.com/petr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) `api@1.36.0`
 - **[Raynab — Manage Your Budgets](https://raycast.com/CodetaroMiura/raynab)** - View and manage your YNAB Budgets directly from Raycast [`@CodetaroMiura`](https://raycast.com/CodetaroMiura) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raynab) `api@^1.29.1`
 - **[Raytyping](https://raycast.com/louishuyng/raytyping)** - This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill [`@louishuyng`](https://raycast.com/louishuyng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raytyping) `api@^1.63.0`

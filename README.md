@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/aeb662a461c92d3f_update-time.svg)
+![Last update](/icons/bffaa16290878a29_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1517** packages in **15** categories
+- **1519** packages in **15** categories
 - **12** packages use Swift
 - **989** authors
 - Top **5** authors:
@@ -47,11 +47,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **514** contributors
-  - of which **371** contributors are only contributors
+- **515** contributors
+  - of which **372** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (142)
-  - [j3lte](https://raycast.com/j3lte) (19)
+  - [j3lte](https://raycast.com/j3lte) (20)
   - [erics118](https://raycast.com/erics118) (14)
   - [xilopaint](https://raycast.com/xilopaint) (13)
   - [sxn](https://raycast.com/sxn) (12)
@@ -227,6 +227,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Quick Phone Call](https://raycast.com/karbassi/quick-call)** - Make a phone call with the default telephone app. [`@karbassi`](https://raycast.com/karbassi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-call) `api@^1.57.1`
 - **[Resend](https://raycast.com/xmok/resend)** - Manage API Keys and Domains, and Send Emails using Resend [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/resend) `api@^1.54.1` `utils@^1.7.1`
 - **[Rocket.Chat](https://raycast.com/alex-w0/rocket-chat)** - Search for teams, channels, users and change your presence status. [`@alex-w0`](https://raycast.com/alex-w0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rocket-chat) `api@^1.61.2`
+- **[Say - Spoken Content](https://raycast.com/litomore/say)** - Use the macOS built-in text-to-speech to say the text you provide. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/say) `api@^1.70.3` `utils@^1.15.0`
 - **[Shroud.email](https://raycast.com/xmok/shroud-email)** - View Domains and Create or View Aliases in Shroud.email instance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shroud-email) `api@^1.52.1` `utils@^1.7.0`
 - **[Slack](https://raycast.com/mommertf/slack)** - Search for chats, see unread messages, snooze notifications, and set your presence status. [`@mommertf`](https://raycast.com/mommertf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slack) `api@^1.49.2`
 - **[Slack Status](https://raycast.com/petr/slack-status)** - Quickly change your Slack status [`@petr`](https://raycast.com/petr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slack-status) `api@^1.60.0` `utils@^1.14.1`
@@ -616,6 +617,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ULID](https://raycast.com/entwine7250/ulid)** - some basic ulid tools [`@entwine7250`](https://raycast.com/entwine7250) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ulid) `api@^1.55.2`
 - **[Unkey](https://raycast.com/xmok/unkey)** - Create, Verify, Update and Revoke Keys through Unkey [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unkey) `api@^1.57.0` `utils@^1.9.0`
 - **[Unleash Feature Toggle](https://raycast.com/firhan_ramadhan/unleash-feature-toggle)** - List all projects and feature toggles from Unleash [`@firhan_ramadhan`](https://raycast.com/firhan_ramadhan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unleash-feature-toggle) `api@^1.69.0` `utils@^1.13.4`
+- **[UploadThing](https://raycast.com/juliusmarminge/uploadthing)** - Upload files in a single click [`@juliusmarminge`](https://raycast.com/juliusmarminge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) `api@^1.69.3`
 - **[URL Parse](https://raycast.com/Johnson/url-parse)** - URL parse tool for developer. [`@Johnson`](https://raycast.com/Johnson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/url-parse) `api@^1.67.1` `utils@^1.12.5`
 - **[User-Agent Parser](https://raycast.com/third774/user-agent)** - Parses the User-Agent of the selected text [`@third774`](https://raycast.com/third774) [`code`](https://github.com/raycast/extensions/tree/main/extensions/user-agent) `api@^1.60.1`
 - **[UTM Virtual Machines](https://raycast.com/alaidriel/utm-virtual-machines)** - Launch and control virtual machines in UTM. [`@alaidriel`](https://raycast.com/alaidriel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) `api@^1.46.1`
@@ -811,7 +813,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Splatoon](https://raycast.com/marcbouchenoire/splatoon)** - View Splatoon’s current schedules. Supports Splatoon 2 and Splatoon 3. [`@marcbouchenoire`](https://raycast.com/marcbouchenoire) [`code`](https://github.com/raycast/extensions/tree/main/extensions/splatoon) `api@^1.65.0` `utils@^1.10.1`
 - **[Surfs Up](https://raycast.com/comoser/surfs-up)** - Search the weather and the ocean conditions in your favorite surfing spots [`@comoser`](https://raycast.com/comoser) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surfs-up) `api@^1.50.1` `utils@^1.5.2`
 - **[Tarot](https://raycast.com/tsui_river/tarot)** - Draw cards from a virtual tarot deck. [`@tsui_river`](https://raycast.com/tsui_river) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tarot) `api@^1.69.0`
-- **[Tennis Standings](https://raycast.com/Zalgo_123/tennis-standings)** - Get the ATP and WTA rankings [`@Zalgo_123`](https://raycast.com/Zalgo_123) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tennis-standings) `api@^1.72.1` `utils@^1.14.1`
+- **[Tennis Standings](https://raycast.com/Zalgo_123/tennis-standings)** - Get the ATP and WTA rankings [`@Zalgo_123`](https://raycast.com/Zalgo_123) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tennis-standings) `api@^1.73.2` `utils@^1.15.0`
 - **[Text Wiggle](https://raycast.com/PineappleRind/wiggle-text)** - Create wiggly text walls for spamming. Satisfying to scroll through... [`@PineappleRind`](https://raycast.com/PineappleRind) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wiggle-text) `api@^1.39.1`
 - **[Truth or Dare](https://raycast.com/coding/truth-or-dare)** - Get a random Truth or Dare, Would You Rather, Never Have I Ever, or Paranoia question! Powered by https://truthordarebot.xyz [`@coding`](https://raycast.com/coding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) `api@^1.37.1`
 - **[Type the Alphabet](https://raycast.com/Visual-Studio-Coder/type-the-alphabet)** - "Type the Alphabet" is a typing game that measures how long it takes you to type the entire alphabet. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/type-the-alphabet) `api@^1.56.3`
@@ -1198,7 +1200,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Shiori](https://raycast.com/namiwang/shiori)** - Interact with Shiori the bookmark manager [`@namiwang`](https://raycast.com/namiwang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shiori) `api@^1.65.1` `utils@^1.12.4`
 - **[Shortcut](https://raycast.com/Yukai/shortcut)** - Raycast extension for Shortcut [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shortcut) `api@^1.38.1` `utils@^1.0.6`
 - **[Shortcuts Search](https://raycast.com/solomkinmv/shortcuts-search)** - List, search and run shortcuts for different applications [`@solomkinmv`](https://raycast.com/solomkinmv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) `api@^1.63.0` `utils@^1.10.1`
-- **[Simple Reminder](https://raycast.com/comoser/simple-reminder)** - Set your reminders in natural language without the need to have any application installed. [`@comoser`](https://raycast.com/comoser) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder) `api@^1.69.3` `utils@^1.13.3`
+- **[Simple Reminder](https://raycast.com/comoser/simple-reminder)** - Set your reminders in natural language without the need to have any application installed. [`@comoser`](https://raycast.com/comoser) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder) `api@^1.73.3` `utils@^1.15.0`
 - **[SimpleLogin](https://raycast.com/adrian-schnell/simplelogin)** - Mange your SimpleLogin Account, view and create aliases [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplelogin) `api@^1.45.2` `utils@^1.4.14`
 - **[Sleep Timer](https://raycast.com/dtmzr/sleep-timer)** - Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. [`@dtmzr`](https://raycast.com/dtmzr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) `api@^1.44.0`
 - **[Smultron](https://raycast.com/felixthehat/smultron)** - Creates a new Smultron File with Selection [`@felixthehat`](https://raycast.com/felixthehat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/smultron) `api@^1.42.2`

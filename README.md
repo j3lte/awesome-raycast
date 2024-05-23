@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/39fddd85d9cb1079_update-time.svg)
+![Last update](/icons/344ee781e046da1d_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,9 +38,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1528** packages in **15** categories
+- **1531** packages in **15** categories
 - **12** packages use Swift
-- **995** authors
+- **996** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (42)
   - [xmok](https://raycast.com/xmok) (21)
@@ -52,8 +52,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (144)
   - [j3lte](https://raycast.com/j3lte) (20)
+  - [xilopaint](https://raycast.com/xilopaint) (14)
   - [erics118](https://raycast.com/erics118) (14)
-  - [xilopaint](https://raycast.com/xilopaint) (13)
   - [sxn](https://raycast.com/sxn) (12)
 
 <!-- END STATISTICS -->
@@ -815,6 +815,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Social Network Trends](https://raycast.com/koinzhang/social-network-trends)** - Show trends on WeiBo, ZhiHu, DouYin，BaiDu, TouTiao, TouTiao News, BiliBili. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/social-network-trends) `api@^1.59.0`
 - **[Sonu](https://raycast.com/bobringer/sonu-stream)** - Search sonu.stream for songs, artists, and vibes [`@bobringer`](https://raycast.com/bobringer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sonu-stream) `api@1.68.1` `utils@1.12.5`
 - **[Soundboard](https://raycast.com/pernielsentikaer/soundboard)** - Use Raycast as a soundboard and bind sounds to hotkeys [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/soundboard) `api@^1.43.0` `utils@^1.4.10`
+- **[Speedcubing](https://raycast.com/samuelkraft/speedcubing)** - Time your solves, look up notations and algorithms [`@samuelkraft`](https://raycast.com/samuelkraft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/speedcubing) `api@^1.72.0`
 - **[Splatoon](https://raycast.com/marcbouchenoire/splatoon)** - View Splatoon’s current schedules. Supports Splatoon 2 and Splatoon 3. [`@marcbouchenoire`](https://raycast.com/marcbouchenoire) [`code`](https://github.com/raycast/extensions/tree/main/extensions/splatoon) `api@^1.65.0` `utils@^1.10.1`
 - **[Surfs Up](https://raycast.com/comoser/surfs-up)** - Search the weather and the ocean conditions in your favorite surfing spots [`@comoser`](https://raycast.com/comoser) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surfs-up) `api@^1.50.1` `utils@^1.5.2`
 - **[Tarot](https://raycast.com/tsui_river/tarot)** - Draw cards from a virtual tarot deck. [`@tsui_river`](https://raycast.com/tsui_river) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tarot) `api@^1.69.0`
@@ -870,6 +871,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Meta Music](https://raycast.com/teziovsky/meta-music)** - Manage the ID3 tags of audio files directly in Raycast! [`@teziovsky`](https://raycast.com/teziovsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/meta-music) `api@^1.68.1` `utils@^1.12.5`
 - **[Music Link Converter](https://raycast.com/Quentin23Soleil/music-link-converter)** - Convert a music link to another provider, for example you can convert Spotify links to Apple music links (also works with many other providers), using song.link service. [`@Quentin23Soleil`](https://raycast.com/Quentin23Soleil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/music-link-converter) `api@^1.66.2` `utils@^1.12.0`
 - **[MusicThread](https://raycast.com/ChucKN0risK/musicthread)** - Create a thread and add links to a thread in MusicThread [`@ChucKN0risK`](https://raycast.com/ChucKN0risK) [`code`](https://github.com/raycast/extensions/tree/main/extensions/musicthread) `api@^1.49.3`
+- **[NHK Program Search](https://raycast.com/sitogi/nhk-program-search)** - Search NHK program guide by NHK API [`@sitogi`](https://raycast.com/sitogi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nhk-program-search) `api@^1.72.1` `utils@^1.15.0`
 - **[NTS Radio](https://raycast.com/arjanski/nts-radio)** - Stream & Search NTS Radio [`@arjanski`](https://raycast.com/arjanski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nts-radio) `api@^1.50.0` `utils@^1.5.2`
 - **[Odesli](https://raycast.com/annedouwe/odesli)** - Get an Odesli link for the currently copied link of a song/album. Odesli is a service that provides smart music links. These links show a list of platforms you can hear the song/album on. [`@annedouwe`](https://raycast.com/annedouwe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/odesli) `api@^1.60.1`
 - **[Omnivore](https://raycast.com/karolusd/omnivore)** - Interact with Omnivore read-it-later app [`@karolusd`](https://raycast.com/karolusd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/omnivore) `api@^1.61.2` `utils@^1.10.1`
@@ -1139,7 +1141,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Obsidian Bookmarks](https://raycast.com/dru89/obsidian-bookmarks)** - Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Chrome, Safari and Arc. [`@dru89`](https://raycast.com/dru89) [`code`](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) `api@^1.34.1`
 - **[Obsidian Clippings](https://raycast.com/trevware/obs-clippings)** - Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary [`@trevware`](https://raycast.com/trevware) [`code`](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) `api@^1.52.1`
 - **[Obsidian Smart Capture](https://raycast.com/millin_gabani/obsidian-smart-capture)** - Smart capture anything into Obsidian [`@millin_gabani`](https://raycast.com/millin_gabani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/obsidian-smart-capture) `api@^1.57.1` `utils@^1.9.1`
-- **[Office2PDF](https://raycast.com/ARui/office2pdf)** - Raycast extension to convert office files to pdf using CloudConvert api [`@ARui`](https://raycast.com/ARui) [`code`](https://github.com/raycast/extensions/tree/main/extensions/office2pdf) `api@^1.46.1`
+- **[Office2PDF](https://raycast.com/ARui/office2pdf)** - Raycast extension to convert office files to pdf using CloudConvert api [`@ARui`](https://raycast.com/ARui) [`code`](https://github.com/raycast/extensions/tree/main/extensions/office2pdf) `api@^1.74.1`
 - **[Ollama AI](https://raycast.com/massimiliano_pasquini/raycast-ollama)** - Perform Local Inference with Ollama [`@massimiliano_pasquini`](https://raycast.com/massimiliano_pasquini) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) `api@^1.55.2` `utils@^1.9.0`
 - **[One Tab Group](https://raycast.com/xiaoluoboding/one-tab-group)** - Search One Tab Group on Raycast [`@xiaoluoboding`](https://raycast.com/xiaoluoboding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-tab-group) `api@^1.45.2`
 - **[OneNote](https://raycast.com/alewandowski/onenote)** - Search Microsoft OneNote notes [`@alewandowski`](https://raycast.com/alewandowski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/onenote) `api@^1.46.0` `utils@^1.4.16`
@@ -1479,6 +1481,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Coffee](https://raycast.com/mooxl/coffee)** - Prevent the sleep function on your mac [`@mooxl`](https://raycast.com/mooxl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coffee) `api@^1.68.0` `utils@^1.12.5`
 - **[Coinbase Pro](https://raycast.com/farisaziz12/coinbase-pro)** - View your Coinbase Pro portfolio [`@farisaziz12`](https://raycast.com/farisaziz12) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coinbase-pro) `api@^1.25.3`
 - **[CoinMarketCap Crypto Search](https://raycast.com/SonicSpark/coinmarketcap-crypto-price-crawler)** - A price crawler to search crypto price from Coinmarketcap. [`@SonicSpark`](https://raycast.com/SonicSpark) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coinmarketcap-crypto-crawler) `api@^1.25.0`
+- **[Color Hunt](https://raycast.com/Lemon/color-hunt)** - Color Palettes for Designers and Artists [`@Lemon`](https://raycast.com/Lemon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-hunt) `api@^1.73.2` `utils@^1.15.0`
 - **[CommitLint](https://raycast.com/lardissone/commitlint)** - Generate commitlint message. Based on commitlint.io tool. [`@lardissone`](https://raycast.com/lardissone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/commitlint) `api@^1.25.6`
 - **[Composer Composer Packagist](https://raycast.com/danyelkeddah/search-composer-packagist)** - Search Composer Packagist For PHP Packages [`@danyelkeddah`](https://raycast.com/danyelkeddah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-composer-packagist) `api@^1.27.0`
 - **[Connect to VPN](https://raycast.com/rasmusbe/connect-to-vpn)** - Connect to/disconnect from VPN [`@rasmusbe`](https://raycast.com/rasmusbe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) `api@^1.62.0`

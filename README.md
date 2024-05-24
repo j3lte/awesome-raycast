@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/344ee781e046da1d_update-time.svg)
+![Last update](/icons/5a27059ce0ed1e8a_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,20 +38,20 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1531** packages in **15** categories
-- **12** packages use Swift
-- **996** authors
+- **1534** packages in **15** categories
+- **13** packages use Swift
+- **999** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (42)
   - [xmok](https://raycast.com/xmok) (21)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **523** contributors
-  - of which **380** contributors are only contributors
+- **525** contributors
+  - of which **381** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (144)
-  - [j3lte](https://raycast.com/j3lte) (20)
+  - [j3lte](https://raycast.com/j3lte) (21)
   - [xilopaint](https://raycast.com/xilopaint) (14)
   - [erics118](https://raycast.com/erics118) (14)
   - [sxn](https://raycast.com/sxn) (12)
@@ -334,7 +334,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Brand Icons - simpleicons.org](https://raycast.com/litomore/simple-icons)** - Browse, Search, and Copy 3100+ popular brand icons from Simple Icons. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) `api@^1.70.3`
 - **[Color Casket](https://raycast.com/slava.razum/color-casket)** - Handy Color Utilities [`@slava.razum`](https://raycast.com/slava.razum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-casket) `api@^1.42.0`
 - **[Color Palette Picker](https://raycast.com/juliusmarminge/palette-picker)** - A simple color picker for Tailwind CSS and Radix UI color palettes. [`@juliusmarminge`](https://raycast.com/juliusmarminge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/palette-picker) `api@^1.47.3`
-- **[Color Picker](https://raycast.com/thomas/color-picker)** - Pick and organize colors, everywhere on your Mac [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-picker) `api@^1.68.0` `utils@^1.10.1`
+- **[Color Picker](https://raycast.com/thomas/color-picker)** - Pick and organize colors, everywhere on your Mac [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-picker) `api@^1.68.0` `utils@^1.15.0`
 - **[Color Shades](https://raycast.com/qeude/color-shades)** - Generate color shades from a base color and manage your generated color shades palettes. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-shades) `api@^1.55.0` `utils@^1.8.0`
 - **[Convert 3D Models](https://raycast.com/mrnoisytiger/convert-3d-models)** - An extension to convert 3D models to different formats. [`@mrnoisytiger`](https://raycast.com/mrnoisytiger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert-3d-models) `api@^1.62.0` `utils@^1.4.18`
 - **[Converter](https://raycast.com/koinzhang/converter)** - Arbitrary input, direct output. Includes Base converter, Byte converter, Code converter, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/converter) `api@^1.51.0`
@@ -701,6 +701,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
+- **[Alpaca Trading](https://raycast.com/stelo/alpaca-trading)** - Interact with your Alpaca trading account [`@stelo`](https://raycast.com/stelo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) `api@^1.74.1` `utils@^1.15.0`
 - **[Beancount Meta](https://raycast.com/iwfan/beancount-meta)** - The more effecient Beancount Bookkeeping way [`@iwfan`](https://raycast.com/iwfan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) `api@^1.45.2` `utils@^1.4.8`
 - **[BONK Price](https://raycast.com/AnishDe12020/bonk-price)** - Shows the price of the BONK token on your macOS menu bar [`@AnishDe12020`](https://raycast.com/AnishDe12020) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bonk-price) `api@^1.45.2` `utils@^1.4.8`
 - **[CardPointers](https://raycast.com/emcro/cardpointers)** - Search for any credit card details or Amex/Chase offer from the CardPointers database. [`@emcro`](https://raycast.com/emcro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cardpointers) `api@^1.51.3` `utils@^1.6.1`
@@ -988,7 +989,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Airtable](https://raycast.com/marks/raycast-airtable-extension)** - List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. [`@marks`](https://raycast.com/marks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airtable) `api@^1.43.2`
 - **[Alice AI - Your ChatGPT Actions Companion](https://raycast.com/quiknull/alice-ai)** - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes. [`@quiknull`](https://raycast.com/quiknull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) `api@^1.69.0` `utils@^1.14.0`
 - **[Apple Books](https://raycast.com/vimtor/apple-books)** - Search Apple Books from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-books) `api@^1.47.3` `utils@^1.5.2`
-- **[Apple Reminders](https://raycast.com/thomaslombart/apple-reminders)** - Manage Apple Reminders. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) `api@^1.71.3` `utils@^1.14.0`
+- **[Apple Reminders](https://raycast.com/thomaslombart/apple-reminders)** - Manage Apple Reminders. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) `api@^1.75.1` `utils@^1.14.0`
 - **[Apply Inline Code](https://raycast.com/alexian853/apply-inline-code)** - Apply inline code style in common apps and websites [`@alexian853`](https://raycast.com/alexian853) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) `api@^1.70.3` `utils@^1.13.6`
 - **[ArXiv Search](https://raycast.com/koayon/arxiv)** - Search the arXiv for papers and find citations. For Researchers, Students and Scholars in Computer Science, Mathematics, Physics, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics. [`@koayon`](https://raycast.com/koayon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arxiv) `api@^1.52.1` `utils@^1.4.8`
 - **[Asana](https://raycast.com/thomaslombart/asana)** - Create, access, and modify tasks. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asana) `api@^1.53.4` `utils@^1.12.3`
@@ -1014,6 +1015,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Citation Generator](https://raycast.com/AbhinavPalacharla/citation-generator)** - Generates MLA style citation provided by formatically.com [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/citation-generator) `api@^1.34.1`
 - **[CJK Text Format Improver](https://raycast.com/alice.ellis/text-format-improver)** - Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) with English. [`@alice.ellis`](https://raycast.com/alice.ellis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) `api@^1.57.2`
 - **[Claude](https://raycast.com/flodo/claude)** - Interact with Anthropic's Claude API directly from Raycast [`@flodo`](https://raycast.com/flodo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/claude) `api@^1.47.0`
+- **[Clean Keyboard](https://raycast.com/ike-gg/clean-keyboard)** - Lock your keyboard to clean it easily. [`@ike-gg`](https://raycast.com/ike-gg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) `api@^1.72.1`
 - **[Clipboard Editor](https://raycast.com/pomdtr/clipboard-editor)** - Edit your clipboard text [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-editor) `api@^1.39.3` `utils@^1.4.1`
 - **[Clipboard Formatter](https://raycast.com/joshtemple/clipboard-formatter)** - Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. [`@joshtemple`](https://raycast.com/joshtemple) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) `api@^1.51.1`
 - **[ClipMenu](https://raycast.com/Envl/clipmenu)** - Show Current Clipboard Content on Menu Bar [`@Envl`](https://raycast.com/Envl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipmenu) `api@^1.62.1` `utils@^1.4.8`
@@ -1451,7 +1453,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Amphetamine](https://raycast.com/gstvds/amphetamine)** - Controls Amphetamine using Raycast [`@gstvds`](https://raycast.com/gstvds) [`code`](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) `api@^1.35.2`
 - **[Android ADB Input](https://raycast.com/star_zero/android-adb-input)** - Run Android `adb shell input text` command. [`@star_zero`](https://raycast.com/star_zero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/android-adb-input) `api@^1.28.0`
 - **[Antd](https://raycast.com/crazyair/antd-open-browser)** - Quickly open Antd components [`@crazyair`](https://raycast.com/crazyair) [`code`](https://github.com/raycast/extensions/tree/main/extensions/antd-open-browser) `api@^1.31.0`
-- **[Apple Notes](https://raycast.com/tumtum/apple-notes)** - Search and create notes within the Apple Notes application. [`@tumtum`](https://raycast.com/tumtum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) `api@^1.71.0` `utils@^1.14.0`
+- **[Apple Notes](https://raycast.com/tumtum/apple-notes)** - Search and create notes within the Apple Notes application. [`@tumtum`](https://raycast.com/tumtum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) `api@^1.74.1` `utils@^1.15.0`
 - **[Atomic Data](https://raycast.com/joepio/atomic)** - Search inside your Atomic-Server data [`@joepio`](https://raycast.com/joepio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/atomic) `api@^1.26.3`
 - **[Banca d'Italia Currency Converter](https://raycast.com/FezVrasta/banca-d-italia-currency-converter)** - Convert currencies based on the Banca d'Italia exchange rates. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/banca-d-italia-currency-converter) `api@^1.27.0`
 - **[Base64](https://raycast.com/DanielSinclair/base64)** - Quickly encode or decode base64 from the clipboard [`@DanielSinclair`](https://raycast.com/DanielSinclair) [`code`](https://github.com/raycast/extensions/tree/main/extensions/base64) `api@1.44.0`
@@ -1582,6 +1584,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Logseq](https://raycast.com/futantan/logseq)** - Add notes quickly in Logseq [`@futantan`](https://raycast.com/futantan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/logseq) `api@^1.31.0`
 - **[MailerLite Stats](https://raycast.com/nkl/mailerlite-stats)** - MailerLite Stats Raycast extension [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailerlite-stats) `api@^1.64.3` `utils@^1.10.1`
 - **[Mailtrap](https://raycast.com/samjwillis97/mailtrap)** - Interact with the Mailtrap via. it's API - Currently only possible to copy the subject [`@samjwillis97`](https://raycast.com/samjwillis97) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailtrap) `api@^1.59.0` `utils@^1.10.0`
+- **[Main Library in University of St Andrews](https://raycast.com/Harry/st-andrews-main-library-occupancy)** - How busy is the main library now? [`@Harry`](https://raycast.com/Harry) [`code`](https://github.com/raycast/extensions/tree/main/extensions/st-andrews-main-library-occupancy) `api@^1.69.0` `utils@^1.14.0`
 - **[Markdown Reference](https://raycast.com/codedbyjordan/markdown-reference)** - Markdown documentation at your fingertips [`@codedbyjordan`](https://raycast.com/codedbyjordan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) `api@^1.26.3`
 - **[Markprompt](https://raycast.com/nickrttn/markprompt)** - Prompt your Markprompt project from Raycast [`@nickrttn`](https://raycast.com/nickrttn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markprompt) `api@^1.68.1` `utils@^1.12.5`
 - **[Memos](https://raycast.com/JakeYu/memos)** - Manage Your Memos [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memos) `api@^1.47.3` `utils@^1.4.16`

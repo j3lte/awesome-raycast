@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/5a27059ce0ed1e8a_update-time.svg)
+![Last update](/icons/972b0901f667cc86_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,17 +38,17 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1534** packages in **15** categories
+- **1535** packages in **15** categories
 - **13** packages use Swift
-- **999** authors
+- **1000** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (42)
   - [xmok](https://raycast.com/xmok) (21)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **525** contributors
-  - of which **381** contributors are only contributors
+- **527** contributors
+  - of which **382** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (144)
   - [j3lte](https://raycast.com/j3lte) (21)
@@ -583,6 +583,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Search npm Packages](https://raycast.com/mrmartineau/search-npm)** - Search for npm package information [`@mrmartineau`](https://raycast.com/mrmartineau) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-npm) `api@^1.66.2` `utils@^1.12.0`
 - **[Search R Packages](https://raycast.com/grrrck/r-pkg-search)** - Search and lookup information about R packages using r-pkg.org. [`@grrrck`](https://raycast.com/grrrck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) `api@^1.72.0`
 - **[Sesh](https://raycast.com/joshmedeski/sesh)** - Smart, instant terminal session management. [`@joshmedeski`](https://raycast.com/joshmedeski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sesh) `api@^1.57.2`
+- **[Shadcn/Vue](https://raycast.com/selemondev/shadcn-vue)** - Browses shadcn/vue documentation, components, and commands. [`@selemondev`](https://raycast.com/selemondev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-vue) `api@^1.73.2` `utils@^1.15.0`
 - **[Share My Code](https://raycast.com/jairaume/share-my-code)** - Quickly create shareable code snippet with ShareMyCode directly in your Raycast ecosystem. [`@jairaume`](https://raycast.com/jairaume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) `api@^1.67.0` `utils@^1.11.1`
 - **[Shell](https://raycast.com/asubbotin/shell)** - Run shell commands from Raycast [`@asubbotin`](https://raycast.com/asubbotin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell) `api@^1.38.2`
 - **[Shell Buddy](https://raycast.com/jebraat/shell-buddy)** - Converts natural language prompts to shell commands with AI [`@jebraat`](https://raycast.com/jebraat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) `api@^1.39.3`
@@ -1003,7 +1004,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bibmanager](https://raycast.com/aaronschneider/bibmanager)** - Search Bibmanager Database from Raycast [`@aaronschneider`](https://raycast.com/aaronschneider) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bibmanager) `api@^1.39.0`
 - **[Blockchain Gas Tracker](https://raycast.com/Vonernue/blockchain-gas-tracker)** - Track and caculate blockchain gas fees right in your Raycast! [`@Vonernue`](https://raycast.com/Vonernue) [`code`](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) `api@^1.49.3` `utils@^1.5.2`
 - **[Bring!](https://raycast.com/amuelli/bring)** - Add items to your Bring! shopping lists [`@amuelli`](https://raycast.com/amuelli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bring) `api@^1.68.1` `utils@^1.12.5`
-- **[Browser AI](https://raycast.com/lin/browser-ai)** - Use Perplexity models and Raycast Browser Extension to extend your browsing. [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) `api@^1.72.1` `utils@^1.14.1`
+- **[Browser AI](https://raycast.com/lin/browser-ai)** - Use Perplexity models and Raycast Browser Extension to extend your browsing. [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) `api@^1.74.1` `utils@^1.15.0`
 - **[Calist](https://raycast.com/astrit/calist)** - Calist a calendar extension, companion for calist.io [`@astrit`](https://raycast.com/astrit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/calist) `api@^1.70.1` `utils@^1.13.6`
 - **[Capacities](https://raycast.com/steffenble/capacities)** - Interact with Capacities from your command bar. Search your notes, capture content & more. [`@steffenble`](https://raycast.com/steffenble) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capacities) `api@^1.71.4` `utils@^1.14.0`
 - **[CCF What?](https://raycast.com/crackedpoly/ccf-what)** - Loop up CCF rankings. [`@crackedpoly`](https://raycast.com/crackedpoly) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ccf-what) `api@^1.68.1` `utils@^1.12.5`

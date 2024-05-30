@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/82a7ff7f3fea77d0_update-time.svg)
+![Last update](/icons/34bc276838c511c8_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,9 +38,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1542** packages in **15** categories
+- **1546** packages in **15** categories
 - **13** packages use Swift
-- **1003** authors
+- **1006** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (42)
   - [xmok](https://raycast.com/xmok) (22)
@@ -50,9 +50,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **528** contributors
   - of which **383** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (148)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (149)
   - [j3lte](https://raycast.com/j3lte) (21)
-  - [xilopaint](https://raycast.com/xilopaint) (14)
+  - [xilopaint](https://raycast.com/xilopaint) (15)
   - [erics118](https://raycast.com/erics118) (14)
   - [sxn](https://raycast.com/sxn) (12)
 
@@ -309,6 +309,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[StoryTime](https://raycast.com/andreaselia/storytime)** - Generate a story using OpenAI and Upstash. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storytime) `api@^1.45.2` `utils@^1.4.14`
 - **[Sun/Moon Times](https://raycast.com/danny_seidel/sun-moon-times)** - Show times for sun and moon for any city in the World. [`@danny_seidel`](https://raycast.com/danny_seidel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sun-moon-times) `api@^1.48.9` `utils@^1.5.2`
 - **[Tesla](https://raycast.com/williamwelsh/tesla)** - Control and view your Tesla [`@williamwelsh`](https://raycast.com/williamwelsh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tesla) `api@^1.57.1` `utils@^1.9.1`
+- **[TeslaMate](https://raycast.com/mSarheed/teslamate)** - View your TeslaMate data in Raycast [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/teslamate) `api@^1.73.2` `utils@^1.15.0`
 - **[The Nobel Prize](https://raycast.com/xmok/the-nobel-prize)** - Information about the Nobel Prizes and the Nobel Prize Laureates [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-nobel-prize) `api@^1.74.0` `utils@^1.15.0`
 - **[Transfer.sh Uploader](https://raycast.com/PandaDEV/transfer-sh_upload)** - Upload a file directly to a transfer.sh instance [`@PandaDEV`](https://raycast.com/PandaDEV) [`code`](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) `api@^1.66.2`
 - **[Turkish Identification Number Generator](https://raycast.com/denizyoldas/tc-no-generator)** - Generate Turkish Identification Number and copy to clipboard [`@denizyoldas`](https://raycast.com/denizyoldas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tc-no-generator) `api@^1.40.3`
@@ -957,6 +958,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Finnish Dictionary](https://raycast.com/albertoxamin/finnish-dictionary)** - MacOS has a great dictionary, but it's not available for Finnish. This extension adds a Finnish dictionary at your fingertips. [`@albertoxamin`](https://raycast.com/albertoxamin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) `api@^1.31.0`
 - **[GitHub Users Search](https://raycast.com/luisFilipePT/github-users)** - Search GitHub users [`@luisFilipePT`](https://raycast.com/luisFilipePT) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-users) `api@^1.55.2` `utils@^1.9.0`
 - **[Home Assistant](https://raycast.com/tonka3000/homeassistant)** - Home Assistant remote control. Control your house with Raycast 🚀 [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) `api@^1.66.0` `utils@^1.5.2`
+- **[ICD10 Lookup](https://raycast.com/ubergraham/icd10-lookup)** - Shows matching ICD10 codes based on disease name input. Uses NLM's ICD10 API. [`@ubergraham`](https://raycast.com/ubergraham) [`code`](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) `api@^1.75.1` `utils@^1.15.0`
 - **[Linak Desk Controller](https://raycast.com/samuelkraft/linak-desk-controller)** - Control the height of standing desks manufactured by Linak, for example the Ikea Idasen desk. [`@samuelkraft`](https://raycast.com/samuelkraft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller) `api@^1.69.0`
 - **[Metronome](https://raycast.com/Visual-Studio-Coder/metronome)** - Based on an input (integer argument) BPM, you can get a metronome that plays a sound after a certain amount of time. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metronome) `api@^1.57.1`
 - **[MLB Scores](https://raycast.com/jso8910/mlb-scores)** - Shows current MLB game scores. [`@jso8910`](https://raycast.com/jso8910) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mlb-scores) `api@^1.31.0`
@@ -1009,7 +1011,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bibmanager](https://raycast.com/aaronschneider/bibmanager)** - Search Bibmanager Database from Raycast [`@aaronschneider`](https://raycast.com/aaronschneider) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bibmanager) `api@^1.39.0`
 - **[Blockchain Gas Tracker](https://raycast.com/Vonernue/blockchain-gas-tracker)** - Track and caculate blockchain gas fees right in your Raycast! [`@Vonernue`](https://raycast.com/Vonernue) [`code`](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) `api@^1.49.3` `utils@^1.5.2`
 - **[Bring!](https://raycast.com/amuelli/bring)** - Add items to your Bring! shopping lists [`@amuelli`](https://raycast.com/amuelli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bring) `api@^1.68.1` `utils@^1.12.5`
-- **[Browser AI](https://raycast.com/lin/browser-ai)** - Use Perplexity models and Raycast Browser Extension to extend your browsing. [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) `api@^1.74.1` `utils@^1.15.0`
+- **[Browser AI](https://raycast.com/lin/browser-ai)** - Use the best models from Perplexity & OpenRouter and Raycast Browser Extension to extend your browsing. [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) `api@^1.74.1` `utils@^1.15.0`
 - **[Calist](https://raycast.com/astrit/calist)** - Calist a calendar extension, companion for calist.io [`@astrit`](https://raycast.com/astrit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/calist) `api@^1.70.1` `utils@^1.13.6`
 - **[Capacities](https://raycast.com/steffenble/capacities)** - Interact with Capacities from your command bar. Search your notes, capture content & more. [`@steffenble`](https://raycast.com/steffenble) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capacities) `api@^1.71.4` `utils@^1.14.0`
 - **[CCF What?](https://raycast.com/crackedpoly/ccf-what)** - Loop up CCF rankings. [`@crackedpoly`](https://raycast.com/crackedpoly) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ccf-what) `api@^1.68.1` `utils@^1.12.5`
@@ -1334,6 +1336,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Hide All Apps](https://raycast.com/peduarte/hide-all-apps)** - This extension hides all Applications—including Finder—leaving you with only the Desktop. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) `api@^1.53.3`
 - **[HotCorner](https://raycast.com/mmmarcus/hotcorner)** - macOS Hot Corners quick settings [`@mmmarcus`](https://raycast.com/mmmarcus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hotcorner) `api@^1.64.5`
 - **[Keyboard Brightness](https://raycast.com/huzef44/keyboard-brightness)** - Easily Control Keyboard Brightness on your Apple Silicon MacBook [`@huzef44`](https://raycast.com/huzef44) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keyboard-brightness) `api@^1.60.1` `utils@^1.10.1`
+- **[Keyboard Win Mac Switch](https://raycast.com/fab_uleuh/keyboard-win-mac-switch)** - This extension allow you to switch alt and window keys [`@fab_uleuh`](https://raycast.com/fab_uleuh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keyboard-win-mac-switch) `api@^1.70.3`
 - **[LookSee - A MAC, OUI, IAB Lookup](https://raycast.com/olavgjerde/looksee)** - Use www.macvendorlookup.com from Raycast [`@olavgjerde`](https://raycast.com/olavgjerde) [`code`](https://github.com/raycast/extensions/tree/main/extensions/looksee) `api@^1.59.0` `utils@^1.10.0`
 - **[Manage Macbook's Notch](https://raycast.com/zkondor/znotch)** - Visibility control of your macbook's notch [`@zkondor`](https://raycast.com/zkondor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/znotch) `api@^1.45.2`
 - **[Media Key Emulate](https://raycast.com/douo/global-media-key)** - Emulate keyboard media keys press. Reassign hotkey for media keys. [`@douo`](https://raycast.com/douo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) `api@^1.55.2`
@@ -1623,6 +1626,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[OpenWeatherMap](https://raycast.com/tonka3000/openweathermap)** - Get Weather via https://openweathermap.com [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openweathermap) `api@^1.34.1`
 - **[Opsgenie](https://raycast.com/ricoberger/opsgenie)** - Manage Opsgenie alerts and incidents. [`@ricoberger`](https://raycast.com/ricoberger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/opsgenie) `api@^1.39.1`
 - **[OSS](https://raycast.com/yangxy/oss)** - Publish the picture in your clipboard to Aliyun oss, and return the URL. [`@yangxy`](https://raycast.com/yangxy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) `api@^1.28.0`
+- **[Ottomatic](https://raycast.com/eluce2/ottomatic)** - Manage your Ottomatic servers and projects [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ottomatic) `api@^1.69.0` `utils@^1.14.0`
 - **[Parcel Tracker](https://raycast.com/junhyukjin/parcel-tracker)** - Track packages (only available in South Korea) [`@junhyukjin`](https://raycast.com/junhyukjin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parcel-tracker) `api@^1.32.0`
 - **[Pest Documentation](https://raycast.com/danyelkeddah/pestphp-documentation)** - Pest Documentation Search [`@danyelkeddah`](https://raycast.com/danyelkeddah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pestphp-documentation) `api@^1.27.0`
 - **[Phind Search](https://raycast.com/Chuck/phind-search)** - Search anything with Phind [`@Chuck`](https://raycast.com/Chuck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phind-search) `api@^1.58.1` `utils@^1.10.0`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/34bc276838c511c8_update-time.svg)
+![Last update](/icons/c841c87a938daaac_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **528** contributors
   - of which **383** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (149)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (150)
   - [j3lte](https://raycast.com/j3lte) (21)
   - [xilopaint](https://raycast.com/xilopaint) (15)
   - [erics118](https://raycast.com/erics118) (14)
@@ -234,7 +234,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Sort Mentions](https://raycast.com/Yamen/sort-mentions)** - Sort usernames alphabetically for mentions in Slack, Twitter and other apps [`@Yamen`](https://raycast.com/Yamen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sort-mentions) `api@^1.55.2`
 - **[Speed Dial](https://raycast.com/osama_aamer/speed-dial)** - Stop asking for meeting URLs and add them to Speed Dial to open with one click [`@osama_aamer`](https://raycast.com/osama_aamer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) `api@^1.50.3` `utils@^1.7.1`
 - **[TFL](https://raycast.com/haneenmahdin/tfl)** - Viewing public transport departures in London [`@haneenmahdin`](https://raycast.com/haneenmahdin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tfl) `api@^1.49.3`
-- **[Toggle Audio Input (microphone)](https://raycast.com/Quentin23Soleil/mute-microphone)** - Extension to mute/unmute audio input (microphone) [`@Quentin23Soleil`](https://raycast.com/Quentin23Soleil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) `api@^1.53.2` `utils@^1.8.0`
+- **[Toggle Audio Input (Microphone)](https://raycast.com/Quentin23Soleil/mute-microphone)** - Extension to mute/unmute audio input (Microphone) [`@Quentin23Soleil`](https://raycast.com/Quentin23Soleil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) `api@^1.53.2` `utils@^1.8.0`
 - **[UTM Campaign Builder](https://raycast.com/vimtor/utm-campaign-builder)** - Create a campaign URL with UTM attributes [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) `api@^1.59.0` `utils@^1.10.0`
 - **[WeChat](https://raycast.com/raffeyang/wechat)** - A Raycast extension for WeChat to quickly search your contacts and chat [`@raffeyang`](https://raycast.com/raffeyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wechat) `api@^1.39.3` `utils@^1.4.1`
 - **[Zoom](https://raycast.com/thomaslombart/zoom)** - Start, schedule and join Zoom meetings. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zoom) `api@^1.53.3` `utils@^1.12.3`
@@ -888,7 +888,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Playback Duration Calculator](https://raycast.com/nathanwijaya/playback-duration-calculator)** - Find out how long your video or audio will take to finish based on your playback speed. [`@nathanwijaya`](https://raycast.com/nathanwijaya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/playback-duration-calculator) `api@^1.69.0`
 - **[QQ Music Controls](https://raycast.com/jwickers/qq-music-controls)** - Control the QQ Music app for macOS with your keyboard. [`@jwickers`](https://raycast.com/jwickers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) `api@^1.28.0`
 - **[Rain Radars](https://raycast.com/danieldbird/rain-radars)** - Search for available rain radars for a location. [`@danieldbird`](https://raycast.com/danieldbird) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rain-radars) `api@^1.36.0`
-- **[Raycast Wallpaper](https://raycast.com/koinzhang/raycast-wallpaper)** - Get and set Raycast official wallpapers. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) `api@^1.57.1` `utils@^1.9.1`
+- **[Raycast Wallpaper](https://raycast.com/koinzhang/raycast-wallpaper)** - Get and set Raycast official wallpapers. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) `api@^1.75.1` `utils@^1.15.0`
 - **[Real-Debrid Manager](https://raycast.com/Yamen/real-debrid-manager)** - Real-Debrid client for Raycast  NOT AN OFFICIAL CLIENT [`@Yamen`](https://raycast.com/Yamen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager) `api@^1.55.0` `utils@^1.8.0`
 - **[Replicate](https://raycast.com/KevinBatdorf/replicate)** - Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/replicate) `api@^1.42.2` `utils@^1.4.10`
 - **[Sonarr](https://raycast.com/Aayush9029/sonarr)** - View your Sonarr upcoming shows. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sonarr) `api@^1.72.1` `utils@^1.14.1`

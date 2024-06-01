@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/c841c87a938daaac_update-time.svg)
+![Last update](/icons/e8f018ec80c36add_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,21 +38,21 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1546** packages in **15** categories
+- **1548** packages in **15** categories
 - **13** packages use Swift
-- **1006** authors
+- **1007** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (42)
   - [xmok](https://raycast.com/xmok) (22)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **528** contributors
-  - of which **383** contributors are only contributors
+- **529** contributors
+  - of which **384** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (150)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (151)
   - [j3lte](https://raycast.com/j3lte) (21)
-  - [xilopaint](https://raycast.com/xilopaint) (15)
+  - [xilopaint](https://raycast.com/xilopaint) (16)
   - [erics118](https://raycast.com/erics118) (14)
   - [sxn](https://raycast.com/sxn) (12)
 
@@ -290,6 +290,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Lorem Picsum](https://raycast.com/michaelfarquhar/lorem-picsum)** - Generate a random image link for given dimensions. [`@michaelfarquhar`](https://raycast.com/michaelfarquhar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) `api@^1.64.4`
 - **[M3O](https://raycast.com/andreaselia/m3o)** - Explore, discover and consume public APIs as simpler programmable building blocks. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/m3o) `api@^1.38.3`
 - **[Manage Firebase Firestore Collections](https://raycast.com/mguyard/firebase-import-export)** - Extension to export and import Firestore Collections (backup and restore). Including using Spark (free) subscription. [`@mguyard`](https://raycast.com/mguyard) [`code`](https://github.com/raycast/extensions/tree/main/extensions/firebase-import-export) `api@^1.47.2`
+- **[MapleStory.gg](https://raycast.com/litomore/maplestory-gg)** - MapleStory's Definitive Database. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/maplestory-gg) `api@^1.70.3` `utils@^1.15.0`
 - **[Minion Ipsum](https://raycast.com/vigosan/minion-ipsum)** - Generate Minion Ipsum like: Minions ipsum hahaha wiiiii gelatooo poopayee aaaaaah. [`@vigosan`](https://raycast.com/vigosan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) `api@^1.67.1`
 - **[Octopus Energy](https://raycast.com/mike182uk/octopus-energy)** - Retrieve up-to-date Agile tariff prices for your region [`@mike182uk`](https://raycast.com/mike182uk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/octopus-energy) `api@1.70.3`
 - **[Open Targets](https://raycast.com/ireneisdoomed/open_targets)** - An (unofficial) entry point to the Open Targets ecosystem. [`@ireneisdoomed`](https://raycast.com/ireneisdoomed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-targets-raycast) `api@^1.46.1` `utils@^1.4.16`
@@ -1376,6 +1377,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bing Search](https://raycast.com/maver1ck/bing-search)** - Bing search with autosuggestions [`@maver1ck`](https://raycast.com/maver1ck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bing-search) `api@^1.48.9`
 - **[Bitcoin Price](https://raycast.com/futantan/bitcoin-price)** - See the current price of Bitcoin in various currencies. [`@futantan`](https://raycast.com/futantan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-price) `api@^1.39.3` `utils@^1.4.8`
 - **[Brave Search](https://raycast.com/VishwasShashidhar/brave-search)** - Brave search with autosuggestions [`@VishwasShashidhar`](https://raycast.com/VishwasShashidhar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brave-search) `api@^1.60.0`
+- **[Brave Search with Results](https://raycast.com/electerious/brave-search-with-results)** - Search Brave and get direct results [`@electerious`](https://raycast.com/electerious) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brave-search-with-results) `api@^1.71.3` `utils@^1.14.0`
 - **[Browser Bookmarks](https://raycast.com/thomaslombart/browser-bookmarks)** - Integrate bookmarks from Chrome, Brave, Edge, Firefox, Safari, Arc or Vivaldi. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) `api@^1.64.0` `utils@^1.10.0`
 - **[Capture Fullpage of Website](https://raycast.com/Coun1er/capture-fullpage-of-website)** - This extension allows you to quickly make a screenshot of the entire page of the site and save it to your desktop just by writing the address of the site. [`@Coun1er`](https://raycast.com/Coun1er) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capture-fullpage-of-website) `api@^1.35.2`
 - **[Codeforces](https://raycast.com/harsh_varshney/codeforces-extension)** - Gives details about latest contests and details about any handle [`@harsh_varshney`](https://raycast.com/harsh_varshney) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codeforces-extension) `api@^1.64.5` `utils@^1.10.1`

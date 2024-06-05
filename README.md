@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/f97a07bc3d6bae67_update-time.svg)
+![Last update](/icons/e90f4e09b9e541d3_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,19 +38,19 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1548** packages in **15** categories
+- **1550** packages in **15** categories
 - **13** packages use Swift
-- **1007** authors
+- **1009** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (42)
   - [xmok](https://raycast.com/xmok) (22)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **529** contributors
-  - of which **384** contributors are only contributors
+- **531** contributors
+  - of which **386** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (151)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (152)
   - [j3lte](https://raycast.com/j3lte) (21)
   - [xilopaint](https://raycast.com/xilopaint) (16)
   - [erics118](https://raycast.com/erics118) (14)
@@ -407,7 +407,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Can I PHP?](https://raycast.com/diana_scharf/can-i-php)** - Check if a certain function or method is available in different versions of PHP. [`@diana_scharf`](https://raycast.com/diana_scharf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/can-i-php) `api@^1.69.3` `utils@^1.13.3`
 - **[Can I Use](https://raycast.com/thomaslombart/can-i-use)** - Can I Use provides up-to-date browser support for front-end web technologies on desktop and mobile web browsers. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) `api@^1.71.1`
 - **[Carbon Screenshot for Raycast](https://raycast.com/adelowo/carbon-code-screenshot-for-raycast)** - Uses the carbon.now.sh to create beautiful screenshot you can share online or with your team [`@adelowo`](https://raycast.com/adelowo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/carbon-raycast) `api@^1.45.1`
-- **[Change Case](https://raycast.com/erics118/change-case)** - Transform a string between camelCase, snake_case, CONSTANT_CASE, and more [`@erics118`](https://raycast.com/erics118) [`code`](https://github.com/raycast/extensions/tree/main/extensions/change-case) `api@^1.68.1`
+- **[Change Case](https://raycast.com/erics118/change-case)** - Transform a string between camelCase, snake_case, CONSTANT_CASE, and more [`@erics118`](https://raycast.com/erics118) [`code`](https://github.com/raycast/extensions/tree/main/extensions/change-case) `api@^1.75.2`
 - **[Charged: Starknet Shortcuts](https://raycast.com/apoorv/charged)** - Shorcuts for common web3 tasks [`@apoorv`](https://raycast.com/apoorv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/charged) `api@^1.51.1`
 - **[ChatGo](https://raycast.com/DDDDesign/chatgo)** - A chatGPT AI Tool [`@DDDDesign`](https://raycast.com/DDDDesign) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgo) `api@^1.54.1` `utils@^1.8.0`
 - **[Cheetah](https://raycast.com/ronglecat/cheetah)** - Search for a local Git project and open it with the specified application. [`@ronglecat`](https://raycast.com/ronglecat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cheetah) `api@^1.42.2` `utils@^1.4.8`
@@ -1162,6 +1162,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[OpenAI GPT](https://raycast.com/simicvm/openai-gpt)** - Interact with OpenAI GPT AI [`@simicvm`](https://raycast.com/simicvm) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openai-gpt) `api@^1.39.2`
 - **[OpsLevel](https://raycast.com/DuckyC/opslevel)** - Search OpsLevel services [`@DuckyC`](https://raycast.com/DuckyC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/opslevel) `api@^1.49.1` `utils@^1.4.8`
 - **[OTP Inbox](https://raycast.com/chroxify/otp-inbox)** - View your latest email verficiation codes. [`@chroxify`](https://raycast.com/chroxify) [`code`](https://github.com/raycast/extensions/tree/main/extensions/otp-inbox) `api@^1.71.3` `utils@^1.14.0`
+- **[Outline Document Search](https://raycast.com/dnlfrst/outline-document-search)** - Search documents in multiple instances of Outline. [`@dnlfrst`](https://raycast.com/dnlfrst) [`code`](https://github.com/raycast/extensions/tree/main/extensions/outline-document-search) `api@^1.72.1`
 - **[Palette Colors](https://raycast.com/douglas-pires/palette-colors)** - Pick nice palette colors directly from Raycast [`@douglas-pires`](https://raycast.com/douglas-pires) [`code`](https://github.com/raycast/extensions/tree/main/extensions/palette-colors) `api@^1.40.3`
 - **[Pangu for Raycast](https://raycast.com/avengerbevis/pangu-for-raycast)** - Add spaces between Chinese and English, number or symbols. [`@avengerbevis`](https://raycast.com/avengerbevis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pangu-for-raycast) `api@^1.68.1`
 - **[Paperless-ngx](https://raycast.com/damdam/paperless-ngx)** - Search Paperless-ngx for documents and upload [`@damdam`](https://raycast.com/damdam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) `api@1.51.1`
@@ -1328,6 +1329,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 - **[App Keeper Manager](https://raycast.com/edith/app-keeper-manager)** - This extention offers users the ability to manage currently running applications, with options to choose which apps to keep open and which to close during cleanup. It's especially suited for users looking to optimize their work environment and increase productivity. Users can set apps to “Always Keep,” ensuring they aren't closed during cleanup operations. The extension also provides an intuitive interface to add or remove apps from the preset keep list and features a one-click function to close non-kept apps. [`@edith`](https://raycast.com/edith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) `api@^1.69.0`
 - **[Battery Menu Bar](https://raycast.com/panrafal/battery-menubar)** - Battery capacity and power-draw information in the Menu Bar [`@panrafal`](https://raycast.com/panrafal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-menubar) `api@^1.56.1` `utils@^1.4.8`
+- **[Battery Optimizer](https://raycast.com/Qetesh/battery-optimizer)** - Keep the battery healthy by limiting the charging capacity. [`@Qetesh`](https://raycast.com/Qetesh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) `api@^1.74.0`
 - **[Brightness Control](https://raycast.com/cali/brightness-control)** - Quickly controls the brightness levels of your display [`@cali`](https://raycast.com/cali) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) `api@^1.38.2`
 - **[Display Modes](https://raycast.com/agustin.prats/display-modes)** - Manage displays modes (resolution, refresh rate...). [`@agustin.prats`](https://raycast.com/agustin.prats) [`code`](https://github.com/raycast/extensions/tree/main/extensions/display-modes) `api@^1.59.0` `utils@^1.4.7`
 - **[Dot Underscore Files Cleaner](https://raycast.com/danulqua/dot-underscore-files-cleaner)** - Delete ._ files in the selected folder and its subfolders. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dot-underscore-files-cleaner) `api@^1.57.2`
@@ -1719,7 +1721,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[v2ex](https://raycast.com/leo/v2ex)** - You can quickly access the 10 most popular posts of v2ex at the moment. Note: The v2ex home page can be reached by visiting https://www.v2ex.com/ through your browser. For users in China, proxy access is supported. [`@leo`](https://raycast.com/leo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/v2ex) `api@^1.25.1`
 - **[Vercel](https://raycast.com/MaxLeiter/vercast)** - View and modify your Vercel projects and deployments. [`@MaxLeiter`](https://raycast.com/MaxLeiter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vercast) `api@^1.38.1` `utils@^1.4.8`
 - **[VirtualBox Power Switch](https://raycast.com/diogo_ferrer/virtualbox-power-switch)** - List your VirtualBox VMs, turn them on/off, or delete them. [`@diogo_ferrer`](https://raycast.com/diogo_ferrer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/virtualbox-power-switch) `api@^1.56.3` `utils@^1.9.0`
-- **[Visual Studio Code](https://raycast.com/thomas/visual-studio-code)** - Control Visual Studio Code directly from Raycast - Search and open recent projects, handle extensions and commands. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) `api@^1.53.0` `utils@^1.10.0`
+- **[Visual Studio Code](https://raycast.com/thomas/visual-studio-code)** - Control Visual Studio Code, Cursor & Codium directly from Raycast - Search and open recent projects, handle extensions and commands. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) `api@^1.53.0` `utils@^1.10.0`
 - **[Visual Studio Code - Project Manager](https://raycast.com/MarkusLanger/vscode-project-manager)** - Search and open projects from Visual Studio Code Project Manager [`@MarkusLanger`](https://raycast.com/MarkusLanger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) `api@1.48.8`
 - **[VueUse Functions](https://raycast.com/noopurphalak/vueuse-functions)** - Search VueUse functions [`@noopurphalak`](https://raycast.com/noopurphalak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vueuse-functions) `api@^1.29.1`
 - **[Weather](https://raycast.com/tonka3000/weather)** - Weather forecast via wttr.in [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/weather) `api@^1.66.0` `utils@^1.9.1`

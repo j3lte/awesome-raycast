@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/e90f4e09b9e541d3_update-time.svg)
+![Last update](/icons/dcf96685ecfc4fc9_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,17 +38,17 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1550** packages in **15** categories
+- **1551** packages in **15** categories
 - **13** packages use Swift
-- **1009** authors
+- **1010** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (42)
   - [xmok](https://raycast.com/xmok) (22)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **531** contributors
-  - of which **386** contributors are only contributors
+- **532** contributors
+  - of which **387** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (152)
   - [j3lte](https://raycast.com/j3lte) (21)
@@ -272,6 +272,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Flight Miles Calculator](https://raycast.com/DannySeidel/flight-miles-calculator)** - Calculate how many miles you earn for a flight. [`@DannySeidel`](https://raycast.com/DannySeidel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flight-miles-calculator) `api@^1.59.0` `utils@^1.10.0`
 - **[Flight Tracker](https://raycast.com/cojmeister/trackflight)** - Track your flight with your flight number by using AeroData Box API directly in Raycast. [`@cojmeister`](https://raycast.com/cojmeister) [`code`](https://github.com/raycast/extensions/tree/main/extensions/trackflight) `api@^1.44.0`
 - **[Format JSON](https://raycast.com/destiner/json-format)** - Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/json-format) `api@^1.47.3`
+- **[GraphCalc](https://raycast.com/conner_luzier/graphcalc)** - GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortlessly plot functions, equations, and data points directly within the Raycast interface. [`@conner_luzier`](https://raycast.com/conner_luzier) [`code`](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) `api@^1.74.1` `utils@^1.15.0`
 - **[Horoscope](https://raycast.com/xmok/horoscope)** - Get Daily, Weekly or Monthly Horoscope by Sign [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/horoscope) `api@^1.74.1` `utils@^1.15.0`
 - **[HowLongToBeat](https://raycast.com/Cronos87/howlongtobeat)** - Discover how many hours you need to beat a game. [`@Cronos87`](https://raycast.com/Cronos87) [`code`](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat) `api@^1.38.3`
 - **[IATA Code Decoder](https://raycast.com/timrogers/iata-code-decoder)** - Decodes IATA codes, helping you to identify airports, airlines and aircraft [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iata-code-decoder) `api@^1.48.9`
@@ -559,7 +560,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pipe Commands](https://raycast.com/pomdtr/pipe-commands)** - Pipe your selection or clipboard to custom scripts defined in any language. [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands) `api@^1.69.3`
 - **[Pixels to Viewport Width or Height](https://raycast.com/Atiipik/convert-px-to-vw-vh)** - Fast conversion of pixels to vw or vh depending on the size of your viewport. [`@Atiipik`](https://raycast.com/Atiipik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert-px-to-vw-vh) `api@^1.51.1` `utils@^1.6.1`
 - **[Ploi](https://raycast.com/ploi-deploy/ploi)** - View and manage your ploi.io servers and sites [`@ploi-deploy`](https://raycast.com/ploi-deploy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ploi) `api@^1.36.0`
-- **[PM2](https://raycast.com/litomore/pm2)** - Advanced, production process manager for Node.js. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pm2) `api@^1.70.3` `utils@^1.15.0`
+- **[PM2](https://raycast.com/litomore/pm2)** - Advanced, production process manager for Node.js. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pm2) `api@^1.75.2` `utils@^1.15.0`
 - **[Popicons](https://raycast.com/lucaschultz/popicons)** - Browse and copy Popicons [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/popicons) `api@^1.59.0` `utils@^1.10.0`
 - **[Port Manager](https://raycast.com/lucaschultz/port-manager)** - Find open ports and close them [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/port-manager) `api@^1.57.0` `utils@^1.9.1`
 - **[Prettier Code](https://raycast.com/lin/prettier)** - Format code with Prettier [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prettier) `api@^1.49.3`
@@ -894,7 +895,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Replicate](https://raycast.com/KevinBatdorf/replicate)** - Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/replicate) `api@^1.42.2` `utils@^1.4.10`
 - **[Sonarr](https://raycast.com/Aayush9029/sonarr)** - View your Sonarr upcoming shows. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sonarr) `api@^1.72.1` `utils@^1.14.1`
 - **[Spanish TV Guide](https://raycast.com/doktor500/spanish-tv-guide)** - Browse the Spanish TV Guide [`@doktor500`](https://raycast.com/doktor500) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spanish-tv-guide) `api@^1.59.0`
-- **[Spotify Player](https://raycast.com/mattisssa/spotify-player)** - Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar. [`@mattisssa`](https://raycast.com/mattisssa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) `api@^1.62.0` `utils@^1.10.1`
+- **[Spotify Player](https://raycast.com/mattisssa/spotify-player)** - Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar. [`@mattisssa`](https://raycast.com/mattisssa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) `api@^1.75.1` `utils@^1.15.0`
 - **[Steam](https://raycast.com/KevinBatdorf/steam)** - Search and view information about any game on steam, as well as games you own. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/steam) `api@^1.51.0` `utils@^1.6.1`
 - **[Syntax.fm](https://raycast.com/msmps/syntax-fm)** - Syntax.fm at your fingertips. [`@msmps`](https://raycast.com/msmps) [`code`](https://github.com/raycast/extensions/tree/main/extensions/syntax-fm) `api@^1.72.1` `utils@^1.14.1`
 - **[The Movie Database](https://raycast.com/Aayush9029/tmdb)** - Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tmdb) `api@^1.62.0` `utils@^1.10.1`
@@ -1222,7 +1223,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Shortcut](https://raycast.com/Yukai/shortcut)** - Raycast extension for Shortcut [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shortcut) `api@^1.38.1` `utils@^1.0.6`
 - **[Shortcuts Search](https://raycast.com/solomkinmv/shortcuts-search)** - List, search and run shortcuts for different applications [`@solomkinmv`](https://raycast.com/solomkinmv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) `api@^1.63.0` `utils@^1.10.1`
 - **[Simple Reminder](https://raycast.com/comoser/simple-reminder)** - Set your reminders in natural language without the need to have any application installed. [`@comoser`](https://raycast.com/comoser) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder) `api@^1.73.3` `utils@^1.15.0`
-- **[SimpleLogin](https://raycast.com/adrian-schnell/simplelogin)** - Mange your SimpleLogin Account, view and create aliases [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplelogin) `api@^1.45.2` `utils@^1.4.14`
+- **[SimpleLogin](https://raycast.com/adrian-schnell/simplelogin)** - Mange your SimpleLogin Account, view and create aliases [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplelogin) `api@^1.74.0` `utils@^1.15.0`
 - **[Sleep Timer](https://raycast.com/dtmzr/sleep-timer)** - Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. [`@dtmzr`](https://raycast.com/dtmzr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) `api@^1.44.0`
 - **[Smultron](https://raycast.com/felixthehat/smultron)** - Creates a new Smultron File with Selection [`@felixthehat`](https://raycast.com/felixthehat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/smultron) `api@^1.42.2`
 - **[Spaces](https://raycast.com/pradeepb28/spaces)** - Declutter and organize your workspace in 1-click [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spaces) `api@^1.36.1`

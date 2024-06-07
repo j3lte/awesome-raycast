@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/dcf96685ecfc4fc9_update-time.svg)
+![Last update](/icons/06bd65c0277e3f5d_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1551** packages in **15** categories
+- **1552** packages in **15** categories
 - **13** packages use Swift
 - **1010** authors
 - Top **5** authors:
@@ -1431,6 +1431,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Plausible Analytics](https://raycast.com/thebrokenfinger/plausible-analytics)** - Get a quick, brief overview of your Plausible Analytics data. [`@thebrokenfinger`](https://raycast.com/thebrokenfinger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/plausible-analytics) `api@^1.44.0` `utils@^1.4.11`
 - **[Quip](https://raycast.com/justin0u0/quip)** - Search and View Quip Documents [`@justin0u0`](https://raycast.com/justin0u0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quip) `api@^1.47.2` `utils@^1.4.16`
 - **[Rate Your Music Search](https://raycast.com/leepyd/rateyourmusic-search)** - Search Rate Your Music in Raycast [`@leepyd`](https://raycast.com/leepyd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rateyourmusic-search) `api@^1.67.1` `utils@^1.4.8`
+- **[Raycaster](https://raycast.com/stevedylandev/raycaster)** - Send casts to Farcaster from Raycast [`@stevedylandev`](https://raycast.com/stevedylandev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycaster) `api@^1.74.1` `utils@^1.15.0`
 - **[Remove Paywall](https://raycast.com/tegola/remove-paywall)** - Remove the paywall from the selected or clipboard URL. [`@tegola`](https://raycast.com/tegola) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) `api@^1.68.1`
 - **[Reverso Context](https://raycast.com/MrModest/reverso-context)** - Shows translation with usage examples via Reverso Context [`@MrModest`](https://raycast.com/MrModest) [`code`](https://github.com/raycast/extensions/tree/main/extensions/reverso-context) `api@^1.39.3`
 - **[Search Stack Exchange Sites](https://raycast.com/reckoning-dev/stackoverflow)** - Search Stack Exchange Sites from Raycast [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stackoverflow) `api@^1.56.1` `utils@^1.9.0`
@@ -1600,7 +1601,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Logseq](https://raycast.com/futantan/logseq)** - Add notes quickly in Logseq [`@futantan`](https://raycast.com/futantan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/logseq) `api@^1.31.0`
 - **[MailerLite Stats](https://raycast.com/nkl/mailerlite-stats)** - MailerLite Stats Raycast extension [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailerlite-stats) `api@^1.64.3` `utils@^1.10.1`
 - **[Mailtrap](https://raycast.com/samjwillis97/mailtrap)** - Interact with the Mailtrap via. it's API - Currently only possible to copy the subject [`@samjwillis97`](https://raycast.com/samjwillis97) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailtrap) `api@^1.59.0` `utils@^1.10.0`
-- **[Main Library in University of St Andrews](https://raycast.com/Harry/st-andrews-main-library-occupancy)** - How busy is the main library now? [`@Harry`](https://raycast.com/Harry) [`code`](https://github.com/raycast/extensions/tree/main/extensions/st-andrews-main-library-occupancy) `api@^1.69.0` `utils@^1.14.0`
+- **[Main Library in University of St Andrews](https://raycast.com/Harry_Huang/st-andrews-main-library-occupancy)** - How busy is the main library now? [`@Harry_Huang`](https://raycast.com/Harry_Huang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/st-andrews-main-library-occupancy) `api@^1.69.0` `utils@^1.14.0`
 - **[Markdown Reference](https://raycast.com/codedbyjordan/markdown-reference)** - Markdown documentation at your fingertips [`@codedbyjordan`](https://raycast.com/codedbyjordan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) `api@^1.26.3`
 - **[Markprompt](https://raycast.com/nickrttn/markprompt)** - Prompt your Markprompt project from Raycast [`@nickrttn`](https://raycast.com/nickrttn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markprompt) `api@^1.68.1` `utils@^1.12.5`
 - **[Memos](https://raycast.com/JakeYu/memos)** - Manage Your Memos [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memos) `api@^1.47.3` `utils@^1.4.16`

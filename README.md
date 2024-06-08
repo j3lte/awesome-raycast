@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/06bd65c0277e3f5d_update-time.svg)
+![Last update](/icons/e9fa874ffe1039ec_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -200,7 +200,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Akkoma](https://raycast.com/SevicheCC/akkoma)** - Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/akkoma) `api@^1.51.1`
 - **[BambooHR](https://raycast.com/Rob/bamboohr)** - Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) `api@^1.63.0` `utils@^1.10.1`
 - **[Bluesky](https://raycast.com/dharamkapila/bluesky)** - Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. [`@dharamkapila`](https://raycast.com/dharamkapila) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bluesky) `api@^1.52.1` `utils@^1.5.2`
-- **[Cal.com - Share Meeting Links](https://raycast.com/eluce2/cal-com-share-meeting-links)** - Quickly share your Cal.com meeting links [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) `api@^1.36.1` `utils@^1.3.1`
+- **[Cal.com - Share Meeting Links](https://raycast.com/eluce2/cal-com-share-meeting-links)** - Quickly share your Cal.com meeting links [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) `api@^1.36.1` `utils@^1.15.0`
 - **[Chatwork Search](https://raycast.com/nagauta/chatwork-search)** - Search chats through all the room [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) `api@^1.42.2`
 - **[Chinese Character](https://raycast.com/koinzhang/chinese-character)** - Chinese character conversion tools. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chinese-character) `api@^1.50.2`
 - **[Discord](https://raycast.com/Aayush9029/discord)** - Send message to a specific discord channel using webhook. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discord) `api@^1.32.1`
@@ -344,7 +344,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Converter](https://raycast.com/koinzhang/converter)** - Arbitrary input, direct output. Includes Base converter, Byte converter, Code converter, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/converter) `api@^1.51.0`
 - **[Figma Variables](https://raycast.com/martin_molcrette/figma-variables)** - Access Figma variables in Raycast [`@martin_molcrette`](https://raycast.com/martin_molcrette) [`code`](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) `api@^1.67.1`
 - **[Flaticon — Search Icons](https://raycast.com/bgnfu7re/flaticon)** - Search icons on Flaticon [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flaticon) `api@^1.43.2` `utils@^1.4.10`
-- **[Font Awesome](https://raycast.com/dutzi/font-awesome)** - Search Font Awesome icons [`@dutzi`](https://raycast.com/dutzi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) `api@^1.48.0` `utils@^1.4.8`
+- **[Font Awesome](https://raycast.com/dutzi/font-awesome)** - Search Font Awesome icons [`@dutzi`](https://raycast.com/dutzi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) `api@^1.74.0` `utils@^1.4.8`
 - **[Geist Ui Components](https://raycast.com/RahulatRaycast/geist-ui-components)** - This extension provides links to components in Geist UI Documentation [`@RahulatRaycast`](https://raycast.com/RahulatRaycast) [`code`](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) `api@^1.38.2`
 - **[Google Fonts](https://raycast.com/GastroGeek/google-fonts)** - Search and use fonts from Google Fonts [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) `api@^1.38.2`
 - **[Iconify — Search Icons](https://raycast.com/destiner/iconify)** - Search icons via Iconify [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iconify) `api@^1.48.0`

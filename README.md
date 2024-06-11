@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/d813a332863aa9c6_update-time.svg)
+![Last update](/icons/0546155d8608438d_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1552** packages in **15** categories
+- **1553** packages in **15** categories
 - **13** packages use Swift
 - **1010** authors
 - Top **5** authors:
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - of which **387** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (152)
-  - [j3lte](https://raycast.com/j3lte) (21)
+  - [j3lte](https://raycast.com/j3lte) (23)
   - [xilopaint](https://raycast.com/xilopaint) (16)
   - [erics118](https://raycast.com/erics118) (14)
   - [sxn](https://raycast.com/sxn) (12)
@@ -202,7 +202,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bluesky](https://raycast.com/dharamkapila/bluesky)** - Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. [`@dharamkapila`](https://raycast.com/dharamkapila) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bluesky) `api@^1.52.1` `utils@^1.5.2`
 - **[Cal.com - Share Meeting Links](https://raycast.com/eluce2/cal-com-share-meeting-links)** - Quickly share your Cal.com meeting links [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) `api@^1.36.1` `utils@^1.15.0`
 - **[Chatwork Search](https://raycast.com/nagauta/chatwork-search)** - Search chats through all the room [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) `api@^1.42.2`
-- **[Chinese Character](https://raycast.com/koinzhang/chinese-character)** - Chinese character conversion tools. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chinese-character) `api@^1.50.2`
+- **[Chinese Character](https://raycast.com/koinzhang/chinese-character)** - Chinese character conversion tools. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chinese-character) `api@^1.76.0`
 - **[Discord](https://raycast.com/Aayush9029/discord)** - Send message to a specific discord channel using webhook. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discord) `api@^1.32.1`
 - **[Discord Timestamps](https://raycast.com/theshadowdev/discord-timestamps)** - Generate a Discord timestamp [`@theshadowdev`](https://raycast.com/theshadowdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) `api@^1.48.8` `utils@^1.5.2`
 - **[Fast Chat With Phone Number in IM Apps](https://raycast.com/timonpeng/phonenumber-in-im)** - A Raycast extension enables faster chatting with a target phone number in IM apps like WhatsApp and Telegram, eliminating the need to add contacts beforehand. [`@timonpeng`](https://raycast.com/timonpeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phonenumber-in-im) `api@^1.61.2`
@@ -469,7 +469,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[FVM](https://raycast.com/leoafarias/fvm)** - Easily manage Flutter SDK versions with FVM. [`@leoafarias`](https://raycast.com/leoafarias) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fvm) `api@^1.68.1` `utils@^1.12.5`
 - **[Generate Nanoid](https://raycast.com/roelvan/nanoid)** - A tiny, secure, URL friendly, unique string ID generator for JavaScript [`@roelvan`](https://raycast.com/roelvan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nanoid) `api@^1.36.0`
 - **[Gerrit Code Review](https://raycast.com/vkhitrin/gerrit-code-review)** - Interact with Gerrit Code Review instances to query changes and projects [`@vkhitrin`](https://raycast.com/vkhitrin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gerrit-code-review) `api@^1.49.3` `utils@^1.5.2`
-- **[Get SSH Key](https://raycast.com/Tang/get-ssh-key)** - Get your local SSH key in a split of a second. [`@Tang`](https://raycast.com/Tang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) `api@^1.48.4`
+- **[Get SSH Key](https://raycast.com/Theon/get-ssh-key)** - Get your local SSH key in a split of a second. [`@Theon`](https://raycast.com/Theon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) `api@^1.76.0` `utils@^1.15.0`
 - **[ghq](https://raycast.com/konojunya/ghq)** - Raycast Extension for ghq. [`@konojunya`](https://raycast.com/konojunya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ghq) `api@^1.67.1` `utils@^1.12.4`
 - **[Git Branch Name Generator](https://raycast.com/mbonner/git-branch-name-generator)** - Convert a string into a branch name [`@mbonner`](https://raycast.com/mbonner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-branch-name-generator) `api@^1.45.2` `utils@^1.4.15`
 - **[Git Co-Authors](https://raycast.com/nickradford/git-co-authors)** - Manage and copy co-authors for git commits [`@nickradford`](https://raycast.com/nickradford) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-co-authors) `api@^1.51.0` `utils@^1.7.0`
@@ -494,7 +494,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Heroku](https://raycast.com/Yukai/heroku)** - Heroku extension for Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/heroku) `api@^1.32.1`
 - **[Hoogle](https://raycast.com/waj/hoogle)** - Search Haskell documentation in Hoogle [`@waj`](https://raycast.com/waj) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hoogle) `api@^1.49.2` `utils@^1.5.2`
 - **[Host Switch](https://raycast.com/ewgenius/host-switch)** - Quickly switch between hosts while preserving the url path [`@ewgenius`](https://raycast.com/ewgenius) [`code`](https://github.com/raycast/extensions/tree/main/extensions/host-switch) `api@^1.48.5` `utils@^1.5.2`
-- **[HTTP Status Codes](https://raycast.com/Alex_/http-status-codes)** - Quickly look up HTTP status codes [`@Alex_`](https://raycast.com/Alex_) [`code`](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) `api@^1.59.0`
+- **[HTTP Status Codes](https://raycast.com/Alex_/http-status-codes)** - Quickly look up HTTP status codes [`@Alex_`](https://raycast.com/Alex_) [`code`](https://github.com/raycast/extensions/tree/main/extensions/http-status-codes) `api@^1.74.0` `utils@^1.15.0`
 - **[HTTP.cat Status Codes](https://raycast.com/lucasmezencio/http-dot-cat)** - Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats [`@lucasmezencio`](https://raycast.com/lucasmezencio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/http.cat) `api@^1.59.0` `utils@^1.10.0`
 - **[Hugging Face](https://raycast.com/crisboarna/hugging-face)** - Search and explore the Hugging Face platform [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hugging-face) `api@^1.72.1` `utils@^1.15.0`
 - **[Hypersonic](https://raycast.com/reboot.studio/hypersonic)** - Fastest Notion to-do app ever [`@reboot.studio`](https://raycast.com/reboot.studio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) `api@1.48.5` `utils@1.5.2`
@@ -1231,6 +1231,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Splix](https://raycast.com/splix.app/splix)** - Raycast interface for Splix (https://splix.app) to supercharge your productivity. [`@splix.app`](https://raycast.com/splix.app) [`code`](https://github.com/raycast/extensions/tree/main/extensions/splix) `api@^1.65.0` `utils@^1.10.1`
 - **[Static Marks - Bookmark Search](https://raycast.com/aerobless/static-marks)** - Search and launch websites from your Static Marks bookmark YAML file. [`@aerobless`](https://raycast.com/aerobless) [`code`](https://github.com/raycast/extensions/tree/main/extensions/static-marks-bookmarks) `api@^1.43.2` `utils@^1.4.11`
 - **[Summarize YouTube Videos with AI](https://raycast.com/iKasch/summarize-youtube-video-with-ai)** - Summarize any YouTube Video with AI. Choose between Raycast AI or ChatGPT. You have to either be a Raycast Pro Member or have an OpenAI API Key. [`@iKasch`](https://raycast.com/iKasch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) `api@^1.72.1` `utils@^1.15.0`
+- **[SupaHabits](https://raycast.com/gbarba/habits)** - Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries [`@gbarba`](https://raycast.com/gbarba) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supahabits) `api@^1.74.1` `utils@^1.15.0`
 - **[Superwhisper - Offline Voice to Text](https://raycast.com/nchudleigh/superwhisper)** - Start a recording, change Modes and open settings. Requires installing superwhisper. [`@nchudleigh`](https://raycast.com/nchudleigh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) `api@^1.64.4`
 - **[Surl](https://raycast.com/fujiyamaorange/surl)** - Make your URLs shorter [`@fujiyamaorange`](https://raycast.com/fujiyamaorange) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surl) `api@^1.64.4`
 - **[SVG64 - Convert SVGs to Base64 Strings](https://raycast.com/EvanZhouDev/raycast-svg64)** - Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) `api@^1.57.1` `utils@^1.9.1`
@@ -1281,7 +1282,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Website Blocker](https://raycast.com/gersomvg/website-blocker)** - Block websites by changing your hosts file automatically, directly from Raycast [`@gersomvg`](https://raycast.com/gersomvg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/website-blocker) `api@^1.65.1` `utils@^1.4.8`
 - **[Wise Accounts](https://raycast.com/robsel118/wise-accounts)** - View Wise Profiles, Balances, and Transactions [`@robsel118`](https://raycast.com/robsel118) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wise-accounts) `api@^1.65.1` `utils@^1.10.1`
 - **[Word Count](https://raycast.com/itsmingjie/word-count)** - Count the number of characters, words, sentences, and paragraphs in some text. [`@itsmingjie`](https://raycast.com/itsmingjie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/word-count) `api@^1.56.3` `utils@^1.4.16`
-- **[Word Search](https://raycast.com/rishabswift/word-search)** - Search for synonyms, antonyms, spellings, rhymes and more [`@rishabswift`](https://raycast.com/rishabswift) [`code`](https://github.com/raycast/extensions/tree/main/extensions/word-search) `api@^1.48.0`
+- **[Word Search](https://raycast.com/rishabswift/word-search)** - Search for synonyms, antonyms, spellings, rhymes and more [`@rishabswift`](https://raycast.com/rishabswift) [`code`](https://github.com/raycast/extensions/tree/main/extensions/word-search) `api@^1.75.2` `utils@^1.15.0`
 - **[WordReference Dictionary Translation](https://raycast.com/Katatsu/wordreference)** - Quickly find a word translation using WordReference [`@Katatsu`](https://raycast.com/Katatsu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordreference) `api@^1.55.2` `utils@^1.9.0`
 - **[Work Time Countdown](https://raycast.com/thomas/work-time-countdown)** - A simple timer to help you keep productive during work time. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/work-time-countdown) `api@^1.39.0`
 - **[Wrike](https://raycast.com/Slus/wrike)** - Interact with Wrike [`@Slus`](https://raycast.com/Slus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wrike) `api@^1.31.0`

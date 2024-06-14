@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/4ae3e0954d670e15_update-time.svg)
+![Last update](/icons/d82bf70820b5fc60_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,17 +38,17 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1562** packages in **15** categories
+- **1566** packages in **15** categories
 - **13** packages use Swift
-- **1016** authors
+- **1017** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (43)
-  - [xmok](https://raycast.com/xmok) (22)
+  - [xmok](https://raycast.com/xmok) (23)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **533** contributors
-  - of which **388** contributors are only contributors
+- **538** contributors
+  - of which **393** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (152)
   - [j3lte](https://raycast.com/j3lte) (23)
@@ -500,6 +500,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[HTTP.cat Status Codes](https://raycast.com/lucasmezencio/http-dot-cat)** - Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats [`@lucasmezencio`](https://raycast.com/lucasmezencio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/http.cat) `api@^1.59.0` `utils@^1.10.0`
 - **[Hugging Face](https://raycast.com/crisboarna/hugging-face)** - Search and explore the Hugging Face platform [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hugging-face) `api@^1.72.1` `utils@^1.15.0`
 - **[Hypersonic](https://raycast.com/reboot.studio/hypersonic)** - Fastest Notion to-do app ever [`@reboot.studio`](https://raycast.com/reboot.studio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) `api@1.48.5` `utils@1.5.2`
+- **[Incident.io](https://raycast.com/nkl/incident-io)** - Gets the incidents from Incident.io [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/incident-io) `api@^1.75.2`
 - **[iOS Human Interface Guidelines](https://raycast.com/eliperkins/raycast-ios-hig)** - Shows you the iOS HIG's info for quick reference [`@eliperkins`](https://raycast.com/eliperkins) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) `api@^1.40.3`
 - **[IP Geolocation](https://raycast.com/koinzhang/ip-geolocation)** - Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) `api@^1.75.1`
 - **[IP Tools](https://raycast.com/meguoe/ip-tools)** - This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) [`@meguoe`](https://raycast.com/meguoe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) `api@^1.64.3` `utils@^1.10.1`
@@ -612,7 +613,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Swift Evolution](https://raycast.com/BProg/swift-evolution)** - Search and see details for the Swift language proposals from swift evolution web page https://apple.github.io/swift-evolution/ [`@BProg`](https://raycast.com/BProg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swift-evolution) `api@^1.74.0` `utils@^1.10.1`
 - **[Swift Package Index](https://raycast.com/maximkrouk/swift-package-index)** - Search for Swift Packages via https://swiftpackageindex.com [`@maximkrouk`](https://raycast.com/maximkrouk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index) `api@^1.38.0`
 - **[Swift REPL](https://raycast.com/nakajima/swift-repl)** - Run lil swift snippets [`@nakajima`](https://raycast.com/nakajima) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swift-repl) `api@^1.72.1` `utils@^1.15.0`
-- **[System Information](https://raycast.com/Visual-Studio-Coder/system-information)** - Gives you quick access to your system information so that you never have to open System Settings. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/system-information) `api@^1.57.2`
+- **[System Information](https://raycast.com/Visual-Studio-Coder/system-information)** - Quick access to your system information so you never have to open System Settings. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/system-information) `api@^1.57.2`
 - **[Tailscale](https://raycast.com/samlinville/tailscale)** - List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. [`@samlinville`](https://raycast.com/samlinville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tailscale) `api@^1.61.2`
 - **[Tailwind CSS Colorpicker](https://raycast.com/magicjaqk/tw-colorpicker)** - Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. [`@magicjaqk`](https://raycast.com/magicjaqk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) `api@^1.33.2`
 - **[Tailwind Size Conversion](https://raycast.com/kemiljk/tailwind-size-conversion)** - Converts pixels to Tailwind class values and vice versa [`@kemiljk`](https://raycast.com/kemiljk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/px-to-tailwind) `api@^1.52.1` `utils@^1.7.0`
@@ -658,6 +659,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 **[`^        back to top        ^`](#awesome-raycast)**
 
 - **[.NET Documentation Search](https://raycast.com/huseyint/dotnet-docs-search)** - Search .NET API documentation. [`@huseyint`](https://raycast.com/huseyint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) `api@^1.44.0`
+- **[AdonisJS Documentation](https://raycast.com/craigharman/adonisjs-documentation)** - Access AdonisJS documentation from within Raycast [`@craigharman`](https://raycast.com/craigharman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adonisjs-documentation) `api@^1.76.0`
 - **[Badges - shields.io](https://raycast.com/litomore/badges)** - Concise, consistent, and legible badges. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/badges) `api@^1.70.3` `utils@^1.14.1`
 - **[Braid Design System](https://raycast.com/felixhabib/braid)** - Search and use Braid Components and Iconography from Raycast [`@felixhabib`](https://raycast.com/felixhabib) [`code`](https://github.com/raycast/extensions/tree/main/extensions/braid) `api@^1.58.0` `utils@^1.9.1`
 - **[Cheatsheets](https://raycast.com/destiner/cheatsheets)** - Search and view programming cheatsheets [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) `api@^1.28.0`
@@ -772,6 +774,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[DLmoji](https://raycast.com/Hydrapse/dlmoji)** - Semantic search for Emojis, powered by Deep Learning and intelligent APIs [`@Hydrapse`](https://raycast.com/Hydrapse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dlmoji) `api@^1.31.0`
 - **[Dog Images](https://raycast.com/BossElijah/dog-images)** - Get a random photo of a dog. [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dog-images) `api@^1.72.1` `utils@^1.15.0`
 - **[Dribbble](https://raycast.com/gebeto/dribbble)** - List Dribbble Shots [`@gebeto`](https://raycast.com/gebeto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dribbble) `api@^1.70.0` `utils@^1.13.4`
+- **[Dungeons & Dragons](https://raycast.com/Rob/dungeons-dragons)** - All things DND 5e [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) `api@^1.64.2`
 - **[Ekstraklasa](https://raycast.com/szarbartosz/ekstraklasa)** - Stay up to date with the polish football league [`@szarbartosz`](https://raycast.com/szarbartosz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ekstraklasa) `api@^1.67.1` `utils@^1.12.4`
 - **[Fantasy Premier League](https://raycast.com/hwb/fantasy-premier-league-rankings)** - See where you rank amongst in your league rivals in Fantasy Premier League within Raycast. [`@hwb`](https://raycast.com/hwb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fantasy-premier-league-rankings) `api@^1.68.0`
 - **[FIGlet](https://raycast.com/pernielsentikaer/figlet)** - Generate a FIGlet [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/figlet) `api@^1.69.0`
@@ -833,6 +836,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Tarot](https://raycast.com/tsui_river/tarot)** - Draw cards from a virtual tarot deck. [`@tsui_river`](https://raycast.com/tsui_river) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tarot) `api@^1.69.0`
 - **[Tennis Standings](https://raycast.com/Zalgo_123/tennis-standings)** - Get the ATP and WTA rankings [`@Zalgo_123`](https://raycast.com/Zalgo_123) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tennis-standings) `api@^1.73.2` `utils@^1.15.0`
 - **[Text Wiggle](https://raycast.com/PineappleRind/wiggle-text)** - Create wiggly text walls for spamming. Satisfying to scroll through... [`@PineappleRind`](https://raycast.com/PineappleRind) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wiggle-text) `api@^1.39.1`
+- **[The Lord of the Rings](https://raycast.com/xmok/lotr)** - Books, Characters, Movies and Quotes via The One API [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lotr) `api@^1.76.0` `utils@^1.15.0`
 - **[Timezone Buddy](https://raycast.com/andrebreia/timezone-buddy)** - Show friends in other timezones [`@andrebreia`](https://raycast.com/andrebreia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/timezone-buddy) `api@^1.68.1` `utils@^1.10.0`
 - **[Truth or Dare](https://raycast.com/coding/truth-or-dare)** - Get a random Truth or Dare, Would You Rather, Never Have I Ever, or Paranoia question! Powered by https://truthordarebot.xyz [`@coding`](https://raycast.com/coding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) `api@^1.37.1`
 - **[Type the Alphabet](https://raycast.com/Visual-Studio-Coder/type-the-alphabet)** - "Type the Alphabet" is a typing game that measures how long it takes you to type the entire alphabet. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/type-the-alphabet) `api@^1.56.3`
@@ -1182,7 +1186,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Personio](https://raycast.com/boosteblume/personio)** - Track your time with Personio. [`@boosteblume`](https://raycast.com/boosteblume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/personio) `api@^1.69.0`
 - **[Pie for Pi-hole](https://raycast.com/GLaDO8/pie-for-pi-hole)** - Control your Pi-hole from Raycast. [`@GLaDO8`](https://raycast.com/GLaDO8) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pie-for-pihole) `api@^1.47.3`
 - **[Pins](https://raycast.com/HelloImSteven/pins)** - Create pins for paths and URLs and display them in the menu bar [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pins) `api@^1.64.4` `utils@^1.10.1`
-- **[Pomodoro](https://raycast.com/asubbotin/pomodoro)** - Pomodoro extension with menu-bar timer [`@asubbotin`](https://raycast.com/asubbotin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) `api@^1.62.0` `utils@^1.12.4`
+- **[Pomodoro](https://raycast.com/asubbotin/pomodoro)** - Pomodoro extension with menu-bar timer [`@asubbotin`](https://raycast.com/asubbotin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pomodoro) `api@^1.76.0` `utils@^1.12.4`
 - **[Prisma CLI Commands](https://raycast.com/raj_asha/prisma-cli-commands)** - Quickly search and use Prisma CLI Commands along with command details. [`@raj_asha`](https://raycast.com/raj_asha) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prisma-cli-commands) `api@^1.58.1`
 - **[Productlane](https://raycast.com/dimagrossman/productlane)** - Quickly add insights to Productlane [`@dimagrossman`](https://raycast.com/dimagrossman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/productlane) `api@^1.48.4` `utils@^1.5.2`
 - **[PromptLab](https://raycast.com/HelloImSteven/promptlab)** - Create custom AI commands using powerful placeholders [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/promptlab) `api@^1.64.4` `utils@^1.10.1`
@@ -1554,7 +1558,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Geohash](https://raycast.com/alrico88/geohash-encode-decode)** - Encode coordinates as geohash, or decode a geohash and get useful info [`@alrico88`](https://raycast.com/alrico88) [`code`](https://github.com/raycast/extensions/tree/main/extensions/geohash-encode-decode) `api@^1.27.0`
 - **[Get Favicon](https://raycast.com/vimtor/get-favicon)** - Get favicon from website URL [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) `api@^1.44.0` `utils@^1.4.11`
 - **[GitHub Commits Menu](https://raycast.com/fe9lix/github-menu-bar)** - Show new Git commits in the macOS menu bar. [`@fe9lix`](https://raycast.com/fe9lix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-menu-bar) `api@1.38.1`
-- **[GitHub Enterprise](https://raycast.com/Kinbaum/github-for-enterprise)** - Visualize and manage your issues and pull requests [`@Kinbaum`](https://raycast.com/Kinbaum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-for-enterprise) `api@^1.55.0`
+- **[GitHub Enterprise](https://raycast.com/Kinbaum/github-for-enterprise)** - Visualize and manage your issues and pull requests [`@Kinbaum`](https://raycast.com/Kinbaum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-for-enterprise) `api@^1.55.0` `utils@^1.12.4`
 - **[GitHub Stars](https://raycast.com/mrmartineau/search-github-stars)** - Display and filter your recent GitHub stars [`@mrmartineau`](https://raycast.com/mrmartineau) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-stars) `api@^1.62.0`
 - **[GitHub Status](https://raycast.com/FezVrasta/github-status)** - Quickly check why GitHub is down today [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-status) `api@^1.31.0`
 - **[GitLab Docs](https://raycast.com/saschaeggi/gitlab-docs)** - Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. [`@saschaeggi`](https://raycast.com/saschaeggi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) `api@^1.36.1`

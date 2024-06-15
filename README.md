@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/d82bf70820b5fc60_update-time.svg)
+![Last update](/icons/6daafb125409ed46_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,11 +38,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1566** packages in **15** categories
+- **1568** packages in **15** categories
 - **13** packages use Swift
-- **1017** authors
+- **1018** authors
 - Top **5** authors:
-  - [koinzhang](https://raycast.com/koinzhang) (43)
+  - [koinzhang](https://raycast.com/koinzhang) (44)
   - [xmok](https://raycast.com/xmok) (23)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **538** contributors
   - of which **393** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (152)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (153)
   - [j3lte](https://raycast.com/j3lte) (23)
   - [xilopaint](https://raycast.com/xilopaint) (16)
   - [erics118](https://raycast.com/erics118) (14)
@@ -86,7 +86,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Charming ChatGPT](https://raycast.com/KittenYang/charming-chatgpt)** - Make chatGPT x charming x Raycast all together [`@KittenYang`](https://raycast.com/KittenYang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/charming-chatgpt) `api@^1.49.1`
 - **[China IP Address](https://raycast.com/ErlichLiu/china-ip-address)** - Get your China public network IP [`@ErlichLiu`](https://raycast.com/ErlichLiu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/china-ip-address) `api@^1.57.1`
 - **[Cider](https://raycast.com/feyli/cider)** - Interact with Cider through Raycast [`@feyli`](https://raycast.com/feyli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cider) `api@^1.60.1` `utils@^1.9.0`
-- **[CleanShot X](https://raycast.com/Aayush9029/cleanshotx)** - Capture and record your screen! [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) `api@^1.62.0`
+- **[CleanShot X](https://raycast.com/Aayush9029/cleanshotx)** - Capture and record your screen! [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) `api@^1.73.3`
 - **[Cobalt](https://raycast.com/aelew/cobalt)** - Download videos and audio from popular social media platforms with ease. [`@aelew`](https://raycast.com/aelew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cobalt) `api@^1.60.1` `utils@^1.10.0`
 - **[ColorSlurp](https://raycast.com/Jordan-Ellis/colorslurp)** - Pick colors and convert them to different formats with ColorSlurp. [`@Jordan-Ellis`](https://raycast.com/Jordan-Ellis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) `api@^1.38.3` `utils@^1.4.16`
 - **[Compress PDF](https://raycast.com/felixhaeberle/compress-pdf)** - Compress PDF files [`@felixhaeberle`](https://raycast.com/felixhaeberle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/compress-pdf) `api@^1.43.2`
@@ -488,7 +488,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Gitpod](https://raycast.com/Henit-Palani/gitpod)** - A blazingly fast way to work with Gitpod [`@Henit-Palani`](https://raycast.com/Henit-Palani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitpod) `api@^1.57.1` `utils@^1.9.1`
 - **[Go Package Search](https://raycast.com/bstncartwright/go-package-search)** - Quickly search packages on https://pkg.go.dev [`@bstncartwright`](https://raycast.com/bstncartwright) [`code`](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) `api@^1.40.1`
 - **[Google Drive](https://raycast.com/vishaltelangre/google-drive)** - Fuzzy search files in the mounted Google Drive [`@vishaltelangre`](https://raycast.com/vishaltelangre) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-drive) `api@^1.37.0`
-- **[Google Maven Repository](https://raycast.com/koinzhang/google-maven-repository)** - Show and search for artifacts in Google's Maven repository. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) `api@^1.40.1`
+- **[Google Maven Repository](https://raycast.com/koinzhang/google-maven-repository)** - Show and search for artifacts in Google's Maven repository. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-maven-repository) `api@^1.76.0` `utils@^1.15.0`
 - **[Grafbase](https://raycast.com/mlafeldt/grafbase)** - Explore your Grafbase projects, branches, deployments, and commit history. [`@mlafeldt`](https://raycast.com/mlafeldt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/grafbase) `api@^1.45.1` `utils@^1.4.16`
 - **[GROQ Tools](https://raycast.com/juice49/groq-tools)** - Format GROQ queries and parse Sanity query URLs. [`@juice49`](https://raycast.com/juice49) [`code`](https://github.com/raycast/extensions/tree/main/extensions/groq-tools) `api@^1.58.1`
 - **[Helm Chart](https://raycast.com/eunchurn/helm-chart)** - Search in Helm Chart [`@eunchurn`](https://raycast.com/eunchurn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/helm-chart) `api@^1.64.3` `utils@^1.4.8`
@@ -577,6 +577,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Railway Project Search](https://raycast.com/coffee-cup/railway)** - Search and navigate to your Railway projects [`@coffee-cup`](https://raycast.com/coffee-cup) [`code`](https://github.com/raycast/extensions/tree/main/extensions/railway) `api@^1.58.0`
 - **[React Documentation](https://raycast.com/webdiego/react-docs)** - Quick links to the new React documentation [`@webdiego`](https://raycast.com/webdiego) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-docs) `api@^1.45.2`
 - **[Redis](https://raycast.com/k8scat/redis)** - Redis extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/redis) `api@^1.40.1` `utils@^1.4.8`
+- **[Refresh Browsers](https://raycast.com/koinzhang/refresh-browsers)** - Refresh all browser tabs [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) `api@^1.76.0` `utils@^1.15.0`
 - **[RegEx REPL](https://raycast.com/hongkiulam/regex-repl)** - Quickly write and test Regular Expressions (RegEx) [`@hongkiulam`](https://raycast.com/hongkiulam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/regex-repl) `api@^1.59.0`
 - **[Regex Tester](https://raycast.com/allenan/regex-tester)** - Preview and test regular expressions [`@allenan`](https://raycast.com/allenan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/regex-tester) `api@^1.36.0`
 - **[Render](https://raycast.com/destiner/render)** - View your Render services, deploys, and custom domains [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/render) `api@^1.28.0`
@@ -977,6 +978,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[NMBS Planner](https://raycast.com/Samuel3865/nmbs-planner)** - Plan your trainrides with NMBS [`@Samuel3865`](https://raycast.com/Samuel3865) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nmbs-planner) `api@^1.48.4`
 - **[OpenAI Speak](https://raycast.com/jian_chao_man/openai-speak)** - Uses the OpenAI TTS API to speak the selected text. [`@jian_chao_man`](https://raycast.com/jian_chao_man) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openai-speak) `api@^1.63.0`
 - **[Paste from Apple Books](https://raycast.com/winann/paste-from-apple-books)** - When copy and paste from Apple Books into other App, it always comes with citations 'Excerpt from...' with quotation marks around the copy text. This Extension can make it clean. But you also need notice: 'This material may be protected by copyright.' [`@winann`](https://raycast.com/winann) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paste-from-apple-books) `api@^1.66.2`
+- **[Recent Excel - Show Recent Excel Files](https://raycast.com/aradbm/recent-excel)** - Shows recent excel files [`@aradbm`](https://raycast.com/aradbm) [`code`](https://github.com/raycast/extensions/tree/main/extensions/recent-excel) `api@^1.75.2`
 - **[SAT Scorer](https://raycast.com/EvanZhouDev/sat-scorer)** - Calculate your SAT score based on problems correct. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sat-scorer) `api@^1.57.1` `utils@^1.9.0`
 - **[Save to Cubox](https://raycast.com/xyxc0673/save-to-cubox)** - Save url or memo to your cubox [`@xyxc0673`](https://raycast.com/xyxc0673) [`code`](https://github.com/raycast/extensions/tree/main/extensions/save-to-cubox) `api@^1.62.2` `utils@^1.10.1`
 - **[Schoology - Grade Viewer](https://raycast.com/Visual-Studio-Coder/schoology)** - View your courselists, grades, graphs, and individual assignments quickly using Raycast. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/schoology) `api@^1.57.0` `utils@1.11.1`

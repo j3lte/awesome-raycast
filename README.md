@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a727bce9737817dc_update-time.svg)
+![Last update](/icons/bd33e73f4fc2c8f5_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1571** packages in **15** categories
+- **1572** packages in **15** categories
 - **13** packages use Swift
 - **1018** authors
 - Top **5** authors:
@@ -47,11 +47,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **541** contributors
-  - of which **396** contributors are only contributors
+- **545** contributors
+  - of which **400** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (153)
-  - [j3lte](https://raycast.com/j3lte) (24)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (154)
+  - [j3lte](https://raycast.com/j3lte) (25)
   - [xilopaint](https://raycast.com/xilopaint) (16)
   - [erics118](https://raycast.com/erics118) (14)
   - [sxn](https://raycast.com/sxn) (12)
@@ -1022,6 +1022,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bamboo Search (Self Hosted)](https://raycast.com/axp-dev/bamboo-self-hosted)** - The extension allow you to quickly access projects, deploys and plans in Bamboo [`@axp-dev`](https://raycast.com/axp-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bamboo-search-self-hosted) `api@^1.26.1`
 - **[Bark](https://raycast.com/koinzhang/bark)** - Send messages to Bark via Raycast [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bark) `api@^1.50.0`
 - **[Battery Health](https://raycast.com/o1y/battery-health)** - Shows live information about the battery in your Mac! [`@o1y`](https://raycast.com/o1y) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-health) `api@^1.36.1`
+- **[Bed Time Calculator](https://raycast.com/khlebobul/bed-time-calculator)** - This is a simple extension for Raycast that will help you calculate the best time to sleep or wake up. [`@khlebobul`](https://raycast.com/khlebobul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bed-time-calculator) `api@^1.75.2`
 - **[Beeminder](https://raycast.com/vivgui/beeminder)** - Manage your Beeminder goals from Raycast [`@vivgui`](https://raycast.com/vivgui) [`code`](https://github.com/raycast/extensions/tree/main/extensions/beeminder) `api@^1.76.0` `utils@^1.15.0`
 - **[BibiGPT AI Summarize Audio and Video](https://raycast.com/skyline-123/bibigpt-summarize-audiovideo-with-ai)** - Simplify media summarization with the BibiGPT-Summarize-AudioVideo-with-AI plugin for Raycast. Effortlessly create summaries via BibiGPT API, enhancing efficiency and understanding of complex media. Ideal for professionals and enthusiasts seeking to optimize time and deepen media comprehension. [`@skyline-123`](https://raycast.com/skyline-123) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bibigpt-summarize-audiovideo-with-ai) `api@^1.66.2` `utils@^1.12.0`
 - **[Bibmanager](https://raycast.com/aaronschneider/bibmanager)** - Search Bibmanager Database from Raycast [`@aaronschneider`](https://raycast.com/aaronschneider) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bibmanager) `api@^1.39.0`
@@ -1038,7 +1039,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Chinese Numbers](https://raycast.com/raffeyang/chinese-numbers)** - Chinese Numbers is a Raycast Extension to convert Arabic numbers to Chinese numbers. [`@raffeyang`](https://raycast.com/raffeyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chinese-numbers) `api@^1.39.3`
 - **[Citation Generator](https://raycast.com/AbhinavPalacharla/citation-generator)** - Generates MLA style citation provided by formatically.com [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/citation-generator) `api@^1.34.1`
 - **[CJK Text Format Improver](https://raycast.com/alice.ellis/text-format-improver)** - Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) with English. [`@alice.ellis`](https://raycast.com/alice.ellis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) `api@^1.57.2`
-- **[Claude](https://raycast.com/flodo/claude)** - Interact with Anthropic's Claude API directly from Raycast [`@flodo`](https://raycast.com/flodo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/claude) `api@^1.47.0`
+- **[Claude](https://raycast.com/florisdobber/claude)** - Interact with Anthropic's Claude API directly from Raycast [`@florisdobber`](https://raycast.com/florisdobber) [`code`](https://github.com/raycast/extensions/tree/main/extensions/claude) `api@^1.47.0` `utils@^1.14.1`
 - **[Clean Keyboard](https://raycast.com/ike-gg/clean-keyboard)** - Lock your keyboard to clean it easily. [`@ike-gg`](https://raycast.com/ike-gg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) `api@^1.72.1`
 - **[Clipboard Editor](https://raycast.com/pomdtr/clipboard-editor)** - Edit your clipboard text [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-editor) `api@^1.39.3` `utils@^1.4.1`
 - **[Clipboard Formatter](https://raycast.com/joshtemple/clipboard-formatter)** - Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. [`@joshtemple`](https://raycast.com/joshtemple) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) `api@^1.51.1`
@@ -1304,7 +1305,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[YAFW](https://raycast.com/pablopunk/yafw)** - Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. [`@pablopunk`](https://raycast.com/pablopunk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yafw) `api@^1.71.4`
 - **[Year in Progress](https://raycast.com/thomas/year-in-progress)** - Stay motivated by see the progress of the year. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) `api@^1.47.3` `utils@^1.4.8`
 - **[YouTube Shorts to Normal Video Page](https://raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/youtube-shorts-to-normal-video-page)** - One click to convert YouTube shorts url to regular url [`@b6pzeusbc54tvhw5jgpyw8pwz2x6gs`](https://raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube-shorts-to-normal-video-page) `api@^1.72.1` `utils@^1.14.1`
-- **[YouVersion Bible Suggest](https://raycast.com/caleb531/youversion-suggest)** - Allows you to search the YouVersion Bible quickly and easily [`@caleb531`](https://raycast.com/caleb531) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youversion-suggest) `api@^1.67.1`
+- **[YouVersion Bible Suggest](https://raycast.com/caleb531/youversion-suggest)** - Allows you to search the YouVersion Bible quickly and easily [`@caleb531`](https://raycast.com/caleb531) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youversion-suggest) `api@^1.76.1`
 - **[YubiKey Code](https://raycast.com/yoyoyeti/yubikey-code)** - Easily get a OTP from your YubiKey [`@yoyoyeti`](https://raycast.com/yoyoyeti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) `api@^1.67.1`
 - **[Zeitraum](https://raycast.com/tensor/zeitraum)** - Track time with tags to Zeitraum server [`@tensor`](https://raycast.com/tensor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zeitraum) `api@^1.51.1`
 - **[Zen Mode](https://raycast.com/pradeepb28/zen-mode)** - Hide Everything. Mute Everything. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) `api@^1.35.2`
@@ -1525,7 +1526,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Conventional Comments](https://raycast.com/krzysztofzuraw/conventional-comments)** - Paste conventional comment into your foremost application [`@krzysztofzuraw`](https://raycast.com/krzysztofzuraw) [`code`](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) `api@^1.25.0`
 - **[Convert Color](https://raycast.com/yf_zhang/covert-color)** - hsl, rgb, hexadecimal, convert to each other [`@yf_zhang`](https://raycast.com/yf_zhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/covert-color) `api@^1.67.1`
 - **[Copy GCP Icons](https://raycast.com/pomdtr/copy-gcp-icons)** - Copy Product Icons from Google Cloud Platform to Clipboard. [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copy-gcp-icons) `api@^1.25.3`
-- **[Country Lookup](https://raycast.com/pernielsentikaer/country-lookup)** - Quickly lookup countries and get informational data [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) `api@^1.52.0`
+- **[Country Lookup](https://raycast.com/pernielsentikaer/country-lookup)** - Quickly lookup countries and get informational data [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) `api@^1.76.1` `utils@^1.16.0`
 - **[CPF/CNPJ Generator](https://raycast.com/gstvds/cpf-cnpj-generator)** - Generate CPF (Cadastro de Pessoa Físca) number or CNPJ (Cadastro Nacional de Pessoa Jurídica) number data for developers [`@gstvds`](https://raycast.com/gstvds) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) `api@^1.28.0`
 - **[crates.io Search](https://raycast.com/matt/cratecast)** - Explore crates.io [`@matt`](https://raycast.com/matt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cratecast) `api@^1.52.1`
 - **[CricketCast](https://raycast.com/sampoder/cricketcast)** - Check the cricket score through Raycast! [`@sampoder`](https://raycast.com/sampoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cricketcast) `api@^1.26.3`

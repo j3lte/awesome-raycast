@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/3527a0378c3cf914_update-time.svg)
+![Last update](/icons/9ef75241597a1d53_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,11 +38,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1590** packages in **15** categories
+- **1591** packages in **15** categories
 - **14** packages use Swift
 - **1028** authors
 - Top **5** authors:
-  - [koinzhang](https://raycast.com/koinzhang) (47)
+  - [koinzhang](https://raycast.com/koinzhang) (48)
   - [xmok](https://raycast.com/xmok) (23)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [thomas](https://raycast.com/thomas) (14)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **550** contributors
   - of which **404** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (157)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (158)
   - [j3lte](https://raycast.com/j3lte) (25)
   - [xilopaint](https://raycast.com/xilopaint) (17)
   - [erics118](https://raycast.com/erics118) (14)
@@ -456,7 +456,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Drupal Toolbox](https://raycast.com/emircanerkul/drupal-toolbox)** - Valuable tools and shortcuts for your Drupal Websites [`@emircanerkul`](https://raycast.com/emircanerkul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox) `api@1.44.0` `utils@^1.4.11`
 - **[Drupal.org](https://raycast.com/hussainweb/drupal-org)** - Get information from drupal.org [`@hussainweb`](https://raycast.com/hussainweb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drupal-org) `api@^1.72.0`
 - **[Dynamic Font Size](https://raycast.com/nils_hoenson/dynamic-font-size)** - Create dynamic font sizes using the 'clamp' CSS function [`@nils_hoenson`](https://raycast.com/nils_hoenson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dynamic-font-size) `api@^1.60.1`
-- **[Easy New File](https://raycast.com/koinzhang/easy-new-file)** - Quickly create file in the open Finder window. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) `api@^1.74.1`
+- **[Easy New File](https://raycast.com/koinzhang/easy-new-file)** - Quickly create file in the open Finder window. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) `api@^1.77.1`
 - **[Ember.js API Documentation](https://raycast.com/tdwesten/ember-api-documentation)** - Search Ember.js Api Documentation and open it in the browser [`@tdwesten`](https://raycast.com/tdwesten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ember-api-documentation) `api@^1.40.1` `utils@^1.4.8`
 - **[Encoding Tools](https://raycast.com/eth-p/encoding-tools)** - A toolbox for encoding, decoding, and hashing data in the clipboard. [`@eth-p`](https://raycast.com/eth-p) [`code`](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) `api@^1.32.1`
 - **[End of Life](https://raycast.com/csigritz/end-of-life)** - An extension to bring endoflife.date into Raycast. Get End-of-life (EOL) and support information for various products [`@csigritz`](https://raycast.com/csigritz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/end-of-life) `api@^1.69.0`
@@ -554,7 +554,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Open in JSON Hero](https://raycast.com/maverickdotdev/open-in-json-hero)** - Opens JSON in your pasteboard in JSON Hero [`@maverickdotdev`](https://raycast.com/maverickdotdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-json-hero) `api@^1.33.1`
 - **[Open in Sublime Text](https://raycast.com/anfalas/open-in-sublime-text)** - Open current Finder directory, selected folder or file in Sublime Text. [`@anfalas`](https://raycast.com/anfalas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) `api@^1.39.1`
 - **[Open in Visual Studio Code](https://raycast.com/shubzkothekar/open-in-visual-studio-code)** - Open current Finder directory, selected folder or file in Visual Studio Code. [`@shubzkothekar`](https://raycast.com/shubzkothekar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) `api@^1.39.1`
-- **[Open Link in Specific Browser](https://raycast.com/koinzhang/open-link-in-specific-browser)** - Open link or search text in specific browsers. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-link-in-specific-browser) `api@^1.75.1` `utils@^1.15.0`
+- **[Open Link in Specific Browser](https://raycast.com/koinzhang/open-link-in-specific-browser)** - Open link or search text in specific browser. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-link-in-specific-browser) `api@^1.77.1` `utils@^1.16.1`
 - **[Open Path](https://raycast.com/koinzhang/open-path)** - Open path and link from selection or clipboard in Finder, browsers, terminal, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-path) `api@^1.75.1` `utils@^1.15.0`
 - **[OSINT Web Check](https://raycast.com/gksander/osint-web-check)** - Raycast extension to perform OSINT web check against a url [`@gksander`](https://raycast.com/gksander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) `api@^1.64.4`
 - **[OSS Insight](https://raycast.com/k8scat/ossinsight)** - OSS Insight extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ossinsight) `api@^1.40.1` `utils@^1.9.0`
@@ -1769,6 +1769,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Wistia](https://raycast.com/darin/wistia)** - Search Wistia Medias and Projects [`@darin`](https://raycast.com/darin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wistia) `api@^1.26.3`
 - **[Wolfram Alpha](https://raycast.com/mathieudutour/wolfram-alpha)** - Query Wolfram Alpha right from Raycast [`@mathieudutour`](https://raycast.com/mathieudutour) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) `api@^1.26.0`
 - **[Writersbrew](https://raycast.com/pradeepb28/writersbrew)** - Meet the AI assistant that accelerates your reading & writing 2x faster & better [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/writersbrew) `api@^1.45.1`
+- **[Yoink](https://raycast.com/koinzhang/yoink)** - Add selected or clipboard files to Yoink. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yoink) `api@^1.77.1`
 - **[Youdao Translate](https://raycast.com/tiancheng92/youdao-translate)** - Translate text using Youdao [`@tiancheng92`](https://raycast.com/tiancheng92) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youdao-translate) `api@^1.38.2`
 - **[Yourls Link Shortener](https://raycast.com/firhan_ramadhan/yourls)** - Create a shortened link using Yourls [`@firhan_ramadhan`](https://raycast.com/firhan_ramadhan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yourls) `api@^1.69.0`
 - **[YouTube](https://raycast.com/tonka3000/youtube)** - Search Videos, Channels, and more... [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube) `api@^1.68.1` `utils@^1.12.5`

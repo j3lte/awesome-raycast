@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/d20b163a71620504_update-time.svg)
+![Last update](/icons/0250baf4022b9365_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,11 +38,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1594** packages in **15** categories
+- **1597** packages in **15** categories
 - **14** packages use Swift
-- **1030** authors
+- **1031** authors
 - Top **5** authors:
-  - [koinzhang](https://raycast.com/koinzhang) (48)
+  - [koinzhang](https://raycast.com/koinzhang) (49)
   - [xmok](https://raycast.com/xmok) (23)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [thomas](https://raycast.com/thomas) (14)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **552** contributors
   - of which **406** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (158)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (159)
   - [j3lte](https://raycast.com/j3lte) (25)
   - [xilopaint](https://raycast.com/xilopaint) (17)
   - [erics118](https://raycast.com/erics118) (14)
@@ -602,10 +602,12 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Search npm Packages](https://raycast.com/mrmartineau/search-npm)** - Search for npm package information [`@mrmartineau`](https://raycast.com/mrmartineau) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-npm) `api@^1.66.2` `utils@^1.12.0`
 - **[Search R Packages](https://raycast.com/grrrck/r-pkg-search)** - Search and lookup information about R packages using r-pkg.org. [`@grrrck`](https://raycast.com/grrrck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) `api@^1.72.0`
 - **[Sesh](https://raycast.com/joshmedeski/sesh)** - Smart, instant terminal session management. [`@joshmedeski`](https://raycast.com/joshmedeski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sesh) `api@^1.57.2`
+- **[Shadcn/Svelte](https://raycast.com/selemondev/shadcn-svelte)** - Browses shadcn/svelte documentation, components, and commands. [`@selemondev`](https://raycast.com/selemondev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-svelte) `api@^1.77.1` `utils@^1.16.1`
 - **[Shadcn/Vue](https://raycast.com/selemondev/shadcn-vue)** - Browses shadcn/vue documentation, components, and commands. [`@selemondev`](https://raycast.com/selemondev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-vue) `api@^1.73.2` `utils@^1.15.0`
 - **[Share My Code](https://raycast.com/jairaume/share-my-code)** - Quickly create shareable code snippet with ShareMyCode directly in your Raycast ecosystem. [`@jairaume`](https://raycast.com/jairaume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) `api@^1.67.0` `utils@^1.11.1`
 - **[Shell](https://raycast.com/asubbotin/shell)** - Run shell commands from Raycast [`@asubbotin`](https://raycast.com/asubbotin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell) `api@^1.38.2`
 - **[Shell Buddy](https://raycast.com/jebraat/shell-buddy)** - Converts natural language prompts to shell commands with AI [`@jebraat`](https://raycast.com/jebraat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) `api@^1.39.3`
+- **[Shell History](https://raycast.com/koinzhang/shell-history)** - Search shell command history. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-history) `api@^1.77.0` `utils@^1.16.0`
 - **[Short.io](https://raycast.com/koinzhang/short-io)** - Shorten and search links with your own domain via Short.io [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/short-io) `api@^1.66.2`
 - **[SimpleBackups](https://raycast.com/islamessam/simplebackups)** - View and manage your backups from SimpleBackups.com [`@islamessam`](https://raycast.com/islamessam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) `api@^1.39.3` `utils@^1.4.8`
 - **[SimpleTexOCR](https://raycast.com/Arthals/simpletexocr)** - A LaTeX OCR by Simpletex [`@Arthals`](https://raycast.com/Arthals) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) `api@^1.59.0` `utils@^1.10.0`
@@ -1083,7 +1085,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Dock](https://raycast.com/pradeepb28/dock)** - Change the dock's position to the left, right, or bottom edge of the screen. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock) `api@^1.32.1`
 - **[Downloads Manager](https://raycast.com/thomas/downloads-manager)** - Search and organize your downloads [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) `api@^1.53.3`
 - **[Dropshare](https://raycast.com/tjosten/dropshare)** - Create screen captures and upload files with Dropshare [`@tjosten`](https://raycast.com/tjosten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropshare) `api@^1.68.0`
-- **[Dub Link Shortener](https://raycast.com/quuu/dub-link-shortener)** - Dub.co is the open-source link management infrastructure. This extension allows you to shorten and retrieve your Dub links directly inside Raycast. [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dub-link-shortener) `api@^1.61.2`
+- **[Dub Link Shortener](https://raycast.com/quuu/dub-link-shortener)** - Dub.co is the open-source link management infrastructure. This extension allows you to shorten and retrieve your Dub links directly inside Raycast. [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dub-link-shortener) `api@^1.61.2` `utils@^1.16.0`
 - **[DuckDuckGo Email](https://raycast.com/Hugo-Persson/duckduckgo-email)** - A simple extension that generate DuckDuckGo email alias [`@Hugo-Persson`](https://raycast.com/Hugo-Persson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) `api@^1.69.0`
 - **[Eagle](https://raycast.com/Yukai/eagle)** - Eagle Extension for Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/eagle) `api@^1.33.1`
 - **[Easy OCR](https://raycast.com/Rafo94/easy-ocr)** - Use Tesseract or Google Cloud Vision OCR to extract text from screenshot [`@Rafo94`](https://raycast.com/Rafo94) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) `api@^1.56.1` `utils@^1.10.0`
@@ -1567,6 +1569,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Docker Hub](https://raycast.com/k8scat/dockerhub)** - Docker Hub extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) `api@^1.39.3`
 - **[Domainr](https://raycast.com/fedevitaledev/domainr)** - Search domains availability with Domainr [`@fedevitaledev`](https://raycast.com/fedevitaledev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/domainr) `api@^1.25.1`
 - **[Dropbox](https://raycast.com/chyroc/dropbox)** - Dropbox Extension, List Files, Search Files, and more [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropbox) `api@^1.45.3`
+- **[Duck Facts](https://raycast.com/validate/duck-facts)** - Displays interesting facts about ducks. [`@validate`](https://raycast.com/validate) [`code`](https://github.com/raycast/extensions/tree/main/extensions/duck-facts) `api@^1.77.1`
 - **[Easings](https://raycast.com/madebyankur/easings)** - Quickly find and grab your favorite easings. [`@madebyankur`](https://raycast.com/madebyankur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easings) `api@^1.67.1` `utils@^1.12.4`
 - **[Elgato Key Light](https://raycast.com/thomas/elgato-key-light)** - Control your Elgato Key Lights with ease [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) `api@^1.44.0`
 - **[Elm Search](https://raycast.com/HenriqueBuss/elm-search)** - Search Elm packages by name, type, author or module [`@HenriqueBuss`](https://raycast.com/HenriqueBuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elm-search) `api@^1.27.0`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/86bc235c448218df_update-time.svg)
+![Last update](/icons/1f2ac1fcb79d0234_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,9 +38,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1597** packages in **15** categories
+- **1598** packages in **15** categories
 - **14** packages use Swift
-- **1031** authors
+- **1032** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (49)
   - [xmok](https://raycast.com/xmok) (23)
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - of which **406** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (159)
-  - [j3lte](https://raycast.com/j3lte) (25)
+  - [j3lte](https://raycast.com/j3lte) (26)
   - [xilopaint](https://raycast.com/xilopaint) (17)
   - [erics118](https://raycast.com/erics118) (14)
   - [sxn](https://raycast.com/sxn) (12)
@@ -554,6 +554,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Open in JSON Hero](https://raycast.com/maverickdotdev/open-in-json-hero)** - Opens JSON in your pasteboard in JSON Hero [`@maverickdotdev`](https://raycast.com/maverickdotdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-json-hero) `api@^1.33.1`
 - **[Open in Sublime Text](https://raycast.com/anfalas/open-in-sublime-text)** - Open current Finder directory, selected folder or file in Sublime Text. [`@anfalas`](https://raycast.com/anfalas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) `api@^1.39.1`
 - **[Open in Visual Studio Code](https://raycast.com/shubzkothekar/open-in-visual-studio-code)** - Open current Finder directory, selected folder or file in Visual Studio Code. [`@shubzkothekar`](https://raycast.com/shubzkothekar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) `api@^1.39.1`
+- **[Open Laravel Herd Site](https://raycast.com/medienbaecker/open-laravel-herd-site)** - Lists all your Laravel Herd sites and allows you to open them in Visual Studio Code, Finder or your browser. [`@medienbaecker`](https://raycast.com/medienbaecker) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-laravel-herd-site) `api@^1.77.1`
 - **[Open Link in Specific Browser](https://raycast.com/koinzhang/open-link-in-specific-browser)** - Open link or search text in specific browser. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-link-in-specific-browser) `api@^1.77.1` `utils@^1.16.1`
 - **[Open Path](https://raycast.com/koinzhang/open-path)** - Open path and link from selection or clipboard in Finder, browsers, terminal, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-path) `api@^1.75.1` `utils@^1.15.0`
 - **[OSINT Web Check](https://raycast.com/gksander/osint-web-check)** - Raycast extension to perform OSINT web check against a url [`@gksander`](https://raycast.com/gksander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) `api@^1.64.4`
@@ -1421,7 +1422,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Brave Search](https://raycast.com/VishwasShashidhar/brave-search)** - Brave search with autosuggestions [`@VishwasShashidhar`](https://raycast.com/VishwasShashidhar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brave-search) `api@^1.60.0`
 - **[Brave Search with Results](https://raycast.com/electerious/brave-search-with-results)** - Search Brave and get direct results [`@electerious`](https://raycast.com/electerious) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brave-search-with-results) `api@^1.71.3` `utils@^1.14.0`
 - **[Browser Bookmarks](https://raycast.com/thomaslombart/browser-bookmarks)** - Integrate bookmarks from Chrome, Brave, Edge, Firefox, Safari, Arc or Vivaldi. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) `api@^1.64.0` `utils@^1.10.0`
-- **[Capture Fullpage of Website](https://raycast.com/Coun1er/capture-fullpage-of-website)** - This extension allows you to quickly make a screenshot of the entire page of the site and save it to your desktop just by writing the address of the site. [`@Coun1er`](https://raycast.com/Coun1er) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capture-fullpage-of-website) `api@^1.35.2`
+- **[Capture Fullpage of Website](https://raycast.com/Coun1er/capture-fullpage-of-website)** - This extension allows you to quickly make a screenshot of the entire page of the site and save it to your desktop just by writing the address of the site. [`@Coun1er`](https://raycast.com/Coun1er) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capture-fullpage-of-website) `api@^1.76.0`
 - **[Codeforces](https://raycast.com/harsh_varshney/codeforces-extension)** - Gives details about latest contests and details about any handle [`@harsh_varshney`](https://raycast.com/harsh_varshney) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codeforces-extension) `api@^1.64.5` `utils@^1.10.1`
 - **[Collected Notes](https://raycast.com/txemaleon/collected-notes)** - Manage your Collected Notes blog [`@txemaleon`](https://raycast.com/txemaleon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) `api@^1.64.4` `utils@^1.10.1`
 - **[Color Studio Picker](https://raycast.com/Automattic_Inc/color-studio-picker)** - Helps you identify and pick colors from Automattic's Color Studio [`@Automattic_Inc`](https://raycast.com/Automattic_Inc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-studio-picker) `api@^1.71.3`
@@ -1561,7 +1562,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Days Until Christmas](https://raycast.com/megapixel23/days-until-christmas)** - It shows how many days until Christmas left 🎄🎁 [`@megapixel23`](https://raycast.com/megapixel23) [`code`](https://github.com/raycast/extensions/tree/main/extensions/days-until-christmas) `api@^1.62.0`
 - **[debank](https://raycast.com/Yukai/debank)** - A Raycast Extension to query DeBank data with its OpenAPI [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/debank) `api@^1.26.3`
 - **[Deepcast](https://raycast.com/mooxl/deepcast)** - Translate words, or entire sentences, into 27 different languages using DeepL. [`@mooxl`](https://raycast.com/mooxl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deepcast) `api@^1.75.2`
-- **[Designer News](https://raycast.com/itsnwa/designer-news)** - See top design stories [`@itsnwa`](https://raycast.com/itsnwa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/designer-news) `api@^1.28.0`
+- **[Designer News](https://raycast.com/itsnwa/designer-news)** - See top design stories [`@itsnwa`](https://raycast.com/itsnwa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/designer-news) `api@^1.76.1`
 - **[Devdocs](https://raycast.com/pomdtr/devdocs)** - Search through DevDocs documentation sets from Raycast. [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/devdocs) `api@^1.47.3` `utils@^1.4.8`
 - **[Diki Translate](https://raycast.com/blazej_kustra/raycast-diki)** - Diki Translate with autosuggestions [`@blazej_kustra`](https://raycast.com/blazej_kustra) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-diki) `api@^1.69.0`
 - **[Display Placer](https://raycast.com/eluce2/displayplacer)** - Manage favorite display configurations [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) `api@^1.33.0`
@@ -1684,7 +1685,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Podcasts](https://raycast.com/ron-myers/podcasts)** - Control the Podcasts app for macOS with your keyboard. [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/podcasts) `api@^1.29.1`
 - **[Polished](https://raycast.com/lekoarts/polished)** - Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. [`@lekoarts`](https://raycast.com/lekoarts) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polished) `api@^1.26.1`
 - **[Product Hunt - Today's Hunts](https://raycast.com/ragnor/producthunt)** - Get the latest products from the fontpage of Product Hunt. [`@ragnor`](https://raycast.com/ragnor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/producthunt) `api@^1.57.0` `utils@^1.9.1`
-- **[Productboard](https://raycast.com/honzatmn/productboard)** - Add notes to Productboard quickly. Supports markdown. [`@honzatmn`](https://raycast.com/honzatmn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/productboard) `api@^1.25.6`
+- **[Productboard](https://raycast.com/honzatmn/productboard)** - Add and view notes in Productboard quickly. Supports markdown. [`@honzatmn`](https://raycast.com/honzatmn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/productboard) `api@^1.77.0` `utils@^1.16.1`
 - **[pub.dev](https://raycast.com/prasadsunny1/pub-dev)** - Search pub.dev for Dart and Flutter packages and copy the install commands [`@prasadsunny1`](https://raycast.com/prasadsunny1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flutter-pub-dev-search) `api@^1.48.9`
 - **[PubMe Search](https://raycast.com/spacedog/pubme)** - Search PubMed (https://pubmed.ncbi.nlm.nih.gov/) [`@spacedog`](https://raycast.com/spacedog) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pubme) `api@^1.49.2` `utils@^1.5.2`
 - **[QBitorrent](https://raycast.com/J3n5en/qbitorrent)** - a qBitorrent client [`@J3n5en`](https://raycast.com/J3n5en) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qbittorrent) `api@^1.36.0`

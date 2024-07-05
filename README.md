@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/5a9992efb0f684ce_update-time.svg)
+![Last update](/icons/633aa25cd26d95e0_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,17 +38,17 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1601** packages in **15** categories
+- **1602** packages in **15** categories
 - **14** packages use Swift
-- **1034** authors
+- **1035** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (23)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
-- **554** contributors
-  - of which **408** contributors are only contributors
+- **553** contributors
+  - of which **407** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (159)
   - [j3lte](https://raycast.com/j3lte) (26)
@@ -173,7 +173,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Sonos](https://raycast.com/AntonNiklasson/sonos)** - Control your Sonos system [`@AntonNiklasson`](https://raycast.com/AntonNiklasson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sonos) `api@^1.71.4`
 - **[Speedtest](https://raycast.com/tonka3000/speedtest)** - Test the performance and quality of your internet connection via speedtest.net [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/speedtest) `api@^1.77.1`
 - **[Stashpad Docs](https://raycast.com/theo_marin/stashpad-docs)** - Create and search for Stashpad Docs. [`@theo_marin`](https://raycast.com/theo_marin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stashpad-docs) `api@^1.69.2` `utils@^1.14.0`
-- **[Stickies](https://raycast.com/koinzhang/stickies)** - Manage and display macOS's built-in Stickies via Raycast [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stickies) `api@^1.77.1` `utils@^1.16.0`
+- **[Stickies](https://raycast.com/koinzhang/stickies)** - Search and show macOS's built-in Stickies via Raycast [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stickies) `api@^1.78.0` `utils@^1.16.1`
 - **[Stretchly](https://raycast.com/u-ran/stretchly)** - Fastest way to skip to breaks. [`@u-ran`](https://raycast.com/u-ran) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stretchly) `api@^1.39.3`
 - **[Supernotes](https://raycast.com/acnebs/supernotes)** - Interact with the Supernotes platform in Raycast. [`@acnebs`](https://raycast.com/acnebs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supernotes) `api@^1.44.0`
 - **[Tana](https://raycast.com/cheslip/tana)** - Write notes in Raycast, and capture them in Tana. [`@cheslip`](https://raycast.com/cheslip) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tana) `api@^1.65.1` `utils@^1.10.1`
@@ -204,7 +204,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Akkoma](https://raycast.com/SevicheCC/akkoma)** - Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/akkoma) `api@^1.51.1`
 - **[BambooHR](https://raycast.com/Rob/bamboohr)** - Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) `api@^1.63.0` `utils@^1.10.1`
 - **[Bluesky](https://raycast.com/dharamkapila/bluesky)** - Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. [`@dharamkapila`](https://raycast.com/dharamkapila) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bluesky) `api@^1.52.1` `utils@^1.5.2`
-- **[Cal.com - Share Meeting Links](https://raycast.com/eluce2/cal-com-share-meeting-links)** - Quickly share your Cal.com meeting links [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) `api@^1.36.1` `utils@^1.15.0`
+- **[Cal.com - Share Meeting Links](https://raycast.com/eluce2/cal-com-share-meeting-links)** - Quickly share your Cal.com meeting links [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) `api@^1.77.3` `utils@^1.16.1`
 - **[Chatwork Search](https://raycast.com/nagauta/chatwork-search)** - Search chats through all the room [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) `api@^1.42.2`
 - **[Chinese Character](https://raycast.com/koinzhang/chinese-character)** - Chinese character conversion tools. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chinese-character) `api@^1.76.0`
 - **[Discord](https://raycast.com/Aayush9029/discord)** - Send message to a specific discord channel using webhook. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discord) `api@^1.32.1`
@@ -355,7 +355,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Geist Ui Components](https://raycast.com/RahulatRaycast/geist-ui-components)** - This extension provides links to components in Geist UI Documentation [`@RahulatRaycast`](https://raycast.com/RahulatRaycast) [`code`](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) `api@^1.38.2`
 - **[Google Fonts](https://raycast.com/GastroGeek/google-fonts)** - Search and use fonts from Google Fonts [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) `api@^1.38.2`
 - **[Iconify — Search Icons](https://raycast.com/destiner/iconify)** - Search icons via Iconify [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iconify) `api@^1.48.0`
-- **[IconPark](https://raycast.com/koinzhang/iconpark)** - IconPark gives access to more than 2000 high-quality icons without API key and network. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iconpark) `api@^1.44.0`
+- **[IconPark](https://raycast.com/koinzhang/iconpark)** - IconPark gives access to more than 2000 high-quality icons without API key and network. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iconpark) `api@^1.78.0` `utils@^1.16.1`
 - **[Icons8](https://raycast.com/yug2005/icons8)** - Search and download icons using Icons8 large library. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/icons8) `api@^1.45.1`
 - **[LaTeX to Image](https://raycast.com/Noamko/quick-latex)** - Converts LaTeX text to image. Copy the image to the Clipboard. [`@Noamko`](https://raycast.com/Noamko) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) `api@^1.35.2`
 - **[Lucide Icons Search](https://raycast.com/Sn0wye/lucide-icons)** - View the Lucide icon set. [`@Sn0wye`](https://raycast.com/Sn0wye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) `api@^1.65.0` `utils@^1.10.1`
@@ -435,7 +435,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Convert TypeScript to JavaScript](https://raycast.com/bengry/convert-typescript-to-javascript)** - Remove type information from TypeScript code to make it compatible with JavaScript REPLs and other applications [`@bengry`](https://raycast.com/bengry) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert-typescript-to-javascript) `api@^1.54.1`
 - **[Cookie String](https://raycast.com/NicolasMontone/cookie-string-parser)** - Parses your cookie string [`@NicolasMontone`](https://raycast.com/NicolasMontone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cookie-string-parser) `api@^1.67.1`
 - **[Copilot Workspace](https://raycast.com/cole/copilot-workspace)** - Take an idea from anywhere and turn it into code with Copilot Workspace [`@cole`](https://raycast.com/cole) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) `api@^1.69.0` `utils@^1.14.0`
-- **[Copy Path](https://raycast.com/koinzhang/copy-path)** - Copy the path of the open folder, selected file or the URL of the current browser tab. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copy-path) `api@^1.77.0` `utils@^1.16.0`
+- **[Copy Path](https://raycast.com/koinzhang/copy-path)** - Copy the path of the open folder, selected file or the URL of the current browser tab. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copy-path) `api@^1.78.0` `utils@^1.16.1`
 - **[CRAN/E Search](https://raycast.com/flaming-codes/cran-e-search)** - Search for R-code packages & authors hosted on CRAN via the CRAN/E search engine. [`@flaming-codes`](https://raycast.com/flaming-codes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cran-e-search) `api@^1.47.3` `utils@^1.4.8`
 - **[CrawlDoc - Documentations Search Engine](https://raycast.com/johan-perso/crawldoc)** - Allow searching through multiple documentations platforms [`@johan-perso`](https://raycast.com/johan-perso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/crawldoc) `api@^1.64.4` `utils@^1.4.8`
 - **[Create Remix](https://raycast.com/nuno_costa/create-remix)** - Create Remix Run Web App using create-remix [`@nuno_costa`](https://raycast.com/nuno_costa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-create-remix) `api@^1.56.3`
@@ -609,7 +609,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Share My Code](https://raycast.com/jairaume/share-my-code)** - Quickly create shareable code snippet with ShareMyCode directly in your Raycast ecosystem. [`@jairaume`](https://raycast.com/jairaume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) `api@^1.67.0` `utils@^1.11.1`
 - **[Shell](https://raycast.com/asubbotin/shell)** - Run shell commands from Raycast [`@asubbotin`](https://raycast.com/asubbotin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell) `api@^1.38.2`
 - **[Shell Buddy](https://raycast.com/jebraat/shell-buddy)** - Converts natural language prompts to shell commands with AI [`@jebraat`](https://raycast.com/jebraat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) `api@^1.39.3`
-- **[Shell History](https://raycast.com/koinzhang/shell-history)** - Search shell command history. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-history) `api@^1.77.0` `utils@^1.16.0`
+- **[Shell History](https://raycast.com/koinzhang/shell-history)** - Search shell command history from zsh, bash, and fish. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-history) `api@^1.78.0` `utils@^1.16.1`
 - **[Short.io](https://raycast.com/koinzhang/short-io)** - Shorten and search links with your own domain via Short.io [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/short-io) `api@^1.66.2`
 - **[SimpleBackups](https://raycast.com/islamessam/simplebackups)** - View and manage your backups from SimpleBackups.com [`@islamessam`](https://raycast.com/islamessam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) `api@^1.39.3` `utils@^1.4.8`
 - **[SimpleTexOCR](https://raycast.com/Arthals/simpletexocr)** - A LaTeX OCR by Simpletex [`@Arthals`](https://raycast.com/Arthals) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) `api@^1.59.0` `utils@^1.10.0`
@@ -694,6 +694,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[GitHub CLI Manual](https://raycast.com/demartini/github-cli-manual)** - Raycast extension to search GitHub CLI Manual. [`@demartini`](https://raycast.com/demartini) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-cli-manual) `api@^1.44.0`
 - **[Guitar Chords](https://raycast.com/GastroGeek/guitar-chords)** - Lookup chord diagrams for guitar [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) `api@^1.39.0`
 - **[HTTP MIME Types](https://raycast.com/Envl/http-mime)** - Search MIME types for HTTP Content-Type [`@Envl`](https://raycast.com/Envl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/http-mime) `api@^1.59.0` `utils@^1.10.0`
+- **[Mandarin Chinese Dictionary](https://raycast.com/CofCat/mandarin-chinese-dictionary)** - Mandarin Chinese Dictionary [`@CofCat`](https://raycast.com/CofCat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mandarin-chinese-dictionary) `api@^1.77.0` `utils@^1.16.1`
 - **[Mantine UI Documentation](https://raycast.com/EmilMalanczak/mantine-documentation)** - Browse simplified documentation for Mantine or use quick links to particular pages directly through Raycast [`@EmilMalanczak`](https://raycast.com/EmilMalanczak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mantine) `api@^1.35.2`
 - **[Markdown to Jira](https://raycast.com/theo_brlle/markdown-to-jira)** - Format a Markdown text into Jira markup. [`@theo_brlle`](https://raycast.com/theo_brlle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-jira) `api@^1.52.1`
 - **[Novu](https://raycast.com/djabarovgeorge/novu)** - List all the useful sites, trigger notification, and more [`@djabarovgeorge`](https://raycast.com/djabarovgeorge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/novu) `api@^1.39.1` `utils@^1.4.9`

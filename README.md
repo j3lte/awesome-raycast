@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/633aa25cd26d95e0_update-time.svg)
+![Last update](/icons/d555f5d0b32b018f_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,9 +38,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1602** packages in **15** categories
+- **1603** packages in **15** categories
 - **14** packages use Swift
-- **1035** authors
+- **1036** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (23)
@@ -629,7 +629,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Swift Package Index](https://raycast.com/maximkrouk/swift-package-index)** - Search for Swift Packages via https://swiftpackageindex.com [`@maximkrouk`](https://raycast.com/maximkrouk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index) `api@^1.38.0`
 - **[Swift REPL](https://raycast.com/nakajima/swift-repl)** - Run lil swift snippets [`@nakajima`](https://raycast.com/nakajima) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swift-repl) `api@^1.72.1` `utils@^1.15.0`
 - **[System Information](https://raycast.com/Visual-Studio-Coder/system-information)** - Quick access to your system information so you never have to open System Settings. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/system-information) `api@^1.57.2`
-- **[Tailscale](https://raycast.com/samlinville/tailscale)** - List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. [`@samlinville`](https://raycast.com/samlinville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tailscale) `api@^1.61.2`
+- **[Tailscale](https://raycast.com/samlinville/tailscale)** - List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. [`@samlinville`](https://raycast.com/samlinville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tailscale) `api@^1.77.3`
 - **[Tailwind CSS Colorpicker](https://raycast.com/magicjaqk/tw-colorpicker)** - Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. [`@magicjaqk`](https://raycast.com/magicjaqk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) `api@^1.33.2`
 - **[Tailwind Size Conversion](https://raycast.com/kemiljk/tailwind-size-conversion)** - Converts pixels to Tailwind class values and vice versa [`@kemiljk`](https://raycast.com/kemiljk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/px-to-tailwind) `api@^1.52.1` `utils@^1.7.0`
 - **[Teleport](https://raycast.com/lamberttraccard/teleport)** - Interact with teleport, the open infrastructure access platform [`@lamberttraccard`](https://raycast.com/lamberttraccard) [`code`](https://github.com/raycast/extensions/tree/main/extensions/teleport) `api@^1.60.1` `utils@^1.10.0`
@@ -1353,6 +1353,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Greip](https://raycast.com/ghadeer/greip)** - Use endpoint from greip.io directly from Raycast [`@ghadeer`](https://raycast.com/ghadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/greip) `api@^1.43.2` `utils@^1.4.11`
 - **[Link Cleaner](https://raycast.com/MisakiCoca/link-cleaner)** - Remove tracking parameters from the URL link in clipboard. [`@MisakiCoca`](https://raycast.com/MisakiCoca) [`code`](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) `api@^1.39.1`
 - **[Mozilla VPN Connect](https://raycast.com/natew/mozilla-vpn)** - Interact with the Mozilla VPN from Raycast. [`@natew`](https://raycast.com/natew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) `api@^1.71.4`
+- **[Okta Search](https://raycast.com/damian_zachwieja/oktasearch)** - Serach Okta users and groups by name. [`@damian_zachwieja`](https://raycast.com/damian_zachwieja) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oktasearch) `api@^1.55.2`
 - **[One Time Password](https://raycast.com/lachero/one-time-password)** - Generate time-based one-time passwords [`@lachero`](https://raycast.com/lachero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) `api@^1.49.3` `utils@^1.5.2`
 - **[OpenVPN](https://raycast.com/benekuehn/openvpn)** - This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. [`@benekuehn`](https://raycast.com/benekuehn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openvpn) `api@^1.64.0`
 - **[Pass](https://raycast.com/capipo/pass)** - An extension to handle the standard unix password manager in a convenient way using Raycast [`@capipo`](https://raycast.com/capipo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pass) `api@^1.70.2`
@@ -1772,7 +1773,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Vercel](https://raycast.com/MaxLeiter/vercast)** - View and modify your Vercel projects and deployments. [`@MaxLeiter`](https://raycast.com/MaxLeiter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vercast) `api@^1.38.1` `utils@^1.4.8`
 - **[VirtualBox Power Switch](https://raycast.com/diogo_ferrer/virtualbox-power-switch)** - List your VirtualBox VMs, turn them on/off, or delete them. [`@diogo_ferrer`](https://raycast.com/diogo_ferrer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/virtualbox-power-switch) `api@^1.56.3` `utils@^1.9.0`
 - **[Visual Studio Code](https://raycast.com/thomas/visual-studio-code)** - Control Visual Studio Code, Cursor & Codium directly from Raycast - Search and open recent projects, handle extensions and commands. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) `api@^1.53.0` `utils@^1.10.0`
-- **[Visual Studio Code - Project Manager](https://raycast.com/MarkusLanger/vscode-project-manager)** - Search and open projects from Visual Studio Code Project Manager [`@MarkusLanger`](https://raycast.com/MarkusLanger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) `api@1.48.8`
+- **[Visual Studio Code - Project Manager](https://raycast.com/MarkusLanger/vscode-project-manager)** - Search and open projects from Visual Studio Code Project Manager [`@MarkusLanger`](https://raycast.com/MarkusLanger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) `api@^1.77.0` `utils@^1.16.1`
 - **[VueUse Functions](https://raycast.com/noopurphalak/vueuse-functions)** - Search VueUse functions [`@noopurphalak`](https://raycast.com/noopurphalak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vueuse-functions) `api@^1.29.1`
 - **[Weather](https://raycast.com/tonka3000/weather)** - Weather forecast via wttr.in [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/weather) `api@^1.66.0` `utils@^1.9.1`
 - **[Web3.bio](https://raycast.com/web3bio/web3bio)** - Discover Web3 Identity Graph and Profiles [`@web3bio`](https://raycast.com/web3bio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web3bio) `api@^1.63.0` `utils@^1.10.1`

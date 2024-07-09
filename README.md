@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/7ba4180a22423f79_update-time.svg)
+![Last update](/icons/ab50b8c4019cf1bb_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -1527,7 +1527,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bitfinex](https://raycast.com/Yukai/bitfinex)** - A Raycast extension built for Bitfinex margin funding [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitfinex) `api@^1.38.0` `utils@^1.4.11`
 - **[Bitly URL Shortener](https://raycast.com/blessanm86/bitly-url-shortener)** - Quickly shorten the selected URL or current clipboard URL with Bitly [`@blessanm86`](https://raycast.com/blessanm86) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) `api@^1.45.2`
 - **[BookStack](https://raycast.com/huskii/bookstack)** - Seamlessly integrates Raycast with BookStack to search and manage your documentation directly from your macOS desktop. [`@huskii`](https://raycast.com/huskii) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bookstack) `api@^1.72.1`
-- **[Brew](https://raycast.com/nhojb/brew)** - Search and install Homebrew formulae [`@nhojb`](https://raycast.com/nhojb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brew) `api@^1.70.0` `utils@^1.13.4`
+- **[Brew](https://raycast.com/nhojb/brew)** - Search and install Homebrew formulae [`@nhojb`](https://raycast.com/nhojb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brew) `api@^1.78.1` `utils@^1.16.1`
 - **[Browser Tabs](https://raycast.com/koinzhang/browser-tabs)** - Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) `api@^1.77.1` `utils@^1.16.0`
 - **[BTTV Emote](https://raycast.com/Aayush9029/bttv-emote)** - Browse Through Thousands of BTTV Emote [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) `api@^1.36.0`
 - **[BugMeNot](https://raycast.com/Yukai/bugmenot)** - Find username/password on BugMeNot [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) `api@^1.25.0`

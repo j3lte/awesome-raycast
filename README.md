@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/16f22480e4b842a8_update-time.svg)
+![Last update](/icons/ebd8c81f0e6605b8_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,17 +38,17 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1608** packages in **15** categories
+- **1611** packages in **15** categories
 - **14** packages use Swift
-- **1041** authors
+- **1042** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
-  - [xmok](https://raycast.com/xmok) (23)
+  - [xmok](https://raycast.com/xmok) (25)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
-  - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
-- **553** contributors
-  - of which **406** contributors are only contributors
+  - [thomas](https://raycast.com/thomas) (14)
+- **555** contributors
+  - of which **408** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (159)
   - [j3lte](https://raycast.com/j3lte) (26)
@@ -76,10 +76,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Baidu OCR](https://raycast.com/Humber/baidu-ocr)** - Use Baidu OCR API to recognize text. [`@Humber`](https://raycast.com/Humber) [`code`](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) `api@^1.51.1`
 - **[Bark](https://raycast.com/koinzhang/bark)** - Send messages to Bark via Raycast [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bark) `api@^1.77.0`
 - **[BetterTouchTool](https://raycast.com/dnnsmnstrr/bettertouchtool)** - Run BTT actions from Raycast [`@dnnsmnstrr`](https://raycast.com/dnnsmnstrr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool) `api@^1.72.0` `utils@^1.14.1`
-- **[BetterZip](https://raycast.com/koinzhang/betterzip)** - Compress and extract selected items in Finder with BetterZip via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/betterzip) `api@^1.42.2`
+- **[BetterZip](https://raycast.com/koinzhang/betterzip)** - Compress and extract selected items in Finder with BetterZip via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/betterzip) `api@^1.78.1`
 - **[Bike](https://raycast.com/HelloImSteven/bike)** - Control Bike with Raycast [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bike) `api@^1.47.1`
 - **[Bilibili](https://raycast.com/Fatpandac/bilibili)** - Get notify from bilibili [`@Fatpandac`](https://raycast.com/Fatpandac) [`code`](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) `api@^1.39.3` `utils@^1.10.1`
 - **[Bob - Control Bob Translate](https://raycast.com/ViGeng/bobcontrol)** - Control the Bob Translate app for macOS with your keyboard. [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bob) `api@^1.28.0` `utils@^1.13.1`
+- **[Brand.dev](https://raycast.com/xmok/brand-dev)** - An API to get a company's brand logos, colors, slogan, socials, and more. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) `api@^1.77.1` `utils@^1.16.1`
 - **[Brave](https://raycast.com/ron-myers/brave)** - Search open tabs, bookmarks and history in Brave. [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brave) `api@^1.44.0` `utils@^1.4.13`
 - **[Browser History](https://raycast.com/crisboarna/browser-history)** - Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion and Sidekick. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-history) `api@^1.44.0` `utils@^1.4.13`
 - **[Bunch](https://raycast.com/koinzhang/bunch)** - Control Bunch via Raycast. Bunch is a Mac automation tool. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bunch) `api@^1.65.1` `utils@^1.10.1`
@@ -142,6 +143,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mozilla Firefox](https://raycast.com/crisboarna/mozilla-firefox)** - Search and open tabs from bookmarks and history in Mozilla Firefox. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) `api@^1.59.0` `utils@^1.4.13`
 - **[Multi](https://raycast.com/fernando_barbat/multi)** - See rooms & teammates, join sessions, control devices and more [`@fernando_barbat`](https://raycast.com/fernando_barbat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multi) `api@^1.70.2` `utils@^1.13.4`
 - **[n8n](https://raycast.com/koinzhang/n8n)** - Control n8n via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/n8n) `api@^1.44.0`
+- **[NameSilo](https://raycast.com/xmok/namesilo)** - View your Domains, Orders, Whois Info and Account Balance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/namesilo) `api@^1.76.0` `utils@^1.15.0`
 - **[NameSpaces](https://raycast.com/GastroGeek/namespaces)** - Create named aliases for your macOS Spaces and easily switch between them from within Raycast [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/namespaces) `api@^1.39.3`
 - **[Nature Remo](https://raycast.com/uetchy/nature-remo)** - Control Nature Remo right from Raycast. [`@uetchy`](https://raycast.com/uetchy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) `api@^1.33.2`
 - **[Nippon Colors](https://raycast.com/nagauta/nippon-colors)** - explore nippon colors! [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nippon-colors) `api@^1.54.1`
@@ -375,7 +377,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Sip](https://raycast.com/jameslyons/sip)** - Access these Sip color management app features from Raycast: show color picker, open contrast checker, open settings, check contrast between two hex values, and add hex color to history. [`@jameslyons`](https://raycast.com/jameslyons) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sip) `api@^1.34.1`
 - **[SM.MS](https://raycast.com/koinzhang/sm-ms)** - SM.MS image hosting service to upload and share images. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sm-ms) `api@^1.71.4`
 - **[Specify](https://raycast.com/AllanM/specify)** - Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc. [`@AllanM`](https://raycast.com/AllanM) [`code`](https://github.com/raycast/extensions/tree/main/extensions/specify) `api@^1.52.0`
-- **[Stablecog](https://raycast.com/yektagg/stablecog)** - Create amazing art in seconds with AI. Generate and upscale images with Stablecog. [`@yektagg`](https://raycast.com/yektagg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stablecog) `api@^1.57.2` `utils@^1.9.1`
+- **[Stablecog](https://raycast.com/yektagg/stablecog)** - Create amazing art in seconds with AI. Generate and upscale images with Stablecog. [`@yektagg`](https://raycast.com/yektagg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stablecog) `api@^1.78.1` `utils@^1.16.1`
 - **[Supernova](https://raycast.com/JiriTrecak/supernova)** - Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in your tools, without switching context. [`@JiriTrecak`](https://raycast.com/JiriTrecak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supernova) `api@1.38.2`
 - **[Svgl](https://raycast.com/1weiho/svgl)** - Search SVG logos via svgl [`@1weiho`](https://raycast.com/1weiho) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svgl) `api@^1.64.3` `utils@^1.14.0`
 - **[Text Decorator](https://raycast.com/koinzhang/text-decorator)** - Super cool unicode text magic. Use 𝐛𝐨𝐥𝐝, 𝒊𝒕𝒂𝒍𝒊𝒄𝒔, and 🅜🅞🅡🅔 🄲🅁🄰🅉🅈 𝔩𝔬𝔬𝔨𝔦𝔫𝔤 fonts on Facebook, Twitter, and everywhere else. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-decorator) `api@^1.76.0`
@@ -451,7 +453,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Dig - DNS Lookup](https://raycast.com/danielbahl/dig)** - DNS lookup and nameserver query using the built-in host command [`@danielbahl`](https://raycast.com/danielbahl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dig) `api@^1.69.3` `utils@^1.13.3`
 - **[DigitalOcean](https://raycast.com/shukantpal/digitalocean)** - Quickly find resources in your DigitalOcean team [`@shukantpal`](https://raycast.com/shukantpal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/digitalocean) `api@^1.76.0` `utils@^1.16.0`
 - **[DirectAdmin Reseller](https://raycast.com/xmok/directadmin-reseller)** - Interact with DirectAdmin as a Reseller [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/directadmin-reseller) `api@^1.62.0` `utils@^1.10.0`
-- **[Dock Tinker](https://raycast.com/koinzhang/dock-tinker)** - Custom hidden preferences of Dock. Backup, restore and reset Dock state. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) `api@^1.44.0`
+- **[Dock Tinker](https://raycast.com/koinzhang/dock-tinker)** - Custom hidden preferences of Dock. Backup, restore and reset Dock state. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) `api@^1.78.1`
 - **[Doppler Share Secrets](https://raycast.com/thomas/doppler-share-secrets)** - Share sensitive data (a "secret") with friends, teammates, or strangers on the internet. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) `api@^1.28.0`
 - **[DOTween Eases](https://raycast.com/metakirby5/dotween-eases)** - Preview DOTween easing options through GIFs. [`@metakirby5`](https://raycast.com/metakirby5) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotween-eases) `api@^1.37.0`
 - **[Drupal Toolbox](https://raycast.com/emircanerkul/drupal-toolbox)** - Valuable tools and shortcuts for your Drupal Websites [`@emircanerkul`](https://raycast.com/emircanerkul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox) `api@1.44.0` `utils@^1.4.11`
@@ -846,6 +848,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Restore Photos](https://raycast.com/peduarte/restore-photos)** - Restore old photos using AI. Powered by https://restorephotos.io. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/restore-photo) `api@^1.46.0`
 - **[Roll D20](https://raycast.com/kayla/roll-d20)** - Rolls a d20, in other words, displays a random number between 1 and 20. [`@kayla`](https://raycast.com/kayla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/roll-d20) `api@^1.42.2`
 - **[Rollcast](https://raycast.com/troalexis/rollcast)** - Roll dice for your D&D games from Raycast! [`@troalexis`](https://raycast.com/troalexis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rollcast) `api@^1.51.0`
+- **[Shakespearify](https://raycast.com/Binary-Bytes/shakespearify)** - Convert plain boring English text to something like Shakespeare would write! [`@Binary-Bytes`](https://raycast.com/Binary-Bytes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shakespearify) `api@^1.77.1`
 - **[Simon](https://raycast.com/andreaselia/simon)** - Play a game of Simon. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simon) `api@^1.36.0`
 - **[Social Network Trends](https://raycast.com/koinzhang/social-network-trends)** - Show trends on WeiBo, ZhiHu, DouYin，BaiDu, TouTiao, BiliBili. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/social-network-trends) `api@^1.77.2` `utils@^1.16.1`
 - **[Sonu](https://raycast.com/bobringer/sonu-stream)** - Search sonu.stream for songs, artists, and vibes [`@bobringer`](https://raycast.com/bobringer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sonu-stream) `api@1.68.1` `utils@1.12.5`
@@ -1058,7 +1061,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Chinese Numbers](https://raycast.com/raffeyang/chinese-numbers)** - Chinese Numbers is a Raycast Extension to convert Arabic numbers to Chinese numbers. [`@raffeyang`](https://raycast.com/raffeyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chinese-numbers) `api@^1.39.3`
 - **[Citation Generator](https://raycast.com/AbhinavPalacharla/citation-generator)** - Generates MLA style citation provided by formatically.com [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/citation-generator) `api@^1.34.1`
 - **[CJK Text Format Improver](https://raycast.com/alice.ellis/text-format-improver)** - Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) with English. [`@alice.ellis`](https://raycast.com/alice.ellis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) `api@^1.57.2`
-- **[Claude](https://raycast.com/florisdobber/claude)** - Interact with Anthropic's Claude API directly from Raycast [`@florisdobber`](https://raycast.com/florisdobber) [`code`](https://github.com/raycast/extensions/tree/main/extensions/claude) `api@^1.47.0` `utils@^1.14.1`
+- **[Claude](https://raycast.com/florisdobber/claude)** - Interact with Anthropic's Claude API directly from Raycast [`@florisdobber`](https://raycast.com/florisdobber) [`code`](https://github.com/raycast/extensions/tree/main/extensions/claude) `api@^1.78.0` `utils@^1.14.1`
 - **[Clean Keyboard](https://raycast.com/ike-gg/clean-keyboard)** - Lock your keyboard to clean it easily. [`@ike-gg`](https://raycast.com/ike-gg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) `api@^1.72.1`
 - **[Clipboard Editor](https://raycast.com/pomdtr/clipboard-editor)** - Edit your clipboard text [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-editor) `api@^1.39.3` `utils@^1.4.1`
 - **[Clipboard Formatter](https://raycast.com/joshtemple/clipboard-formatter)** - Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. [`@joshtemple`](https://raycast.com/joshtemple) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) `api@^1.51.1`
@@ -1251,7 +1254,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Sage HR](https://raycast.com/cyxn/sage-hr)** - Integration with Sage HR to get a searchable list on who is out today [`@cyxn`](https://raycast.com/cyxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sage-hr) `api@^1.64.4` `utils@^1.10.1`
 - **[SavvyCal](https://raycast.com/laurynas/savvycal)** - Interact with your SavvyCal links [`@laurynas`](https://raycast.com/laurynas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/savvycal) `api@^1.39.2` `utils@^1.4.8`
 - **[Screen Math](https://raycast.com/hcancelik/screen-math)** - Perform rapid calculations using numbers on your screen [`@hcancelik`](https://raycast.com/hcancelik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-math) `api@^1.56.0`
-- **[Screen Saver](https://raycast.com/koinzhang/screen-saver)** - Activate screen saver of your Mac. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) `api@^1.44.0`
+- **[Screen Saver](https://raycast.com/koinzhang/screen-saver)** - Activate screen saver of your Mac. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) `api@^1.78.1`
 - **[Screen Sharing Recents](https://raycast.com/bix/screen-sharing-recents)** - Adds shortcuts to recent screen sharing locations [`@bix`](https://raycast.com/bix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) `api@^1.66.1`
 - **[ScreenOCR](https://raycast.com/huzef44/screenocr)** - ScreenOCR allows you to quickly and easily extract text from screen captures via OCR, perfect for extracting text from any on-screen content. All processing is done locally on device. [`@huzef44`](https://raycast.com/huzef44) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screenocr) `api@^1.49.3` `utils@^1.5.2`
 - **[Screenshot](https://raycast.com/Aayush9029/screenshot)** - Capture your screen with macOS native tools [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screenshot) `api@^1.42.0`
@@ -1533,7 +1536,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bitly URL Shortener](https://raycast.com/blessanm86/bitly-url-shortener)** - Quickly shorten the selected URL or current clipboard URL with Bitly [`@blessanm86`](https://raycast.com/blessanm86) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) `api@^1.45.2`
 - **[BookStack](https://raycast.com/huskii/bookstack)** - Seamlessly integrates Raycast with BookStack to search and manage your documentation directly from your macOS desktop. [`@huskii`](https://raycast.com/huskii) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bookstack) `api@^1.72.1`
 - **[Brew](https://raycast.com/nhojb/brew)** - Search and install Homebrew formulae [`@nhojb`](https://raycast.com/nhojb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brew) `api@^1.78.1` `utils@^1.16.1`
-- **[Browser Tabs](https://raycast.com/koinzhang/browser-tabs)** - Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) `api@^1.77.1` `utils@^1.16.0`
+- **[Browser Tabs](https://raycast.com/koinzhang/browser-tabs)** - Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) `api@^1.78.1` `utils@^1.16.1`
 - **[BTTV Emote](https://raycast.com/Aayush9029/bttv-emote)** - Browse Through Thousands of BTTV Emote [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) `api@^1.36.0`
 - **[BugMeNot](https://raycast.com/Yukai/bugmenot)** - Find username/password on BugMeNot [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) `api@^1.25.0`
 - **[Calendly Share Meeting Links](https://raycast.com/eluce2/calendly)** - Quickly share your Calendly meeting links [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/calendly) `api@^1.39.2` `utils@^1.3.1`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/fba037574a8b09b1_update-time.svg)
+![Last update](/icons/aecfefd02ab78c1d_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -47,14 +47,14 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **557** contributors
-  - of which **410** contributors are only contributors
+- **558** contributors
+  - of which **411** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (159)
   - [j3lte](https://raycast.com/j3lte) (26)
   - [xilopaint](https://raycast.com/xilopaint) (17)
   - [erics118](https://raycast.com/erics118) (14)
-  - [sxn](https://raycast.com/sxn) (12)
+  - [stelo](https://raycast.com/stelo) (13)
 
 <!-- END STATISTICS -->
 
@@ -295,7 +295,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[List Randomizer](https://raycast.com/quuu/list-randomizer)** - Randomizes a list of items [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/list-randomizer) `api@^1.56.1`
 - **[Liveblocks](https://raycast.com/andreaselia/liveblocks)** - Exposes the Liveblocks API via a pleasant and easy to use UI. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/liveblocks) `api@^1.33.2`
 - **[LoL Esports](https://raycast.com/vimtor/lol-esports)** - Search League of Legends esports schedules and standings. [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lol-esports) `api@^1.66.2` `utils@^1.12.0`
-- **[Lorem Ipsum](https://raycast.com/AntonNiklasson/lorem-ipsum)** - Generate placeholder content [`@AntonNiklasson`](https://raycast.com/AntonNiklasson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) `api@^1.61.2`
+- **[Lorem Ipsum](https://raycast.com/AntonNiklasson/lorem-ipsum)** - Generate placeholder content [`@AntonNiklasson`](https://raycast.com/AntonNiklasson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lorem-ipsum) `api@^1.78.1`
 - **[Lorem Picsum](https://raycast.com/michaelfarquhar/lorem-picsum)** - Generate a random image link for given dimensions. [`@michaelfarquhar`](https://raycast.com/michaelfarquhar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lorem-picsum) `api@^1.64.4`
 - **[M3O](https://raycast.com/andreaselia/m3o)** - Explore, discover and consume public APIs as simpler programmable building blocks. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/m3o) `api@^1.38.3`
 - **[Manage Firebase Firestore Collections](https://raycast.com/mguyard/firebase-import-export)** - Extension to export and import Firestore Collections (backup and restore). Including using Spark (free) subscription. [`@mguyard`](https://raycast.com/mguyard) [`code`](https://github.com/raycast/extensions/tree/main/extensions/firebase-import-export) `api@^1.47.2`
@@ -895,7 +895,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[FFmpeg - View, Analyze and Manipulate](https://raycast.com/RenderCoder/ffmpeg)** - Use FFmpeg to view media file info [`@RenderCoder`](https://raycast.com/RenderCoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) `api@^1.56.1` `utils@^1.9.1`
 - **[Fip](https://raycast.com/louison/fip)** - Start and explore the fip radio directly from Raycast [`@louison`](https://raycast.com/louison) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fip) `api@^1.58.0`
 - **[Freesound](https://raycast.com/j3lte/freesound)** - Search the Freesound Library [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/freesound) `api@^1.76.0` `utils@^1.15.0`
-- **[Genius Lyrics](https://raycast.com/tkdkid1000/genius-lyrics)** - Query and quickly read lyrics for any song from the Genius API. [`@tkdkid1000`](https://raycast.com/tkdkid1000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/genius-lyrics) `api@^1.73.2` `utils@^1.15.0`
+- **[Genius Lyrics](https://raycast.com/tkdkid1000/genius-lyrics)** - Search by song title to instantly view lyrics, or enter remembered lyrics to quickly find the song's title, utilizing the Genius Lyrics API. [`@tkdkid1000`](https://raycast.com/tkdkid1000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/genius-lyrics) `api@^1.73.2` `utils@^1.15.0`
 - **[GIF Search](https://raycast.com/josephschmitt/gif-search)** - Search the Internet for animated GIFs [`@josephschmitt`](https://raycast.com/josephschmitt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gif-search) `api@^1.72.1` `utils@^1.14.0`
 - **[Goodreads](https://raycast.com/puneeth/goodreads)** - Search Goodreads books, authors and more [`@puneeth`](https://raycast.com/puneeth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/goodreads) `api@^1.56.0` `utils@^1.8.0`
 - **[Gyazo Uploader](https://raycast.com/udus/gyazo-uploader)** - Upload clipboard image to Gyazo [`@udus`](https://raycast.com/udus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gyazo-uploader) `api@^1.56.0`

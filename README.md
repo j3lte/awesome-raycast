@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/063302c1879fb3e4_update-time.svg)
+![Last update](/icons/c2237806de2772b1_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,17 +38,17 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1616** packages in **15** categories
+- **1618** packages in **15** categories
 - **15** packages use Swift
-- **1046** authors
+- **1047** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (26)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **560** contributors
-  - of which **412** contributors are only contributors
+- **563** contributors
+  - of which **415** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (159)
   - [j3lte](https://raycast.com/j3lte) (26)
@@ -587,7 +587,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Project Companion](https://raycast.com/maximedaraize/project-companion)** - Extension allowing you to add, update, delete and search your projects [`@maximedaraize`](https://raycast.com/maximedaraize) [`code`](https://github.com/raycast/extensions/tree/main/extensions/project-companion) `api@^1.69.0` `utils@^1.14.0`
 - **[Projects](https://raycast.com/ajaypremshankar/projects)** - Quickly access your local projects and open them in your favorite editor or any app. [`@ajaypremshankar`](https://raycast.com/ajaypremshankar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/projects) `api@^1.30.3`
 - **[Protobuf2TypeScript](https://raycast.com/7gugu/protobuf2typescript)** - A script which help front-end devloper to convert *.protobuf file into *.d.ts file. [`@7gugu`](https://raycast.com/7gugu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/protobuf2typescript) `api@^1.64.5`
-- **[Proxmox](https://raycast.com/CzBiX/proxmox)** - Manage your Proxmox server from Raycast [`@CzBiX`](https://raycast.com/CzBiX) [`code`](https://github.com/raycast/extensions/tree/main/extensions/proxmox) `api@^1.66.1` `utils@^1.11.1`
+- **[Proxmox](https://raycast.com/CzBiX/proxmox)** - Manage your Proxmox server from Raycast [`@CzBiX`](https://raycast.com/CzBiX) [`code`](https://github.com/raycast/extensions/tree/main/extensions/proxmox) `api@^1.78.0` `utils@^1.16.2`
 - **[Python](https://raycast.com/ahmedivy/python)** - Search Python Packages on PyPi [`@ahmedivy`](https://raycast.com/ahmedivy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/python) `api@^1.76.0` `utils@^1.16.0`
 - **[Quick Access](https://raycast.com/koinzhang/quick-access)** - Quick access, drag and drop the files or folders pinned in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-access) `api@^1.78.1` `utils@^1.16.1`
 - **[Quicktype](https://raycast.com/Aayush9029/quicktype)** - Generate Models and Serializers from JSON [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicktype) `api@^1.31.0`
@@ -937,7 +937,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Spotify Player](https://raycast.com/mattisssa/spotify-player)** - Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar. [`@mattisssa`](https://raycast.com/mattisssa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) `api@^1.75.1` `utils@^1.16.2`
 - **[Steam](https://raycast.com/KevinBatdorf/steam)** - Search and view information about any game on steam, as well as games you own. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/steam) `api@^1.51.0` `utils@^1.6.1`
 - **[Syntax.fm](https://raycast.com/msmps/syntax-fm)** - Syntax.fm at your fingertips. [`@msmps`](https://raycast.com/msmps) [`code`](https://github.com/raycast/extensions/tree/main/extensions/syntax-fm) `api@^1.72.1` `utils@^1.14.1`
-- **[The Movie Database](https://raycast.com/Aayush9029/tmdb)** - Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tmdb) `api@^1.62.0` `utils@^1.10.1`
+- **[The Movie Database](https://raycast.com/Aayush9029/tmdb)** - Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tmdb) `api@^1.69.0` `utils@^1.15.0`
 - **[TransistorFM](https://raycast.com/madebyankur/raycast-transistorfm)** - Get TransistorFM stats directly from your command bar [`@madebyankur`](https://raycast.com/madebyankur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-transistorfm) `api@^1.65.1` `utils@^1.4.8`
 - **[Twitter/X Video Downloader](https://raycast.com/kaanrkaraman/twitter-video-downloader)** - Download videos from Twitter/X with ease [`@kaanrkaraman`](https://raycast.com/kaanrkaraman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) `api@^1.56.0`
 - **[Unogs](https://raycast.com/mohitkyadav/unogs)** - A Raycast extension for Unogs [`@mohitkyadav`](https://raycast.com/mohitkyadav) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unogs) `api@^1.33.2`
@@ -1207,6 +1207,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Office2PDF](https://raycast.com/ARui/office2pdf)** - Raycast extension to convert office files to pdf using CloudConvert api [`@ARui`](https://raycast.com/ARui) [`code`](https://github.com/raycast/extensions/tree/main/extensions/office2pdf) `api@^1.74.1`
 - **[Ollama AI](https://raycast.com/massimiliano_pasquini/raycast-ollama)** - Perform Local Inference with Ollama [`@massimiliano_pasquini`](https://raycast.com/massimiliano_pasquini) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) `api@^1.55.2` `utils@^1.9.0`
 - **[One Tab Group](https://raycast.com/xiaoluoboding/one-tab-group)** - Search One Tab Group on Raycast [`@xiaoluoboding`](https://raycast.com/xiaoluoboding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-tab-group) `api@^1.45.2`
+- **[OneLook Thesaurus](https://raycast.com/FelipeCortez/onelook-thesaurus)** - A powerful English thesaurus and brainstorming tool that lets you describe what you're looking for in plain terms. [`@FelipeCortez`](https://raycast.com/FelipeCortez) [`code`](https://github.com/raycast/extensions/tree/main/extensions/onelook-thesaurus) `api@^1.78.1` `utils@^1.16.2`
 - **[OneNote](https://raycast.com/alewandowski/onenote)** - Search Microsoft OneNote notes [`@alewandowski`](https://raycast.com/alewandowski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/onenote) `api@^1.46.0` `utils@^1.4.16`
 - **[Open Browsers Profiles](https://raycast.com/skydiver/browsers-profiles)** - Access your browsers profiles from Raycast [`@skydiver`](https://raycast.com/skydiver) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browsers-profiles) `api@^1.36.0`
 - **[Open Folders](https://raycast.com/timothy_boye/open-folders)** - Open your common files and folders quickly! [`@timothy_boye`](https://raycast.com/timothy_boye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-folders) `api@^1.72.1` `utils@^1.15.0`
@@ -1414,6 +1415,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Setapp](https://raycast.com/lardissone/setapp)** - Search Setapp apps [`@lardissone`](https://raycast.com/lardissone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/setapp) `api@^1.54.1` `utils@^1.8.0`
 - **[Single Focus](https://raycast.com/Mmehdi06/single-focus)** - Closes all the open apps except the frontmost one [`@Mmehdi06`](https://raycast.com/Mmehdi06) [`code`](https://github.com/raycast/extensions/tree/main/extensions/single-focus) `api@^1.71.4` `utils@^1.10.1`
 - **[SSH Tunnel Manager](https://raycast.com/MinatoHikari/ssh-tunnel-manager)** - Manage ssh tunnels [`@MinatoHikari`](https://raycast.com/MinatoHikari) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ssh-tunnel-manager) `api@^1.45.1` `utils@^1.4.14`
+- **[Time Machine](https://raycast.com/SuoweiHu/time-machine)** - This extension is built to integrate MacOS system backup utility "TimeMachine" with Raycast. With the help of tmutil CLI Utility, it offers users the ability to control their backups with ease. [`@SuoweiHu`](https://raycast.com/SuoweiHu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/time-machine) `api@^1.78.1` `utils@^1.16.1`
 - **[Toggle Desktop Visibility](https://raycast.com/Haojen/toggle-desktop-visibility)** - Toggle Desktop file or folder visible and hidden [`@Haojen`](https://raycast.com/Haojen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toggle-desktop-visibility) `api@^1.59.0`
 - **[Toggle Menu Bar](https://raycast.com/iamyeizi/toggle-menu-bar)** - Switch between show/hide menu bar options [`@iamyeizi`](https://raycast.com/iamyeizi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) `api@^1.58.1`
 - **[Toggle Scroll Bars Visibility](https://raycast.com/danulqua/toggle-scroll-bars-visibility)** - Change scroll bars visibility in macOS. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toggle-scroll-bars-visibility) `api@^1.57.1` `utils@^1.9.1`

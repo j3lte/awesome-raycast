@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/c2237806de2772b1_update-time.svg)
+![Last update](/icons/3fd0b51dd2619343_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,17 +38,17 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1618** packages in **15** categories
+- **1621** packages in **15** categories
 - **15** packages use Swift
-- **1047** authors
+- **1050** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (26)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **563** contributors
-  - of which **415** contributors are only contributors
+- **565** contributors
+  - of which **417** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (159)
   - [j3lte](https://raycast.com/j3lte) (26)
@@ -288,7 +288,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ipapi.is](https://raycast.com/xmok/ipapi-is)** - Lookup IP or ASN via ipapi.is [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) `api@^1.62.0` `utils@^1.10.1`
 - **[Jalali Date Convertor](https://raycast.com/amin_saedi/jalali-date-convertor)** - Converts Shamsi (Jalali) calendar dates to/from Gregorian calendar [`@amin_saedi`](https://raycast.com/amin_saedi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jalali-date-convertor) `api@^1.56.1`
 - **[Jupiter Aggregator](https://raycast.com/stevedsimkins/jup-agg)** - Lets you display the value of a token in the menu bar and lets you calculate the value of tokens [`@stevedsimkins`](https://raycast.com/stevedsimkins) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jupiter-aggregator) `api@^1.47.2` `utils@^1.4.8`
-- **[Just Delete Me](https://raycast.com/andreaselia/just-delete-me)** - A directory of direct links to delete your account from web services. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) `api@^1.48.5` `utils@^1.5.2`
+- **[Just Delete Me](https://raycast.com/andreaselia/just-delete-me)** - A directory of direct links to delete your account from web services. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) `api@^1.78.0` `utils@^1.16.2`
 - **[JWT Decoder](https://raycast.com/gdsmith/jwt-decoder)** - Decode Your JSON Web Tokens – extract the header and data information from a JWT [`@gdsmith`](https://raycast.com/gdsmith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) `api@^1.32.1`
 - **[Laby.net](https://raycast.com/niklaswa/laby-net)** - Search and view Minecraft user profiles and textures like skins and capes with data from laby.net. [`@niklaswa`](https://raycast.com/niklaswa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laby-net) `api@^1.64.3`
 - **[Lightshot Gallery](https://raycast.com/feyli/lightshot-gallery)** - Easily access your Lightshot gallery [`@feyli`](https://raycast.com/feyli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lightshot-gallery) `api@^1.48.4`
@@ -405,7 +405,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Android Versions](https://raycast.com/bruce3x/android-versions)** - Search quickly between Android version number, API level, codename. [`@bruce3x`](https://raycast.com/bruce3x) [`code`](https://github.com/raycast/extensions/tree/main/extensions/android-versions) `api@^1.69.0`
 - **[Append Clipboard](https://raycast.com/koinzhang/append-clipboard)** - Append or prepend selected text to your clipboard with different separators [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/append-clipboard) `api@^1.75.1`
 - **[Apple Developer Docs](https://raycast.com/cali/apple-developer-docs)** - Search from the Apple Developer documentations [`@cali`](https://raycast.com/cali) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-developer-docs) `api@^1.38.2` `utils@^1.4.8`
+- **[Array This](https://raycast.com/matheus_de_paula_domingos/array-this)** - Format list of items into an array. [`@matheus_de_paula_domingos`](https://raycast.com/matheus_de_paula_domingos) [`code`](https://github.com/raycast/extensions/tree/main/extensions/array-this) `api@^1.69.0`
 - **[AsyncAPI](https://raycast.com/smoya/asyncapi)** - AsyncAPI extension for Raycast brings some AsyncAPI tools to you. [`@smoya`](https://raycast.com/smoya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asyncapi) `api@^1.30.1`
+- **[ATproto Lexicon Search](https://raycast.com/futur/lexicon-search)** - Quickly look up atproto lexicons. [`@futur`](https://raycast.com/futur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lexicon-search) `api@^1.69.0` `utils@^1.16.2`
 - **[Azure DevOps Repositories Search](https://raycast.com/willem_van_lent/ado-search)** - Search trough Azure DevOps git repositories and find open Pull Requests [`@willem_van_lent`](https://raycast.com/willem_van_lent) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ado-search) `api@^1.70.3` `utils@^1.13.6`
 - **[Bech32 Converter](https://raycast.com/zygimantas_magelinskas/bech32-converter)** - Converts Cosmos Bech32 addresses to a desired prefix [`@zygimantas_magelinskas`](https://raycast.com/zygimantas_magelinskas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bech32-converter) `api@^1.69.0`
 - **[Binary Tools](https://raycast.com/frostplexx/bintools)** - A calculator for binary, decimal, hex and octal numbers. [`@frostplexx`](https://raycast.com/frostplexx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bintools) `api@^1.53.2`
@@ -1149,6 +1151,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Intention Clarifier](https://raycast.com/skyline-123/intention-clarifier)** - This Raycast extension helps you articulate your intentions, mood, and reasons behind your tasks. It guides you through a simple form to clarify what you want to achieve, the mindset you need, and why you're doing it. The extension then allows you to either paste this intention directly into your current application or copy it to your clipboard for later use. [`@skyline-123`](https://raycast.com/skyline-123) [`code`](https://github.com/raycast/extensions/tree/main/extensions/intention-clarifier) `api@^1.66.2` `utils@^1.12.4`
 - **[iTranslate](https://raycast.com/JinShi/itranslate)** - Translate words or sentences, support 36 languages, OCR, history record and translating into multiple languages at the same time. [`@JinShi`](https://raycast.com/JinShi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/itranslate) `api@^1.44.0`
 - **[Jira](https://raycast.com/thomaslombart/jira)** - Create, access, and modify issues and sprints. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jira) `api@^1.64.3` `utils@^1.16.2`
+- **[Johnny.Decimal](https://raycast.com/x0ba/johnny-decimal)** - Search and manage Johnny.Decimal system. [`@x0ba`](https://raycast.com/x0ba) [`code`](https://github.com/raycast/extensions/tree/main/extensions/johnny-decimal) `api@^1.79.0`
 - **[Jotoba — Japanese Dictionary](https://raycast.com/clnhs/jotoba)** - Search Jotoba.de from the comfort of Raycast. [`@clnhs`](https://raycast.com/clnhs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jotoba) `api@^1.45.1`
 - **[JSON Editor](https://raycast.com/HerbertLu/json-editor)** - All JSON operations in one editor. [`@HerbertLu`](https://raycast.com/HerbertLu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/json-editor) `api@^1.45.2`
 - **[Jump](https://raycast.com/HelloImSteven/jump)** - Jump to websites, folders, or files [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jump) `api@^1.63.0` `utils@^1.10.1`
@@ -1549,7 +1552,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[BugMeNot](https://raycast.com/Yukai/bugmenot)** - Find username/password on BugMeNot [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) `api@^1.25.0`
 - **[Calendly Share Meeting Links](https://raycast.com/eluce2/calendly)** - Quickly share your Calendly meeting links [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/calendly) `api@^1.39.2` `utils@^1.3.1`
 - **[CanvasCast](https://raycast.com/Yoda/canvascast)** - Access the Canvas LMS from Raycast [`@Yoda`](https://raycast.com/Yoda) [`code`](https://github.com/raycast/extensions/tree/main/extensions/canvascast) `api@^1.38.1` `utils@^1.4.8`
-- **[Chakra UI Documentation](https://raycast.com/pgvr/chakra-ui-docs)** - Provide quick links to the Chakra UI component documentation. [`@pgvr`](https://raycast.com/pgvr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chakra-ui-docs) `api@^1.39.3`
+- **[Chakra UI Documentation](https://raycast.com/pgvr/chakra-ui-docs)** - Provide quick links to the Chakra UI component documentation. [`@pgvr`](https://raycast.com/pgvr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chakra-ui-docs) `api@^1.77.1`
 - **[Change Scroll Direction](https://raycast.com/gregoralbrecht/change-scroll-direction)** - Changes between the two scroll directions „natural“ and „mouse-friendly“. Useful when switching between trackpad and mouse. [`@gregoralbrecht`](https://raycast.com/gregoralbrecht) [`code`](https://github.com/raycast/extensions/tree/main/extensions/change-scroll-direction) `api@^1.42.0`
 - **[Checksum](https://raycast.com/Ek217/checksum)** - This Raycast extension allows you to check the checksum of a file. Simply enter the file path and the extension will calculate its checksum and compare it to a provided value. This can be useful for verifying the integrity of downloaded files or ensuring that a file has not been tampered with [`@Ek217`](https://raycast.com/Ek217) [`code`](https://github.com/raycast/extensions/tree/main/extensions/checksum) `api@^1.51.3`
 - **[CircleCI Workflows](https://raycast.com/qeude/circle-ci)** - This extension shows a list of your latest CircleCI workflows.  It requires a CircleCI API token which you can get on https://app.circleci.com/settings/user/tokens. . [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/circle-ci) `api@^1.25.0`

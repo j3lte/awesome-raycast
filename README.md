@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/cd4e49499feed551_update-time.svg)
+![Last update](/icons/956ddd5764669af2_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,19 +38,19 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1621** packages in **15** categories
+- **1622** packages in **15** categories
 - **15** packages use Swift
-- **1050** authors
+- **1051** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (26)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **565** contributors
-  - of which **417** contributors are only contributors
+- **566** contributors
+  - of which **418** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (159)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (160)
   - [j3lte](https://raycast.com/j3lte) (26)
   - [xilopaint](https://raycast.com/xilopaint) (17)
   - [erics118](https://raycast.com/erics118) (14)
@@ -407,7 +407,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Apple Developer Docs](https://raycast.com/cali/apple-developer-docs)** - Search from the Apple Developer documentations [`@cali`](https://raycast.com/cali) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-developer-docs) `api@^1.38.2` `utils@^1.4.8`
 - **[Array This](https://raycast.com/matheus_de_paula_domingos/array-this)** - Format list of items into an array. [`@matheus_de_paula_domingos`](https://raycast.com/matheus_de_paula_domingos) [`code`](https://github.com/raycast/extensions/tree/main/extensions/array-this) `api@^1.69.0`
 - **[AsyncAPI](https://raycast.com/smoya/asyncapi)** - AsyncAPI extension for Raycast brings some AsyncAPI tools to you. [`@smoya`](https://raycast.com/smoya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asyncapi) `api@^1.30.1`
-- **[ATproto Lexicon Search](https://raycast.com/futur/lexicon-search)** - Quickly look up atproto lexicons. [`@futur`](https://raycast.com/futur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lexicon-search) `api@^1.69.0` `utils@^1.16.2`
+- **[AT Protocol Lexicon Search](https://raycast.com/ftrstk/lexicon-search)** - Quickly look up atproto lexicons. [`@ftrstk`](https://raycast.com/ftrstk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lexicon-search) `api@^1.69.0` `utils@^1.16.2`
 - **[Azure DevOps Repositories Search](https://raycast.com/willem_van_lent/ado-search)** - Search trough Azure DevOps git repositories and find open Pull Requests [`@willem_van_lent`](https://raycast.com/willem_van_lent) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ado-search) `api@^1.70.3` `utils@^1.13.6`
 - **[Bech32 Converter](https://raycast.com/zygimantas_magelinskas/bech32-converter)** - Converts Cosmos Bech32 addresses to a desired prefix [`@zygimantas_magelinskas`](https://raycast.com/zygimantas_magelinskas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bech32-converter) `api@^1.69.0`
 - **[Binary Tools](https://raycast.com/frostplexx/bintools)** - A calculator for binary, decimal, hex and octal numbers. [`@frostplexx`](https://raycast.com/frostplexx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bintools) `api@^1.53.2`
@@ -569,6 +569,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[OSS Insight](https://raycast.com/k8scat/ossinsight)** - OSS Insight extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ossinsight) `api@^1.40.1` `utils@^1.9.0`
 - **[Outline Page](https://raycast.com/praveenjuge/outline-page)** - Check for CSS bugs by outlining all the elements in your web page. [`@praveenjuge`](https://raycast.com/praveenjuge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/outline-page) `api@^1.72.1` `utils@^1.14.1`
 - **[PagerDuty](https://raycast.com/horimislime/pagerduty)** - Display PagerDuty incidents and helps updating status. [`@horimislime`](https://raycast.com/horimislime) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) `api@^1.39.2`
+- **[Pagespeed](https://raycast.com/vorillaz/pagespeed)** - A simple extension that reports page speed insights based on page-speed.dev [`@vorillaz`](https://raycast.com/vorillaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pagespeed) `api@^1.78.1` `utils@1.16.2`
 - **[Paperspace](https://raycast.com/yuri/paperspace)** - Control your Paperspace machines [`@yuri`](https://raycast.com/yuri) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paperspace) `api@^1.39.3` `utils@^1.4.8`
 - **[Passphrase Generator](https://raycast.com/omBratteng/passphrase-generator)** - Generates a set of random passwords using different generators. [`@omBratteng`](https://raycast.com/omBratteng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) `api@^1.37.0`
 - **[Paste as Plain Text](https://raycast.com/koinzhang/paste-as-plain-text)** - Paste text from the clipboard as any format. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) `api@^1.77.1`
@@ -1672,7 +1673,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Main Library in University of St Andrews](https://raycast.com/Harry_Huang/st-andrews-main-library-occupancy)** - How busy is the main library now? [`@Harry_Huang`](https://raycast.com/Harry_Huang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/st-andrews-main-library-occupancy) `api@^1.69.0` `utils@^1.14.0`
 - **[Markdown Reference](https://raycast.com/codedbyjordan/markdown-reference)** - Markdown documentation at your fingertips [`@codedbyjordan`](https://raycast.com/codedbyjordan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) `api@^1.26.3`
 - **[Markprompt](https://raycast.com/nickrttn/markprompt)** - Prompt your Markprompt project from Raycast [`@nickrttn`](https://raycast.com/nickrttn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markprompt) `api@^1.68.1` `utils@^1.12.5`
-- **[Memos](https://raycast.com/JakeYu/memos)** - Manage Your Memos [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memos) `api@^1.47.3` `utils@^1.4.16`
+- **[Memos](https://raycast.com/JakeYu/memos)** - Manage Your Memos [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memos) `api@^1.75.2` `utils@^1.15.0`
 - **[Menubar Weather](https://raycast.com/koinzhang/menubar-weather)** - Show current weather on the menu bar [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) `api@^1.78.1` `utils@^1.16.2`
 - **[Messages](https://raycast.com/thomaslombart/messages)** - Quickly send a message to one of your contacts. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/messages) `api@^1.78.1` `utils@^1.16.2`
 - **[Metaphor](https://raycast.com/QIanGua/metaphor)** - Search with Metaphor [`@QIanGua`](https://raycast.com/QIanGua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metaphor) `api@^1.56.3` `utils@^1.4.16`

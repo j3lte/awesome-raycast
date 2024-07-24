@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/956ddd5764669af2_update-time.svg)
+![Last update](/icons/c14a8e43163c113f_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,9 +38,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1622** packages in **15** categories
+- **1625** packages in **15** categories
 - **15** packages use Swift
-- **1051** authors
+- **1052** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (26)
@@ -50,11 +50,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **566** contributors
   - of which **418** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (160)
-  - [j3lte](https://raycast.com/j3lte) (26)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (161)
+  - [j3lte](https://raycast.com/j3lte) (27)
   - [xilopaint](https://raycast.com/xilopaint) (17)
+  - [stelo](https://raycast.com/stelo) (14)
   - [erics118](https://raycast.com/erics118) (14)
-  - [stelo](https://raycast.com/stelo) (13)
 
 <!-- END STATISTICS -->
 
@@ -225,7 +225,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mastodon Search](https://raycast.com/daveverwer/mastodon-search)** - Search for People or Hashtags on Mastodon. [`@daveverwer`](https://raycast.com/daveverwer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mastodon-search) `api@^1.49.3` `utils@^1.5.2`
 - **[Mattermost](https://raycast.com/ernest0n/mattermost)** - Search for chats, see unread messages, and set your presence status. [`@ernest0n`](https://raycast.com/ernest0n) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mattermost) `api@^1.49.2` `utils@^1.7.1`
 - **[Migadu](https://raycast.com/xmok/migadu)** - Mailboxes, Identities, Aliases, Rewrites in Migadu [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/migadu) `api@^1.50.2` `utils@^1.5.2`
-- **[NATO Phonetic Alphabet](https://raycast.com/jns/nato-phonetic-alphabet)** - For knowing and conveniently using the NATO phonetic alphabet. [`@jns`](https://raycast.com/jns) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nato-phonetic-alphabet) `api@^1.45.2`
+- **[NATO Phonetic Alphabet](https://raycast.com/jns/nato-phonetic-alphabet)** - For knowing and conveniently using the NATO phonetic alphabet. [`@jns`](https://raycast.com/jns) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nato-phonetic-alphabet) `api@^1.79.1`
 - **[omg.lol](https://raycast.com/danpalmer/omg-lol)** - Create, read, and update data in your omg.lol account. [`@danpalmer`](https://raycast.com/danpalmer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/omg-lol) `api@^1.64.4` `utils@^1.10.1`
 - **[One-Time Secret](https://raycast.com/larsasolidor/one-time-secret)** - Allows secrets to be transmitted using the One-Time Secret website. [`@larsasolidor`](https://raycast.com/larsasolidor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) `api@^1.53.4`
 - **[Porkbun](https://raycast.com/xmok/porkbun)** - Interact with Porkbun with the help of Raycast [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/porkbun) `api@^1.60.0` `utils@^1.10.0`
@@ -317,6 +317,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Stock Lookup](https://raycast.com/jones-sam/stock-lookup)** - Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alphavantage.co/premium/ [`@jones-sam`](https://raycast.com/jones-sam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) `api@^1.35.0`
 - **[Storyblok](https://raycast.com/Rob/storyblok)** - Query your Storyblok spaces, stories, assets, and more. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storyblok) `api@^1.66.2` `utils@^1.12.0`
 - **[StoryTime](https://raycast.com/andreaselia/storytime)** - Generate a story using OpenAI and Upstash. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storytime) `api@^1.45.2` `utils@^1.4.14`
+- **[Streamshare Uploader](https://raycast.com/PandaDEV/streamshare-uploader)** - Upload files to streamshare. [`@PandaDEV`](https://raycast.com/PandaDEV) [`code`](https://github.com/raycast/extensions/tree/main/extensions/streamshare-uploader) `api@^1.77.3`
 - **[Sun/Moon Times](https://raycast.com/danny_seidel/sun-moon-times)** - Show times for sun and moon for any city in the World. [`@danny_seidel`](https://raycast.com/danny_seidel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sun-moon-times) `api@^1.48.9` `utils@^1.5.2`
 - **[Tesla](https://raycast.com/williamwelsh/tesla)** - Control and view your Tesla [`@williamwelsh`](https://raycast.com/williamwelsh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tesla) `api@^1.57.1` `utils@^1.9.1`
 - **[TeslaMate](https://raycast.com/mSarheed/teslamate)** - View your TeslaMate data in Raycast [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/teslamate) `api@^1.73.2` `utils@^1.15.0`
@@ -823,7 +824,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Installed Extensions](https://raycast.com/pernielsentikaer/installed-extensions)** - List your current installed Raycast extensions [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/installed-extensions) `api@^1.62.0` `utils@^1.10.0`
 - **[IPA Translator](https://raycast.com/BossElijah/ipa-translator)** - Converts text to IPA (International Phonetic Alphabet) [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ipa-translator) `api@^1.74.0`
 - **[Is It Toxic To?](https://raycast.com/chesterhow/is-it-toxic-to)** - Check if a plant is toxic to an animal [`@chesterhow`](https://raycast.com/chesterhow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/is-it-toxic-to) `api@^1.40.3` `utils@^1.4.9`
-- **[itch.io](https://raycast.com/Aayush9029/itch-io)** - Raycast Extension for itch.io, browse through milions of games made by indie developers! [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/itch-io) `api@^1.32.1`
+- **[itch.io](https://raycast.com/Aayush9029/itch-io)** - Raycast Extension for itch.io, browse through milions of games made by indie developers! [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/itch-io) `api@^1.79.0` `utils@^1.16.2`
 - **[Jokes](https://raycast.com/xmok/jokes)** - Get up to 10 jokes at a time from a variety of categories. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jokes) `api@^1.70.3`
 - **[LaLiga](https://raycast.com/anhthang/laliga)** - All the information of LaLiga Santander, LaLiga SmartBank, and Liga F: schedules, results, standings, news, statistics, and much more [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laliga) `api@^1.47.3`
 - **[Lega Serie A](https://raycast.com/anhthang/serie-a)** - The top league in Italy, the twenty best teams, standings, results, statistics. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) `api@^1.47.3`
@@ -836,6 +837,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Lotus - MTG Companion](https://raycast.com/madmaxmckinney/lotus-mtg-companion)** - A non-official tool to easily search for Magic The Gathering cards, sets, and rules - powered by Scryfall search. [`@madmaxmckinney`](https://raycast.com/madmaxmckinney) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lotus-mtg-companion) `api@^1.67.1` `utils@^1.12.5`
 - **[Manga Mexico](https://raycast.com/mrolivo/manga-calendar)** - Show a calendar with the latest manga releases of Mexican editorials. [`@mrolivo`](https://raycast.com/mrolivo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/manga-calendar) `api@^1.62.0` `utils@^1.9.0`
 - **[Meme Generator](https://raycast.com/timoransky/meme-generator)** - Generate memes with the help of Imgflip API [`@timoransky`](https://raycast.com/timoransky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) `api@^1.40.1`
+- **[Minecraft Crafting Recipes](https://raycast.com/lafkpages/minecraft-crafting-recipes)** - Quickly find recipes for Minecraft crafting. [`@lafkpages`](https://raycast.com/lafkpages) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minecraft-crafting-recipes) `api@^1.79.0` `utils@^1.16.2`
 - **[MouseHunt Helper](https://raycast.com/chesterhow/mousehunt-helper)** - Find the best attraction rates for different mice [`@chesterhow`](https://raycast.com/chesterhow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mousehunt-helper) `api@^1.45.3` `utils@^1.4.15`
 - **[NBA Viewer](https://raycast.com/AbhinavPalacharla/nba-viewer)** - View upcoming NBA games and NBA team standings [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) `api@^1.37.0` `utils@^1.1.0`
 - **[NFL](https://raycast.com/kciarnie/nfl-information)** - Fetches the NFL Schedule, News, and Team News [`@kciarnie`](https://raycast.com/kciarnie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) `api@^1.64.5` `utils@^1.10.1`
@@ -1263,6 +1265,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Safe Secret](https://raycast.com/melonamin/safe-secret)** - Safely share text over the web [`@melonamin`](https://raycast.com/melonamin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/safe-secret) `api@^1.70.2`
 - **[Sage HR](https://raycast.com/cyxn/sage-hr)** - Integration with Sage HR to get a searchable list on who is out today [`@cyxn`](https://raycast.com/cyxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sage-hr) `api@^1.64.4` `utils@^1.10.1`
 - **[SavvyCal](https://raycast.com/laurynas/savvycal)** - Interact with your SavvyCal links [`@laurynas`](https://raycast.com/laurynas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/savvycal) `api@^1.39.2` `utils@^1.4.8`
+- **[Scratchpad](https://raycast.com/asnimansari/scratchpad)** - Creates a scratchpad file and opens it in an editor [`@asnimansari`](https://raycast.com/asnimansari) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scratchpad) `api@^1.75.1` `utils@^1.16.1`
 - **[Screen Math](https://raycast.com/hcancelik/screen-math)** - Perform rapid calculations using numbers on your screen [`@hcancelik`](https://raycast.com/hcancelik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-math) `api@^1.56.0`
 - **[Screen Saver](https://raycast.com/koinzhang/screen-saver)** - Activate screen saver of your Mac. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) `api@^1.78.1`
 - **[Screen Sharing Recents](https://raycast.com/bix/screen-sharing-recents)** - Adds shortcuts to recent screen sharing locations [`@bix`](https://raycast.com/bix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) `api@^1.66.1`

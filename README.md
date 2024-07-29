@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/bf4eda3a11a66a3b_update-time.svg)
+![Last update](/icons/88aed66624f15e61_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 

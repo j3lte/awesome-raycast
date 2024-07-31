@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/b54b57bd12b00cca_update-time.svg)
+![Last update](/icons/7a7389399456a785_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -47,13 +47,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
-- **572** contributors
-  - of which **422** contributors are only contributors
+- **573** contributors
+  - of which **423** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (163)
-  - [j3lte](https://raycast.com/j3lte) (32)
+  - [j3lte](https://raycast.com/j3lte) (33)
   - [xilopaint](https://raycast.com/xilopaint) (17)
-  - [stelo](https://raycast.com/stelo) (15)
+  - [stelo](https://raycast.com/stelo) (16)
   - [erics118](https://raycast.com/erics118) (14)
 
 <!-- END STATISTICS -->
@@ -188,7 +188,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Todo List](https://raycast.com/maggie/todo-list)** - Manage your todo list quickly by adding items and marking items as completed. [`@maggie`](https://raycast.com/maggie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/todo-list) `api@^1.52.1` `utils@^1.1.0`
 - **[Transmission](https://raycast.com/FezVrasta/transmission)** - View and manage torrents directly from Raycast. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/transmission) `api@^1.71.3` `utils@^1.14.0`
 - **[Update Clash Subscription](https://raycast.com/JakeYu/update-clash-subscription)** - Update clash subscription & insert custom rules [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) `api@^1.46.1`
-- **[Vivaldi](https://raycast.com/crisboarna/vivaldi)** - Search open tabs, bookmarks and history in Vivaldi. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) `api@^1.44.0` `utils@^1.4.13`
+- **[Vivaldi](https://raycast.com/crisboarna/vivaldi)** - Search open tabs, bookmarks and history in Vivaldi. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) `api@^1.79.1` `utils@^1.4.13`
 - **[VivaPB](https://raycast.com/Codrkoaz/vivapb)** - Browse the web in privacy with the Vivaldi Browser. [`@Codrkoaz`](https://raycast.com/Codrkoaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivapb) `api@^1.64.4` `utils@^1.11.1`
 - **[WhatsApp](https://raycast.com/vimtor/whatsapp)** - Open WhatsApp chats [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) `api@^1.48.8` `utils@^1.5.2`
 - **[WhiteBIT Exchange](https://raycast.com/marco-whitebit/whitebit)** - WhiteBIT exchange Raycast extension [`@marco-whitebit`](https://raycast.com/marco-whitebit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whitebit) `api@^1.56.1` `utils@^1.9.1`
@@ -214,7 +214,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Discord Timestamps](https://raycast.com/theshadowdev/discord-timestamps)** - Generate a Discord timestamp [`@theshadowdev`](https://raycast.com/theshadowdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) `api@^1.48.8` `utils@^1.5.2`
 - **[Fast Chat With Phone Number in IM Apps](https://raycast.com/timonpeng/phonenumber-in-im)** - A Raycast extension enables faster chatting with a target phone number in IM apps like WhatsApp and Telegram, eliminating the need to add contacts beforehand. [`@timonpeng`](https://raycast.com/timonpeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phonenumber-in-im) `api@^1.61.2`
 - **[Gather](https://raycast.com/yannglt/gather)** - Control Gather from Raycast [`@yannglt`](https://raycast.com/yannglt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gather) `api@^1.37.1`
-- **[Gmail](https://raycast.com/tonka3000/gmail)** - Raycast Extension to manage Gmail [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gmail) `api@^1.62.0` `utils@^1.10.0`
+- **[Gmail](https://raycast.com/tonka3000/gmail)** - Raycast Extension to manage Gmail [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gmail) `api@^1.79.0` `utils@^1.10.0`
 - **[GrammariX](https://raycast.com/hakob_nersesian/grammari-x)** - Your Writing's Best Friend. In this extension, you can fix your grammar and paraphrase your sentences more effectively. If you have a Raycast Pro subscription, you don't need to provide openAI key. [`@hakob_nersesian`](https://raycast.com/hakob_nersesian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/grammari-x) `api@^1.67.1` `utils@^1.12.4`
 - **[Himalaya](https://raycast.com/jns/himalaya)** - Manage emails through Himalaya CLI [`@jns`](https://raycast.com/jns) [`code`](https://github.com/raycast/extensions/tree/main/extensions/himalaya) `api@^1.49.2` `utils@^1.5.2`
 - **[ImprovMX](https://raycast.com/ImprovMX/improvmx)** - Interact with ImprovMX with the help of Raycast [`@ImprovMX`](https://raycast.com/ImprovMX) [`code`](https://github.com/raycast/extensions/tree/main/extensions/improvmx) `api@^1.75.2` `utils@^1.15.0`
@@ -333,7 +333,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Valorant Esports](https://raycast.com/vimtor/valorant-esports)** - Search Valorant esports schedules and standings. [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/valorant-esports) `api@^1.66.2` `utils@^1.12.0`
 - **[vatlayer](https://raycast.com/xmok/vatlayer)** - Validate VAT numbers, retrieve all or single EU VAT rates based on IP address or country code, convert prices in compliance with EU VAT rates and types, and more. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vatlayer) `api@^1.58.0` `utils@^1.4.8`
 - **[Workouts](https://raycast.com/samuelkraft/workouts)** - Stay on top of your workouts [`@samuelkraft`](https://raycast.com/samuelkraft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/workouts) `api@^1.71.0` `utils@^1.15.0`
-- **[World Clock](https://raycast.com/koinzhang/world-clock)** - Query the current time of a region, ip or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/world-clock) `api@^1.59.0` `utils@^1.10.0`
+- **[World Clock](https://raycast.com/koinzhang/world-clock)** - Query the current time of a region, ip or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/world-clock) `api@^1.79.1` `utils@^1.16.2`
 - **[Zefix](https://raycast.com/cmdr/zefix)** - A Raycast extension that looks up companies in the Swiss national trade register [`@cmdr`](https://raycast.com/cmdr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zefix) `api@1.78.1` `utils@1.16.1`
 - **[Zipcodebase](https://raycast.com/xmok/zipcodebase)** - Lookup postal codes, calculate distances and much more with Zipcodebase. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) `api@^1.68.0` `utils@^1.10.1`
 
@@ -1528,7 +1528,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Vocabula.lat](https://raycast.com/silencesys/vocabula-lat)** - An extension to look for words and abbreviations in the Vocabula.lat Latin dictionary [`@silencesys`](https://raycast.com/silencesys) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vocabula-lat) `api@^1.75.1` `utils@^1.15.0`
 - **[Wayback Machine](https://raycast.com/pernielsentikaer/wayback-machine)** - Quickly open and save webpages in Wayback Machine [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) `api@^1.72.1` `utils@^1.14.1`
 - **[Web3 Profile](https://raycast.com/peduarte/web3-profile)** - Search for ENS names and view its profile — Avatar, description, social URLs and more! [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) `api@^1.39.1` `utils@^1.3.1`
-- **[Whois](https://raycast.com/zavbala/whois)** - Retrieve whois data. [`@zavbala`](https://raycast.com/zavbala) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whois) `api@^1.49.0` `utils@^1.9.0`
+- **[Whois](https://raycast.com/zavbala/whois)** - Retrieve whois data. [`@zavbala`](https://raycast.com/zavbala) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whois) `api@^1.79.1` `utils@^1.16.3`
 - **[WhoSampled](https://raycast.com/andrewtruex/whosampled)** - Search WhoSampled.com from the currently playing song in Spotify [`@andrewtruex`](https://raycast.com/andrewtruex) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whosampled) `api@^1.46.0`
 - **[Wikipedia](https://raycast.com/vimtor/wikipedia)** - Search Wikipedia from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) `api@^1.71.1` `utils@^1.14.0`
 - **[You.com Search](https://raycast.com/salman_mian/you-com-search)** - Search You.com directly from Raycast [`@salman_mian`](https://raycast.com/salman_mian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/you-com-search) `api@^1.71.3` `utils@^1.14.0`

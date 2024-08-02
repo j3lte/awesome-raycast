@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/d191bd31f72cb07c_update-time.svg)
+![Last update](/icons/6a5f6a0a6c0fac44_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,20 +38,20 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1637** packages in **15** categories
+- **1640** packages in **15** categories
 - **15** packages use Swift
-- **1058** authors
+- **1060** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
-  - [xmok](https://raycast.com/xmok) (27)
+  - [xmok](https://raycast.com/xmok) (28)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
-- **575** contributors
-  - of which **424** contributors are only contributors
+- **576** contributors
+  - of which **425** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (163)
-  - [j3lte](https://raycast.com/j3lte) (34)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (164)
+  - [j3lte](https://raycast.com/j3lte) (35)
   - [xilopaint](https://raycast.com/xilopaint) (17)
   - [stelo](https://raycast.com/stelo) (16)
   - [erics118](https://raycast.com/erics118) (14)
@@ -95,6 +95,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CompressX](https://raycast.com/hieudinh/compressx)** - Compress the selected video in Finder with CompressX. [`@hieudinh`](https://raycast.com/hieudinh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/compressx) `api@^1.63.0`
 - **[Contentful](https://raycast.com/ewgenius/contentful)** - Browse and search Contentful content library [`@ewgenius`](https://raycast.com/ewgenius) [`code`](https://github.com/raycast/extensions/tree/main/extensions/contentful) `api@^1.79.0` `utils@^1.16.2`
 - **[Convert CSV to Excel](https://raycast.com/VictoRD11/csv-to-excel)** - Convert CSV table to Excel compatible table. [`@VictoRD11`](https://raycast.com/VictoRD11) [`code`](https://github.com/raycast/extensions/tree/main/extensions/csv-to-excel) `api@^1.53.0`
+- **[cPanel](https://raycast.com/xmok/cpanel)** - View Domains and their DNS Zones, Email Accounts and their Disk Usage [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpanel) `api@^1.79.0` `utils@^1.15.0`
 - **[Datawrapper](https://raycast.com/benkates/datawrapper)** - An unofficial extension for searching your Datawrapper charts, viewing recent Datawrapper charts, and other handy functions. [`@benkates`](https://raycast.com/benkates) [`code`](https://github.com/raycast/extensions/tree/main/extensions/datawrapper) `api@^1.72.1` `utils@^1.14.1`
 - **[Decentraland](https://raycast.com/fmiras/decentraland)** - Search and go directly to events and places in Decentraland [`@fmiras`](https://raycast.com/fmiras) [`code`](https://github.com/raycast/extensions/tree/main/extensions/decentraland) `api@^1.55.2` `utils@^1.9.0`
 - **[DevUtils](https://raycast.com/vietanhlehuu/devutils)** - Navigate DevUtils faster with this All-in-one Toolbox for Developers [`@vietanhlehuu`](https://raycast.com/vietanhlehuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/devutils) `api@^1.44.0`
@@ -346,6 +347,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 **[`^        back to top        ^`](#awesome-raycast)**
 
 - **[AI Screenshot](https://raycast.com/jochemloedeman/ai-screenshot)** - Modify screen captures using the latest generative AI models. [`@jochemloedeman`](https://raycast.com/jochemloedeman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) `api@^1.65.1` `utils@^1.12.5`
+- **[App Icon Generator](https://raycast.com/HunterJi/app-icon-generator)** - Generate app icons for ICO, iOS, iPad, and macOS from a single image file [`@HunterJi`](https://raycast.com/HunterJi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) `api@^1.79.1`
 - **[Apple Devices](https://raycast.com/madza/apple-devices)** - Quickly look up Apple Devices and control Simulators [`@madza`](https://raycast.com/madza) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-devices) `api@^1.52.1` `utils@^1.7.0`
 - **[Aspect Raytio](https://raycast.com/ickas/aspect-raytio)** - Calculate easily the aspect ratio for different sizes based on a width or height. [`@ickas`](https://raycast.com/ickas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio) `api@^1.65.1` `utils@^1.10.1`
 - **[Avatar](https://raycast.com/koinzhang/avatar)** - An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/avatar) `api@^1.72.1`
@@ -793,6 +795,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[1-Click Confetti](https://raycast.com/peduarte/1-click-confetti)** - Confetti Gun with just 1 click. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti) `api@^1.53.3` `utils@^1.4.1`
 - **[Advice Slip](https://raycast.com/pernielsentikaer/advice-slip)** - Get a random advice slip [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/advice-slip) `api@^1.44.0` `utils@^1.4.11`
 - **[Anilist Airing Schedule](https://raycast.com/yeskunall/anilist-airing-schedule)** - Get airing schedule of anime from Anilist.co [`@yeskunall`](https://raycast.com/yeskunall) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anilist-airing-schedule) `api@1.47.3` `utils@1.4.16`
+- **[Balatro Compendium](https://raycast.com/azyz/balatro-compendium)** - Search through every piece of the Balatro collection entierly inside Raycast. Even offline. [`@azyz`](https://raycast.com/azyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/balatro-compendium) `api@^1.79.0` `utils@^1.16.2`
 - **[Bored](https://raycast.com/BossElijah/bored)** - Let's find you something to do! [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bored) `api@^1.72.1` `utils@^1.15.0`
 - **[Brasileiro Série A](https://raycast.com/willian/brasileirao-serie-a)** - View the brazilian first division upcoming games, standings and results. [`@willian`](https://raycast.com/willian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brasileirao-serie-a) `api@^1.39.2` `utils@^1.3.1`
 - **[Bundesliga](https://raycast.com/anhthang/bundesliga)** - The latest news, info and stats for clubs in 2021-2022 can be found in Raycast. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bundesliga) `api@^1.46.1`
@@ -1114,7 +1117,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Dock](https://raycast.com/pradeepb28/dock)** - Change the dock's position to the left, right, or bottom edge of the screen. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock) `api@^1.32.1`
 - **[Downloads Manager](https://raycast.com/thomas/downloads-manager)** - Search and organize your downloads [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) `api@^1.53.3`
 - **[Dropshare](https://raycast.com/tjosten/dropshare)** - Create screen captures and upload files with Dropshare [`@tjosten`](https://raycast.com/tjosten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropshare) `api@^1.68.0`
-- **[Dub](https://raycast.com/quuu/dub-link-shortener)** - Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Raycast. [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dub-link-shortener) `api@^1.61.2` `utils@^1.16.0`
+- **[Dub](https://raycast.com/quuu/dub)** - Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Raycast. [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dub) `api@^1.61.2` `utils@^1.16.0`
 - **[DuckDuckGo Email](https://raycast.com/Hugo-Persson/duckduckgo-email)** - A simple extension that generate DuckDuckGo email alias [`@Hugo-Persson`](https://raycast.com/Hugo-Persson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) `api@^1.69.0`
 - **[Eagle](https://raycast.com/Yukai/eagle)** - Eagle Extension for Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/eagle) `api@^1.33.1`
 - **[Easy OCR](https://raycast.com/Rafo94/easy-ocr)** - Use Tesseract or Google Cloud Vision OCR to extract text from screenshot [`@Rafo94`](https://raycast.com/Rafo94) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) `api@^1.56.1` `utils@^1.10.0`
@@ -1217,7 +1220,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Notion Researcher](https://raycast.com/raz_gaon/notion_researcher)** - An extension to supercharge your research workflow with Notion [`@raz_gaon`](https://raycast.com/raz_gaon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) `api@^1.58.1` `utils@^1.10.0`
 - **[Numi](https://raycast.com/andresmorelos/numi)** - Query Numi from Raycast [`@andresmorelos`](https://raycast.com/andresmorelos) [`code`](https://github.com/raycast/extensions/tree/main/extensions/numi) `api@^1.37.0` `utils@^1.5.2`
 - **[NumPad](https://raycast.com/paulovictor237/numpad)** - NumPad Keyboard Extension for Raycast [`@paulovictor237`](https://raycast.com/paulovictor237) [`code`](https://github.com/raycast/extensions/tree/main/extensions/numpad) `api@^1.57.1`
-- **[OBS Control](https://raycast.com/Yukai/obs-control)** - Control OBS Studio with websocket API [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/obs-control) `api@^1.36.1`
+- **[OBS Control](https://raycast.com/Yukai/obs-control)** - Control OBS Studio with websocket API [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/obs-control) `api@^1.79.1` `utils@^1.16.3`
 - **[Obsidian](https://raycast.com/KevinBatdorf/obsidian)** - Control Obsidian with Raycast [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/obsidian) `api@^1.47.0`
 - **[Obsidian Bookmarks](https://raycast.com/dru89/obsidian-bookmarks)** - Manage your bookmarked links with Obsidian. Save, search, and access your bookmarks. Supports Safari, Arc and other Chromium-based browsers [`@dru89`](https://raycast.com/dru89) [`code`](https://github.com/raycast/extensions/tree/main/extensions/obsidian-bookmarks) `api@^1.34.1`
 - **[Obsidian Clippings](https://raycast.com/trevware/obs-clippings)** - Creates a new (opionated) clipping in Obsidian. Optionally includes the page content with an AI summary [`@trevware`](https://raycast.com/trevware) [`code`](https://github.com/raycast/extensions/tree/main/extensions/obs-clippings) `api@^1.52.1`
@@ -1240,7 +1243,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Parcel Tracker - 17track](https://raycast.com/cojmeister/package-tracker)** - A Raycast extension that allows you to track your packages using 17track's REST API.  All supported agencies are those of 17track. [`@cojmeister`](https://raycast.com/cojmeister) [`code`](https://github.com/raycast/extensions/tree/main/extensions/package-tracker) `api@^1.43.2` `utils@^1.4.8`
 - **[Password Generator](https://raycast.com/joshuaiz/password-generator)** - Generates a password from 5–64 characters with options for case, special characters, and more [`@joshuaiz`](https://raycast.com/joshuaiz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-generator) `api@^1.31.0`
 - **[PDFSearch](https://raycast.com/kevin-pek/pdfsearch)** - Search across collections of PDF documents. [`@kevin-pek`](https://raycast.com/kevin-pek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdfsearch) `api@^1.63.0` `utils@^1.4.8`
-- **[Perplexity API](https://raycast.com/ilian/perplexity-api)** - Use the powerful models via Perplexity API from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) `api@^1.67.1`
+- **[Perplexity API](https://raycast.com/ilian/perplexity-api)** - Use the powerful models via Perplexity API from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) `api@^1.78.0`
 - **[Personio](https://raycast.com/boosteblume/personio)** - Track your time with Personio. [`@boosteblume`](https://raycast.com/boosteblume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/personio) `api@^1.69.0`
 - **[Pie for Pi-hole](https://raycast.com/GLaDO8/pie-for-pi-hole)** - Control your Pi-hole from Raycast. [`@GLaDO8`](https://raycast.com/GLaDO8) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pie-for-pihole) `api@^1.47.3`
 - **[Pins](https://raycast.com/HelloImSteven/pins)** - Create pins for paths and URLs and display them in the menu bar [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pins) `api@^1.77.1` `utils@^1.16.1`

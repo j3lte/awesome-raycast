@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/494f2f375839e724_update-time.svg)
+![Last update](/icons/2ffe016a6632dd14_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,17 +38,17 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1642** packages in **15** categories
+- **1643** packages in **15** categories
 - **16** packages use Swift
-- **1061** authors
+- **1062** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (28)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **578** contributors
-  - of which **427** contributors are only contributors
+- **581** contributors
+  - of which **430** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (164)
   - [j3lte](https://raycast.com/j3lte) (35)
@@ -80,7 +80,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bike](https://raycast.com/HelloImSteven/bike)** - Control Bike with Raycast [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bike) `api@^1.47.1`
 - **[Bilibili](https://raycast.com/Fatpandac/bilibili)** - Get notify from bilibili [`@Fatpandac`](https://raycast.com/Fatpandac) [`code`](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) `api@^1.39.3` `utils@^1.10.1`
 - **[Bob - Control Bob Translate](https://raycast.com/ViGeng/bobcontrol)** - Control the Bob Translate app for macOS with your keyboard. [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bob) `api@^1.28.0` `utils@^1.13.1`
-- **[Brand.dev](https://raycast.com/xmok/brand-dev)** - An API to get a company's brand logos, colors, slogan, socials, and more. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) `api@^1.77.1` `utils@^1.16.1`
+- **[Brand.dev](https://raycast.com/xmok/brand-dev)** - Get a company's brand logos, colors, slogan, socials, and more. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) `api@^1.79.0` `utils@^1.16.3`
 - **[Brave](https://raycast.com/ron-myers/brave)** - Search open tabs, bookmarks and history in Brave. [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brave) `api@^1.44.0` `utils@^1.4.13`
 - **[Browser History](https://raycast.com/crisboarna/browser-history)** - Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion and Sidekick. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-history) `api@^1.44.0` `utils@^1.4.13`
 - **[Bunch](https://raycast.com/koinzhang/bunch)** - Control Bunch via Raycast. Bunch is a Mac automation tool. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bunch) `api@^1.65.1` `utils@^1.10.1`
@@ -932,6 +932,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Lyrics](https://raycast.com/andrewjazbec/lyrics)** - Search for lyrics to the current playing song [`@andrewjazbec`](https://raycast.com/andrewjazbec) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lyrics) `api@^1.45.2`
 - **[Matter](https://raycast.com/zan/matter)** - View your saved for later articles in your Matter account. [`@zan`](https://raycast.com/zan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/matter) `api@^1.45.1`
 - **[Meta Music](https://raycast.com/teziovsky/meta-music)** - Manage the ID3 tags of audio files directly in Raycast! [`@teziovsky`](https://raycast.com/teziovsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/meta-music) `api@^1.68.1` `utils@^1.12.5`
+- **[Modrinth Search](https://raycast.com/legenden/modrinth-search)** - Searches Modrinth.com for anything listed. [`@legenden`](https://raycast.com/legenden) [`code`](https://github.com/raycast/extensions/tree/main/extensions/modrinth-search) `api@^1.69.0` `utils@^1.16.3`
 - **[Music Link Converter](https://raycast.com/Quentin23Soleil/music-link-converter)** - Convert a music link to another provider, for example you can convert Spotify links to Apple music links (also works with many other providers), using song.link service. [`@Quentin23Soleil`](https://raycast.com/Quentin23Soleil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/music-link-converter) `api@^1.66.2` `utils@^1.12.0`
 - **[MusicThread](https://raycast.com/ChucKN0risK/musicthread)** - Create a thread and add links to a thread in MusicThread [`@ChucKN0risK`](https://raycast.com/ChucKN0risK) [`code`](https://github.com/raycast/extensions/tree/main/extensions/musicthread) `api@^1.49.3`
 - **[NHK Program Search](https://raycast.com/sitogi/nhk-program-search)** - Search NHK program guide by NHK API [`@sitogi`](https://raycast.com/sitogi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nhk-program-search) `api@^1.72.1` `utils@^1.15.0`
@@ -1244,7 +1245,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Parallels Virtual Machines](https://raycast.com/danpalmer/parallels-virtual-machines)** - Launch and control virtual machines in Parallels Desktop. [`@danpalmer`](https://raycast.com/danpalmer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines) `api@^1.39.3` `utils@^1.4.0`
 - **[Parcel Tracker - 17track](https://raycast.com/cojmeister/package-tracker)** - A Raycast extension that allows you to track your packages using 17track's REST API.  All supported agencies are those of 17track. [`@cojmeister`](https://raycast.com/cojmeister) [`code`](https://github.com/raycast/extensions/tree/main/extensions/package-tracker) `api@^1.43.2` `utils@^1.4.8`
 - **[Password Generator](https://raycast.com/joshuaiz/password-generator)** - Generates a password from 5–64 characters with options for case, special characters, and more [`@joshuaiz`](https://raycast.com/joshuaiz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-generator) `api@^1.31.0`
-- **[PDFSearch](https://raycast.com/kevin-pek/pdfsearch)** - Search across collections of PDF documents. [`@kevin-pek`](https://raycast.com/kevin-pek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdfsearch) `api@^1.63.0` `utils@^1.4.8`
+- **[PDFSearch](https://raycast.com/kevin-pek/pdfsearch)** - Search across collections of PDF documents. [`@kevin-pek`](https://raycast.com/kevin-pek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdfsearch) `api@^1.79.1` `utils@^1.10.1`
 - **[Perplexity API](https://raycast.com/ilian/perplexity-api)** - Use the powerful models via Perplexity API from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) `api@^1.68.1`
 - **[Personio](https://raycast.com/boosteblume/personio)** - Track your time with Personio. [`@boosteblume`](https://raycast.com/boosteblume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/personio) `api@^1.69.0`
 - **[Pie for Pi-hole](https://raycast.com/GLaDO8/pie-for-pi-hole)** - Control your Pi-hole from Raycast. [`@GLaDO8`](https://raycast.com/GLaDO8) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pie-for-pihole) `api@^1.47.3`
@@ -1394,7 +1395,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mozilla VPN Connect](https://raycast.com/natew/mozilla-vpn)** - Interact with the Mozilla VPN from Raycast. [`@natew`](https://raycast.com/natew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) `api@^1.71.4`
 - **[Okta Search](https://raycast.com/damian_zachwieja/oktasearch)** - Serach Okta users and groups by name. [`@damian_zachwieja`](https://raycast.com/damian_zachwieja) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oktasearch) `api@^1.55.2`
 - **[One Time Password](https://raycast.com/lachero/one-time-password)** - Generate time-based one-time passwords [`@lachero`](https://raycast.com/lachero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) `api@^1.49.3` `utils@^1.5.2`
-- **[OpenVPN](https://raycast.com/benekuehn/openvpn)** - This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. [`@benekuehn`](https://raycast.com/benekuehn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openvpn) `api@^1.64.0`
+- **[OpenVPN](https://raycast.com/benekuehn/openvpn)** - This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. [`@benekuehn`](https://raycast.com/benekuehn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openvpn) `api@^1.80.0` `utils@^1.16.3`
 - **[Pass](https://raycast.com/capipo/pass)** - An extension to handle the standard unix password manager in a convenient way using Raycast [`@capipo`](https://raycast.com/capipo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pass) `api@^1.70.2`
 - **[Password Store](https://raycast.com/afok/password-store)** - A Raycast Extension for managing passwordstore.org passwords [`@afok`](https://raycast.com/afok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-store) `api@^1.69.0` `utils@^1.15.0`
 - **[Private Internet Access Controls](https://raycast.com/yakitrak/pia-controls)** - Private Internet Access VPN Controls [`@yakitrak`](https://raycast.com/yakitrak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) `api@^1.62.1` `utils@^1.10.1`

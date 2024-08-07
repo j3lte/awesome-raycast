@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/2ffe016a6632dd14_update-time.svg)
+![Last update](/icons/8600ca5f8bdb0b3e_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,22 +38,22 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1643** packages in **15** categories
+- **1646** packages in **15** categories
 - **16** packages use Swift
-- **1062** authors
+- **1065** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (28)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **581** contributors
-  - of which **430** contributors are only contributors
+- **582** contributors
+  - of which **432** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (164)
   - [j3lte](https://raycast.com/j3lte) (35)
+  - [stelo](https://raycast.com/stelo) (17)
   - [xilopaint](https://raycast.com/xilopaint) (17)
-  - [stelo](https://raycast.com/stelo) (16)
   - [erics118](https://raycast.com/erics118) (14)
 
 <!-- END STATISTICS -->
@@ -357,7 +357,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Color Picker](https://raycast.com/thomas/color-picker)** - Pick and organize colors, everywhere on your Mac [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-picker) `api@^1.78.1` `utils@^1.15.0`
 - **[Color Shades](https://raycast.com/qeude/color-shades)** - Generate color shades from a base color and manage your generated color shades palettes. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-shades) `api@^1.55.0` `utils@^1.8.0`
 - **[Convert 3D Models](https://raycast.com/mrnoisytiger/convert-3d-models)** - An extension to convert 3D models to different formats. [`@mrnoisytiger`](https://raycast.com/mrnoisytiger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert-3d-models) `api@^1.62.0` `utils@^1.4.18`
-- **[Converter](https://raycast.com/koinzhang/converter)** - Arbitrary input, direct output. Includes Base converter, Byte converter, Code converter, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/converter) `api@^1.51.0`
+- **[Converter](https://raycast.com/koinzhang/converter)** - Arbitrary input, direct output. Includes Base converter, Byte converter, Code converter, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/converter) `api@^1.80.0`
 - **[Figma Variables](https://raycast.com/martin_molcrette/figma-variables)** - Access Figma variables in Raycast [`@martin_molcrette`](https://raycast.com/martin_molcrette) [`code`](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) `api@^1.67.1`
 - **[Flaticon — Search Icons](https://raycast.com/bgnfu7re/flaticon)** - Search icons on Flaticon [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flaticon) `api@^1.43.2` `utils@^1.4.10`
 - **[Font Awesome](https://raycast.com/dutzi/font-awesome)** - Search Font Awesome icons [`@dutzi`](https://raycast.com/dutzi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) `api@^1.74.0` `utils@^1.4.8`
@@ -555,6 +555,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Momentum](https://raycast.com/leondaz/momentum)** - Create a new project and open it in your favourite editor [`@leondaz`](https://raycast.com/leondaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/momentum) `api@^1.67.1`
 - **[Motion Preview](https://raycast.com/ayarse/raycast-motion-preview)** - Preview Lottie and Rive Animations in Raycast [`@ayarse`](https://raycast.com/ayarse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-motion-preview) `api@^1.79.1` `utils@^1.16.2`
 - **[MUI Documentation](https://raycast.com/kgrhartlage/mui-documentation)** - Search the online MUI documentation. [`@kgrhartlage`](https://raycast.com/kgrhartlage) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) `api@^1.55.2` `utils@^1.9.0`
+- **[MultiForce](https://raycast.com/brian_j_decoder22/multi-force)** - Allows a Salesforce Developer to access and authenticate orgs availabe via the SF command line tools. [`@brian_j_decoder22`](https://raycast.com/brian_j_decoder22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multi-force) `api@^1.67.1` `utils@^1.12.5`
 - **[Netlify](https://raycast.com/destiner/netlify)** - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/netlify) `api@^1.79.0` `utils@^1.16.3`
 - **[Network Speed](https://raycast.com/koinzhang/network-speed)** - Quickly check your internet connection speed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/network-speed) `api@^1.77.0`
 - **[New Relic](https://raycast.com/cirne/new-relic)** - Search Applications, Dashboard, Alerts, and more in New Relic [`@cirne`](https://raycast.com/cirne) [`code`](https://github.com/raycast/extensions/tree/main/extensions/new-relic) `api@^1.48.3` `utils@^1.4.8`
@@ -951,7 +952,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Raycast Wallpaper](https://raycast.com/koinzhang/raycast-wallpaper)** - Get and set Raycast official wallpapers. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) `api@^1.75.1` `utils@^1.15.0`
 - **[Real-Debrid Manager](https://raycast.com/Yamen/real-debrid-manager)** - Real-Debrid client for Raycast  NOT AN OFFICIAL CLIENT [`@Yamen`](https://raycast.com/Yamen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager) `api@^1.55.0` `utils@^1.8.0`
 - **[Replicate](https://raycast.com/KevinBatdorf/replicate)** - Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/replicate) `api@^1.42.2` `utils@^1.4.10`
-- **[Scrapbook](https://raycast.com/faker/scrapbook)** - View hackclub's scrapbook posts and users from raycast. [`@faker`](https://raycast.com/faker) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scrapbook) `api@^1.79.0` `utils@^1.16.2`
+- **[Scrapbook](https://raycast.com/fakerr/scrapbook)** - View hackclub's scrapbook posts and users from raycast. [`@fakerr`](https://raycast.com/fakerr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scrapbook) `api@^1.79.0` `utils@^1.16.2`
 - **[Sonarr](https://raycast.com/Aayush9029/sonarr)** - View your Sonarr upcoming shows. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sonarr) `api@^1.72.1` `utils@^1.14.1`
 - **[Spanish TV Guide](https://raycast.com/doktor500/spanish-tv-guide)** - Browse the Spanish TV Guide [`@doktor500`](https://raycast.com/doktor500) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spanish-tv-guide) `api@^1.75.2`
 - **[Spotify Player](https://raycast.com/mattisssa/spotify-player)** - Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar. [`@mattisssa`](https://raycast.com/mattisssa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) `api@^1.75.1` `utils@^1.16.2`
@@ -1016,6 +1017,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Brawl Stars Search](https://raycast.com/Maxime_GUILIANI/brawlstars)** - Extension to search for Brawl Stars players, clubs and brawlers [`@Maxime_GUILIANI`](https://raycast.com/Maxime_GUILIANI) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brawlstars) `api@^1.54.0`
 - **[Check Citi Bike Availability](https://raycast.com/kcole93/check-citi-bike-availability)** - Check the availability of bikes/e-bikes at CitiBike NYC stations. [`@kcole93`](https://raycast.com/kcole93) [`code`](https://github.com/raycast/extensions/tree/main/extensions/check-citi-bike-availability) `api@^1.78.1`
 - **[Chords and Tabs](https://raycast.com/BossElijah/chords-and-tabs)** - Find chords and tabs for your favorite songs and musical pieces! [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) `api@^1.74.1`
+- **[Custom Folder](https://raycast.com/phlo/custom-folder)** - Create custom MacOS folder images. [`@phlo`](https://raycast.com/phlo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/custom-folder) `api@^1.64.3`
 - **[Element](https://raycast.com/Aayush9029/element)** - Show information about an element of the periodic table. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/element) `api@^1.32.1`
 - **[Elron Train Times](https://raycast.com/raimond/elron)** - Fetch train times for Elron train times [`@raimond`](https://raycast.com/raimond) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elron) `api@^1.44.0`
 - **[Finnish Dictionary](https://raycast.com/albertoxamin/finnish-dictionary)** - MacOS has a great dictionary, but it's not available for Finnish. This extension adds a Finnish dictionary at your fingertips. [`@albertoxamin`](https://raycast.com/albertoxamin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) `api@^1.31.0`
@@ -1061,6 +1063,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Airplane](https://raycast.com/pradeepb28/airplane)** - Just like on iPhone, turn off the wireless features on your macOS anytime. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airplane) `api@^1.35.2`
 - **[Airtable](https://raycast.com/marks/raycast-airtable-extension)** - List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. [`@marks`](https://raycast.com/marks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airtable) `api@^1.43.2`
 - **[Alice AI - Your ChatGPT Actions Companion](https://raycast.com/quiknull/alice-ai)** - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes. [`@quiknull`](https://raycast.com/quiknull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) `api@^1.69.0` `utils@^1.14.0`
+- **[Anki](https://raycast.com/anton-suprun/anki)** - Anki extension for Raycast [`@anton-suprun`](https://raycast.com/anton-suprun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anki) `api@^1.80.0` `utils@^1.16.2`
 - **[Apple Books](https://raycast.com/vimtor/apple-books)** - Search Apple Books from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-books) `api@^1.47.3` `utils@^1.5.2`
 - **[Apple Reminders](https://raycast.com/thomaslombart/apple-reminders)** - Manage Apple Reminders. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) `api@^1.75.1` `utils@^1.14.0`
 - **[Apply Inline Code](https://raycast.com/alexian853/apply-inline-code)** - Apply inline code style in common apps and websites [`@alexian853`](https://raycast.com/alexian853) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) `api@^1.70.3` `utils@^1.13.6`
@@ -1562,7 +1565,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Apple Notes](https://raycast.com/tumtum/apple-notes)** - Search and create notes within the Apple Notes application. [`@tumtum`](https://raycast.com/tumtum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) `api@^1.74.1` `utils@^1.15.0`
 - **[Atomic Data](https://raycast.com/joepio/atomic)** - Search inside your Atomic-Server data [`@joepio`](https://raycast.com/joepio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/atomic) `api@^1.26.3`
 - **[Banca d'Italia Currency Converter](https://raycast.com/FezVrasta/banca-d-italia-currency-converter)** - Convert currencies based on the Banca d'Italia exchange rates. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/banca-d-italia-currency-converter) `api@^1.27.0`
-- **[Base64](https://raycast.com/DanielSinclair/base64)** - Quickly encode or decode base64 from the clipboard [`@DanielSinclair`](https://raycast.com/DanielSinclair) [`code`](https://github.com/raycast/extensions/tree/main/extensions/base64) `api@1.44.0`
+- **[Base64](https://raycast.com/DanielSinclair/base64)** - Quickly encode or decode base64 from the clipboard [`@DanielSinclair`](https://raycast.com/DanielSinclair) [`code`](https://github.com/raycast/extensions/tree/main/extensions/base64) `api@^1.80.0` `utils@^1.16.3`
 - **[Bazinga Tools](https://raycast.com/luin/bazinga-tools)** - A shortcut to open tools on Bazinga.tools [`@luin`](https://raycast.com/luin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bazinga-tools) `api@^1.27.1`
 - **[Bear Notes](https://raycast.com/hmarr/bear)** - Control Bear with Raycast [`@hmarr`](https://raycast.com/hmarr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bear) `api@^1.77.3`
 - **[BetterDiscord Store](https://raycast.com/TheCommieAxolotl/betterdiscord-store)** - Allows you to search and view BetterDiscord addons inside Raycast [`@TheCommieAxolotl`](https://raycast.com/TheCommieAxolotl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/betterdiscord-search) `api@^1.28.0`

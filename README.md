@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/8600ca5f8bdb0b3e_update-time.svg)
+![Last update](/icons/9fb092bcaf85424c_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -47,14 +47,14 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **582** contributors
+- **583** contributors
   - of which **432** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (164)
   - [j3lte](https://raycast.com/j3lte) (35)
-  - [stelo](https://raycast.com/stelo) (17)
   - [xilopaint](https://raycast.com/xilopaint) (17)
-  - [erics118](https://raycast.com/erics118) (14)
+  - [stelo](https://raycast.com/stelo) (17)
+  - [xmok](https://raycast.com/xmok) (15)
 
 <!-- END STATISTICS -->
 
@@ -976,6 +976,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 - **[Ars Technica](https://raycast.com/edwin-dd-ong/ars-technica)** - Get the latest Ars Technica stories. [`@edwin-dd-ong`](https://raycast.com/edwin-dd-ong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ars-technica) `api@^1.65.0` `utils@^1.10.1`
 - **[Associated Press](https://raycast.com/Dammmien/associated-press)** - Bringing you breaking news from the Associated Press and hundreds of trusted local sources, AP News is your trusted source for real-time news coverage anytime and anywhere. [`@Dammmien`](https://raycast.com/Dammmien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/associated-press) `api@^1.71.0`
+- **[CricketCast](https://raycast.com/sampoder/cricketcast)** - Check the cricket score and news through Raycast! [`@sampoder`](https://raycast.com/sampoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cricketcast) `api@^1.79.0` `utils@^1.16.3`
 - **[DR News](https://raycast.com/kenanbendz/dr-news)** - Showcases news updates from DR, Denmark's premier broadcaster, categorized by various topics. [`@kenanbendz`](https://raycast.com/kenanbendz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dr-news) `api@^1.59.0` `utils@^1.10.0`
 - **[ESPN News](https://raycast.com/khlebobul/espn)** - Read the best news from ESPN directly from Raycast [`@khlebobul`](https://raycast.com/khlebobul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/espn) `api@^1.55.2` `utils@^1.8.0`
 - **[FIFA World Cup Qatar 2022™](https://raycast.com/isma/world-cup)** - See all FIFA World Cup Qatar 2022™ matches [`@isma`](https://raycast.com/isma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/world-cup) `api@^1.44.0` `utils@^1.4.11`
@@ -1491,7 +1492,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Farcaster](https://raycast.com/artivilla/farcaster)** - Most comprehensive extension for Forecaster. Search for casts, profiles and more. [`@artivilla`](https://raycast.com/artivilla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/farcaster) `api@^1.72.1` `utils@^1.15.0`
 - **[Fathom Analytics](https://raycast.com/danielferguson/fathom-analytics)** - Gain quick insights into your Fathom Analytics sites, check stats and open a browser directly to the dashboard or site. [`@danielferguson`](https://raycast.com/danielferguson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics) `api@^1.36.1`
 - **[gg.deals](https://raycast.com/Whitespace/gg-deals)** - Fetch the latest deals from gg.deals [`@Whitespace`](https://raycast.com/Whitespace) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gg-deals) `api@^1.53.4`
-- **[Google Maps Search](https://raycast.com/ratoru/google-maps-search)** - Quickly open Google Maps directions, for example from your current location to your home. [`@ratoru`](https://raycast.com/ratoru) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-maps-search) `api@^1.48.8`
+- **[Google Maps Search](https://raycast.com/ratoru/google-maps-search)** - Quickly search Google Maps or get directions. [`@ratoru`](https://raycast.com/ratoru) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-maps-search) `api@^1.80.0`
 - **[Google Search](https://raycast.com/mblode/google-search)** - Google search with autosuggestions [`@mblode`](https://raycast.com/mblode) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-search) `api@^1.44.0`
 - **[Google Translate](https://raycast.com/gebeto/translate)** - Simple translation using Google Translate [`@gebeto`](https://raycast.com/gebeto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-translate) `api@^1.47.3` `utils@^1.4.16`
 - **[Holodex](https://raycast.com/uetchy/holodex)** - Search live streams, archives, clips and channels in Holodex. [`@uetchy`](https://raycast.com/uetchy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/holodex) `api@^1.37.1`
@@ -1604,7 +1605,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Country Lookup](https://raycast.com/pernielsentikaer/country-lookup)** - Quickly lookup countries and get informational data [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) `api@^1.76.1` `utils@^1.16.0`
 - **[CPF/CNPJ Generator](https://raycast.com/gstvds/cpf-cnpj-generator)** - Generate CPF (Cadastro de Pessoa Físca) number or CNPJ (Cadastro Nacional de Pessoa Jurídica) number data for developers [`@gstvds`](https://raycast.com/gstvds) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) `api@^1.28.0`
 - **[crates.io Search](https://raycast.com/matt/cratecast)** - Explore crates.io [`@matt`](https://raycast.com/matt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cratecast) `api@^1.52.1`
-- **[CricketCast](https://raycast.com/sampoder/cricketcast)** - Check the cricket score through Raycast! [`@sampoder`](https://raycast.com/sampoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cricketcast) `api@^1.26.3`
 - **[Currency Exchange](https://raycast.com/xeric/currency-exchange)** - Simple Currency Exchange, uses Exchange Rate API as the data source [`@xeric`](https://raycast.com/xeric) [`code`](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) `api@^1.49.2`
 - **[curto.io URL Shortener](https://raycast.com/birobirobiro/curto-io-url-shortener)** - Quickly shorten the current clipboard URL with curto.io [`@birobirobiro`](https://raycast.com/birobirobiro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curto-io-url-shortener) `api@^1.45.2`
 - **[Cyberduck](https://raycast.com/scottaglia/cyberduck)** - Quickly open your cyberduck connections [`@scottaglia`](https://raycast.com/scottaglia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cyberduck) `api@^1.28.0`

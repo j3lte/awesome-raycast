@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/9fb092bcaf85424c_update-time.svg)
+![Last update](/icons/acae32dcaaca1e2c_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,23 +38,23 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1646** packages in **15** categories
+- **1649** packages in **15** categories
 - **16** packages use Swift
-- **1065** authors
+- **1067** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (28)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **583** contributors
-  - of which **432** contributors are only contributors
+- **584** contributors
+  - of which **433** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (164)
   - [j3lte](https://raycast.com/j3lte) (35)
   - [xilopaint](https://raycast.com/xilopaint) (17)
   - [stelo](https://raycast.com/stelo) (17)
-  - [xmok](https://raycast.com/xmok) (15)
+  - [xmok](https://raycast.com/xmok) (16)
 
 <!-- END STATISTICS -->
 
@@ -285,7 +285,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Format JSON](https://raycast.com/destiner/json-format)** - Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/json-format) `api@^1.47.3`
 - **[GraphCalc](https://raycast.com/conner_luzier/graphcalc)** - GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortlessly plot functions, equations, and data points directly within the Raycast interface. [`@conner_luzier`](https://raycast.com/conner_luzier) [`code`](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) `api@^1.74.1` `utils@^1.15.0`
 - **[Horoscope](https://raycast.com/xmok/horoscope)** - Get Daily, Weekly or Monthly Horoscope by Sign [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/horoscope) `api@^1.74.1` `utils@^1.15.0`
-- **[HowLongToBeat](https://raycast.com/Cronos87/howlongtobeat)** - Discover how many hours you need to beat a game. [`@Cronos87`](https://raycast.com/Cronos87) [`code`](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat) `api@^1.38.3`
+- **[HowLongToBeat](https://raycast.com/Cronos87/howlongtobeat)** - Discover how many hours you need to beat a game. [`@Cronos87`](https://raycast.com/Cronos87) [`code`](https://github.com/raycast/extensions/tree/main/extensions/how-long-to-beat) `api@^1.18.0`
 - **[IATA Code Decoder](https://raycast.com/timrogers/iata-code-decoder)** - Decodes IATA codes, helping you to identify airports, airlines and aircraft [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iata-code-decoder) `api@^1.48.9`
 - **[iLovePDF](https://raycast.com/mohamedk1/ilovepdf)** - Set of commands to interact with iLovePDF [`@mohamedk1`](https://raycast.com/mohamedk1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) `api@^1.72.1` `utils@^1.15.0`
 - **[ipapi.is](https://raycast.com/xmok/ipapi-is)** - Lookup IP or ASN via ipapi.is [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) `api@^1.62.0` `utils@^1.10.1`
@@ -590,6 +590,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[PHP Documentation Search](https://raycast.com/comes/php-docs)** - Quickly search through official PHP documentation [`@comes`](https://raycast.com/comes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/php-docs) `api@^1.39.2`
 - **[PHP Toolbox](https://raycast.com/inxilpro/php-toolbox)** - A suite of useful commands for PHP developers [`@inxilpro`](https://raycast.com/inxilpro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/php-toolbox) `api@^1.52.1`
 - **[Pick Random](https://raycast.com/MatteoGauthier/pick-random-raycast-extension)** - Sometimes you need a random character / emojis / number, here is an extension that pick a random something and copy it in the clipboard [`@MatteoGauthier`](https://raycast.com/MatteoGauthier) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pick-random) `api@^1.44.0`
+- **[Pieces for Raycast](https://raycast.com/pieces_dev/pieces-raycast)** - Pieces for Developers Raycast Extension [`@pieces_dev`](https://raycast.com/pieces_dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pieces-raycast) `api@^1.76.0` `utils@^1.16.0`
 - **[Ping](https://raycast.com/stevensd2m/ping)** - Pings a domain to see if it is alive [`@stevensd2m`](https://raycast.com/stevensd2m) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ping) `api@^1.57.2` `utils@^1.9.1`
 - **[Pipe Commands](https://raycast.com/pomdtr/pipe-commands)** - Pipe your selection or clipboard to custom scripts defined in any language. [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands) `api@^1.69.3`
 - **[Pixels to Viewport Width or Height](https://raycast.com/Atiipik/convert-px-to-vw-vh)** - Fast conversion of pixels to vw or vh depending on the size of your viewport. [`@Atiipik`](https://raycast.com/Atiipik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert-px-to-vw-vh) `api@^1.51.1` `utils@^1.6.1`
@@ -613,7 +614,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Refresh Browsers](https://raycast.com/koinzhang/refresh-browsers)** - Refresh all browser tabs [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) `api@^1.76.0` `utils@^1.15.0`
 - **[RegEx REPL](https://raycast.com/hongkiulam/regex-repl)** - Quickly write and test Regular Expressions (RegEx) [`@hongkiulam`](https://raycast.com/hongkiulam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/regex-repl) `api@^1.59.0`
 - **[Regex Tester](https://raycast.com/allenan/regex-tester)** - Preview and test regular expressions [`@allenan`](https://raycast.com/allenan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/regex-tester) `api@^1.36.0`
-- **[Render](https://raycast.com/destiner/render)** - View your Render services, deploys, and custom domains [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/render) `api@^1.28.0`
+- **[Render](https://raycast.com/destiner/render)** - View your Render services, deploys, and custom domains [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/render) `api@^1.79.0` `utils@^1.16.3`
 - **[Repology Search](https://raycast.com/SebDanielsson/repology-search)** - Search packages from repology.org [`@SebDanielsson`](https://raycast.com/SebDanielsson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/repology-search) `api@^1.61.2` `utils@^1.10.1`
 - **[Ruby Evaluate](https://raycast.com/obahareth/ruby-evaluate)** - Evaluate Ruby code on-the-fly [`@obahareth`](https://raycast.com/obahareth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ruby-evaluate) `api@^1.38.1`
 - **[RunCloud](https://raycast.com/itsjustxan/runcloud)** - Search Your RunCloud Servers + Webapps [`@itsjustxan`](https://raycast.com/itsjustxan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/runcloud) `api@^1.56.0` `utils@^1.4.8`
@@ -697,6 +698,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 - **[.NET Documentation Search](https://raycast.com/huseyint/dotnet-docs-search)** - Search .NET API documentation. [`@huseyint`](https://raycast.com/huseyint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) `api@^1.44.0`
 - **[AdonisJS Documentation](https://raycast.com/craigharman/adonisjs-documentation)** - Access AdonisJS documentation from within Raycast [`@craigharman`](https://raycast.com/craigharman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adonisjs-documentation) `api@^1.76.0`
+- **[Backstage](https://raycast.com/yukukotani/backstage)** - Shortcuts for Backstage [`@yukukotani`](https://raycast.com/yukukotani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/backstage) `api@^1.79.1` `utils@^1.16.2`
 - **[Badges - shields.io](https://raycast.com/litomore/badges)** - Concise, consistent, and legible badges. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/badges) `api@^1.78.1` `utils@^1.14.1`
 - **[Braid Design System](https://raycast.com/felixhabib/braid)** - Search and use Braid Components and Iconography from Raycast [`@felixhabib`](https://raycast.com/felixhabib) [`code`](https://github.com/raycast/extensions/tree/main/extensions/braid) `api@^1.58.0` `utils@^1.9.1`
 - **[Cheatsheets](https://raycast.com/destiner/cheatsheets)** - Search and view programming cheatsheets [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) `api@^1.28.0`
@@ -842,6 +844,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Jokes](https://raycast.com/xmok/jokes)** - Get up to 10 jokes at a time from a variety of categories. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jokes) `api@^1.70.3`
 - **[LaLiga](https://raycast.com/anhthang/laliga)** - All the information of LaLiga Santander, LaLiga SmartBank, and Liga F: schedules, results, standings, news, statistics, and much more [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laliga) `api@^1.79.1` `utils@^1.16.3`
 - **[Lega Serie A](https://raycast.com/anhthang/serie-a)** - The top league in Italy, the twenty best teams, standings, results, statistics. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) `api@^1.47.3`
+- **[LEGO Bricks](https://raycast.com/mSarheed/lego-bricks)** - Look up LEGO sets, colors, bricks etc. [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lego-bricks) `api@^1.79.1` `utils@^1.16.3`
 - **[LetMeGoogleThat](https://raycast.com/Ek217/let-me-google-that)** - LetMeGoogleThat is a Raycast extension that generates links to the popular 'Let Me Google That For You' website. With just a few clicks, you can create a custom link that takes your friends or colleagues directly to a Google search page for the term you specify. Perfect for those times when someone asks you a question that they could easily look up themselves! Simply enter the search term, generate the link, and share it with others. LetMeGoogleThat saves you time and makes it easy to share information with others. [`@Ek217`](https://raycast.com/Ek217) [`code`](https://github.com/raycast/extensions/tree/main/extensions/let-me-google-that) `api@^1.54.1`
 - **[Lichess.org](https://raycast.com/ftonato/lichess-org)** - Quickly start games on Lichess.org [`@ftonato`](https://raycast.com/ftonato) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lichess-org) `api@^1.51.1`
 - **[Life Progress](https://raycast.com/koinzhang/life-progress)** - View life progress and custom Countdown Date. See how much time is left. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/life-progress) `api@^1.66.2`

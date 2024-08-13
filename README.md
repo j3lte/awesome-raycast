@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/8214958569cccf4b_update-time.svg)
+![Last update](/icons/e6fe10c3ddf231d1_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,22 +38,22 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1652** packages in **15** categories
+- **1653** packages in **15** categories
 - **16** packages use Swift
-- **1069** authors
+- **1070** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (29)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **584** contributors
-  - of which **433** contributors are only contributors
+- **586** contributors
+  - of which **434** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (165)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (166)
   - [j3lte](https://raycast.com/j3lte) (35)
-  - [xilopaint](https://raycast.com/xilopaint) (17)
-  - [xmok](https://raycast.com/xmok) (17)
+  - [xilopaint](https://raycast.com/xilopaint) (18)
+  - [xmok](https://raycast.com/xmok) (18)
   - [stelo](https://raycast.com/stelo) (17)
 
 <!-- END STATISTICS -->
@@ -526,7 +526,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Hypersonic](https://raycast.com/reboot.studio/hypersonic)** - Fastest Notion to-do app ever [`@reboot.studio`](https://raycast.com/reboot.studio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) `api@1.48.5` `utils@1.5.2`
 - **[Incident.io](https://raycast.com/nkl/incident-io)** - Gets the incidents from Incident.io [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/incident-io) `api@^1.75.2`
 - **[iOS Human Interface Guidelines](https://raycast.com/eliperkins/raycast-ios-hig)** - Shows you the iOS HIG's info for quick reference [`@eliperkins`](https://raycast.com/eliperkins) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) `api@^1.40.3`
-- **[IP Geolocation](https://raycast.com/koinzhang/ip-geolocation)** - Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) `api@^1.75.1`
+- **[IP Geolocation](https://raycast.com/koinzhang/ip-geolocation)** - Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) `api@^1.80.0` `utils@^1.16.3`
 - **[IP Tools](https://raycast.com/meguoe/ip-tools)** - This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) [`@meguoe`](https://raycast.com/meguoe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) `api@^1.64.3` `utils@^1.10.1`
 - **[Jenkins](https://raycast.com/k8scat/jenkins)** - Manage your Jenkins directly from Raycast. [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jenkins) `api@^1.39.2`
 - **[Jira2Git](https://raycast.com/ipiranhaa/jira2git)** - The tool for making Jira and Git work together smoothly as silk for a better development experience. [`@ipiranhaa`](https://raycast.com/ipiranhaa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jira2git) `api@^1.42.1`
@@ -1216,7 +1216,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Memorable Password Generator](https://raycast.com/gandli/memorable-generate-password)** - Generate a set of passwords that are easy to remember and use· [`@gandli`](https://raycast.com/gandli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memorable-generate-password) `api@^1.51.1`
 - **[Mikrus](https://raycast.com/tkowalski29/mikrus)** - Integration with mikr.us [`@tkowalski29`](https://raycast.com/tkowalski29) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mikrus) `api@^1.76.0` `utils@^1.16.0`
 - **[MindNode](https://raycast.com/thuggyduck/mindnode)** - Create Mindmap Quickly using Raycast [`@thuggyduck`](https://raycast.com/thuggyduck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mindnode) `api@^1.62.0`
-- **[Minecraft Color Codes](https://raycast.com/lafkpages/minecraft-color-codes)** - View and copy Minecraft chat color codes. [`@lafkpages`](https://raycast.com/lafkpages) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) `api@^1.72.1`
+- **[Minecraft Color Codes](https://raycast.com/lafkpages/minecraft-color-codes)** - View and copy Minecraft chat color codes. [`@lafkpages`](https://raycast.com/lafkpages) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) `api@^1.72.1` `utils@^1.16.3`
 - **[Miro](https://raycast.com/felixhaeberle/miro)** - Create, search and copy link, open Miro boards and more. [`@felixhaeberle`](https://raycast.com/felixhaeberle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/miro) `api@^1.41.1` `utils@^1.4.10`
 - **[Mochi](https://raycast.com/kawamataryo/mochi)** - Quickly create Mochi cards [`@kawamataryo`](https://raycast.com/kawamataryo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mochi) `api@^1.45.3` `utils@^1.4.15`
 - **[MOCO](https://raycast.com/eviscares/moco)** - Provide Integration to MOCO timetracking. [`@eviscares`](https://raycast.com/eviscares) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moco) `api@^1.43.2`
@@ -1255,7 +1255,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Parallels Virtual Machines](https://raycast.com/danpalmer/parallels-virtual-machines)** - Launch and control virtual machines in Parallels Desktop. [`@danpalmer`](https://raycast.com/danpalmer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines) `api@^1.39.3` `utils@^1.4.0`
 - **[Parcel Tracker - 17track](https://raycast.com/cojmeister/package-tracker)** - A Raycast extension that allows you to track your packages using 17track's REST API.  All supported agencies are those of 17track. [`@cojmeister`](https://raycast.com/cojmeister) [`code`](https://github.com/raycast/extensions/tree/main/extensions/package-tracker) `api@^1.43.2` `utils@^1.4.8`
 - **[Password Generator](https://raycast.com/joshuaiz/password-generator)** - Generates a password from 5–64 characters with options for case, special characters, and more [`@joshuaiz`](https://raycast.com/joshuaiz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-generator) `api@^1.31.0`
-- **[PDFSearch](https://raycast.com/kevin-pek/pdfsearch)** - Search across collections of PDF documents. [`@kevin-pek`](https://raycast.com/kevin-pek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdfsearch) `api@^1.79.1` `utils@^1.10.1`
+- **[PDFSearch](https://raycast.com/kevin-pek/pdfsearch)** - Search across collections of PDF files. [`@kevin-pek`](https://raycast.com/kevin-pek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdfsearch) `api@^1.79.1` `utils@^1.10.1`
 - **[Perplexity API](https://raycast.com/ilian/perplexity-api)** - Use the powerful models via Perplexity API from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) `api@^1.68.1`
 - **[Personio](https://raycast.com/boosteblume/personio)** - Track your time with Personio. [`@boosteblume`](https://raycast.com/boosteblume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/personio) `api@^1.69.0`
 - **[Pie for Pi-hole](https://raycast.com/GLaDO8/pie-for-pi-hole)** - Control your Pi-hole from Raycast. [`@GLaDO8`](https://raycast.com/GLaDO8) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pie-for-pihole) `api@^1.47.3`
@@ -1394,6 +1394,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 **[`^        back to top        ^`](#awesome-raycast)**
 
 - **[1Password](https://raycast.com/khasbilegt/1password)** - Search, open or edit your 1Password passwords from Raycast [`@khasbilegt`](https://raycast.com/khasbilegt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1password) `api@^1.59.0` `utils@^1.4.9`
+- **[Aegis Authenticator](https://raycast.com/bfayers/aegis)** - Search, sync and use your Aegis 2FA database with Raycast [`@bfayers`](https://raycast.com/bfayers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aegis) `api@^1.77.1` `utils@^1.16.1`
 - **[Apple-Like Password](https://raycast.com/breadone/keychain-password-gen)** - Copies a generated Apple Keychain-Like password directly to the clipboard in one step [`@breadone`](https://raycast.com/breadone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) `api@^1.48.8`
 - **[Authy - Twilio App](https://raycast.com/guga4ka/authy)** - Search, sync and use your Twilio’s Authy 2fa tokens with Raycast [`@guga4ka`](https://raycast.com/guga4ka) [`code`](https://github.com/raycast/extensions/tree/main/extensions/authy) `api@^1.77.1` `utils@^1.16.1`
 - **[Bitwarden Vault](https://raycast.com/jomifepe/bitwarden)** - Access a Bitwarden account. Requires installing the Bitwarden CLI. [`@jomifepe`](https://raycast.com/jomifepe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) `api@^1.79.1` `utils@^1.16.2`
@@ -1819,7 +1820,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[URL Tools](https://raycast.com/joshua46/url-tools)** - Quickly encode or decode URL from the clipboard [`@joshua46`](https://raycast.com/joshua46) [`code`](https://github.com/raycast/extensions/tree/main/extensions/url-tools) `api@1.25.5`
 - **[UUID Generator](https://raycast.com/jmaeso/uuid-generator)** - A quick way to generate UUIDs without opening the browser [`@jmaeso`](https://raycast.com/jmaeso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uuid-generator) `api@^1.55.0`
 - **[v2ex](https://raycast.com/leo/v2ex)** - You can quickly access the 10 most popular posts of v2ex at the moment. Note: The v2ex home page can be reached by visiting https://www.v2ex.com/ through your browser. For users in China, proxy access is supported. [`@leo`](https://raycast.com/leo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/v2ex) `api@^1.25.1`
-- **[Vercel](https://raycast.com/MaxLeiter/vercast)** - View and modify your Vercel projects and deployments. [`@MaxLeiter`](https://raycast.com/MaxLeiter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vercast) `api@^1.38.1` `utils@^1.4.8`
+- **[Vercel](https://raycast.com/MaxLeiter/vercast)** - View and modify your Vercel projects, deployments and domains. [`@MaxLeiter`](https://raycast.com/MaxLeiter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vercast) `api@^1.79.0` `utils@^1.16.2`
 - **[VirtualBox Power Switch](https://raycast.com/diogo_ferrer/virtualbox-power-switch)** - List your VirtualBox VMs, turn them on/off, or delete them. [`@diogo_ferrer`](https://raycast.com/diogo_ferrer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/virtualbox-power-switch) `api@^1.56.3` `utils@^1.9.0`
 - **[Visual Studio Code](https://raycast.com/thomas/visual-studio-code)** - Control Visual Studio Code, Cursor & Codium directly from Raycast - Search and open recent projects, handle extensions and commands. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) `api@^1.53.0` `utils@^1.10.0`
 - **[Visual Studio Code - Project Manager](https://raycast.com/MarkusLanger/vscode-project-manager)** - Search and open projects from Visual Studio Code Project Manager [`@MarkusLanger`](https://raycast.com/MarkusLanger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) `api@^1.77.0` `utils@^1.16.1`

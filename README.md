@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/714660e54389ad0a_update-time.svg)
+![Last update](/icons/99d7440c5beab416_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -47,14 +47,14 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **586** contributors
-  - of which **434** contributors are only contributors
+- **589** contributors
+  - of which **436** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (166)
   - [j3lte](https://raycast.com/j3lte) (35)
+  - [xmok](https://raycast.com/xmok) (19)
   - [xilopaint](https://raycast.com/xilopaint) (18)
-  - [xmok](https://raycast.com/xmok) (18)
-  - [stelo](https://raycast.com/stelo) (17)
+  - [stelo](https://raycast.com/stelo) (18)
 
 <!-- END STATISTICS -->
 
@@ -70,7 +70,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ableton Live](https://raycast.com/dch09/ableton-live)** - Search and open recent Ableton Live Projects [`@dch09`](https://raycast.com/dch09) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) `api@^1.48.5` `utils@^1.4.18`
 - **[Adhan Time](https://raycast.com/mzaien/adhan-time)** - This extension helps you to search prayer time for the user location [`@mzaien`](https://raycast.com/mzaien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) `api@^1.46.0` `utils@^1.4.16`
 - **[Anybox](https://raycast.com/anybox/anybox)** - Control Anybox with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anybox) `api@^1.71.4`
-- **[Apple Mail](https://raycast.com/yug2005/mail)** - Extension for Apple Mail. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mail) `api@^1.63.0` `utils@^1.10.1`
+- **[Apple Mail](https://raycast.com/yug2005/mail)** - Extension for Apple Mail. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mail) `api@^1.80.0` `utils@^1.16.3`
 - **[Apple Maps Search](https://raycast.com/djpowers/apple-maps-search)** - Quickly search Apple Maps or find directions. [`@djpowers`](https://raycast.com/djpowers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search) `api@^1.47.0`
 - **[Auto Quit App](https://raycast.com/koinzhang/auto-quit-app)** - Automatically quit the application after all windows are closed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) `api@^1.76.0`
 - **[Baidu OCR](https://raycast.com/Humber/baidu-ocr)** - Use Baidu OCR API to recognize text. [`@Humber`](https://raycast.com/Humber) [`code`](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) `api@^1.51.1`
@@ -608,7 +608,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Quick Access](https://raycast.com/koinzhang/quick-access)** - Quick access, drag and drop the files or folders pinned in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-access) `api@^1.79.1` `utils@^1.16.2`
 - **[Quicktype](https://raycast.com/Aayush9029/quicktype)** - Generate Models and Serializers from JSON [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicktype) `api@^1.31.0`
 - **[Radicle](https://raycast.com/sebastinez_rhizoma/radicle)** - Interact with your Radicle storage. [`@sebastinez_rhizoma`](https://raycast.com/sebastinez_rhizoma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/radicle) `api@^1.64.4` `utils@^1.10.1`
-- **[Railway Project Search](https://raycast.com/coffee-cup/railway)** - Search and navigate to your Railway projects [`@coffee-cup`](https://raycast.com/coffee-cup) [`code`](https://github.com/raycast/extensions/tree/main/extensions/railway) `api@^1.58.0`
+- **[Railway Project Search](https://raycast.com/coffee-cup/railway)** - Search and navigate to your Railway projects [`@coffee-cup`](https://raycast.com/coffee-cup) [`code`](https://github.com/raycast/extensions/tree/main/extensions/railway) `api@^1.79.0` `utils@^1.16.3`
 - **[Raycast Notification](https://raycast.com/maxnyby/raycast-notification)** - This extension makes it easy to display Raycast notifications via a quicklink, making the Raycast interface accessible to other applications or scripts [`@maxnyby`](https://raycast.com/maxnyby) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) `api@^1.80.0`
 - **[React Documentation](https://raycast.com/webdiego/react-docs)** - Quick links to the new React documentation [`@webdiego`](https://raycast.com/webdiego) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-docs) `api@^1.45.2`
 - **[Redis](https://raycast.com/k8scat/redis)** - Redis extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/redis) `api@^1.40.1` `utils@^1.4.8`
@@ -674,7 +674,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[User-Agent Parser](https://raycast.com/third774/user-agent)** - Parses the User-Agent of the selected text [`@third774`](https://raycast.com/third774) [`code`](https://github.com/raycast/extensions/tree/main/extensions/user-agent) `api@^1.60.1`
 - **[UTM Virtual Machines](https://raycast.com/alaidriel/utm-virtual-machines)** - Launch and control virtual machines in UTM. [`@alaidriel`](https://raycast.com/alaidriel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) `api@^1.46.1`
 - **[Verify Number](https://raycast.com/xmok/verify-number)** - Global Phone Number Validation & Lookup JSON API from APILayer [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/verify-number) `api@^1.63.0` `utils@^1.10.1`
-- **[Warp](https://raycast.com/joetannenbaum/warp)** - Open Warp tabs/windows and launch configurations. [`@joetannenbaum`](https://raycast.com/joetannenbaum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/warp) `api@^1.48.7` `utils@^1.4.8`
+- **[Warp](https://raycast.com/joetannenbaum/warp)** - Open Warp tabs/windows and launch configurations. [`@joetannenbaum`](https://raycast.com/joetannenbaum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/warp) `api@^1.79.0` `utils@^1.4.8`
 - **[Web Audit](https://raycast.com/floriandwt/web-audit)** - Find SEO related data of any given webpage. [`@floriandwt`](https://raycast.com/floriandwt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web-audit) `api@^1.47.3`
 - **[Web Converter](https://raycast.com/nielsvanrijn/web-converter)** - Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl and hsla and the shows closest Tailwind CSS color. [`@nielsvanrijn`](https://raycast.com/nielsvanrijn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert) `api@^1.53.2`
 - **[Websocket Debugging](https://raycast.com/RhysLees/websocket-debugging)** - Allows you to debug Pusher [`@RhysLees`](https://raycast.com/RhysLees) [`code`](https://github.com/raycast/extensions/tree/main/extensions/websocket-debugging) `api@^1.45.2` `utils@^1.4.16`

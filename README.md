@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/b53f0d7f2ddaf6e9_update-time.svg)
+![Last update](/icons/1513819a42fb8641_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1655** packages in **15** categories
-- **16** packages use Swift
+- **1656** packages in **15** categories
+- **17** packages use Swift
 - **1071** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -47,12 +47,12 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **590** contributors
+- **591** contributors
   - of which **437** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (166)
   - [j3lte](https://raycast.com/j3lte) (35)
-  - [xilopaint](https://raycast.com/xilopaint) (19)
+  - [xilopaint](https://raycast.com/xilopaint) (20)
   - [xmok](https://raycast.com/xmok) (19)
   - [stelo](https://raycast.com/stelo) (18)
 
@@ -1088,7 +1088,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Blockchain Gas Tracker](https://raycast.com/Vonernue/blockchain-gas-tracker)** - Track and caculate blockchain gas fees right in your Raycast! [`@Vonernue`](https://raycast.com/Vonernue) [`code`](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) `api@^1.49.3` `utils@^1.5.2`
 - **[Bring!](https://raycast.com/amuelli/bring)** - Add items to your Bring! shopping lists [`@amuelli`](https://raycast.com/amuelli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bring) `api@^1.68.1` `utils@^1.12.5`
 - **[Browser AI Companion](https://raycast.com/lin/browser-ai)** - Use the best models with Raycast Browser Extension to extend your browsing experience. [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) `api@^1.74.1` `utils@^1.15.0`
-- **[Calist](https://raycast.com/astrit/calist)** - Calist a calendar extension, companion for calist.io [`@astrit`](https://raycast.com/astrit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/calist) `api@^1.70.1` `utils@^1.13.6`
+- **[Calist](https://raycast.com/astrit/cron)** - Calist a calendar extension, companion for calist.io [`@astrit`](https://raycast.com/astrit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cron) `api@^1.70.1` `utils@^1.13.6`
 - **[Capacities](https://raycast.com/steffenble/capacities)** - Interact with Capacities from your command bar. Search your notes, capture content & more. [`@steffenble`](https://raycast.com/steffenble) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capacities) `api@^1.71.4` `utils@^1.14.0`
 - **[CCF What?](https://raycast.com/crackedpoly/ccf-what)** - Loop up CCF rankings. [`@crackedpoly`](https://raycast.com/crackedpoly) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ccf-what) `api@^1.68.1` `utils@^1.12.5`
 - **[ChatGPT](https://raycast.com/abielzulio/chatgpt)** - Interact with OpenAI's ChatGPT directly from your command bar [`@abielzulio`](https://raycast.com/abielzulio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) `api@^1.72.1` `utils@^1.14.1`
@@ -1255,6 +1255,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Parallels Virtual Machines](https://raycast.com/danpalmer/parallels-virtual-machines)** - Launch and control virtual machines in Parallels Desktop. [`@danpalmer`](https://raycast.com/danpalmer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines) `api@^1.39.3` `utils@^1.4.0`
 - **[Parcel Tracker - 17track](https://raycast.com/cojmeister/package-tracker)** - A Raycast extension that allows you to track your packages using 17track's REST API.  All supported agencies are those of 17track. [`@cojmeister`](https://raycast.com/cojmeister) [`code`](https://github.com/raycast/extensions/tree/main/extensions/package-tracker) `api@^1.43.2` `utils@^1.4.8`
 - **[Password Generator](https://raycast.com/joshuaiz/password-generator)** - Generates a password from 5–64 characters with options for case, special characters, and more [`@joshuaiz`](https://raycast.com/joshuaiz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-generator) `api@^1.31.0`
+- **[PDF Tools](https://raycast.com/xilopaint/pdf-tools)** - Manipulate PDF files with ease [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdf-tools) `api@^1.81.0`
 - **[PDFSearch](https://raycast.com/kevin-pek/pdfsearch)** - Search across collections of PDF files. [`@kevin-pek`](https://raycast.com/kevin-pek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdfsearch) `api@^1.79.1` `utils@^1.10.1`
 - **[Perplexity API](https://raycast.com/ilian/perplexity-api)** - Use the powerful models via Perplexity API from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) `api@^1.68.1`
 - **[Personio](https://raycast.com/boosteblume/personio)** - Track your time with Personio. [`@boosteblume`](https://raycast.com/boosteblume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/personio) `api@^1.69.0`
@@ -1543,7 +1544,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Trovu - Web Search Command Line](https://raycast.com/jorges/trovu)** - Search 1000+ websites in a command-line way, with curated and personal shortcuts, organized by namespaces, allowing multiple and typed arguments, with full privacy. [`@jorges`](https://raycast.com/jorges) [`code`](https://github.com/raycast/extensions/tree/main/extensions/trovu) `api@^1.75.2` `utils@^1.4.8`
 - **[Tynyfy - URL Shortener](https://raycast.com/kusthi/tynyfy)** - Shortens your boring long URLs [`@kusthi`](https://raycast.com/kusthi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tynyfy) `api@^1.57.0`
 - **[Typeform Navigator](https://raycast.com/jdvr/typeform)** - Manage your Typeform account [`@jdvr`](https://raycast.com/jdvr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/typeform-navigator) `api@^1.40.1`
-- **[Urban Dictionary Search](https://raycast.com/pernielsentikaer/urban-dictionary)** - Search on urban dictionary [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) `api@^1.53.0` `utils@^1.7.1`
+- **[Urban Dictionary Search](https://raycast.com/pernielsentikaer/urban-dictionary)** - Search on Urban Dictionary [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) `api@^1.81.0` `utils@^1.16.4`
 - **[URL Unshortener](https://raycast.com/SebDanielsson/url-unshortener)** - Unshorten/expand those pesky short links in your clipboard or text selection, enhancing your privacy and security. [`@SebDanielsson`](https://raycast.com/SebDanielsson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/url-unshortener) `api@^1.62.2`
 - **[ViaCEP](https://raycast.com/xilopaint/viacep)** - Find Brazilian addresses and postal codes [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/viacep) `api@^1.67.1` `utils@^1.12.4`
 - **[Vocabula.lat](https://raycast.com/silencesys/vocabula-lat)** - An extension to look for words and abbreviations in the Vocabula.lat Latin dictionary [`@silencesys`](https://raycast.com/silencesys) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vocabula-lat) `api@^1.75.1` `utils@^1.15.0`

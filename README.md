@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/1513819a42fb8641_update-time.svg)
+![Last update](/icons/b6b773806967375a_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,23 +38,23 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1656** packages in **15** categories
+- **1658** packages in **15** categories
 - **17** packages use Swift
-- **1071** authors
+- **1072** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (29)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **591** contributors
-  - of which **437** contributors are only contributors
+- **593** contributors
+  - of which **439** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (166)
   - [j3lte](https://raycast.com/j3lte) (35)
   - [xilopaint](https://raycast.com/xilopaint) (20)
-  - [xmok](https://raycast.com/xmok) (19)
-  - [stelo](https://raycast.com/stelo) (18)
+  - [xmok](https://raycast.com/xmok) (20)
+  - [stelo](https://raycast.com/stelo) (19)
 
 <!-- END STATISTICS -->
 
@@ -496,6 +496,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Get SSH Key](https://raycast.com/Theon/get-ssh-key)** - Get your local SSH key in a split of a second. [`@Theon`](https://raycast.com/Theon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) `api@^1.76.0` `utils@^1.15.0`
 - **[ghq](https://raycast.com/konojunya/ghq)** - Raycast Extension for ghq. [`@konojunya`](https://raycast.com/konojunya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ghq) `api@^1.67.1` `utils@^1.12.4`
 - **[Git Branch Name Generator](https://raycast.com/mbonner/git-branch-name-generator)** - Convert a string into a branch name [`@mbonner`](https://raycast.com/mbonner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-branch-name-generator) `api@^1.45.2` `utils@^1.4.15`
+- **[Git Buddy](https://raycast.com/gianfranco/git-buddy)** - An opinionated, AI-powered Git assistant for commit messages, PR descriptions, and branch management tasks. [`@gianfranco`](https://raycast.com/gianfranco) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-buddy) `api@^1.81.0`
 - **[Git Co-Authors](https://raycast.com/nickradford/git-co-authors)** - Manage and copy co-authors for git commits [`@nickradford`](https://raycast.com/nickradford) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-co-authors) `api@^1.51.0` `utils@^1.7.0`
 - **[Git Repos](https://raycast.com/moored/git-repos)** - Quickly access your local git repositories and open them in your favorite editor or any app [`@moored`](https://raycast.com/moored) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-repos) `api@^1.59.0` `utils@^1.5.2`
 - **[Git Worktrees](https://raycast.com/canac/worktrees)** - View, add, and remove git worktrees. [`@canac`](https://raycast.com/canac) [`code`](https://github.com/raycast/extensions/tree/main/extensions/worktrees) `api@^1.64.5` `utils@^1.10.1`
@@ -860,6 +861,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[NBA Viewer](https://raycast.com/AbhinavPalacharla/nba-viewer)** - View upcoming NBA games and NBA team standings [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) `api@^1.37.0` `utils@^1.1.0`
 - **[NFL](https://raycast.com/kciarnie/nfl-information)** - Fetches the NFL Schedule, News, and Team News [`@kciarnie`](https://raycast.com/kciarnie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) `api@^1.64.5` `utils@^1.10.1`
 - **[Number Facts](https://raycast.com/BossElijah/number-facts)** - Get facts about numbers, dates, and years [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/number-facts) `api@^1.73.2` `utils@^1.15.0`
+- **[OctoPrint](https://raycast.com/mSarheed/octoprint)** - Control your OctoPrint printer from Raycast [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/octoprint) `api@^1.76.0` `utils@^1.4.8`
 - **[Office Quotes](https://raycast.com/braydoncoyer/office-quotes)** - An extension that displays quotes from NBC's beloved mockumentary series 'The Office'. [`@braydoncoyer`](https://raycast.com/braydoncoyer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/office-quotes) `api@^1.76.0`
 - **[Open Camera Menu Bar](https://raycast.com/peduarte/open-camera-menu-bar)** - Open the camera command from the menu bar [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-camera-menu-bar) `api@^1.63.0`
 - **[Oura](https://raycast.com/Rob/oura)** - Get data from your Oura ring experience to keep track of your readiness, sleep, activity, and more. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oura) `api@^1.65.1` `utils@^1.10.1`
@@ -1146,7 +1148,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Flypy Code Query](https://raycast.com/absir1949/flypy)** - Query Flypy(Xiaohe Double-Pin) Code [`@absir1949`](https://raycast.com/absir1949) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flypy-code-query) `api@^1.33.0`
 - **[Focus Anchor](https://raycast.com/ashleyhindle/focus-anchor)** - Anchor your focus on the most important thing [`@ashleyhindle`](https://raycast.com/ashleyhindle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/focus-anchor) `api@^1.49.3`
 - **[FocusTask](https://raycast.com/vojto/focustask)** - Manage and search for tasks in FocusTask [`@vojto`](https://raycast.com/vojto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/focustask) `api@^1.39.2` `utils@^1.3.3`
-- **[Folder Search](https://raycast.com/GastroGeek/folder-search)** - Search for folders on your Mac [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/folder-search) `api@^1.39.2` `utils@^1.3.3`
+- **[Folder Search](https://raycast.com/GastroGeek/folder-search)** - Search for folders on your Mac [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/folder-search) `api@^1.79.0` `utils@^1.3.3`
 - **[Fork Repositories](https://raycast.com/sxn/fork-repositories)** - Search and open Fork repositories [`@sxn`](https://raycast.com/sxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fork-repositories) `api@1.53.4` `utils@1.8.0`
 - **[Frill](https://raycast.com/xmok/frill)** - Capture, organize, and announce product feedback in one place [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/frill) `api@^1.76.0` `utils@^1.15.0`
 - **[ftrack](https://raycast.com/lucaas/ftrack)** - Interacting with ftrack [`@lucaas`](https://raycast.com/lucaas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ftrack) `api@^1.50.0` `utils@^1.5.2`
@@ -1200,7 +1202,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[LastPass Credentials Search](https://raycast.com/alex-popov-tech/lastpass)** - Search, view, and copy credentials from LastPass [`@alex-popov-tech`](https://raycast.com/alex-popov-tech) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lastpass) `api@^1.47.1` `utils@^1.4.16`
 - **[Linear](https://raycast.com/thomaslombart/linear)** - Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linear) `api@^1.72.1` `utils@^1.16.0`
 - **[Link Lock - Password Locked Links](https://raycast.com/EvanZhouDev/raycast-link-lock)** - Using shrtcode, protect any link with a password! [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-link-lock) `api@^1.57.0` `utils@^1.9.0`
-- **[Linkwarden](https://raycast.com/leodbrs/linkwarden)** - This extension allows you to manage your Linkwarden bookmarks directly from Raycast. You can add new bookmarks and search through your existing ones effortlessly. [`@leodbrs`](https://raycast.com/leodbrs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linkwarden) `api@^1.68.1` `utils@^1.12.5`
+- **[Linkwarden](https://raycast.com/leodbrs/linkwarden)** - This extension allows you to manage your Linkwarden bookmarks directly from Raycast. You can add new bookmarks and search through your existing ones effortlessly. [`@leodbrs`](https://raycast.com/leodbrs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linkwarden) `api@^1.79.0` `utils@^1.16.4`
 - **[Logitech Litra](https://raycast.com/timrogers/logitech-litra)** - Manage USB-connected Logitech Litra Glow, Litra Beam and Litra Beam LX lights from Raycast [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/logitech-litra) `api@^1.71.4`
 - **[Lunatask](https://raycast.com/posthardcode/lunatask)** - Unofficial extension for Lunatask. Create tasks from Raycast. [`@posthardcode`](https://raycast.com/posthardcode) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lunatask) `api@^1.52.1` `utils@^1.7.0`
 - **[Mac App Store Search](https://raycast.com/say4n/mac-app-store-search)** - Search for apps in the Mac App Store from Raycast! [`@say4n`](https://raycast.com/say4n) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) `api@^1.69.0` `utils@^1.4.8`
@@ -1358,7 +1360,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Universal Commands](https://raycast.com/cyxn/universal-commands)** - Runs configurable application shortcut depending on the frontmost application. [`@cyxn`](https://raycast.com/cyxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) `api@^1.72.1` `utils@^1.15.0`
 - **[Universal Inbox](https://raycast.com/dax42/universal-inbox)** - Manage your notifications in a single Universal Inbox [`@dax42`](https://raycast.com/dax42) [`code`](https://github.com/raycast/extensions/tree/main/extensions/universal-inbox) `api@^1.65.1` `utils@^1.10.1`
 - **[Universal Website Search](https://raycast.com/bert/any-website-search)** - Search any site on the web [`@bert`](https://raycast.com/bert) [`code`](https://github.com/raycast/extensions/tree/main/extensions/any-website-search) `api@^1.39.3` `utils@^1.4.8`
-- **[Vade Mecum](https://raycast.com/xilopaint/vade-mecum)** - Quickly access and navigate relevant Brazilian legislation [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vade-mecum) `api@^1.70.3` `utils@^1.13.5`
+- **[Vade Mecum](https://raycast.com/xilopaint/vade-mecum)** - Quickly access and navigate relevant Brazilian legislation [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vade-mecum) `api@^1.81.2` `utils@^1.16.4`
 - **[vAIb - Your AI Companion](https://raycast.com/vaibhav_sisodiya/vaib)** - Get quick answers to your quick questions with the power of AI with this free extension. [`@vaibhav_sisodiya`](https://raycast.com/vaibhav_sisodiya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vaib) `api@^1.64.4`
 - **[Val Town](https://raycast.com/KevinBatdorf/val-town)** - View and run your vals and search others' vals [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/val-town) `api@^1.59.0` `utils@^1.10.0`
 - **[VAT Calculator](https://raycast.com/justiniscoding/vat-calculator)** - Quickly calculates the VAT of a given value. By default, uses 16%, but the percentage can be adjusted. You can input either a number or an equation [`@justiniscoding`](https://raycast.com/justiniscoding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vat-calculator) `api@^1.59.0` `utils@^1.10.0`

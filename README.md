@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/cf3277ad40da4c29_update-time.svg)
+![Last update](/icons/c4fd33e0e3725282_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,17 +38,17 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1659** packages in **15** categories
+- **1661** packages in **15** categories
 - **17** packages use Swift
-- **1072** authors
+- **1074** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (29)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
   - [thomas](https://raycast.com/thomas) (14)
-- **593** contributors
-  - of which **439** contributors are only contributors
+- **596** contributors
+  - of which **442** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (166)
   - [j3lte](https://raycast.com/j3lte) (35)
@@ -854,11 +854,12 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Lightning Time](https://raycast.com/MatthewStanciu/lightning-time)** - Convert from traditional time to Lightning Time ⚡ [`@MatthewStanciu`](https://raycast.com/MatthewStanciu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lightning-time) `api@^1.40.1`
 - **[Ligue 1](https://raycast.com/anhthang/ligue-1)** - View all the latest news about Ligue 1 McDonald's (calendar, results, ranking, video...) and all live games. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ligue-1) `api@^1.79.1`
 - **[Lotus - MTG Companion](https://raycast.com/madmaxmckinney/lotus-mtg-companion)** - A non-official tool to easily search for Magic The Gathering cards, sets, and rules - powered by Scryfall search. [`@madmaxmckinney`](https://raycast.com/madmaxmckinney) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lotus-mtg-companion) `api@^1.67.1` `utils@^1.12.5`
+- **[Luna Search](https://raycast.com/relevantsam/luna-search)** - Quickly find and open Luna Games [`@relevantsam`](https://raycast.com/relevantsam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/luna-search) `api@^1.69.1`
 - **[Manga Mexico](https://raycast.com/mrolivo/manga-calendar)** - Show a calendar with the latest manga releases of Mexican editorials. [`@mrolivo`](https://raycast.com/mrolivo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/manga-calendar) `api@^1.62.0` `utils@^1.9.0`
 - **[Meme Generator](https://raycast.com/timoransky/meme-generator)** - Generate memes with the help of Imgflip API [`@timoransky`](https://raycast.com/timoransky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) `api@^1.40.1`
 - **[Minecraft Crafting Recipes](https://raycast.com/lafkpages/minecraft-crafting-recipes)** - Quickly find recipes for Minecraft crafting. [`@lafkpages`](https://raycast.com/lafkpages) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minecraft-crafting-recipes) `api@^1.79.0` `utils@^1.16.2`
 - **[MouseHunt Helper](https://raycast.com/chesterhow/mousehunt-helper)** - Find the best attraction rates for different mice [`@chesterhow`](https://raycast.com/chesterhow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mousehunt-helper) `api@^1.45.3` `utils@^1.4.15`
-- **[NBA Viewer](https://raycast.com/AbhinavPalacharla/nba-viewer)** - View upcoming NBA games and NBA team standings [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) `api@^1.37.0` `utils@^1.1.0`
+- **[NBA & WNBA Viewer](https://raycast.com/AbhinavPalacharla/nba-viewer)** - View upcoming NBA or WNBA games and team standings [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) `api@^1.81.0` `utils@^1.16.4`
 - **[NFL](https://raycast.com/kciarnie/nfl-information)** - Fetches the NFL Schedule, News, and Team News [`@kciarnie`](https://raycast.com/kciarnie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) `api@^1.64.5` `utils@^1.10.1`
 - **[Number Facts](https://raycast.com/BossElijah/number-facts)** - Get facts about numbers, dates, and years [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/number-facts) `api@^1.73.2` `utils@^1.15.0`
 - **[OctoPrint](https://raycast.com/mSarheed/octoprint)** - Control your OctoPrint printer from Raycast [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/octoprint) `api@^1.76.0` `utils@^1.4.8`
@@ -1432,6 +1433,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[App Keeper Manager](https://raycast.com/edith/app-keeper-manager)** - This extention offers users the ability to manage currently running applications, with options to choose which apps to keep open and which to close during cleanup. It's especially suited for users looking to optimize their work environment and increase productivity. Users can set apps to “Always Keep,” ensuring they aren't closed during cleanup operations. The extension also provides an intuitive interface to add or remove apps from the preset keep list and features a one-click function to close non-kept apps. [`@edith`](https://raycast.com/edith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) `api@^1.69.0`
 - **[Battery Menu Bar](https://raycast.com/panrafal/battery-menubar)** - Battery capacity and power-draw information in the Menu Bar [`@panrafal`](https://raycast.com/panrafal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-menubar) `api@^1.56.1` `utils@^1.4.8`
 - **[Battery Optimizer](https://raycast.com/Qetesh/battery-optimizer)** - Keep the battery healthy by limiting the charging capacity. [`@Qetesh`](https://raycast.com/Qetesh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) `api@^1.74.0`
+- **[Bonjour](https://raycast.com/that70schris/bonjour)** - Manage Bonjour services [`@that70schris`](https://raycast.com/that70schris) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bonjour) `api@^1.81.0` `utils@^1.16.3`
 - **[Brightness Control](https://raycast.com/cali/brightness-control)** - Quickly controls the brightness levels of your display [`@cali`](https://raycast.com/cali) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) `api@^1.38.2`
 - **[Display Modes](https://raycast.com/agustin.prats/display-modes)** - Manage displays modes (resolution, refresh rate...). [`@agustin.prats`](https://raycast.com/agustin.prats) [`code`](https://github.com/raycast/extensions/tree/main/extensions/display-modes) `api@^1.59.0` `utils@^1.4.7`
 - **[Dot Underscore Files Cleaner](https://raycast.com/danulqua/dot-underscore-files-cleaner)** - Delete ._ files in the selected folder and its subfolders. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dot-underscore-files-cleaner) `api@^1.57.2`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a7636a112890f852_update-time.svg)
+![Last update](/icons/3ba4508ac0ee7d70_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1663** packages in **15** categories
+- **1664** packages in **15** categories
 - **17** packages use Swift
 - **1074** authors
 - Top **5** authors:
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **596** contributors
   - of which **442** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (166)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (167)
   - [j3lte](https://raycast.com/j3lte) (35)
   - [xmok](https://raycast.com/xmok) (22)
   - [xilopaint](https://raycast.com/xilopaint) (20)
@@ -1350,6 +1350,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[TL;DR (Too Long; Didn't Read)](https://raycast.com/chessjoe/tl-dr-ai-summary-tool)** - Let AI help you read articles from url. [`@chessjoe`](https://raycast.com/chessjoe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) `api@^1.65.0`
 - **[Tny](https://raycast.com/stayallive/tny)** - Shorten links with Tny by Chief Tools. [`@stayallive`](https://raycast.com/stayallive) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tny) `api@^1.66.2` `utils@^1.12.5`
 - **[Todoist](https://raycast.com/thomaslombart/todoist)** - Check your Todoist tasks and quickly create new ones [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/todoist) `api@^1.78.1` `utils@^1.16.1`
+- **[Toggle Fn](https://raycast.com/elonwoo/toggle-fn)** - Toggle the "Use all F1, F2, etc. keys as standard function keys" option in macOS System Preferences. [`@elonwoo`](https://raycast.com/elonwoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toggle-fn) `api@^1.80.0` `utils@^1.16.3`
 - **[Tomito Controls](https://raycast.com/elyse/tomito-controls)** - Control the Tomito app, a Pomodoro timer for macOS [`@elyse`](https://raycast.com/elyse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tomito-controls) `api@^1.65.0` `utils@^1.10.1`
 - **[Toothpick](https://raycast.com/VladCuciureanu/toothpick)** - Manage Bluetooth connections in Raycast. [`@VladCuciureanu`](https://raycast.com/VladCuciureanu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toothpick) `api@^1.71.0`
 - **[Translate.ge](https://raycast.com/giokaxo/raycast-translate-ge)** - Raycast plugin for translating georgian words to english [`@giokaxo`](https://raycast.com/giokaxo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-translate-ge) `api@^1.66.0` `utils@^1.4.8`

@@ -39,14 +39,14 @@ const packages: string[] = [];
 const swiftPackages: Set<string> = new Set();
 for await (const entry of walk(repoPath, { maxLevel: 1 })) {
   if (
-    entry.folders && entry.folders.map((f) => f.entry.name).includes("swift") ||
-    entry.files && entry.files.find((f) => f.entry.name === "Package.swift")
+    entry.folders && entry.folders.map((f) => f.name).includes("swift") ||
+    entry.files && entry.files.find((f) => f.name === "Package.swift")
   ) {
     swiftPackages.add(entry.dir.replace(repoPath, ""));
   }
-  const pkg = entry.files.find((f) => f.entry.name === "package.json");
+  const pkg = entry.files.find((f) => f.name === "package.json");
   if (pkg) {
-    packages.push(`${entry.dir}/${pkg.entry.name}`);
+    packages.push(`${entry.dir}/${pkg.name}`);
   }
 }
 
@@ -158,22 +158,6 @@ sortedCategories.forEach((category, i) => {
 
 const prefix = nanoid();
 
-await generateIcons([{
-  fileName: `swift-packages.svg`,
-  format: {
-    label: "Swift",
-    message: "Yes",
-    color: "yellow",
-  },
-}, {
-  fileName: `${prefix}_update-time.svg`,
-  format: {
-    label: "Last update",
-    message: format(new Date(), "yyyy-MM-dd HH:mm:ss"),
-    color: "blue",
-  },
-}], true);
-
 const README_FILE = import.meta.resolve("../README.md").replace("file://", "");
 const readme = await Deno.readTextFile(README_FILE);
 
@@ -198,16 +182,20 @@ const onlyContributors = contributorsArr.filter(
   ([contributor]) => !authors.has(contributor),
 ).length;
 
-let updatedReadMe = updateText(
+const { updatedText: stage1 } = updateText(
   "UPDATETIME",
   readme,
   `![Last update](/icons/${prefix}_update-time.svg)`,
 );
-updatedReadMe = updateText("SECTIONS", updatedReadMe, output);
-updatedReadMe = updateText("TABLE_OF_CONTENTS", updatedReadMe, toc);
-updatedReadMe = updateText(
+const { updatedText: stage2, hasChanges: stage2Changes } = updateText("SECTIONS", stage1, output);
+const { updatedText: stage3, hasChanges: stage3Changes } = updateText(
+  "TABLE_OF_CONTENTS",
+  stage2,
+  toc,
+);
+const { updatedText: stageFinal, hasChanges: stageFinalChanges } = updateText(
   "STATISTICS",
-  updatedReadMe,
+  stage3,
   `
 - **${packages.length}** packages in **${categories.size}** categories
 - **${swiftPackages.size}** packages use Swift
@@ -231,4 +219,25 @@ ${
 `,
 );
 
-await Deno.writeTextFile(README_FILE, updatedReadMe);
+if (!stage2Changes && !stage3Changes && !stageFinalChanges) {
+  console.log("No changes detected");
+  Deno.exit(0);
+}
+
+await generateIcons([{
+  fileName: `swift-packages.svg`,
+  format: {
+    label: "Swift",
+    message: "Yes",
+    color: "yellow",
+  },
+}, {
+  fileName: `${prefix}_update-time.svg`,
+  format: {
+    label: "Last update",
+    message: format(new Date(), "yyyy-MM-dd HH:mm:ss"),
+    color: "blue",
+  },
+}], true);
+
+await Deno.writeTextFile(README_FILE, stageFinal);

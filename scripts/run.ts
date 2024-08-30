@@ -158,29 +158,6 @@ sortedCategories.forEach((category, i) => {
 
 const prefix = nanoid();
 
-// Generate badges for raycast and raycast-utils versions
-// DISABLED FOR NOW
-// await generateIcons(
-//   Array.from(raycastVersions).map((version) => ({
-//     fileName: `raycast-${version.replaceAll(".", "_")}.svg`,
-//     format: {
-//       label: "@raycast/api",
-//       message: version,
-//       color: "blue",
-//     },
-//   })),
-//   true,
-// );
-// await generateIcons(
-//   Array.from(raycastUtilsVersions).map((version) => ({
-//     fileName: `raycast-utils-${version.replaceAll(".", "_")}.svg`,
-//     format: {
-//       label: "@raycast/utils",
-//       message: version,
-//       color: "orange",
-//     },
-//   })),
-// );
 await generateIcons([{
   fileName: `swift-packages.svg`,
   format: {

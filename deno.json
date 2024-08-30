@@ -6,10 +6,10 @@
     "clean": "deno run -A scripts/clean.ts"
   },
   "imports": {
-    "@std/dotenv": "jsr:@std/dotenv@^0.224.0",
-    "@std/fs": "jsr:@std/fs@^0.224.0",
+    "@std/dotenv": "jsr:@std/dotenv@^0.225.1",
+    "@std/fs": "jsr:@std/fs@^1.0.2",
     "@svarta/walk-it": "jsr:@svarta/walk-it@^5.0.1",
-    "badge-maker": "npm:badge-maker@^3.3.1",
+    "badge-maker": "npm:badge-maker@^4.0.0",
     "date-fns": "npm:date-fns@^3.6.0",
     "nanoid": "npm:nanoid@^5.0.7"
   },

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a22e45039586c083_update-time.svg)
+![Last update](/icons/3a7d1f5568295b94_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1681** packages in **15** categories
+- **1682** packages in **15** categories
 - **17** packages use Swift
 - **1084** authors
 - Top **5** authors:
@@ -46,14 +46,14 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [xmok](https://raycast.com/xmok) (31)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (14)
-  - [thomas](https://raycast.com/thomas) (14)
-- **602** contributors
-  - of which **447** contributors are only contributors
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (14)
+- **603** contributors
+  - of which **448** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (169)
   - [j3lte](https://raycast.com/j3lte) (36)
-  - [xmok](https://raycast.com/xmok) (24)
-  - [stelo](https://raycast.com/stelo) (22)
+  - [xmok](https://raycast.com/xmok) (26)
+  - [stelo](https://raycast.com/stelo) (23)
   - [xilopaint](https://raycast.com/xilopaint) (21)
 
 <!-- END STATISTICS -->
@@ -568,6 +568,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Network Speed](https://raycast.com/koinzhang/network-speed)** - Quickly check your internet connection speed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/network-speed) `api@^1.77.0`
 - **[New Relic](https://raycast.com/cirne/new-relic)** - Search Applications, Dashboard, Alerts, and more in New Relic [`@cirne`](https://raycast.com/cirne) [`code`](https://github.com/raycast/extensions/tree/main/extensions/new-relic) `api@^1.48.3` `utils@^1.4.8`
 - **[Next Run](https://raycast.com/jonathangiardino/next-run)** - Spin up a Next.js project from Raycast [`@jonathangiardino`](https://raycast.com/jonathangiardino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/next-run) `api@^1.47.3` `utils@^1.4.16`
+- **[NextDNS](https://raycast.com/pernielsentikaer/nextdns)** - Viewing and controlling NextDNS settings [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nextdns) `api@^1.81.0` `utils@^1.17.0`
 - **[Ngrok](https://raycast.com/ubinatus/ngrok)** - Serve Web Apps with one command  ngrok is a simplified API-first ingress-as-a-service that adds connectivity, security, and observability to your apps in one line [`@ubinatus`](https://raycast.com/ubinatus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ngrok) `api@^1.68.1` `utils@^1.12.5`
 - **[NixPkgs Search](https://raycast.com/aiotter/nixpkgs-search)** - Query NixPkgs like search.nixos.org [`@aiotter`](https://raycast.com/aiotter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nixpkgs-search) `api@^1.39.1`
 - **[Node Version Manager](https://raycast.com/andresmorelos/node-version-manager)** - Control your node versions with ease [`@andresmorelos`](https://raycast.com/andresmorelos) [`code`](https://github.com/raycast/extensions/tree/main/extensions/node-version-manager) `api@^1.64.5` `utils@^1.10.1`
@@ -821,7 +822,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Cinemas NOS](https://raycast.com/diogo_ferrer/cinemas-nos)** - Shows all movies and sessions in display by Cinemas NOS. [`@diogo_ferrer`](https://raycast.com/diogo_ferrer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cinemas-nos) `api@^1.56.3` `utils@^1.9.0`
 - **[Colorify - Generate Themes From Images](https://raycast.com/EvanZhouDev/colorify)** - Takes an image (such as your wallpaper) and generates a Raycast Theme out of it! [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/colorify) `api@^1.55.1`
 - **[Crunchbase](https://raycast.com/qdequele/crunchbase)** - Search on Crunchbase companies [`@qdequele`](https://raycast.com/qdequele) [`code`](https://github.com/raycast/extensions/tree/main/extensions/crunchbase) `api@^1.41.0` `utils@^1.4.9`
-- **[Dad Jokes](https://raycast.com/pernielsentikaer/dad-jokes)** - Get a random dad joke [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) `api@^1.41.1` `utils@^1.4.9`
+- **[Dad Jokes](https://raycast.com/pernielsentikaer/dad-jokes)** - Get a random dad joke [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) `api@^1.79.0` `utils@^1.17.0`
 - **[Defichain Lottery](https://raycast.com/adrian-schnell/defichain-lottery)** - Stats and your tickets for the Defichain Lottery [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/defichain-lottery) `api@^1.41.1`
 - **[Developer Excuses](https://raycast.com/niemtec/developer-excuse)** - Insert a random developer excuse for not doing your work. [`@niemtec`](https://raycast.com/niemtec) [`code`](https://github.com/raycast/extensions/tree/main/extensions/developer-excuse) `api@^1.58.0`
 - **[Dice & Coin](https://raycast.com/yonbergman/dice-and-coin)** - Quickly and easily make random decisions or generate a random number [`@yonbergman`](https://raycast.com/yonbergman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dice-and-coin) `api@^1.45.2`
@@ -865,7 +866,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Lotus - MTG Companion](https://raycast.com/madmaxmckinney/lotus-mtg-companion)** - A non-official tool to easily search for Magic The Gathering cards, sets, and rules - powered by Scryfall search. [`@madmaxmckinney`](https://raycast.com/madmaxmckinney) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lotus-mtg-companion) `api@^1.67.1` `utils@^1.12.5`
 - **[Luna Search](https://raycast.com/relevantsam/luna-search)** - Quickly find and open Luna Games [`@relevantsam`](https://raycast.com/relevantsam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/luna-search) `api@^1.69.1` `utils@^1.16.5`
 - **[Manga Mexico](https://raycast.com/mrolivo/manga-calendar)** - Show a calendar with the latest manga releases of Mexican editorials. [`@mrolivo`](https://raycast.com/mrolivo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/manga-calendar) `api@^1.62.0` `utils@^1.9.0`
-- **[Meme Generator](https://raycast.com/timoransky/meme-generator)** - Generate memes with the help of Imgflip API [`@timoransky`](https://raycast.com/timoransky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) `api@^1.40.1`
+- **[Meme Generator](https://raycast.com/timoransky/meme-generator)** - Generate memes with the help of Imgflip API [`@timoransky`](https://raycast.com/timoransky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/meme-generator) `api@^1.81.2` `utils@^1.16.3`
 - **[Metaphorpsum](https://raycast.com/jsumnersmith/metaphorpsum)** - An extension for generating random text from the metaphorpsum API. [`@jsumnersmith`](https://raycast.com/jsumnersmith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metaphorpsum) `api@^1.81.2` `utils@^1.16.3`
 - **[Minecraft Crafting Recipes](https://raycast.com/lafkpages/minecraft-crafting-recipes)** - Quickly find recipes for Minecraft crafting. [`@lafkpages`](https://raycast.com/lafkpages) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minecraft-crafting-recipes) `api@^1.79.0` `utils@^1.16.2`
 - **[MouseHunt Helper](https://raycast.com/chesterhow/mousehunt-helper)** - Find the best attraction rates for different mice [`@chesterhow`](https://raycast.com/chesterhow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mousehunt-helper) `api@^1.45.3` `utils@^1.4.15`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/d59782dcc5c1833b_update-time.svg)
+![Last update](/icons/baa8299048b3d199_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,21 +38,21 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1689** packages in **15** categories
+- **1691** packages in **15** categories
 - **17** packages use Swift
-- **1089** authors
+- **1091** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (31)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
-  - [vimtor](https://raycast.com/vimtor) (14)
+  - [thomas](https://raycast.com/thomas) (14)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (14)
 - **606** contributors
-  - of which **450** contributors are only contributors
+  - of which **449** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (169)
   - [j3lte](https://raycast.com/j3lte) (36)
-  - [xmok](https://raycast.com/xmok) (28)
+  - [xmok](https://raycast.com/xmok) (29)
   - [stelo](https://raycast.com/stelo) (23)
   - [xilopaint](https://raycast.com/xilopaint) (22)
 
@@ -559,6 +559,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Markdown This](https://raycast.com/aravindballa/markdown-this)** - Convert Markdown text in clipboard to HTML [`@aravindballa`](https://raycast.com/aravindballa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-this) `api@^1.35.2`
 - **[Maven Central Repository](https://raycast.com/koinzhang/maven-central-repository)** - Official search by the maintainers of Maven Central Repository. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) `api@^1.75.1` `utils@^1.15.0`
 - **[MiniSim](https://raycast.com/okwasniewski/minisim)** - Raycast extension for MiniSim [`@okwasniewski`](https://raycast.com/okwasniewski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minisim) `api@^1.53.4` `utils@^1.9.1`
+- **[mittwald](https://raycast.com/danieldeichfuss/mittwald)** - Search mittwald mStudio and API documentation. [`@danieldeichfuss`](https://raycast.com/danieldeichfuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mittwald) `api@^1.81.2` `utils@^1.16.5`
 - **[Mixpanel](https://raycast.com/iamsmaso/mixpanel)** - Collection of handful handles for mixpanel [`@iamsmaso`](https://raycast.com/iamsmaso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mixpanel) `api@^1.48.3`
 - **[Modify Hash](https://raycast.com/isfeng/modify-hash)** - Batch modify the hash of media files, which can be simply used for uploading online disk to prevent censorship. [`@isfeng`](https://raycast.com/isfeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/modify-hash) `api@^1.41.1`
 - **[Momentum](https://raycast.com/leondaz/momentum)** - Create a new project and open it in your favourite editor [`@leondaz`](https://raycast.com/leondaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/momentum) `api@^1.67.1`
@@ -581,6 +582,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[OK JSON](https://raycast.com/anybox/ok-json)** - Control OK JSON with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ok-json) `api@^1.63.0`
 - **[Open Graph](https://raycast.com/1weiho/open-graph)** - Preview Open Graph meta tags of a website [`@1weiho`](https://raycast.com/1weiho) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-graph) `api@^1.72.1`
 - **[Open in Android Studio](https://raycast.com/3llomi/open-in-android-studio)** - Open current Finder directory, selected folder in Android Studio, Add your favorite projects for quick access. [`@3llomi`](https://raycast.com/3llomi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-android-studio) `api@^1.58.0`
+- **[Open in Cursor](https://raycast.com/mjoosuf/open-in-cursor)** - Open current Finder directory, selected folder or file in Cursor. [`@mjoosuf`](https://raycast.com/mjoosuf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-cursor) `api@^1.39.1`
 - **[Open in JSON Hero](https://raycast.com/maverickdotdev/open-in-json-hero)** - Opens JSON in your pasteboard in JSON Hero [`@maverickdotdev`](https://raycast.com/maverickdotdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-json-hero) `api@^1.33.1`
 - **[Open in Sublime Text](https://raycast.com/anfalas/open-in-sublime-text)** - Open current Finder directory, selected folder or file in Sublime Text. [`@anfalas`](https://raycast.com/anfalas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) `api@^1.39.1`
 - **[Open in Visual Studio Code](https://raycast.com/shubzkothekar/open-in-visual-studio-code)** - Open current Finder directory, selected folder or file in Visual Studio Code. [`@shubzkothekar`](https://raycast.com/shubzkothekar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) `api@^1.39.1`
@@ -1294,7 +1296,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Quick Calendar](https://raycast.com/fuksman/calendar)** - View calendar month-by-month [`@fuksman`](https://raycast.com/fuksman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/calendar) `api@^1.65.0`
 - **[Quick Notes](https://raycast.com/biknandy/quick-notes)** - Create simple markdown notes in Raycast. No integrations required! [`@biknandy`](https://raycast.com/biknandy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) `api@^1.68.1` `utils@^1.12.5`
 - **[Quick Web](https://raycast.com/ShawYoungTang/quick-web)** - Quick Web is a configurable URL autocompletion tool [`@ShawYoungTang`](https://raycast.com/ShawYoungTang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-web) `api@^1.49.1`
-- **[QuickTime Recording](https://raycast.com/pradeepb28/quicktime)** - This extension has collection of commands that lets you start screen recording, movie recording and sound recording instantly. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicktime) `api@^1.30.3`
+- **[QuickTime Recording](https://raycast.com/pradeepb28/quicktime)** - Start screen recording, movie recording and sound recording instantly. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicktime) `api@^1.79.0` `utils@^1.17.0`
 - **[Rabbit Hole](https://raycast.com/Rob/rabbit-hole)** - Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) `api@^1.76.0` `utils@^1.12.0`
 - **[Random US Phone Number](https://raycast.com/yug2005/random-us-phone-number)** - Generate a random US phone number. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-us-phone-number) `api@^1.45.2`
 - **[RapidCap](https://raycast.com/brittany_carusone/rapidcap)** - Quickly save information without context switching [`@brittany_carusone`](https://raycast.com/brittany_carusone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rapidcap) `api@^1.61.1` `utils@^1.10.1`
@@ -1565,7 +1567,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Reverso Context](https://raycast.com/MrModest/reverso-context)** - Shows translation with usage examples via Reverso Context [`@MrModest`](https://raycast.com/MrModest) [`code`](https://github.com/raycast/extensions/tree/main/extensions/reverso-context) `api@^1.39.3`
 - **[Search Stack Exchange Sites](https://raycast.com/reckoning-dev/stackoverflow)** - Search Stack Exchange Sites from Raycast [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stackoverflow) `api@^1.56.1` `utils@^1.9.0`
 - **[Silent Mention](https://raycast.com/peduarte/silent-mention)** - Silently mention a handle, a URL or a hashtag. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) `api@^1.47.0`
-- **[Sublime](https://raycast.com/sublime.app/sublime)** - Search your sublime.app library and quickly save content. [`@sublime.app`](https://raycast.com/sublime.app) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sublime) `api@^1.81.2` `utils@^1.16.5`
+- **[Sublime](https://raycast.com/sublime.app/sublime)** - Search, discover, and add cards to your library. [`@sublime.app`](https://raycast.com/sublime.app) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sublime) `api@^1.81.2` `utils@^1.16.5`
 - **[Substack](https://raycast.com/j3lte/substack)** - Search Substack posts and profiles from Raycast [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/substack) `api@^1.71.4` `utils@^1.14.0`
 - **[Tabler](https://raycast.com/zavbala/tabler)** - Copy & Paste Tabler Icons [`@zavbala`](https://raycast.com/zavbala) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tabler) `api@^1.59.0`
 - **[Temporary Email](https://raycast.com/natterstefan/temporary-email)** - Quickly and easily create a temporary email. [`@natterstefan`](https://raycast.com/natterstefan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) `api@^1.31.0`

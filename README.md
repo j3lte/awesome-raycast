@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/baa8299048b3d199_update-time.svg)
+![Last update](/icons/bac90fe0a9a2fb0c_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,23 +38,23 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1691** packages in **15** categories
+- **1692** packages in **15** categories
 - **17** packages use Swift
-- **1091** authors
+- **1092** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (31)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [thomas](https://raycast.com/thomas) (14)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (14)
-- **606** contributors
-  - of which **449** contributors are only contributors
+- **607** contributors
+  - of which **450** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (169)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (170)
   - [j3lte](https://raycast.com/j3lte) (36)
-  - [xmok](https://raycast.com/xmok) (29)
+  - [xmok](https://raycast.com/xmok) (30)
   - [stelo](https://raycast.com/stelo) (23)
-  - [xilopaint](https://raycast.com/xilopaint) (22)
+  - [xilopaint](https://raycast.com/xilopaint) (23)
 
 <!-- END STATISTICS -->
 
@@ -156,7 +156,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Owledge - All Your Tools in One Search](https://raycast.com/Romain/owledge-raycast)** - Access Notion, Figma, Github, Miro, Jira and way more in a single crazy fast search. | Set your Owledge workspace at: https://search.owledge.app | Documentation available at: https://owledge.notion.site/Use-Raycast-s-extension-75b90b8501014bb7b8c8c901a9fcc552?pvs=74 [`@Romain`](https://raycast.com/Romain) [`code`](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) `api@^1.71.3` `utils@^1.4.8`
 - **[Papago Translate](https://raycast.com/rita_mordio/papago-translate)** - Language translation extension using Papago [`@rita_mordio`](https://raycast.com/rita_mordio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/papago-translate) `api@^1.58.1`
 - **[PlanetScale](https://raycast.com/vimtor/planetscale)** - Manage PlanetScale from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/planetscale) `api@^1.65.0` `utils@^1.10.1`
-- **[Pocket](https://raycast.com/vimtor/pocket)** - Manage Pocket bookmarks from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pocket) `api@^1.65.0` `utils@^1.10.1`
+- **[Pocket](https://raycast.com/vimtor/pocket)** - Manage Pocket bookmarks from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pocket) `api@^1.79.0` `utils@^1.10.1`
 - **[PostHog](https://raycast.com/david_newell/posthog)** - Open the web app, search for projects, persons, feature flags, and cohorts. [`@david_newell`](https://raycast.com/david_newell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/posthog) `api@^1.54.1` `utils@^1.8.0`
 - **[Postman](https://raycast.com/tarikyildizci/postman)** - Send GET requests in your postman collections. [`@tarikyildizci`](https://raycast.com/tarikyildizci) [`code`](https://github.com/raycast/extensions/tree/main/extensions/postman) `api@^1.47.3` `utils@^1.4.16`
 - **[Prism Launcher](https://raycast.com/lockieluke3389/prism-launcher)** - Launch Prism Launcher instances straight from Raycast [`@lockieluke3389`](https://raycast.com/lockieluke3389) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) `api@^1.64.4`
@@ -1279,7 +1279,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Paperless-ngx](https://raycast.com/damdam/paperless-ngx)** - Search Paperless-ngx for documents and upload [`@damdam`](https://raycast.com/damdam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) `api@1.51.1`
 - **[Parallels Virtual Machines](https://raycast.com/danpalmer/parallels-virtual-machines)** - Launch and control virtual machines in Parallels Desktop. [`@danpalmer`](https://raycast.com/danpalmer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines) `api@^1.39.3` `utils@^1.4.0`
 - **[Parcel Tracker - 17track](https://raycast.com/cojmeister/package-tracker)** - A Raycast extension that allows you to track your packages using 17track's REST API.  All supported agencies are those of 17track. [`@cojmeister`](https://raycast.com/cojmeister) [`code`](https://github.com/raycast/extensions/tree/main/extensions/package-tracker) `api@^1.43.2` `utils@^1.4.8`
-- **[Password Generator](https://raycast.com/joshuaiz/password-generator)** - Generates a password from 5–64 characters with options for case, special characters, and more [`@joshuaiz`](https://raycast.com/joshuaiz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-generator) `api@^1.31.0`
+- **[Password Generator](https://raycast.com/joshuaiz/password-generator)** - Generates a password from 5–64 characters with options for case, special characters, and more [`@joshuaiz`](https://raycast.com/joshuaiz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-generator) `api@^1.79.0`
 - **[PDF Tools](https://raycast.com/xilopaint/pdf-tools)** - Your all-in-one PDF toolkit [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdf-tools) `api@^1.81.2`
 - **[PDFSearch](https://raycast.com/kevin-pek/pdfsearch)** - Search across collections of PDF files. [`@kevin-pek`](https://raycast.com/kevin-pek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdfsearch) `api@^1.79.1` `utils@^1.10.1`
 - **[Perplexity API](https://raycast.com/ilian/perplexity-api)** - Use the powerful models via Perplexity API from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) `api@^1.68.1`
@@ -1566,6 +1566,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Remove Paywall](https://raycast.com/tegola/remove-paywall)** - Remove the paywall from the selected or clipboard URL. [`@tegola`](https://raycast.com/tegola) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) `api@^1.68.1`
 - **[Reverso Context](https://raycast.com/MrModest/reverso-context)** - Shows translation with usage examples via Reverso Context [`@MrModest`](https://raycast.com/MrModest) [`code`](https://github.com/raycast/extensions/tree/main/extensions/reverso-context) `api@^1.39.3`
 - **[Search Stack Exchange Sites](https://raycast.com/reckoning-dev/stackoverflow)** - Search Stack Exchange Sites from Raycast [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stackoverflow) `api@^1.56.1` `utils@^1.9.0`
+- **[Shlink](https://raycast.com/xeretis/shlink)** - Shorten and manage URLs using your own Shlink instance. [`@xeretis`](https://raycast.com/xeretis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shlink) `api@^1.81.2` `utils@^1.16.3`
 - **[Silent Mention](https://raycast.com/peduarte/silent-mention)** - Silently mention a handle, a URL or a hashtag. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) `api@^1.47.0`
 - **[Sublime](https://raycast.com/sublime.app/sublime)** - Search, discover, and add cards to your library. [`@sublime.app`](https://raycast.com/sublime.app) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sublime) `api@^1.81.2` `utils@^1.16.5`
 - **[Substack](https://raycast.com/j3lte/substack)** - Search Substack posts and profiles from Raycast [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/substack) `api@^1.71.4` `utils@^1.14.0`
@@ -1722,7 +1723,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[KeePassXC](https://raycast.com/zkytech/keepassxc)** - Access the KeePass database with the KeepassXC-cli. Please make sure KeePassXC is installed. [`@zkytech`](https://raycast.com/zkytech) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) `api@^1.60.0`
 - **[Keyboard Layout Switcher](https://raycast.com/lucaschultz/input-switcher)** - Extension to switch keyboard layouts [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) `api@^1.29.0`
 - **[Keyboard Maestro - List Macros](https://raycast.com/eluce2/list-keyboard-maestro-macros)** - List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) `api@^1.79.0` `utils@^1.16.5`
-- **[Kill Process](https://raycast.com/rolandleth/kill-process)** - Lists all running processes, ordered by CPU or memory usage and allows killing one [`@rolandleth`](https://raycast.com/rolandleth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kill-process) `api@^1.61.2`
+- **[Kill Process](https://raycast.com/rolandleth/kill-process)** - Terminate processes sorted by CPU or memory usage [`@rolandleth`](https://raycast.com/rolandleth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kill-process) `api@^1.81.2`
 - **[Kinopoisk](https://raycast.com/mattisssa/kinopoisk)** - Search for movies using kinopoisk.ru [`@mattisssa`](https://raycast.com/mattisssa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) `api@^1.25.0`
 - **[Klu](https://raycast.com/abielzulio/klu-ai)** - Klu AI extension for Raycast [`@abielzulio`](https://raycast.com/abielzulio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/klu-ai) `api@^1.66.1` `utils@^1.11.1`
 - **[kubectx](https://raycast.com/oktay/kubectx)** - Switch between clusters from Raycast [`@oktay`](https://raycast.com/oktay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kubectx) `api@^1.26.2`

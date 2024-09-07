@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/bac90fe0a9a2fb0c_update-time.svg)
+![Last update](/icons/8a257cd7f97c8b1a_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1692** packages in **15** categories
+- **1693** packages in **15** categories
 - **17** packages use Swift
 - **1092** authors
 - Top **5** authors:
@@ -47,8 +47,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [thomas](https://raycast.com/thomas) (14)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (14)
-- **607** contributors
-  - of which **450** contributors are only contributors
+- **608** contributors
+  - of which **451** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (170)
   - [j3lte](https://raycast.com/j3lte) (36)
@@ -795,6 +795,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pera Algorand Explorer](https://raycast.com/akgunberk/pera-explorer)** - Search any ASA or NFT in Algorand (ALGO) Blockchain [`@akgunberk`](https://raycast.com/akgunberk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pera-explorer) `api@^1.39.2` `utils@^1.3.1`
 - **[Qonto](https://raycast.com/christoribeiro/qonto)** - Search, download and open your Qonto from Raycast [`@christoribeiro`](https://raycast.com/christoribeiro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qonto) `api@^1.48.9` `utils@^1.5.2`
 - **[QuickFile](https://raycast.com/danielroe/quickfile)** - Access your QuickFile account balances. [`@danielroe`](https://raycast.com/danielroe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quickfile) `api@^1.35.1`
+- **[Real Calc](https://raycast.com/xilopaint/real-calc)** - Update financial values based on various Brazilian price indices [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/real-calc) `api@^1.81.2` `utils@^1.16.4`
 - **[Recurly](https://raycast.com/bgnfu7re/recurly)** - A smallish client for the Recurly API [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/recurly) `api@^1.38.0`
 - **[Risk Reward Calculator](https://raycast.com/demirtarik/risk-reward-calculator)** - This extension helps traders to calculate their position size based on entry, stop-loss, take-profit prices and the amount they risk. [`@demirtarik`](https://raycast.com/demirtarik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/risk-reward-calculator) `api@^1.51.0`
 - **[Splitwise](https://raycast.com/ilian/splitwise)** - View the balances and add expenses to Splitwise [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) `api@^1.47.2` `utils@^1.4.16`
@@ -981,7 +982,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Slackmojis](https://raycast.com/timoransky/slackmojis)** - An unofficial directory of the best custom Slack emojis from slackmojis.com [`@timoransky`](https://raycast.com/timoransky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slackmojis) `api@^1.81.2` `utils@^1.16.3`
 - **[Sonarr](https://raycast.com/Aayush9029/sonarr)** - View your Sonarr upcoming shows. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sonarr) `api@^1.72.1` `utils@^1.14.1`
 - **[Spanish TV Guide](https://raycast.com/doktor500/spanish-tv-guide)** - Browse the Spanish TV Guide [`@doktor500`](https://raycast.com/doktor500) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spanish-tv-guide) `api@^1.75.2`
-- **[Spotify Player](https://raycast.com/mattisssa/spotify-player)** - Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar. [`@mattisssa`](https://raycast.com/mattisssa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) `api@^1.78.1` `utils@^1.16.2`
+- **[Spotify Player](https://raycast.com/mattisssa/spotify-player)** - Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar. [`@mattisssa`](https://raycast.com/mattisssa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spotify-player) `api@^1.82.3` `utils@^1.16.2`
 - **[Steam](https://raycast.com/KevinBatdorf/steam)** - Search and view information about any game on steam, as well as games you own. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/steam) `api@^1.51.0` `utils@^1.6.1`
 - **[Syntax.fm](https://raycast.com/msmps/syntax-fm)** - Syntax.fm at your fingertips. [`@msmps`](https://raycast.com/msmps) [`code`](https://github.com/raycast/extensions/tree/main/extensions/syntax-fm) `api@^1.72.1` `utils@^1.14.1`
 - **[The Movie Database](https://raycast.com/Aayush9029/tmdb)** - Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tmdb) `api@^1.69.0` `utils@^1.15.0`

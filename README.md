@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/8a257cd7f97c8b1a_update-time.svg)
+![Last update](/icons/109a90d9a043c7f0_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -47,8 +47,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [thomas](https://raycast.com/thomas) (14)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (14)
-- **608** contributors
-  - of which **451** contributors are only contributors
+- **609** contributors
+  - of which **452** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (170)
   - [j3lte](https://raycast.com/j3lte) (36)
@@ -80,7 +80,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bike](https://raycast.com/HelloImSteven/bike)** - Control Bike with Raycast [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bike) `api@^1.47.1`
 - **[Bilibili](https://raycast.com/Fatpandac/bilibili)** - Get notify from bilibili [`@Fatpandac`](https://raycast.com/Fatpandac) [`code`](https://github.com/raycast/extensions/tree/main/extensions/Bilibili) `api@^1.39.3` `utils@^1.10.1`
 - **[Bob - Control Bob Translate](https://raycast.com/ViGeng/bobcontrol)** - Control the Bob Translate app for macOS with your keyboard. [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bob) `api@^1.28.0` `utils@^1.13.1`
-- **[Brand.dev](https://raycast.com/xmok/brand-dev)** - Get a company's brand logos, colors, slogan, socials, and more. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) `api@^1.79.0` `utils@^1.16.3`
 - **[Brave](https://raycast.com/ron-myers/brave)** - Search open tabs, bookmarks and history in Brave. [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brave) `api@^1.44.0` `utils@^1.4.13`
 - **[Browser History](https://raycast.com/crisboarna/browser-history)** - Search and open tabs from history in Chrome, Firefox, Safari, Edge, Brave, Vivaldi, Arc, Opera, Iridium, Orion and Sidekick. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-history) `api@^1.44.0` `utils@^1.4.13`
 - **[Bunch](https://raycast.com/koinzhang/bunch)** - Control Bunch via Raycast. Bunch is a Mac automation tool. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bunch) `api@^1.65.1` `utils@^1.10.1`
@@ -267,6 +266,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Better Uptime](https://raycast.com/andreaselia/better-uptime)** - Check on your Better Uptime monitors, incidents and heartbeats. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/better-uptime) `api@^1.38.1`
 - **[Bible](https://raycast.com/josmithua/bible)** - Search the bible [`@josmithua`](https://raycast.com/josmithua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bible) `api@^1.62.0`
 - **[BMW](https://raycast.com/aesign/bmw)** - Control and view your BMW [`@aesign`](https://raycast.com/aesign) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bmw) `api@^1.64.4` `utils@^1.9.1`
+- **[Brand.dev](https://raycast.com/xmok/brand-dev)** - Get a company's brand logos, colors, slogan, socials, and more. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) `api@^1.79.0` `utils@^1.17.0`
 - **[ChatGPT3 Prompt](https://raycast.com/denizyoldas/chatgpt3-prompt)** - Prompt list for interacting with ChatGPT3 [`@denizyoldas`](https://raycast.com/denizyoldas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgpt3-prompt) `api@^1.47.3`
 - **[Chinese Lottery](https://raycast.com/elonwoo/chinese-lottery)** - Check the results of China Welfare Lottery and Sports Lottery [`@elonwoo`](https://raycast.com/elonwoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chinese-lottery) `api@^1.80.0` `utils@^1.16.3`
 - **[Clarify](https://raycast.com/akramarev/clarify)** - Interact with Clarify CRM directly from your command bar [`@akramarev`](https://raycast.com/akramarev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clarify) `api@^1.78.1` `utils@^1.16.2`
@@ -1281,7 +1281,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Parallels Virtual Machines](https://raycast.com/danpalmer/parallels-virtual-machines)** - Launch and control virtual machines in Parallels Desktop. [`@danpalmer`](https://raycast.com/danpalmer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines) `api@^1.39.3` `utils@^1.4.0`
 - **[Parcel Tracker - 17track](https://raycast.com/cojmeister/package-tracker)** - A Raycast extension that allows you to track your packages using 17track's REST API.  All supported agencies are those of 17track. [`@cojmeister`](https://raycast.com/cojmeister) [`code`](https://github.com/raycast/extensions/tree/main/extensions/package-tracker) `api@^1.43.2` `utils@^1.4.8`
 - **[Password Generator](https://raycast.com/joshuaiz/password-generator)** - Generates a password from 5–64 characters with options for case, special characters, and more [`@joshuaiz`](https://raycast.com/joshuaiz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-generator) `api@^1.79.0`
-- **[PDF Tools](https://raycast.com/xilopaint/pdf-tools)** - Your all-in-one PDF toolkit [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdf-tools) `api@^1.81.2`
+- **[PDF Tools](https://raycast.com/xilopaint/pdf-tools)** - Your all-in-one PDF toolkit [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdf-tools) `api@^1.82.3`
 - **[PDFSearch](https://raycast.com/kevin-pek/pdfsearch)** - Search across collections of PDF files. [`@kevin-pek`](https://raycast.com/kevin-pek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdfsearch) `api@^1.79.1` `utils@^1.10.1`
 - **[Perplexity API](https://raycast.com/ilian/perplexity-api)** - Use the powerful models via Perplexity API from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) `api@^1.68.1`
 - **[Personio](https://raycast.com/boosteblume/personio)** - Track your time with Personio. [`@boosteblume`](https://raycast.com/boosteblume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/personio) `api@^1.69.0`

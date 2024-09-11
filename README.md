@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/109a90d9a043c7f0_update-time.svg)
+![Last update](/icons/f14077ddb2440650_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,23 +38,23 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1693** packages in **15** categories
+- **1695** packages in **15** categories
 - **17** packages use Swift
-- **1092** authors
+- **1093** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (31)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [thomas](https://raycast.com/thomas) (14)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (14)
-- **609** contributors
-  - of which **452** contributors are only contributors
+- **610** contributors
+  - of which **453** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (170)
   - [j3lte](https://raycast.com/j3lte) (36)
-  - [xmok](https://raycast.com/xmok) (30)
+  - [xmok](https://raycast.com/xmok) (33)
+  - [xilopaint](https://raycast.com/xilopaint) (24)
   - [stelo](https://raycast.com/stelo) (23)
-  - [xilopaint](https://raycast.com/xilopaint) (23)
 
 <!-- END STATISTICS -->
 
@@ -540,6 +540,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Jenkins](https://raycast.com/k8scat/jenkins)** - Manage your Jenkins directly from Raycast. [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jenkins) `api@^1.39.2`
 - **[Jira2Git](https://raycast.com/ipiranhaa/jira2git)** - The tool for making Jira and Git work together smoothly as silk for a better development experience. [`@ipiranhaa`](https://raycast.com/ipiranhaa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jira2git) `api@^1.42.1`
 - **[JSR](https://raycast.com/j3lte/jsr)** - Search through JSR, the Open Source Package Registry for Javascript/Typescript [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jsr) `api@^1.79.1` `utils@^1.16.2`
+- **[Kill Node Modules](https://raycast.com/NicolasMontone/kill-node-modules)** - Remove selected node_modules [`@NicolasMontone`](https://raycast.com/NicolasMontone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) `api@^1.81.2` `utils@^1.16.3`
 - **[kubens](https://raycast.com/ChrisKohler/kubens)** - Switch between Kubernetes namespaces [`@ChrisKohler`](https://raycast.com/ChrisKohler) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kubens) `api@^1.43.2`
 - **[Laravel Shift for Docker](https://raycast.com/denniseilander/laravel-shift)** - Run any of the Shifts for Laravel, Lumen, PHP, Django, and Tailwind completely locally using Raycast. [`@denniseilander`](https://raycast.com/denniseilander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laravel-shift) `api@^1.48.8` `utils@^1.5.2`
 - **[Laravel Valet](https://raycast.com/denniseilander/laravel-valet)** - Search and open local Valet sites [`@denniseilander`](https://raycast.com/denniseilander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laravel-valet) `api@^1.50.4` `utils@^1.5.2`
@@ -712,6 +713,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 - **[.NET Documentation Search](https://raycast.com/huseyint/dotnet-docs-search)** - Search .NET API documentation. [`@huseyint`](https://raycast.com/huseyint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) `api@^1.44.0`
 - **[AdonisJS Documentation](https://raycast.com/craigharman/adonisjs-documentation)** - Access AdonisJS documentation from within Raycast [`@craigharman`](https://raycast.com/craigharman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adonisjs-documentation) `api@^1.76.0`
+- **[Alpine.js](https://raycast.com/aurawindsurfing/alpinejs)** - Search Alpine.js documentation [`@aurawindsurfing`](https://raycast.com/aurawindsurfing) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alpinejs-doc-search) `api@^1.79.0` `utils@^1.16.4`
 - **[Backstage](https://raycast.com/yukukotani/backstage)** - Shortcuts for Backstage [`@yukukotani`](https://raycast.com/yukukotani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/backstage) `api@^1.79.1` `utils@^1.16.2`
 - **[Badges - shields.io](https://raycast.com/litomore/badges)** - Concise, consistent, and legible badges. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/badges) `api@^1.78.1` `utils@^1.14.1`
 - **[Braid Design System](https://raycast.com/felixhabib/braid)** - Search and use Braid Components and Iconography from Raycast [`@felixhabib`](https://raycast.com/felixhabib) [`code`](https://github.com/raycast/extensions/tree/main/extensions/braid) `api@^1.58.0` `utils@^1.9.1`
@@ -1123,7 +1125,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Citation Generator](https://raycast.com/AbhinavPalacharla/citation-generator)** - Generates MLA style citation provided by formatically.com [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/citation-generator) `api@^1.34.1`
 - **[CJK Text Format Improver](https://raycast.com/alice.ellis/text-format-improver)** - Enhance your text quality by improving formatting, correcting spaces, words, and punctuation involving mixed writing of Chinese, Japanese, and Korean (CJK) with English. [`@alice.ellis`](https://raycast.com/alice.ellis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-format-improver) `api@^1.57.2`
 - **[Claude](https://raycast.com/florisdobber/claude)** - Interact with Anthropic's Claude API directly from Raycast [`@florisdobber`](https://raycast.com/florisdobber) [`code`](https://github.com/raycast/extensions/tree/main/extensions/claude) `api@^1.78.0` `utils@^1.14.1`
-- **[Clean Keyboard](https://raycast.com/ike-gg/clean-keyboard)** - Lock your keyboard to clean it easily. [`@ike-gg`](https://raycast.com/ike-gg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) `api@^1.72.1`
+- **[Clean Keyboard](https://raycast.com/ike-gg/clean-keyboard)** - Lock your keyboard to clean it easily [`@ike-gg`](https://raycast.com/ike-gg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clean-keyboard) `api@^1.81.2`
 - **[Clipboard Editor](https://raycast.com/pomdtr/clipboard-editor)** - Edit your clipboard text [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-editor) `api@^1.39.3` `utils@^1.4.1`
 - **[Clipboard Formatter](https://raycast.com/joshtemple/clipboard-formatter)** - Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. [`@joshtemple`](https://raycast.com/joshtemple) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) `api@^1.51.1`
 - **[Clipboard Utilities](https://raycast.com/csharp/clipboard-utilities)** - A bunch of utilities for actions that require multiple items in the clipboard history [`@csharp`](https://raycast.com/csharp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-utilities) `api@^1.76.0`
@@ -1144,6 +1146,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CSS.GG](https://raycast.com/astrit/css-gg)** - Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API [`@astrit`](https://raycast.com/astrit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/css-gg) `api@^1.38.2` `utils@^1.8.0`
 - **[Curator Bio](https://raycast.com/Yukai/curator-bio)** - Control your curator.bio account from Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) `api@^1.44.0` `utils@^1.4.11`
 - **[cURL](https://raycast.com/jonathangiardino/curl)** - Keyboard-first HTTP client [`@jonathangiardino`](https://raycast.com/jonathangiardino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curl) `api@^1.55.2` `utils@^1.9.0`
+- **[Cursor Directory](https://raycast.com/escwxyz/cursor-directory)** - Port functionality from cursor.directory [`@escwxyz`](https://raycast.com/escwxyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) `api@^1.81.2` `utils@^1.16.3`
 - **[Dash Off](https://raycast.com/peduarte/dash-off)** - The fastest way to dash off a quick email to yourself and others [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dash-off) `api@^1.65.0` `utils@^1.11.1`
 - **[Deduplicator](https://raycast.com/HerbertLu/deduplicator)** - A text tool for de-duplicating text content. [`@HerbertLu`](https://raycast.com/HerbertLu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deduplicator) `api@^1.44.0`
 - **[Descript to YouTube Chapters](https://raycast.com/peduarte/descript-to-youtube-chapters)** - Convert Descript's transcript file into YouTube Chapters [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) `api@^1.47.0`
@@ -1602,7 +1605,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[8 Ball](https://raycast.com/rocksack/8-ball)** - Returns an 8 ball like answer to questions [`@rocksack`](https://raycast.com/rocksack) [`code`](https://github.com/raycast/extensions/tree/main/extensions/8ball) `api@^1.27.0`
 - **[Airport - Discover TestFlight Apps](https://raycast.com/siddharthsharma94/airport)** - Airport is the best place to discover new TestFlight apps from developers. [`@siddharthsharma94`](https://raycast.com/siddharthsharma94) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airport) `api@^1.25.0`
 - **[Aleph Tools](https://raycast.com/d7mtg/aleph)** - A set of text tools to work with Hebrew text in Raycast. [`@d7mtg`](https://raycast.com/d7mtg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aleph) `api@^1.55.0`
-- **[Alpine.js](https://raycast.com/aurawindsurfing/alpinejs)** - Search Alpine.js documentation [`@aurawindsurfing`](https://raycast.com/aurawindsurfing) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alpinejs-doc-search) `api@^1.37.1`
 - **[Amphetamine](https://raycast.com/gstvds/amphetamine)** - Controls Amphetamine using Raycast [`@gstvds`](https://raycast.com/gstvds) [`code`](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) `api@^1.35.2`
 - **[Android ADB Input](https://raycast.com/star_zero/android-adb-input)** - Run Android `adb shell input text` command. [`@star_zero`](https://raycast.com/star_zero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/android-adb-input) `api@^1.28.0`
 - **[Anna's Archive](https://raycast.com/j3lte/anna-s-archive)** - Search Anna's Archive, the largest truly open library in human history [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) `api@^1.79.1` `utils@^1.16.3`
@@ -1631,7 +1633,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CircleCI Workflows](https://raycast.com/qeude/circle-ci)** - This extension shows a list of your latest CircleCI workflows.  It requires a CircleCI API token which you can get on https://app.circleci.com/settings/user/tokens. . [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/circle-ci) `api@^1.25.0`
 - **[Clash](https://raycast.com/Go2SheeP/clash)** - Monitor your Clash with Raycast. Including Proxies, Connections, Rules and Logs data, and support backends switch. [`@Go2SheeP`](https://raycast.com/Go2SheeP) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clash) `api@^1.31.0`
 - **[Clear Clipboard](https://raycast.com/d3caf/clear-clipboard)** - Clears your clipboard so you don't accidentally paste things into work chat. [`@d3caf`](https://raycast.com/d3caf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) `api@^1.29.1`
-- **[ClickUp - Tasks Explorer](https://raycast.com/aparandeh/manage-clickup-tasks)** - Browse ClickUp tasks from Raycast [`@aparandeh`](https://raycast.com/aparandeh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clickup) `api@^1.45.2` `utils@^1.4.14`
+- **[ClickUp - Tasks Explorer](https://raycast.com/aparandeh/manage-clickup-tasks)** - Browse ClickUp tasks and docs from Raycast [`@aparandeh`](https://raycast.com/aparandeh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clickup) `api@^1.79.0` `utils@^1.17.0`
 - **[Clockify](https://raycast.com/isma/clockify)** - Control Clockify time tracking from Raycast [`@isma`](https://raycast.com/isma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clockify) `api@1.76.0`
 - **[Cloudflare WARP](https://raycast.com/anandubajith/cloudflare-warp)** - Manage Cloudflare WARP [`@anandubajith`](https://raycast.com/anandubajith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) `api@^1.62.1`
 - **[CodeGeex](https://raycast.com/MBearo/codegeex)** - CodeGeex AI code tools [`@MBearo`](https://raycast.com/MBearo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codegeex) `api@^1.48.8`
@@ -1770,7 +1772,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Open With App](https://raycast.com/fturcheti/open-with-app)** - Choose an application to open the selected Finder items. [`@fturcheti`](https://raycast.com/fturcheti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) `api@^1.63.0` `utils@^1.10.1`
 - **[OpenStreetMap Search](https://raycast.com/crisboarna/openstreetmap-search)** - Quickly open OpenStreetMaps directions, for example from your current location to your home. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openstreetmap-search) `api@^1.44.0`
 - **[OpenWeatherMap](https://raycast.com/tonka3000/openweathermap)** - Get Weather via https://openweathermap.com [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openweathermap) `api@^1.34.1`
-- **[Opsgenie](https://raycast.com/ricoberger/opsgenie)** - Manage Opsgenie alerts and incidents. [`@ricoberger`](https://raycast.com/ricoberger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/opsgenie) `api@^1.39.1`
+- **[Opsgenie](https://raycast.com/ricoberger/opsgenie)** - Manage Opsgenie alerts and incidents. [`@ricoberger`](https://raycast.com/ricoberger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/opsgenie) `api@^1.79.0` `utils@^1.17.0`
 - **[OSS](https://raycast.com/yangxy/oss)** - Publish the picture in your clipboard to Aliyun oss, and return the URL. [`@yangxy`](https://raycast.com/yangxy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aliyun-oss) `api@^1.28.0`
 - **[Ottomatic](https://raycast.com/eluce2/ottomatic)** - Manage your Ottomatic servers and projects [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ottomatic) `api@^1.69.0` `utils@^1.14.0`
 - **[Parcel Tracker](https://raycast.com/junhyukjin/parcel-tracker)** - Track packages (only available in South Korea) [`@junhyukjin`](https://raycast.com/junhyukjin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parcel-tracker) `api@^1.32.0`

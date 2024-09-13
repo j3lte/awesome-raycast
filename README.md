@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/6688dd02ff4dc2dc_update-time.svg)
+![Last update](/icons/b18dd9e3c06690b9_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,9 +38,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1698** packages in **15** categories
+- **1703** packages in **15** categories
 - **17** packages use Swift
-- **1095** authors
+- **1097** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (31)
@@ -52,7 +52,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (170)
   - [j3lte](https://raycast.com/j3lte) (36)
-  - [xmok](https://raycast.com/xmok) (34)
+  - [xmok](https://raycast.com/xmok) (35)
   - [xilopaint](https://raycast.com/xilopaint) (25)
   - [stelo](https://raycast.com/stelo) (23)
 
@@ -641,6 +641,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Search Hex](https://raycast.com/jordelver/search-hex)** - A Raycast extension that enables you to quickly look up package information from Hex [`@jordelver`](https://raycast.com/jordelver) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-hexpm) `api@^1.40.1`
 - **[Search npm Packages](https://raycast.com/mrmartineau/search-npm)** - Search for npm package information [`@mrmartineau`](https://raycast.com/mrmartineau) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-npm) `api@^1.66.2` `utils@^1.12.0`
 - **[Search R Packages](https://raycast.com/grrrck/r-pkg-search)** - Search and lookup information about R packages using r-pkg.org. [`@grrrck`](https://raycast.com/grrrck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) `api@^1.72.0`
+- **[Search Vant Documentation](https://raycast.com/cai_aisen/vant-documentation)** - Search Vant documentation (v4) [`@cai_aisen`](https://raycast.com/cai_aisen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vant-documentation) `api@^1.82.3` `utils@^1.16.3`
 - **[Sesh](https://raycast.com/joshmedeski/sesh)** - Smart, instant terminal session management. [`@joshmedeski`](https://raycast.com/joshmedeski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sesh) `api@^1.57.2`
 - **[Shadcn/Svelte](https://raycast.com/selemondev/shadcn-svelte)** - Browses shadcn/svelte documentation, components, and commands. [`@selemondev`](https://raycast.com/selemondev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-svelte) `api@^1.77.1` `utils@^1.16.1`
 - **[Shadcn/Vue](https://raycast.com/selemondev/shadcn-vue)** - Browses shadcn/vue documentation, components, and commands. [`@selemondev`](https://raycast.com/selemondev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-vue) `api@^1.73.2` `utils@^1.15.0`
@@ -765,6 +766,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Textlint AWS Service Name](https://raycast.com/bun913/raycast-textlint-rule-aws-service-name)** - Check AWS services name typo [`@bun913`](https://raycast.com/bun913) [`code`](https://github.com/raycast/extensions/tree/main/extensions/textlint-rule-aws-service-name) `api@^1.49.3`
 - **[WCAG](https://raycast.com/fgeierst/wcag)** - Search the Web Content Accessibility Guidelines (WCAG) 2.2 [`@fgeierst`](https://raycast.com/fgeierst) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wcag) `api@^1.69.0`
 - **[WordPress Docs](https://raycast.com/tillkruss/wordpress-docs)** - Search the WordPress code reference. [`@tillkruss`](https://raycast.com/tillkruss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordpress-docs) `api@^1.51.1` `utils@^1.6.1`
+- **[Zeabur Docs](https://raycast.com/ridemountainpig/zeabur-docs)** - Search Zeabur Docs [`@ridemountainpig`](https://raycast.com/ridemountainpig) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zeabur-docs) `api@^1.81.2` `utils@^1.16.3`
 
 
 --------------------
@@ -830,6 +832,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Chuck Norris Facts](https://raycast.com/jorgecortesdev/chuck-norris-facts)** - This extension uses the chucknorris.io site which is a free JSON API for hand curated Chuck Norris facts. [`@jorgecortesdev`](https://raycast.com/jorgecortesdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chuck-norris-facts) `api@^1.36.1`
 - **[Cinemas NOS](https://raycast.com/diogo_ferrer/cinemas-nos)** - Shows all movies and sessions in display by Cinemas NOS. [`@diogo_ferrer`](https://raycast.com/diogo_ferrer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cinemas-nos) `api@^1.56.3` `utils@^1.9.0`
 - **[Colorify - Generate Themes From Images](https://raycast.com/EvanZhouDev/colorify)** - Takes an image (such as your wallpaper) and generates a Raycast Theme out of it! [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/colorify) `api@^1.55.1`
+- **[Count Numbers](https://raycast.com/muzhen_gaming/count-numbers)** - A simple but powerful number counter! [`@muzhen_gaming`](https://raycast.com/muzhen_gaming) [`code`](https://github.com/raycast/extensions/tree/main/extensions/count-numbers) `api@^1.82.3` `utils@^1.16.3`
 - **[Crunchbase](https://raycast.com/qdequele/crunchbase)** - Search on Crunchbase companies [`@qdequele`](https://raycast.com/qdequele) [`code`](https://github.com/raycast/extensions/tree/main/extensions/crunchbase) `api@^1.41.0` `utils@^1.4.9`
 - **[Dad Jokes](https://raycast.com/pernielsentikaer/dad-jokes)** - Get a random dad joke [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) `api@^1.79.0` `utils@^1.17.0`
 - **[Defichain Lottery](https://raycast.com/adrian-schnell/defichain-lottery)** - Stats and your tickets for the Defichain Lottery [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/defichain-lottery) `api@^1.41.1`
@@ -1023,6 +1026,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Latest Local News](https://raycast.com/FilipeCerejo/latest-news)** - Latest local news served by Microsoft Bing [`@FilipeCerejo`](https://raycast.com/FilipeCerejo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/latest-news) `api@^1.35.2`
 - **[Miniflux](https://raycast.com/SevicheCC/miniflux)** - A Raycast extension for Miniflux [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/miniflux) `api@^1.51.1` `utils@^1.6.1`
 - **[New York Times](https://raycast.com/Antonwy/new-york-times)** - Checkout all NYT posts [`@Antonwy`](https://raycast.com/Antonwy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) `api@^1.39.2` `utils@^1.4.8`
+- **[NL News Headlines](https://raycast.com/ernest/nl-news-headlines)** - Provides news headlines about the Netherlands from websites reporting in Dutch or English [`@ernest`](https://raycast.com/ernest) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nl-news-headlines) `api@^1.82.5` `utils@^1.16.3`
 - **[NU Nieuws](https://raycast.com/j3lte/nu-nieuws)** - Used to display the latest (Dutch) news from nu.nl [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nu-nieuws) `api@^1.71.3` `utils@^1.14.0`
 - **[ODIN](https://raycast.com/aamoussa97/odin)** - Retrieves emergency alarms from Online Dataregistrerings- og Indberetningssystem (ODIN), a system by The Danish Emergency Management Agency (DEMA), through 'www.odin.dk/112puls'. [`@aamoussa97`](https://raycast.com/aamoussa97) [`code`](https://github.com/raycast/extensions/tree/main/extensions/odin) `api@^1.38.3`
 - **[Olympic Games](https://raycast.com/elonwoo/olympic-games)** - Paris 2024 Olympic Medal Table [`@elonwoo`](https://raycast.com/elonwoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/olympic-games) `api@^1.80.0` `utils@^1.16.3`
@@ -1099,7 +1103,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Airplane](https://raycast.com/pradeepb28/airplane)** - Just like on iPhone, turn off the wireless features on your macOS anytime. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airplane) `api@^1.35.2`
 - **[Airtable](https://raycast.com/marks/raycast-airtable-extension)** - List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. [`@marks`](https://raycast.com/marks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airtable) `api@^1.43.2`
 - **[Alice AI - Your ChatGPT Actions Companion](https://raycast.com/quiknull/alice-ai)** - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes. [`@quiknull`](https://raycast.com/quiknull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) `api@^1.69.0` `utils@^1.14.0`
-- **[Anki](https://raycast.com/anton-suprun/anki)** - Anki extension for Raycast [`@anton-suprun`](https://raycast.com/anton-suprun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anki) `api@^1.80.0` `utils@^1.16.2`
+- **[Anki](https://raycast.com/anton-suprun/anki)** - Anki extension for Raycast [`@anton-suprun`](https://raycast.com/anton-suprun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anki) `api@^1.82.5` `utils@^1.17.0`
 - **[Apple Books](https://raycast.com/vimtor/apple-books)** - Search Apple Books from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-books) `api@^1.47.3` `utils@^1.5.2`
 - **[Apple Reminders](https://raycast.com/thomaslombart/apple-reminders)** - Manage Apple Reminders. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) `api@^1.75.1` `utils@^1.14.0`
 - **[Apply Inline Code](https://raycast.com/alexian853/apply-inline-code)** - Apply inline code style in common apps and websites [`@alexian853`](https://raycast.com/alexian853) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) `api@^1.70.3` `utils@^1.13.6`
@@ -1404,7 +1408,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Wakatime](https://raycast.com/iammola/wakatime)** - Show your Wakatime Activity Stats, Projects and Leaderboards [`@iammola`](https://raycast.com/iammola) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wakatime) `api@^1.47.3` `utils@^1.4.18`
 - **[Waktu Solat](https://raycast.com/msms/waktu-solat)** - Check Malaysia Prayer Time (JAKIM) [`@msms`](https://raycast.com/msms) [`code`](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat) `api@^1.65.1` `utils@^1.10.1`
 - **[Web Dictionaries](https://raycast.com/DrChai/dictionary)** - Search any word with multiple online dictionaries or translation engines in one place—lightweight, zero dependencies. [`@DrChai`](https://raycast.com/DrChai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dictionary) `api@^1.48.8` `utils@^1.5.2`
-- **[Webflow](https://raycast.com/peeks/webflow-sites)** - Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. [`@peeks`](https://raycast.com/peeks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) `api@^1.44.0` `utils@^1.4.11`
+- **[Webflow](https://raycast.com/peeks/webflow-sites)** - Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. [`@peeks`](https://raycast.com/peeks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) `api@^1.79.0` `utils@^1.17.0`
 - **[WebKit Developer Documentation](https://raycast.com/KevinBatdorf/webkit-developer-docs)** - Search and view WebKit docs [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webkit-developer-docs) `api@^1.50.2` `utils@^1.5.2`
 - **[Website Blocker](https://raycast.com/gersomvg/website-blocker)** - Block websites by changing your hosts file automatically, directly from Raycast [`@gersomvg`](https://raycast.com/gersomvg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/website-blocker) `api@^1.65.1` `utils@^1.4.8`
 - **[Who Is off Today?](https://raycast.com/pejman_yaghmaie/who-is-off-today)** - See who is off today from remote.com [`@pejman_yaghmaie`](https://raycast.com/pejman_yaghmaie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/who-is-off-today) `api@^1.76.1`
@@ -1818,6 +1822,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Search Chinese Punctuation Marks](https://raycast.com/gasolin/biaodian)** - Search Chinese Punctuation Marks [`@gasolin`](https://raycast.com/gasolin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/biaodian) `api@^1.26.3`
 - **[Search Lightning Nodes](https://raycast.com/bufo24/raycast-lighting-node-search)** - A Raycast extension for searching Lightning Nodes [`@bufo24`](https://raycast.com/bufo24) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-lighting-node-search) `api@^1.64.4` `utils@^1.10.1`
 - **[Search Linux Commands](https://raycast.com/jaywcjlove/linux-command)** - Search through linux commands and get detailed information in Chinese. [`@jaywcjlove`](https://raycast.com/jaywcjlove) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linux-command) `api@^1.29.1`
+- **[Search OEIS](https://raycast.com/omennia/search-oeis)** - Search OEIS database [`@omennia`](https://raycast.com/omennia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-oeis) `api@^1.81.2` `utils@^1.16.3`
 - **[Search Rubygems](https://raycast.com/aleks/search-rubygems)** - A Raycast extension that enables you to quickly look up gem information from RubyGems.org. [`@aleks`](https://raycast.com/aleks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-rubygems) `api@^1.26.1`
 - **[Search with Algolia](https://raycast.com/valentindotxyz/search-with-algolia)** - This extension allows to search through an Algolia index directly from Raycast. [`@valentindotxyz`](https://raycast.com/valentindotxyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/algolia) `api@^1.26.1`
 - **[Semantic Scholar](https://raycast.com/blainerothrock/semantic-scholar)** - Search research papers on semantic scholar (semanticscholar.org) [`@blainerothrock`](https://raycast.com/blainerothrock) [`code`](https://github.com/raycast/extensions/tree/main/extensions/semantic-scholar) `api@^1.29.0`

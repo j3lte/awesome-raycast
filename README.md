@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/b18dd9e3c06690b9_update-time.svg)
+![Last update](/icons/f32b5b4505d2c622_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,9 +38,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1703** packages in **15** categories
+- **1704** packages in **15** categories
 - **17** packages use Swift
-- **1097** authors
+- **1098** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (31)
@@ -965,6 +965,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Lyrics](https://raycast.com/andrewjazbec/lyrics)** - Search for lyrics to the current playing song [`@andrewjazbec`](https://raycast.com/andrewjazbec) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lyrics) `api@^1.45.2`
 - **[Matter](https://raycast.com/zan/matter)** - View your saved for later articles in your Matter account. [`@zan`](https://raycast.com/zan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/matter) `api@^1.45.1`
 - **[Meta Music](https://raycast.com/teziovsky/meta-music)** - Manage the ID3 tags of audio files directly in Raycast! [`@teziovsky`](https://raycast.com/teziovsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/meta-music) `api@^1.68.1` `utils@^1.12.5`
+- **[MeTube](https://raycast.com/dot/metube)** - Download videos from YouTube and other services through yt-dlp using MeTube. [`@dot`](https://raycast.com/dot) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metube) `api@^1.81.2` `utils@^1.16.3`
 - **[Modrinth Search](https://raycast.com/legenden/modrinth-search)** - Searches Modrinth.com for anything listed. [`@legenden`](https://raycast.com/legenden) [`code`](https://github.com/raycast/extensions/tree/main/extensions/modrinth-search) `api@^1.69.0` `utils@^1.16.3`
 - **[Music Link Converter](https://raycast.com/Quentin23Soleil/music-link-converter)** - Convert a music link to another provider, for example you can convert Spotify links to Apple music links (also works with many other providers), using song.link service. [`@Quentin23Soleil`](https://raycast.com/Quentin23Soleil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/music-link-converter) `api@^1.66.2` `utils@^1.12.0`
 - **[MusicThread](https://raycast.com/ChucKN0risK/musicthread)** - Create a thread and add links to a thread in MusicThread [`@ChucKN0risK`](https://raycast.com/ChucKN0risK) [`code`](https://github.com/raycast/extensions/tree/main/extensions/musicthread) `api@^1.49.3`

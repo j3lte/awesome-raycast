@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/b2578ae84d1e4795_update-time.svg)
+![Last update](/icons/f2097e3e29d9c3a6_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -46,9 +46,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [xmok](https://raycast.com/xmok) (31)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (15)
-  - [thomas](https://raycast.com/thomas) (14)
-- **611** contributors
-  - of which **454** contributors are only contributors
+  - [vimtor](https://raycast.com/vimtor) (14)
+- **612** contributors
+  - of which **455** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (170)
   - [j3lte](https://raycast.com/j3lte) (36)
@@ -1063,7 +1063,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Elron Train Times](https://raycast.com/raimond/elron)** - Fetch train times for Elron train times [`@raimond`](https://raycast.com/raimond) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elron) `api@^1.44.0`
 - **[Finnish Dictionary](https://raycast.com/albertoxamin/finnish-dictionary)** - MacOS has a great dictionary, but it's not available for Finnish. This extension adds a Finnish dictionary at your fingertips. [`@albertoxamin`](https://raycast.com/albertoxamin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) `api@^1.31.0`
 - **[GitHub Users Search](https://raycast.com/luisFilipePT/github-users)** - Search GitHub users [`@luisFilipePT`](https://raycast.com/luisFilipePT) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-users) `api@^1.55.2` `utils@^1.9.0`
-- **[Home Assistant](https://raycast.com/tonka3000/homeassistant)** - Home Assistant remote control. Control your house with Raycast 🚀 [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) `api@^1.79.0` `utils@^1.5.2`
+- **[Home Assistant](https://raycast.com/tonka3000/homeassistant)** - Manage your smart home with Raycast [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/homeassistant) `api@^1.82.4` `utils@^1.17.0`
 - **[Homepage](https://raycast.com/bgiovand/homepage)** - Homepage services and bookmarks in Raycast [`@bgiovand`](https://raycast.com/bgiovand) [`code`](https://github.com/raycast/extensions/tree/main/extensions/homepage) `api@^1.76.0` `utils@^1.16.0`
 - **[ICD10 Lookup](https://raycast.com/ubergraham/icd10-lookup)** - Shows matching ICD10 codes based on disease name input. Uses NLM's ICD10 API. [`@ubergraham`](https://raycast.com/ubergraham) [`code`](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) `api@^1.75.1` `utils@^1.15.0`
 - **[Linak Desk Controller](https://raycast.com/samuelkraft/linak-desk-controller)** - Control the height of standing desks manufactured by Linak, for example the Ikea Idasen desk. [`@samuelkraft`](https://raycast.com/samuelkraft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller) `api@^1.69.0`

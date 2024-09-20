@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/f2097e3e29d9c3a6_update-time.svg)
+![Last update](/icons/6993d5ec75da6015_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,9 +38,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1704** packages in **15** categories
+- **1705** packages in **15** categories
 - **17** packages use Swift
-- **1098** authors
+- **1099** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (31)
@@ -1079,6 +1079,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Schoology - Grade Viewer](https://raycast.com/Visual-Studio-Coder/schoology)** - View your courselists, grades, graphs, and individual assignments quickly using Raycast. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/schoology) `api@^1.57.0` `utils@1.11.1`
 - **[Search LaraJobs](https://raycast.com/Treblle/larajobs-search)** - Search jobs on Larajobs [`@Treblle`](https://raycast.com/Treblle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/larajobs-search) `api@^1.56.3` `utils@^1.9.0`
 - **[SL](https://raycast.com/albingroen/stockholm-public-transport)** - Departures for public transport in Stockholm [`@albingroen`](https://raycast.com/albingroen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stockholm-public-transport) `api@^1.49.2`
+- **[SmartThings Connector](https://raycast.com/IngoJ/smartthings-connector)** - Integration with SmartThings to manage lights, scenes, and location modes. [`@IngoJ`](https://raycast.com/IngoJ) [`code`](https://github.com/raycast/extensions/tree/main/extensions/smartthings-connector) `api@^1.76.0`
 - **[SncfTrainTimes](https://raycast.com/Pierrad/sncftraintimes)** - Fetch train times for SNCF train lines [`@Pierrad`](https://raycast.com/Pierrad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sncftraintimes) `api@^1.51.1` `utils@^1.6.1`
 - **[Stoic Quotes](https://raycast.com/rrajath/stoicquotes)** - Gives a random quote from one of the stoic philosophers - Marcus Aurelius, Seneca or Epictetus [`@rrajath`](https://raycast.com/rrajath) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stoicquotes) `api@^1.46.0` `utils@^1.4.16`
 - **[The Matrix of Destiny](https://raycast.com/unitech/the-matrix-of-destiny)** - Quickly go to a date on the Matrix of Destiny [`@unitech`](https://raycast.com/unitech) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) `api@^1.60.1`

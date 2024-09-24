@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/ba388114c1834e96_update-time.svg)
+![Last update](/icons/e2b92d9076385e4b_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,9 +38,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1711** packages in **15** categories
+- **1712** packages in **15** categories
 - **17** packages use Swift
-- **1101** authors
+- **1102** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (34)
@@ -1360,6 +1360,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[SimpleLogin](https://raycast.com/adrian-schnell/simplelogin)** - Mange your SimpleLogin Account, view and create aliases [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplelogin) `api@^1.76.0` `utils@^1.15.0`
 - **[Sleep Timer](https://raycast.com/dtmzr/sleep-timer)** - Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. [`@dtmzr`](https://raycast.com/dtmzr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) `api@^1.44.0`
 - **[Smultron](https://raycast.com/felixthehat/smultron)** - Creates a new Smultron File with Selection [`@felixthehat`](https://raycast.com/felixthehat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/smultron) `api@^1.42.2`
+- **[SnapAsk](https://raycast.com/renzo/snapask)** - Get instant AI answers for your questions. [`@renzo`](https://raycast.com/renzo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/snapask) `api@^1.82.4` `utils@^1.16.3`
 - **[Spaces](https://raycast.com/pradeepb28/spaces)** - Declutter and organize your workspace in 1-click [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spaces) `api@^1.36.1`
 - **[Spell](https://raycast.com/Gorzog/spell)** - Struggling to spell a word? With this extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API. [`@Gorzog`](https://raycast.com/Gorzog) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spell) `api@^1.69.0` `utils@^1.4.8`
 - **[Split Video Scenes](https://raycast.com/xmorse/split-video-scenes)** - Select a video file and split it into scenes [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/split-video-scenes) `api@^1.80.0` `utils@^1.16.3`

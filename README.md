@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/e2b92d9076385e4b_update-time.svg)
+![Last update](/icons/00a1025fda6f1a8c_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1712** packages in **15** categories
+- **1713** packages in **15** categories
 - **17** packages use Swift
 - **1102** authors
 - Top **5** authors:
@@ -48,13 +48,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (15)
   - [vimtor](https://raycast.com/vimtor) (14)
 - **617** contributors
-  - of which **459** contributors are only contributors
+  - of which **460** contributors are only contributors
 - Top **5** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (170)
+  - [xmok](https://raycast.com/xmok) (43)
   - [j3lte](https://raycast.com/j3lte) (39)
-  - [xmok](https://raycast.com/xmok) (39)
   - [xilopaint](https://raycast.com/xilopaint) (25)
-  - [stelo](https://raycast.com/stelo) (23)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (24)
 
 <!-- END STATISTICS -->
 
@@ -97,7 +97,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Coolify](https://raycast.com/xmok/coolify)** - View Servers, Resources, Teams and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coolify) `api@^1.79.1` `utils@^1.16.3`
 - **[cPanel](https://raycast.com/xmok/cpanel)** - View Domains, DNS Zones, Email Accounts, Databases, Files and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpanel) `api@^1.79.0` `utils@^1.16.3`
 - **[Datawrapper](https://raycast.com/benkates/datawrapper)** - An unofficial extension for searching your Datawrapper charts, viewing recent Datawrapper charts, and other handy functions. [`@benkates`](https://raycast.com/benkates) [`code`](https://github.com/raycast/extensions/tree/main/extensions/datawrapper) `api@^1.72.1` `utils@^1.14.1`
-- **[Decentraland](https://raycast.com/fmiras/decentraland)** - Search and go directly to events and places in Decentraland [`@fmiras`](https://raycast.com/fmiras) [`code`](https://github.com/raycast/extensions/tree/main/extensions/decentraland) `api@^1.55.2` `utils@^1.9.0`
+- **[Decentraland](https://raycast.com/fmiras/decentraland)** - Search and go directly to events and places in Decentraland [`@fmiras`](https://raycast.com/fmiras) [`code`](https://github.com/raycast/extensions/tree/main/extensions/decentraland) `api@^1.79.0` `utils@^1.17.0`
 - **[DevUtils](https://raycast.com/vietanhlehuu/devutils)** - Navigate DevUtils faster with this All-in-one Toolbox for Developers [`@vietanhlehuu`](https://raycast.com/vietanhlehuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/devutils) `api@^1.44.0`
 - **[Drafts](https://raycast.com/FlohGro/drafts)** - integrate Raycast with Drafts app [`@FlohGro`](https://raycast.com/FlohGro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drafts) `api@^1.68.0`
 - **[Dropover](https://raycast.com/jag-k/dropover)** - Add selected files to DropOver [`@jag-k`](https://raycast.com/jag-k) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropover) `api@^1.50.5`
@@ -245,7 +245,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Speed Dial](https://raycast.com/osama_aamer/speed-dial)** - Stop asking for meeting URLs and add them to Speed Dial to open with one click [`@osama_aamer`](https://raycast.com/osama_aamer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) `api@^1.50.3` `utils@^1.7.1`
 - **[TFL](https://raycast.com/haneenmahdin/tfl)** - Viewing public transport departures in London [`@haneenmahdin`](https://raycast.com/haneenmahdin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tfl) `api@^1.49.3`
 - **[Toggle Audio Input (Microphone)](https://raycast.com/Quentin23Soleil/mute-microphone)** - Extension to mute/unmute audio input (Microphone) [`@Quentin23Soleil`](https://raycast.com/Quentin23Soleil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) `api@^1.53.2` `utils@^1.8.0`
-- **[UTM Campaign Builder](https://raycast.com/vimtor/utm-campaign-builder)** - Create a campaign URL with UTM attributes [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) `api@^1.59.0` `utils@^1.10.0`
+- **[UTM Campaign Builder](https://raycast.com/vimtor/utm-campaign-builder)** - Create a campaign URL with UTM attributes [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) `api@^1.79.0` `utils@^1.17.0`
 - **[Video Call Reactions](https://raycast.com/yazanzaid00/video-call-reactions)** - This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. [`@yazanzaid00`](https://raycast.com/yazanzaid00) [`code`](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) `api@^1.75.2` `utils@^1.15.0`
 - **[WeChat](https://raycast.com/raffeyang/wechat)** - A Raycast extension for WeChat to quickly search your contacts and chat [`@raffeyang`](https://raycast.com/raffeyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wechat) `api@^1.39.3` `utils@^1.4.1`
 - **[Zoom](https://raycast.com/thomaslombart/zoom)** - Start, schedule and join Zoom meetings. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zoom) `api@^1.53.3` `utils@^1.16.2`
@@ -375,6 +375,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Iconify — Search Icons](https://raycast.com/destiner/iconify)** - Search icons via Iconify [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iconify) `api@^1.48.0`
 - **[IconPark](https://raycast.com/koinzhang/iconpark)** - IconPark gives access to more than 2000 high-quality icons without API key and network. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iconpark) `api@^1.78.0` `utils@^1.16.1`
 - **[Icons8](https://raycast.com/yug2005/icons8)** - Search and download icons using Icons8 large library. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/icons8) `api@^1.45.1`
+- **[ImageOptim](https://raycast.com/marckohlbrugge/imageoptim)** - Compress images with ImageOptim [`@marckohlbrugge`](https://raycast.com/marckohlbrugge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imageoptim) `api@^1.82.5` `utils@^1.16.3`
 - **[LaTeX to Image](https://raycast.com/Noamko/quick-latex)** - Converts LaTeX text to image. Copy the image to the Clipboard. [`@Noamko`](https://raycast.com/Noamko) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) `api@^1.35.2`
 - **[Lucide Icons Search](https://raycast.com/Sn0wye/lucide-icons)** - View the Lucide icon set. [`@Sn0wye`](https://raycast.com/Sn0wye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) `api@^1.65.0` `utils@^1.10.1`
 - **[Material Icons](https://raycast.com/creasty/material-icons)** - Search and preview Material Icons [`@creasty`](https://raycast.com/creasty) [`code`](https://github.com/raycast/extensions/tree/main/extensions/material-icons) `api@^1.59.0` `utils@^1.10.0`
@@ -636,7 +637,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Repology Search](https://raycast.com/SebDanielsson/repology-search)** - Search packages from repology.org [`@SebDanielsson`](https://raycast.com/SebDanielsson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/repology-search) `api@^1.61.2` `utils@^1.10.1`
 - **[Ruby Evaluate](https://raycast.com/obahareth/ruby-evaluate)** - Evaluate Ruby code on-the-fly [`@obahareth`](https://raycast.com/obahareth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ruby-evaluate) `api@^1.38.1`
 - **[RunCloud](https://raycast.com/itsjustxan/runcloud)** - Search Your RunCloud Servers + Webapps [`@itsjustxan`](https://raycast.com/itsjustxan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/runcloud) `api@^1.56.0` `utils@^1.4.8`
-- **[Sanity](https://raycast.com/marcusforsberg/sanity)** - Quickly search for Sanity projects you have access to [`@marcusforsberg`](https://raycast.com/marcusforsberg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sanity) `api@^1.56.3` `utils@^1.9.0`
+- **[Sanity](https://raycast.com/marcusforsberg/sanity)** - Quickly search for Sanity projects you have access to [`@marcusforsberg`](https://raycast.com/marcusforsberg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sanity) `api@^1.79.0` `utils@^1.17.0`
 - **[Saved Items](https://raycast.com/guoxudong/saved-items)** - Save some items (eg. quick replies) and insert or copy them. [`@guoxudong`](https://raycast.com/guoxudong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/saved-items) `api@^1.58.1`
 - **[Scaleway](https://raycast.com/philibea/scaleway)** - Quick access to your Scaleway services [`@philibea`](https://raycast.com/philibea) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scaleway) `api@1.70.3`
 - **[Scrcpy](https://raycast.com/zcfan/scrcpy)** - Mirror android device screen with scrcpy [`@zcfan`](https://raycast.com/zcfan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) `api@^1.48.5`
@@ -829,7 +830,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Balatro Compendium](https://raycast.com/azyz/balatro-compendium)** - Search through every piece of the Balatro collection entierly inside Raycast. Even offline. [`@azyz`](https://raycast.com/azyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/balatro-compendium) `api@^1.79.0` `utils@^1.16.2`
 - **[Bored](https://raycast.com/BossElijah/bored)** - Let's find you something to do! [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bored) `api@^1.72.1` `utils@^1.15.0`
 - **[Brasileirão Série A](https://raycast.com/willian/brasileirao-serie-a)** - View the Brazilian first division upcoming matches, standings and results. [`@willian`](https://raycast.com/willian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brasileirao-serie-a) `api@^1.81.2` `utils@^1.16.5`
-- **[Bundesliga](https://raycast.com/anhthang/bundesliga)** - The latest news, info and stats for clubs in 2021-2022 can be found in Raycast. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bundesliga) `api@^1.46.1`
+- **[Bundesliga](https://raycast.com/anhthang/bundesliga)** - Stay up-to-date with the latest news, fixtures, results, and standings from the Bundesliga. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bundesliga) `api@^1.81.2` `utils@^1.16.5`
 - **[CC0-LIB - Browse CC0 Content](https://raycast.com/0xN1/cc0-lib)** - Browse library of CC0 content [`@0xN1`](https://raycast.com/0xN1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cc0-lib) `api@^1.55.2`
 - **[Chess.com](https://raycast.com/joshfarrant/chess-com)** - Quickly start games on Chess.com [`@joshfarrant`](https://raycast.com/joshfarrant) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chess-com) `api@^1.35.2`
 - **[Chuck Norris Facts](https://raycast.com/jorgecortesdev/chuck-norris-facts)** - This extension uses the chucknorris.io site which is a free JSON API for hand curated Chuck Norris facts. [`@jorgecortesdev`](https://raycast.com/jorgecortesdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chuck-norris-facts) `api@^1.36.1`
@@ -871,7 +872,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Jokes](https://raycast.com/xmok/jokes)** - Get up to 10 jokes at a time from a variety of categories. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jokes) `api@^1.70.3`
 - **[LaLiga](https://raycast.com/anhthang/laliga)** - All the information of LaLiga Santander, LaLiga SmartBank, and Liga F: schedules, results, standings, news, statistics, and much more [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laliga) `api@^1.79.1` `utils@^1.16.3`
 - **[Lega Serie A](https://raycast.com/anhthang/serie-a)** - The top league in Italy, the twenty best teams, standings, results, statistics. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) `api@^1.47.3`
-- **[LEGO Bricks](https://raycast.com/mSarheed/lego-bricks)** - Look up LEGO sets, colors, bricks etc. [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lego-bricks) `api@^1.79.1` `utils@^1.16.3`
+- **[LEGO Bricks](https://raycast.com/mSarheed/lego-bricks)** - Look up LEGO sets, colors, bricks etc. [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lego-bricks) `api@^1.79.1` `utils@^1.17.0`
 - **[LetMeGoogleThat](https://raycast.com/Ek217/let-me-google-that)** - LetMeGoogleThat is a Raycast extension that generates links to the popular 'Let Me Google That For You' website. With just a few clicks, you can create a custom link that takes your friends or colleagues directly to a Google search page for the term you specify. Perfect for those times when someone asks you a question that they could easily look up themselves! Simply enter the search term, generate the link, and share it with others. LetMeGoogleThat saves you time and makes it easy to share information with others. [`@Ek217`](https://raycast.com/Ek217) [`code`](https://github.com/raycast/extensions/tree/main/extensions/let-me-google-that) `api@^1.54.1`
 - **[Lichess.org](https://raycast.com/ftonato/lichess-org)** - Quickly start games on Lichess.org [`@ftonato`](https://raycast.com/ftonato) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lichess-org) `api@^1.51.1`
 - **[Life Progress](https://raycast.com/koinzhang/life-progress)** - View life progress and custom Countdown Date. See how much time is left. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/life-progress) `api@^1.66.2`
@@ -897,7 +898,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Podcasts Now](https://raycast.com/cloudy9101/podcasts-now)** - Manage, explore, and listen to podcasts all in one place through Raycast. [`@cloudy9101`](https://raycast.com/cloudy9101) [`code`](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) `api@^1.46.1` `utils@^1.4.8`
 - **[Pokédex](https://raycast.com/anhthang/pokedex)** - Explore the world of Pokémon with stunning visuals and detailed information in Raycast. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pokedex) `api@^1.83.1`
 - **[Portuguese Primeira Liga](https://raycast.com/danielsequeira/portuguese-primeira-liga)** - View the latest Portuguese Primeira Liga standings. [`@danielsequeira`](https://raycast.com/danielsequeira) [`code`](https://github.com/raycast/extensions/tree/main/extensions/portuguese-primeira-liga) `api@^1.48.0`
-- **[Premier League](https://raycast.com/anhthang/premier-league)** - View the latest Premier League tables, form guides and season archives in Raycast. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/premier-league) `api@^1.63.0` `utils@^1.10.1`
+- **[Premier League](https://raycast.com/anhthang/premier-league)** - View the latest Premier League tables, form guides and season archives in Raycast. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/premier-league) `api@^1.83.1` `utils@^1.17.0`
 - **[Random Fart](https://raycast.com/szy.fr/random-fart)** - Plays a random fart sound. An extension nobody asked for and nobody needed. [`@szy.fr`](https://raycast.com/szy.fr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-fart) `api@^1.69.0`
 - **[Random Text Picker](https://raycast.com/ezzylan/random-text-picker)** - Pick a random item from a list by entering multiple text inputs, ala Wheel of Names [`@ezzylan`](https://raycast.com/ezzylan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) `api@^1.55.2`
 - **[Raycast Arcade](https://raycast.com/EvanZhouDev/raycast-arcade)** - Play simple and fun ASCII games in Raycast! [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) `api@^1.56.0` `utils@^1.9.0`
@@ -1116,7 +1117,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Arabic Keyboard](https://raycast.com/mSarheed/arabic-keyboard)** - Arabic Keyboard for Raycast [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arabic-keyboard) `api@^1.79.1`
 - **[ArXiv Search](https://raycast.com/koayon/arxiv)** - Search the arXiv for papers and find citations. For Researchers, Students and Scholars in Computer Science, Mathematics, Physics, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics. [`@koayon`](https://raycast.com/koayon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arxiv) `api@^1.52.1` `utils@^1.4.8`
 - **[Asana](https://raycast.com/thomaslombart/asana)** - Create, access, and modify tasks. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asana) `api@^1.53.4` `utils@^1.12.3`
-- **[Ask Dust](https://raycast.com/vineus/dust-tt)** - Query dust.tt AI agents [`@vineus`](https://raycast.com/vineus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) `api@^1.70.3` `utils@^1.10.1`
+- **[Ask Dust](https://raycast.com/albandum/dust-tt)** - Query dust.tt AI agents [`@albandum`](https://raycast.com/albandum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) `api@^1.70.3` `utils@^1.10.1`
 - **[Audio Writer](https://raycast.com/pradeepb28/audio-writer)** - Transcribe it, refine it and structure it for you ✨ [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) `api@^1.68.0`
 - **[Bamboo Search (Self Hosted)](https://raycast.com/axp-dev/bamboo-self-hosted)** - The extension allow you to quickly access projects, deploys and plans in Bamboo [`@axp-dev`](https://raycast.com/axp-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bamboo-search-self-hosted) `api@^1.26.1`
 - **[Battery Health](https://raycast.com/o1y/battery-health)** - Shows live information about the battery in your Mac! [`@o1y`](https://raycast.com/o1y) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-health) `api@^1.36.1`

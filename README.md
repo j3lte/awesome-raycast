@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/00a1025fda6f1a8c_update-time.svg)
+![Last update](/icons/1474bd4f88333bb0_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,19 +38,19 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1713** packages in **15** categories
+- **1716** packages in **15** categories
 - **17** packages use Swift
-- **1102** authors
+- **1104** authors
 - Top **5** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (34)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (15)
   - [vimtor](https://raycast.com/vimtor) (14)
-- **617** contributors
+- **618** contributors
   - of which **460** contributors are only contributors
 - Top **5** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (170)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (171)
   - [xmok](https://raycast.com/xmok) (43)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (25)
@@ -96,6 +96,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Convert CSV to Excel](https://raycast.com/VictoRD11/csv-to-excel)** - Convert CSV table to Excel compatible table. [`@VictoRD11`](https://raycast.com/VictoRD11) [`code`](https://github.com/raycast/extensions/tree/main/extensions/csv-to-excel) `api@^1.53.0`
 - **[Coolify](https://raycast.com/xmok/coolify)** - View Servers, Resources, Teams and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coolify) `api@^1.79.1` `utils@^1.16.3`
 - **[cPanel](https://raycast.com/xmok/cpanel)** - View Domains, DNS Zones, Email Accounts, Databases, Files and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpanel) `api@^1.79.0` `utils@^1.16.3`
+- **[Cursor](https://raycast.com/degouville/cursor-recent-projects)** - Control Cursor, Cursor & Codium directly from Raycast - Search and open recent projects, handle extensions and commands. [`@degouville`](https://raycast.com/degouville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) `api@^1.83.1` `utils@^1.17.0`
+- **[Cursor Documentation](https://raycast.com/degouville/cursor)** - Search the Cursor Documentation right from Raycast [`@degouville`](https://raycast.com/degouville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor) `api@^1.83.1` `utils@^1.17.0`
 - **[Datawrapper](https://raycast.com/benkates/datawrapper)** - An unofficial extension for searching your Datawrapper charts, viewing recent Datawrapper charts, and other handy functions. [`@benkates`](https://raycast.com/benkates) [`code`](https://github.com/raycast/extensions/tree/main/extensions/datawrapper) `api@^1.72.1` `utils@^1.14.1`
 - **[Decentraland](https://raycast.com/fmiras/decentraland)** - Search and go directly to events and places in Decentraland [`@fmiras`](https://raycast.com/fmiras) [`code`](https://github.com/raycast/extensions/tree/main/extensions/decentraland) `api@^1.79.0` `utils@^1.17.0`
 - **[DevUtils](https://raycast.com/vietanhlehuu/devutils)** - Navigate DevUtils faster with this All-in-one Toolbox for Developers [`@vietanhlehuu`](https://raycast.com/vietanhlehuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/devutils) `api@^1.44.0`
@@ -544,6 +546,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Jenkins](https://raycast.com/k8scat/jenkins)** - Manage your Jenkins directly from Raycast. [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jenkins) `api@^1.39.2`
 - **[Jira2Git](https://raycast.com/ipiranhaa/jira2git)** - The tool for making Jira and Git work together smoothly as silk for a better development experience. [`@ipiranhaa`](https://raycast.com/ipiranhaa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jira2git) `api@^1.42.1`
 - **[JSR](https://raycast.com/j3lte/jsr)** - Search through JSR, the Open Source Package Registry for Javascript/Typescript [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jsr) `api@^1.82.5` `utils@^1.17.0`
+- **[JustColorPicker](https://raycast.com/woods_w/justcolorpicker-raycast)** - Just a color picker [`@woods_w`](https://raycast.com/woods_w) [`code`](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) `api@^1.82.5` `utils@^1.16.3`
 - **[Kill Node Modules](https://raycast.com/NicolasMontone/kill-node-modules)** - Remove selected node_modules [`@NicolasMontone`](https://raycast.com/NicolasMontone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) `api@^1.81.2` `utils@^1.16.3`
 - **[kubens](https://raycast.com/ChrisKohler/kubens)** - Switch between Kubernetes namespaces [`@ChrisKohler`](https://raycast.com/ChrisKohler) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kubens) `api@^1.43.2`
 - **[Laravel Shift for Docker](https://raycast.com/denniseilander/laravel-shift)** - Run any of the Shifts for Laravel, Lumen, PHP, Django, and Tailwind completely locally using Raycast. [`@denniseilander`](https://raycast.com/denniseilander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laravel-shift) `api@^1.48.8` `utils@^1.5.2`
@@ -728,7 +731,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Cilium Docs](https://raycast.com/dario_mader/cilium-docs)** - An extension for Raycast that let's you access Cilium Docs through Raycast. [`@dario_mader`](https://raycast.com/dario_mader) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cilium-docs) `api@^1.61.0` `utils@^1.10.0`
 - **[Code Review Emoji Guide](https://raycast.com/rus64/code-review-emojis)** - A simple emoji legend to help convey intention and added meaning in code review comments. [`@rus64`](https://raycast.com/rus64) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-review-emojis) `api@^1.50.2`
 - **[Code Smells Search](https://raycast.com/omorest/code-smells)** - Discover all code smells and how to solve them based on Code Smells Catalog created by Marcel J. [`@omorest`](https://raycast.com/omorest) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-smells) `api@^1.64.5`
-- **[Cursor](https://raycast.com/degouville/cursor)** - Search the Cursor Documentation right from Raycast [`@degouville`](https://raycast.com/degouville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor) `api@^1.59.0` `utils@^1.10.0`
 - **[Cypress Documentation](https://raycast.com/robertguss/cypress-docs)** - Quickly search the Cypress docs and open them in the browser [`@robertguss`](https://raycast.com/robertguss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cypress-docs) `api@^1.33.2`
 - **[Dash](https://raycast.com/RSO/dash)** - Interface with the Dash application, allowing users to quickly search through documentation sets. [`@RSO`](https://raycast.com/RSO) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dash) `api@^1.53.4`
 - **[dbt Documentation](https://raycast.com/b-per/dbt-documentation)** - Search the dbt documentation website https://docs.getdbt.com/ [`@b-per`](https://raycast.com/b-per) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dbt-documentation) `api@^1.38.0`
@@ -870,7 +872,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Is It Toxic To?](https://raycast.com/chesterhow/is-it-toxic-to)** - Check if a plant is toxic to an animal [`@chesterhow`](https://raycast.com/chesterhow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/is-it-toxic-to) `api@^1.40.3` `utils@^1.4.9`
 - **[itch.io](https://raycast.com/Aayush9029/itch-io)** - Raycast Extension for itch.io, browse through milions of games made by indie developers! [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/itch-io) `api@^1.79.0` `utils@^1.16.2`
 - **[Jokes](https://raycast.com/xmok/jokes)** - Get up to 10 jokes at a time from a variety of categories. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jokes) `api@^1.70.3`
-- **[LaLiga](https://raycast.com/anhthang/laliga)** - All the information of LaLiga Santander, LaLiga SmartBank, and Liga F: schedules, results, standings, news, statistics, and much more [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laliga) `api@^1.79.1` `utils@^1.16.3`
+- **[LaLiga](https://raycast.com/anhthang/laliga)** - A comprehensive extension for tracking La Liga matches, standings, and club information. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laliga) `api@^1.83.1` `utils@^1.17.0`
 - **[Lega Serie A](https://raycast.com/anhthang/serie-a)** - The top league in Italy, the twenty best teams, standings, results, statistics. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) `api@^1.47.3`
 - **[LEGO Bricks](https://raycast.com/mSarheed/lego-bricks)** - Look up LEGO sets, colors, bricks etc. [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lego-bricks) `api@^1.79.1` `utils@^1.17.0`
 - **[LetMeGoogleThat](https://raycast.com/Ek217/let-me-google-that)** - LetMeGoogleThat is a Raycast extension that generates links to the popular 'Let Me Google That For You' website. With just a few clicks, you can create a custom link that takes your friends or colleagues directly to a Google search page for the term you specify. Perfect for those times when someone asks you a question that they could easily look up themselves! Simply enter the search term, generate the link, and share it with others. LetMeGoogleThat saves you time and makes it easy to share information with others. [`@Ek217`](https://raycast.com/Ek217) [`code`](https://github.com/raycast/extensions/tree/main/extensions/let-me-google-that) `api@^1.54.1`
@@ -1007,6 +1009,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[xQc](https://raycast.com/Aayush9029/xqc)** - Search and Explore Vods for twitch.tv/xqc [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xqc) `api@^1.38.0`
 - **[Yandex Music](https://raycast.com/alexstrnik/yandex-music)** - Control the Yandex Music tab in browser with your keyboard. [`@alexstrnik`](https://raycast.com/alexstrnik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) `api@^1.35.1`
 - **[YouTube Music](https://raycast.com/danieldbird/youtube-music)** - Control the YouTube Music tab in browser with your keyboard. [`@danieldbird`](https://raycast.com/danieldbird) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube-music) `api@^1.35.1`
+- **[YouTube Thumbnail](https://raycast.com/bensomething/youtube-thumbnail)** - View a YouTube video's largest thumbnail, then download it or copy its URL. [`@bensomething`](https://raycast.com/bensomething) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube-thumbnail) `api@^1.81.2` `utils@^1.16.3`
 
 
 --------------------
@@ -1567,7 +1570,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Lucky Surf](https://raycast.com/popalay/lucky-surf)** - Say goodbye to scrolling through endless search results – simply trust your intuition and let serendipity guide you to the information you need, swiftly and efficiently [`@popalay`](https://raycast.com/popalay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lucky-surf) `api@^1.74.1`
 - **[Masked Link Generator](https://raycast.com/Visual-Studio-Coder/masked-link-generator)** - Input a destination URL and the title of the link and receive a masked link in your clipboard. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) `api@^1.57.2` `utils@^1.4.8`
 - **[Mayar](https://raycast.com/friantom/mayar)** - Mayar Raycast Extensions [`@friantom`](https://raycast.com/friantom) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mayar) `api@^1.42.0` `utils@1.0.3`
-- **[Mercado Libre](https://raycast.com/xilopaint/mercado-libre)** - Search Mercado Libre listings [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mercado-libre) `api@^1.69.3` `utils@^1.13.2`
+- **[Mercado Libre](https://raycast.com/xilopaint/mercado-libre)** - Search Mercado Libre listings [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mercado-libre) `api@^1.83.1` `utils@^1.17.0`
 - **[Myanimelist Search](https://raycast.com/luknl/myanimelist-search)** - Easily search and open animes on Myanimelist. [`@luknl`](https://raycast.com/luknl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/myanimelist-search) `api@^1.40.1` `utils@^1.4.8`
 - **[Naver Search](https://raycast.com/magneto/naver-search)** - Naver search extension for Raycast [`@magneto`](https://raycast.com/magneto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/naver-search) `api@^1.48.8`
 - **[NeoDB](https://raycast.com/SevicheCC/neodb)** - Search NeoDB items and view item details [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neodb) `api@^1.53.4` `utils@^1.8.0`

@@ -7,6 +7,9 @@ import generateIcons from "./utils/generate-icons.ts";
 import updateText from "./utils/update-text.ts";
 
 const nanoid = customAlphabet("1234567890abcdef", 16);
+const CONTRIBUTIONS_LENGTH = 7;
+
+const FORCE = Deno.args.includes("--force");
 
 await load({ export: true });
 
@@ -26,6 +29,20 @@ type PackageWithVersion = Package & {
   utils: string | null;
 };
 
+type DataObject = {
+  title: string;
+  description: string;
+  author: string;
+  contributors: string[];
+  api: string | null;
+  utils: string | null;
+  swift?: boolean;
+};
+
+type Data = Record<string, DataObject>;
+
+const data: Data = {};
+
 // Correct path to the extensions folder
 const repoPath = Deno.env.get("REPO_PATH")
   ? `${Deno.env.get("REPO_PATH")}/extensions`
@@ -42,7 +59,8 @@ for await (const entry of walk(repoPath, { maxLevel: 1 })) {
     entry.folders && entry.folders.map((f) => f.name).includes("swift") ||
     entry.files && entry.files.find((f) => f.name === "Package.swift")
   ) {
-    swiftPackages.add(entry.dir.replace(repoPath, ""));
+    const swiftPkg = entry.dir.replace(repoPath, "");
+    swiftPackages.add(swiftPkg.startsWith("/") ? swiftPkg.slice(1) : swiftPkg);
   }
   const pkg = entry.files.find((f) => f.name === "package.json");
   if (pkg) {
@@ -143,6 +161,18 @@ sortedCategories.forEach((category, i) => {
       : `### ${category}\n\n`;
     output += "**[`^        back to top        ^`](#awesome-raycast)**\n\n";
     sorted.forEach((pkg) => {
+      const d: DataObject = {
+        title: pkg.title,
+        description: pkg.description,
+        author: pkg.author,
+        contributors: pkg.contributors || [],
+        api: pkg.raycast,
+        utils: pkg.utils,
+      };
+      if (swiftPackages.has(pkg.name)) {
+        d.swift = true;
+      }
+      data[pkg.name] = d;
       const line = [
         `- **[${pkg.title}](https://raycast.com/${pkg.author}/${pkg.name})**`,
         `- ${(pkg.description || "").replace(/\n/g, " ").trim()}`,
@@ -150,6 +180,7 @@ sortedCategories.forEach((category, i) => {
         `[\`code\`](https://github.com/raycast/extensions/tree/main/extensions${pkg.path})`,
         `\`api@${pkg.raycast}\``,
         pkg.utils ? `\`utils@${pkg.utils}\`` : "",
+        swiftPackages.has(pkg.name) ? "`swift`" : "",
       ].filter(Boolean).join(" ").trim();
       output += `${line}\n`;
     });
@@ -168,13 +199,17 @@ toc += `
 const authorsSize = Array.from(authors.keys()).length;
 const contributorsSize = Array.from(contributors.keys()).length;
 
-const authorsArr = Array.from(authors.entries()).sort((a, b) => b[1] - a[1]);
-const contributorsArr = Array.from(contributors.entries()).sort((a, b) => b[1] - a[1]);
+const authorsArr = Array.from(authors.entries()).sort((a, b) =>
+  b[1] - a[1] || a[0].localeCompare(b[0])
+);
+const contributorsArr = Array.from(contributors.entries()).sort((a, b) =>
+  b[1] - a[1] || a[0].localeCompare(b[0])
+);
 
-const topFiveAuthors = authorsArr.slice(0, 5);
-const topFiveContributors = contributorsArr.slice(
+const topAuthors = authorsArr.slice(0, CONTRIBUTIONS_LENGTH);
+const topContributors = contributorsArr.slice(
   0,
-  5,
+  CONTRIBUTIONS_LENGTH,
 );
 
 // only contributor
@@ -197,32 +232,32 @@ const { updatedText: stageFinal, hasChanges: stageFinalChanges } = updateText(
   "STATISTICS",
   stage3,
   `
-- **${packages.length}** packages in **${categories.size}** categories
-- **${swiftPackages.size}** packages use Swift
-- **${authorsSize}** authors
-- Top **5** authors:
+- **${packages.length}** packages in **${categories.size}** categories, **${swiftPackages.size}** packages use Swift
+- **${authorsSize}** authors, **${contributorsSize}** contributors (of which **${onlyContributors}** are only contributors, not authors)
+- Top **${CONTRIBUTIONS_LENGTH}** authors:
 ${
-    topFiveAuthors.map(([author, count]) =>
-      `  - [${author}](https://raycast.com/${author}) (${count})`
-    ).join(
-      "\n",
-    )
+    topAuthors.map(([author, count]) => `  - [${author}](https://raycast.com/${author}) (${count})`)
+      .join(
+        "\n",
+      )
   }
-- **${contributorsSize}** contributors
-  - of which **${onlyContributors}** contributors are only contributors
-- Top **5** contributors:
+- Top **${CONTRIBUTIONS_LENGTH}** contributors:
 ${
-    topFiveContributors.map(([contributor, count]) =>
+    topContributors.map(([contributor, count]) =>
       `  - [${contributor}](https://raycast.com/${contributor}) (${count})`
     ).join("\n")
   }
 `,
 );
 
-if (!stage2Changes && !stage3Changes && !stageFinalChanges) {
+const DATA_FILE = import.meta.resolve("../data/data.json").replace("file://", "");
+
+if (!stage2Changes && !stage3Changes && !stageFinalChanges && !FORCE) {
   console.log("No changes detected");
   Deno.exit(0);
 }
+
+await Deno.writeTextFile(DATA_FILE, JSON.stringify(data));
 
 await generateIcons([{
   fileName: `swift-packages.svg`,

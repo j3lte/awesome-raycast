@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/1f16b271b1248b6f_update-time.svg)
+![Last update](/icons/a2a13a9281008178_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1731** packages in **15** categories, **17** packages use Swift
-- **1112** authors, **622** contributors (of which **462** are only contributors, not authors)
+- **1732** packages in **15** categories, **17** packages use Swift
+- **1113** authors, **623** contributors (of which **463** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (35)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (14)
   - [peduarte](https://raycast.com/peduarte) (13)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (172)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (173)
   - [xmok](https://raycast.com/xmok) (49)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (27)
@@ -1109,6 +1109,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[UniFi](https://raycast.com/tonka3000/unifi)** - Manage Unifi Controllers [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unifi) `api@^1.66.0` `utils@^1.9.0`
 - **[Universities](https://raycast.com/alewandowski/universities)** - Search for universities worldwide [`@alewandowski`](https://raycast.com/alewandowski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/universities) `api@^1.47.3` `utils@^1.4.18`
 - **[V2EX](https://raycast.com/daikaiyu/v2ex-viewer)** - View V2EX in Raycast. [`@daikaiyu`](https://raycast.com/daikaiyu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer) `api@^1.39.2` `utils@^1.3.1`
+- **[Veganify](https://raycast.com/philipbrembeck/veganify-application)** - Instantly verify the vegan status of food ingredients using the Veganify API. Perfect for quick checks while cooking or searching for recipes. Works in several languages. [`@philipbrembeck`](https://raycast.com/philipbrembeck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/veganify-application) `api@^1.82.5` `utils@^1.16.3`
 - **[VueJobs](https://raycast.com/abusiraj84/vuejobs)** - Browse through our list of Vue.js jobs, find your perfect match and apply.Use the filter or search for more accurate results! [`@abusiraj84`](https://raycast.com/abusiraj84) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vuejobs) `api@^1.53.2` `utils@^1.7.1`
 - **[Y Combinator](https://raycast.com/thomas/y-combinator)** - Search all Y Combinator companies and get a countdown until demo day [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/y-combinator) `api@^1.69.0` `utils@^1.13.1`
 
@@ -1785,7 +1786,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Markprompt](https://raycast.com/nickrttn/markprompt)** - Prompt your Markprompt project from Raycast [`@nickrttn`](https://raycast.com/nickrttn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markprompt) `api@^1.68.1` `utils@^1.12.5`
 - **[Memos](https://raycast.com/JakeYu/memos)** - Manage Your Memos [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memos) `api@^1.75.2` `utils@^1.15.0`
 - **[Menubar Weather](https://raycast.com/koinzhang/menubar-weather)** - Show current weather on the menu bar. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) `api@^1.81.2` `utils@^1.17.0` `swift`
-- **[Messages](https://raycast.com/thomaslombart/messages)** - Quickly send a message to one of your contacts. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/messages) `api@^1.78.1` `utils@^1.16.2` `swift`
+- **[Messages](https://raycast.com/thomaslombart/messages)** - Quickly send a message to one of your contacts. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/messages) `api@^1.83.1` `utils@^1.17.0` `swift`
 - **[Metaphor](https://raycast.com/QIanGua/metaphor)** - Search with Metaphor [`@QIanGua`](https://raycast.com/QIanGua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metaphor) `api@^1.56.3` `utils@^1.4.16`
 - **[Microsoft Edge](https://raycast.com/KartikKumarSahoo/microsoft-edge)** - Search open tabs, bookmarks, collections and history in Microsoft Edge. [`@KartikKumarSahoo`](https://raycast.com/KartikKumarSahoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) `api@^1.55.0` `utils@^1.4.13`
 - **[MLDocs](https://raycast.com/reckoning-dev/mldocs)** - Raycast Commands for Searching Different ML APIs [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mldocs) `api@^1.26.1`

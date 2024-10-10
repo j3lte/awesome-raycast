@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a2a13a9281008178_update-time.svg)
+![Last update](/icons/517a4e91cb6c92be_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1732** packages in **15** categories, **17** packages use Swift
-- **1113** authors, **623** contributors (of which **463** are only contributors, not authors)
+- **1734** packages in **15** categories, **17** packages use Swift
+- **1115** authors, **623** contributors (of which **463** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (35)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [peduarte](https://raycast.com/peduarte) (13)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (173)
-  - [xmok](https://raycast.com/xmok) (49)
+  - [xmok](https://raycast.com/xmok) (50)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (27)
   - [xilopaint](https://raycast.com/xilopaint) (27)
@@ -378,6 +378,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Figma Variables](https://raycast.com/martin_molcrette/figma-variables)** - Access Figma variables in Raycast [`@martin_molcrette`](https://raycast.com/martin_molcrette) [`code`](https://github.com/raycast/extensions/tree/main/extensions/figma-variables) `api@^1.67.1`
 - **[Flaticon — Search Icons](https://raycast.com/bgnfu7re/flaticon)** - Search icons on Flaticon [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flaticon) `api@^1.43.2` `utils@^1.4.10`
 - **[Font Awesome](https://raycast.com/dutzi/font-awesome)** - Search Font Awesome icons [`@dutzi`](https://raycast.com/dutzi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) `api@^1.74.0` `utils@^1.4.8`
+- **[Font Search](https://raycast.com/tnixc/font-search)** - Search locally installed fonts, as displayed in font book. [`@tnixc`](https://raycast.com/tnixc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/font-search) `api@^1.83.1` `utils@^1.17.0`
 - **[Geist Ui Components](https://raycast.com/RahulatRaycast/geist-ui-components)** - This extension provides links to components in Geist UI Documentation [`@RahulatRaycast`](https://raycast.com/RahulatRaycast) [`code`](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) `api@^1.38.2`
 - **[Google Fonts](https://raycast.com/GastroGeek/google-fonts)** - Search and use fonts from Google Fonts [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) `api@^1.38.2`
 - **[Iconify — Search Icons](https://raycast.com/destiner/iconify)** - Search icons via Iconify [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iconify) `api@^1.48.0`
@@ -1607,11 +1608,12 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Recap](https://raycast.com/user_c640ee8bc38faa8cdb2f/recap)** - Manage your reminders in Recap. [`@user_c640ee8bc38faa8cdb2f`](https://raycast.com/user_c640ee8bc38faa8cdb2f) [`code`](https://github.com/raycast/extensions/tree/main/extensions/recap) `api@^1.82.4` `utils@^1.16.3`
 - **[Remove Paywall](https://raycast.com/tegola/remove-paywall)** - Remove the paywall from the selected or clipboard URL. [`@tegola`](https://raycast.com/tegola) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-paywall) `api@^1.68.1`
 - **[Reverso Context](https://raycast.com/MrModest/reverso-context)** - Shows translation with usage examples via Reverso Context [`@MrModest`](https://raycast.com/MrModest) [`code`](https://github.com/raycast/extensions/tree/main/extensions/reverso-context) `api@^1.39.3`
-- **[Search Stack Exchange Sites](https://raycast.com/reckoning-dev/stackoverflow)** - Search Stack Exchange Sites from Raycast [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stackoverflow) `api@^1.56.1` `utils@^1.9.0`
+- **[Search Stack Exchange Sites](https://raycast.com/reckoning-dev/stackoverflow)** - Search Stack Exchange Sites from Raycast [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stackoverflow) `api@^1.79.0` `utils@^1.17.0`
 - **[Shlink](https://raycast.com/xeretis/shlink)** - Shorten and manage URLs using your own Shlink instance. [`@xeretis`](https://raycast.com/xeretis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shlink) `api@^1.81.2` `utils@^1.16.3`
 - **[Silent Mention](https://raycast.com/peduarte/silent-mention)** - Silently mention a handle, a URL or a hashtag. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/silent-mention) `api@^1.47.0`
 - **[Sublime](https://raycast.com/sublime.app/sublime)** - Search, discover, and add cards to your library. [`@sublime.app`](https://raycast.com/sublime.app) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sublime) `api@^1.81.2` `utils@^1.16.5`
 - **[Substack](https://raycast.com/j3lte/substack)** - Search Substack posts and profiles from Raycast [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/substack) `api@^1.71.4` `utils@^1.14.0`
+- **[Surf Check](https://raycast.com/john_alexander/surf-check)** - Check nearby surf conditions [`@john_alexander`](https://raycast.com/john_alexander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surf-check) `api@^1.81.2` `utils@^1.16.3`
 - **[Tabler](https://raycast.com/zavbala/tabler)** - Copy & Paste Tabler Icons [`@zavbala`](https://raycast.com/zavbala) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tabler) `api@^1.59.0`
 - **[Temporary Email](https://raycast.com/natterstefan/temporary-email)** - Quickly and easily create a temporary email. [`@natterstefan`](https://raycast.com/natterstefan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) `api@^1.31.0`
 - **[Terraform Doc](https://raycast.com/shopping-jaws/terraform-doc)** - Quickly access Terraform resources [`@shopping-jaws`](https://raycast.com/shopping-jaws) [`code`](https://github.com/raycast/extensions/tree/main/extensions/terraform-doc) `api@^1.63.0` `utils@^1.10.1`
@@ -1786,7 +1788,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Markprompt](https://raycast.com/nickrttn/markprompt)** - Prompt your Markprompt project from Raycast [`@nickrttn`](https://raycast.com/nickrttn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markprompt) `api@^1.68.1` `utils@^1.12.5`
 - **[Memos](https://raycast.com/JakeYu/memos)** - Manage Your Memos [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memos) `api@^1.75.2` `utils@^1.15.0`
 - **[Menubar Weather](https://raycast.com/koinzhang/menubar-weather)** - Show current weather on the menu bar. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) `api@^1.81.2` `utils@^1.17.0` `swift`
-- **[Messages](https://raycast.com/thomaslombart/messages)** - Quickly send a message to one of your contacts. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/messages) `api@^1.83.1` `utils@^1.17.0` `swift`
+- **[Messages](https://raycast.com/thomaslombart/messages)** - Quickly read your latest messages, open your chats, or send messages to your contacts. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/messages) `api@^1.83.1` `utils@^1.17.0` `swift`
 - **[Metaphor](https://raycast.com/QIanGua/metaphor)** - Search with Metaphor [`@QIanGua`](https://raycast.com/QIanGua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metaphor) `api@^1.56.3` `utils@^1.4.16`
 - **[Microsoft Edge](https://raycast.com/KartikKumarSahoo/microsoft-edge)** - Search open tabs, bookmarks, collections and history in Microsoft Edge. [`@KartikKumarSahoo`](https://raycast.com/KartikKumarSahoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) `api@^1.55.0` `utils@^1.4.13`
 - **[MLDocs](https://raycast.com/reckoning-dev/mldocs)** - Raycast Commands for Searching Different ML APIs [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mldocs) `api@^1.26.1`

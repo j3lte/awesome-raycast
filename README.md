@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/517a4e91cb6c92be_update-time.svg)
+![Last update](/icons/00d49157072ef5b6_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1734** packages in **15** categories, **17** packages use Swift
-- **1115** authors, **623** contributors (of which **463** are only contributors, not authors)
+- **1736** packages in **15** categories, **17** packages use Swift
+- **1116** authors, **623** contributors (of which **463** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (35)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [peduarte](https://raycast.com/peduarte) (13)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (173)
-  - [xmok](https://raycast.com/xmok) (50)
+  - [xmok](https://raycast.com/xmok) (51)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (27)
   - [xilopaint](https://raycast.com/xilopaint) (27)
@@ -239,7 +239,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Porkbun](https://raycast.com/xmok/porkbun)** - Interact with Porkbun with the help of Raycast [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/porkbun) `api@^1.79.0` `utils@^1.16.2`
 - **[Purelymail](https://raycast.com/xmok/purelymail)** - Interact with Purelymail with the help of Raycast [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/purelymail) `api@^1.79.0` `utils@^1.16.3`
 - **[Quick Phone Call](https://raycast.com/karbassi/quick-call)** - Make a phone call with the default telephone app. [`@karbassi`](https://raycast.com/karbassi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-call) `api@^1.57.1`
-- **[Resend](https://raycast.com/xmok/resend)** - Manage API Keys and Domains, and Send Emails using Resend [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/resend) `api@^1.54.1` `utils@^1.7.1`
+- **[Resend](https://raycast.com/xmok/resend)** - Manage API Keys and Domains, and Send Emails using Resend [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/resend) `api@^1.79.0` `utils@^1.17.0`
 - **[Rocket.Chat](https://raycast.com/alex-w0/rocket-chat)** - Search for teams, channels, users and change your presence status. [`@alex-w0`](https://raycast.com/alex-w0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rocket-chat) `api@^1.61.2`
 - **[Say - Text to Speech](https://raycast.com/litomore/say)** - Use the macOS built-in TTS (Spoken Content) to say the text you provide. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/say) `api@^1.83.2` `utils@^1.17.0`
 - **[Shroud.email](https://raycast.com/xmok/shroud-email)** - View Domains and Create or View Aliases in Shroud.email instance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shroud-email) `api@^1.52.1` `utils@^1.7.0`
@@ -409,6 +409,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Svgl](https://raycast.com/1weiho/svgl)** - Search SVG logos via svgl [`@1weiho`](https://raycast.com/1weiho) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svgl) `api@^1.64.3` `utils@^1.14.0`
 - **[Text Decorator](https://raycast.com/koinzhang/text-decorator)** - Super cool unicode text magic. Use 𝐛𝐨𝐥𝐝, 𝒊𝒕𝒂𝒍𝒊𝒄𝒔, and 🅜🅞🅡🅔 🄲🅁🄰🅉🅈 𝔩𝔬𝔬𝔨𝔦𝔫𝔤 fonts on Facebook, Twitter, and everywhere else. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-decorator) `api@^1.76.0`
 - **[Tints and Shades](https://raycast.com/anu/tints-and-shades)** - Generates tints and shades from a hex color value [`@anu`](https://raycast.com/anu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tints-and-shades) `api@^1.55.2`
+- **[TourBox](https://raycast.com/litomore/tourbox)** - Find Your Desired TourBox Preset [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tourbox) `api@^1.83.2`
 - **[Typographer: Make Text Pretty](https://raycast.com/mikeozornin/typographer)** - Make the typography of your text pretty: fix quotes, dashes, and spaces. Works offline. [`@mikeozornin`](https://raycast.com/mikeozornin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/typographer) `api@^1.31.0`
 - **[WordPress Icon Finder](https://raycast.com/javierarce/wordpress-icon-finder)** - It helps you search icons from the WordPress Icons Library. [`@javierarce`](https://raycast.com/javierarce) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordpress-icon-finder) `api@^1.72.1`
 
@@ -926,7 +927,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Soundboard](https://raycast.com/pernielsentikaer/soundboard)** - Use Raycast as a soundboard and bind sounds to hotkeys [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/soundboard) `api@^1.43.0` `utils@^1.4.10`
 - **[Speedcubing](https://raycast.com/samuelkraft/speedcubing)** - Time your solves, look up notations and algorithms [`@samuelkraft`](https://raycast.com/samuelkraft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/speedcubing) `api@^1.72.0`
 - **[Splatoon](https://raycast.com/marcbouchenoire/splatoon)** - View Splatoon’s current schedules. Supports Splatoon 2 and Splatoon 3. [`@marcbouchenoire`](https://raycast.com/marcbouchenoire) [`code`](https://github.com/raycast/extensions/tree/main/extensions/splatoon) `api@^1.65.0` `utils@^1.10.1`
-- **[SteamGridDB](https://raycast.com/litomore/steamgriddb)** - Download and share custom video game assets and personalize your gaming library. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) `api@^1.83.1`
+- **[SteamGridDB](https://raycast.com/litomore/steamgriddb)** - Download and share custom video game assets and personalize your gaming library. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/steamgriddb) `api@^1.84.1`
 - **[Surfs Up](https://raycast.com/comoser/surfs-up)** - Search the weather and the ocean conditions in your favorite surfing spots [`@comoser`](https://raycast.com/comoser) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surfs-up) `api@^1.50.1` `utils@^1.5.2`
 - **[Tarot](https://raycast.com/tsui_river/tarot)** - Draw cards from a virtual tarot deck. [`@tsui_river`](https://raycast.com/tsui_river) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tarot) `api@^1.69.0`
 - **[Tennis Standings](https://raycast.com/Zalgo_123/tennis-standings)** - Get the ATP and WTA rankings [`@Zalgo_123`](https://raycast.com/Zalgo_123) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tennis-standings) `api@^1.73.2` `utils@^1.15.0`
@@ -1176,7 +1177,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CSS.GG](https://raycast.com/astrit/css-gg)** - Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API [`@astrit`](https://raycast.com/astrit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/css-gg) `api@^1.38.2` `utils@^1.8.0`
 - **[Curator Bio](https://raycast.com/Yukai/curator-bio)** - Control your curator.bio account from Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) `api@^1.44.0` `utils@^1.4.11`
 - **[cURL](https://raycast.com/jonathangiardino/curl)** - Keyboard-first HTTP client [`@jonathangiardino`](https://raycast.com/jonathangiardino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curl) `api@^1.55.2` `utils@^1.9.0`
-- **[Cursor Directory](https://raycast.com/escwxyz/cursor-directory)** - Port functionality from cursor.directory [`@escwxyz`](https://raycast.com/escwxyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) `api@^1.81.2` `utils@^1.16.3`
+- **[Cursor Directory](https://raycast.com/escwxyz/cursor-directory)** - Your cursor.directory in Raycast [`@escwxyz`](https://raycast.com/escwxyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) `api@^1.81.2` `utils@^1.16.3`
 - **[Dash Off](https://raycast.com/peduarte/dash-off)** - The fastest way to dash off a quick email to yourself and others [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dash-off) `api@^1.65.0` `utils@^1.11.1`
 - **[Deduplicator](https://raycast.com/HerbertLu/deduplicator)** - A text tool for de-duplicating text content. [`@HerbertLu`](https://raycast.com/HerbertLu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deduplicator) `api@^1.44.0`
 - **[Descript to YouTube Chapters](https://raycast.com/peduarte/descript-to-youtube-chapters)** - Convert Descript's transcript file into YouTube Chapters [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) `api@^1.47.0`
@@ -1621,7 +1622,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[TinyFaces NFT](https://raycast.com/peduarte/tinyfaces-nft)** - Explore the TinyFaces NFT Collection [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tinyfaces-nft) `api@^1.39.2` `utils@^1.4.8`
 - **[Trovu - Web Search Command Line](https://raycast.com/jorges/trovu)** - Search 1000+ websites in a command-line way, with curated and personal shortcuts, organized by namespaces, allowing multiple and typed arguments, with full privacy. [`@jorges`](https://raycast.com/jorges) [`code`](https://github.com/raycast/extensions/tree/main/extensions/trovu) `api@^1.75.2` `utils@^1.4.8`
 - **[Tynyfy - URL Shortener](https://raycast.com/kusthi/tynyfy)** - Shortens your boring long URLs [`@kusthi`](https://raycast.com/kusthi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tynyfy) `api@^1.57.0`
-- **[Typeform Navigator](https://raycast.com/jdvr/typeform)** - Manage your Typeform account [`@jdvr`](https://raycast.com/jdvr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/typeform-navigator) `api@^1.40.1`
+- **[Typeform Navigator](https://raycast.com/jdvr/typeform)** - Manage your Typeform account [`@jdvr`](https://raycast.com/jdvr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/typeform-navigator) `api@^1.79.0` `utils@^1.17.0`
 - **[Urban Dictionary Search](https://raycast.com/pernielsentikaer/urban-dictionary)** - Search on Urban Dictionary [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/urban-dictionary) `api@^1.81.0` `utils@^1.16.4`
 - **[URL Unshortener](https://raycast.com/SebDanielsson/url-unshortener)** - Unshorten/expand those pesky short links in your clipboard or text selection, enhancing your privacy and security. [`@SebDanielsson`](https://raycast.com/SebDanielsson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/url-unshortener) `api@^1.62.2`
 - **[ViaCEP](https://raycast.com/xilopaint/viacep)** - Find Brazilian addresses and postal codes [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/viacep) `api@^1.81.2` `utils@^1.16.5`
@@ -1714,6 +1715,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Elm Search](https://raycast.com/HenriqueBuss/elm-search)** - Search Elm packages by name, type, author or module [`@HenriqueBuss`](https://raycast.com/HenriqueBuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elm-search) `api@^1.27.0`
 - **[ENS Name Lookup](https://raycast.com/Yukai/ens-name-lookup)** - Lookup ENS name or address [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) `api@^1.36.0`
 - **[Envato Sales](https://raycast.com/astroon/envato)** - Tracking New Sales For Envato Author [`@astroon`](https://raycast.com/astroon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/envato) `api@^1.79.0` `utils@^1.16.3`
+- **[Expand Video Canvas](https://raycast.com/lzybiasia/expand-video-canvas)** - Expand different size video to 1920*1080. It will center the original video and fill background with the edge color. [`@lzybiasia`](https://raycast.com/lzybiasia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/expand-video-canvas) `api@^1.83.1` `utils@^1.17.0`
 - **[FaceTime](https://raycast.com/ron-myers/facetime)** - Make FaceTime calls with Raycast [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/facetime) `api@^1.28.0`
 - **[Feedly](https://raycast.com/shubham/feedly)** - Browse Feedly through Raycast [`@shubham`](https://raycast.com/shubham) [`code`](https://github.com/raycast/extensions/tree/main/extensions/feedly) `api@^1.44.0` `utils@^1.4.14`
 - **[Figma File Search](https://raycast.com/michaelschultz/figma-files-raycast-extension)** - Lists Figma files allowing you to search and navigate to them. [`@michaelschultz`](https://raycast.com/michaelschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/figma-files) `api@^1.71.3` `utils@^1.14.0`

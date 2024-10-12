@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/00d49157072ef5b6_update-time.svg)
+![Last update](/icons/dd6d9c0f86d28b05_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1736** packages in **15** categories, **17** packages use Swift
-- **1116** authors, **623** contributors (of which **463** are only contributors, not authors)
+- **1116** authors, **624** contributors (of which **464** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (35)
@@ -52,8 +52,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (173)
   - [xmok](https://raycast.com/xmok) (51)
   - [j3lte](https://raycast.com/j3lte) (39)
+  - [xilopaint](https://raycast.com/xilopaint) (28)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (27)
-  - [xilopaint](https://raycast.com/xilopaint) (27)
   - [stelo](https://raycast.com/stelo) (23)
   - [erics118](https://raycast.com/erics118) (14)
 
@@ -625,7 +625,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pipe Commands](https://raycast.com/pomdtr/pipe-commands)** - Pipe your selection or clipboard to custom scripts defined in any language. [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands) `api@^1.69.3`
 - **[Pixels to Viewport Width or Height](https://raycast.com/Atiipik/convert-px-to-vw-vh)** - Fast conversion of pixels to vw or vh depending on the size of your viewport. [`@Atiipik`](https://raycast.com/Atiipik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert-px-to-vw-vh) `api@^1.51.1` `utils@^1.6.1`
 - **[Ploi](https://raycast.com/ploi-deploy/ploi)** - View and manage your ploi.io servers and sites [`@ploi-deploy`](https://raycast.com/ploi-deploy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ploi) `api@^1.77.0` `utils@^1.16.1`
-- **[PM2](https://raycast.com/litomore/pm2)** - Advanced, production process manager for Node.js. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pm2) `api@^1.83.2` `utils@^1.17.0`
+- **[PM2](https://raycast.com/litomore/pm2)** - Advanced, production process manager for Node.js. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pm2) `api@^1.84.2` `utils@^1.17.0`
 - **[Popicons](https://raycast.com/lucaschultz/popicons)** - Browse and copy Popicons [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/popicons) `api@^1.76.0` `utils@^1.15.0`
 - **[Port Manager](https://raycast.com/lucaschultz/port-manager)** - Find open ports and close them [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/port-manager) `api@^1.57.0` `utils@^1.9.1`
 - **[Prettier Code](https://raycast.com/lin/prettier)** - Format code with Prettier [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prettier) `api@^1.79.0`
@@ -1790,7 +1790,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Markprompt](https://raycast.com/nickrttn/markprompt)** - Prompt your Markprompt project from Raycast [`@nickrttn`](https://raycast.com/nickrttn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markprompt) `api@^1.68.1` `utils@^1.12.5`
 - **[Memos](https://raycast.com/JakeYu/memos)** - Manage Your Memos [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memos) `api@^1.75.2` `utils@^1.15.0`
 - **[Menubar Weather](https://raycast.com/koinzhang/menubar-weather)** - Show current weather on the menu bar. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/menubar-weather) `api@^1.81.2` `utils@^1.17.0` `swift`
-- **[Messages](https://raycast.com/thomaslombart/messages)** - Quickly read your latest messages, open your chats, or send messages to your contacts. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/messages) `api@^1.83.1` `utils@^1.17.0` `swift`
+- **[Messages](https://raycast.com/thomaslombart/messages)** - Quickly read your latest messages, open your chats, or send messages to your contacts. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/messages) `api@^1.83.1` `utils@^1.18.0` `swift`
 - **[Metaphor](https://raycast.com/QIanGua/metaphor)** - Search with Metaphor [`@QIanGua`](https://raycast.com/QIanGua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metaphor) `api@^1.56.3` `utils@^1.4.16`
 - **[Microsoft Edge](https://raycast.com/KartikKumarSahoo/microsoft-edge)** - Search open tabs, bookmarks, collections and history in Microsoft Edge. [`@KartikKumarSahoo`](https://raycast.com/KartikKumarSahoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) `api@^1.55.0` `utils@^1.4.13`
 - **[MLDocs](https://raycast.com/reckoning-dev/mldocs)** - Raycast Commands for Searching Different ML APIs [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mldocs) `api@^1.26.1`
@@ -1898,7 +1898,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Twitter](https://raycast.com/tonka3000/twitter)** - Send and search Tweets [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitter) `api@^1.62.0` `utils@^1.10.1`
 - **[Two-Factor Authentication Code Generator](https://raycast.com/cjdenio/two-factor-authentication-code-generator)** - Quickly access your two-factor authentication codes. [`@cjdenio`](https://raycast.com/cjdenio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator) `api@^1.25.0`
 - **[Ulysses](https://raycast.com/praveenjuge/ulysses)** - Use Ulysses with Raycast [`@praveenjuge`](https://raycast.com/praveenjuge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ulysses) `api@^1.27.0`
-- **[Unicode Symbols Search](https://raycast.com/mmazzarolo/unicode-symbols)** - Browse and copy-paste common Unicode symbols. [`@mmazzarolo`](https://raycast.com/mmazzarolo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) `api@^1.83.1`
+- **[Unicode Symbols Search](https://raycast.com/mmazzarolo/unicode-symbols)** - Browse and copy-paste common Unicode symbols. [`@mmazzarolo`](https://raycast.com/mmazzarolo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) `api@^1.84.2` `utils@^1.17.0`
 - **[Unsplash](https://raycast.com/eggsy/unsplash)** - Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! [`@eggsy`](https://raycast.com/eggsy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unsplash) `api@^1.38.2`
 - **[URL Shortener](https://raycast.com/Visual-Studio-Coder/url-shortener)** - Experience the joy of shortening URLs to your heart's desire with Raycast's URL Shortener! Enjoy the convenience of free URL shortening, without the need for an API key or any rate limits. The domains you can use are: tinyurl.com, shrtco.de, 9qr.de, and shiny.link [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/url-shortener) `api@^1.57.0`
 - **[URL Tools](https://raycast.com/huzef44/url-tools)** - Quickly encode or decode URL from the clipboard [`@huzef44`](https://raycast.com/huzef44) [`code`](https://github.com/raycast/extensions/tree/main/extensions/url-tools) `api@^1.79.0`

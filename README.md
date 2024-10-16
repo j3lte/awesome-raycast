@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/314b2f36cb3de3dc_update-time.svg)
+![Last update](/icons/3403373d945e9454_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1741** packages in **15** categories, **17** packages use Swift
-- **1118** authors, **627** contributors (of which **466** are only contributors, not authors)
+- **1742** packages in **15** categories, **17** packages use Swift
+- **1118** authors, **628** contributors (of which **467** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (36)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [peduarte](https://raycast.com/peduarte) (13)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (174)
-  - [xmok](https://raycast.com/xmok) (52)
+  - [xmok](https://raycast.com/xmok) (53)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (28)
   - [xilopaint](https://raycast.com/xilopaint) (28)
@@ -238,7 +238,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[omg.lol](https://raycast.com/danpalmer/omg-lol)** - Create, read, and update data in your omg.lol account. [`@danpalmer`](https://raycast.com/danpalmer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/omg-lol) `api@^1.64.4` `utils@^1.10.1`
 - **[One-Time Secret](https://raycast.com/larsasolidor/one-time-secret)** - Allows secrets to be transmitted using the One-Time Secret website. [`@larsasolidor`](https://raycast.com/larsasolidor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-time-secret) `api@^1.53.4`
 - **[Porkbun](https://raycast.com/xmok/porkbun)** - Interact with Porkbun with the help of Raycast [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/porkbun) `api@^1.79.0` `utils@^1.16.2`
-- **[Purelymail](https://raycast.com/xmok/purelymail)** - Interact with Purelymail with the help of Raycast [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/purelymail) `api@^1.79.0` `utils@^1.16.3`
+- **[Purelymail](https://raycast.com/xmok/purelymail)** - Manage Purelymail - Domains, Users, Routing Rules and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/purelymail) `api@^1.79.0` `utils@^1.17.0`
 - **[Quick Phone Call](https://raycast.com/karbassi/quick-call)** - Make a phone call with the default telephone app. [`@karbassi`](https://raycast.com/karbassi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-call) `api@^1.57.1`
 - **[Resend](https://raycast.com/xmok/resend)** - Manage API Keys and Domains, and Send Emails using Resend [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/resend) `api@^1.79.0` `utils@^1.17.0`
 - **[Rocket.Chat](https://raycast.com/alex-w0/rocket-chat)** - Search for teams, channels, users and change your presence status. [`@alex-w0`](https://raycast.com/alex-w0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rocket-chat) `api@^1.61.2`
@@ -1218,6 +1218,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Get Direct Link](https://raycast.com/trungnghiatn/get-direct-link)** - Get a direct link from a shareable link of Dropbox, Google Drive, and Imgur service. [`@trungnghiatn`](https://raycast.com/trungnghiatn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-direct-link) `api@^1.41.1`
 - **[GetSound](https://raycast.com/asgudev/getsound)** - Get focused with GetSound.AI [`@asgudev`](https://raycast.com/asgudev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/getsound) `api@^1.44.0` `utils@^1.4.11`
 - **[GHPic](https://raycast.com/xiangsanliu/gh-pic)** - A simple extension of Raycast to upload images to GitHub from clipboard. [`@xiangsanliu`](https://raycast.com/xiangsanliu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gh-pic) `api@^1.69.0`
+- **[Gistly](https://raycast.com/rafal_zawadzki/gistly)** - YouTube AI Summaries & Transcripts [`@rafal_zawadzki`](https://raycast.com/rafal_zawadzki) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gistly) `api@^1.67.1` `utils@^1.12.4`
 - **[GitHub Review Requests](https://raycast.com/resessh/github-review-requests)** - Search review requests on GitHub and listing them. [`@resessh`](https://raycast.com/resessh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-review-requests) `api@^1.38.1`
 - **[Glyph Search](https://raycast.com/gbgk/glyph-search)** - Like the emoji picker, but for unicode glyphs [`@gbgk`](https://raycast.com/gbgk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/glyph-search) `api@^1.47.3`
 - **[Google Advanced Search](https://raycast.com/developerlover/google-advanced-search)** - Enhance your desktop with this Raycast extension that simplifies Google's advanced search, bringing features like exact matches and domain filtration directly to macOS—ideal for quick, precise searches without needing to remember complex search options. [`@developerlover`](https://raycast.com/developerlover) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-advanced-search) `api@^1.71.4`
@@ -1804,7 +1805,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mullvad VPN](https://raycast.com/0x46616c6b/mullvad)** - Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. [`@0x46616c6b`](https://raycast.com/0x46616c6b) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mullvad) `api@^1.62.0` `utils@^1.10.1`
 - **[Multipass](https://raycast.com/davibe/multipass)** - Manage Multipass instances [`@davibe`](https://raycast.com/davibe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multipass) `api@^1.39.2`
 - **[Music](https://raycast.com/fedevitaledev/music)** - Control the Apple Music app with your keyboard. [`@fedevitaledev`](https://raycast.com/fedevitaledev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/music) `api@^1.59.0` `utils@^1.10.0`
-- **[Must](https://raycast.com/eggsy/must)** - Display your Want to Watch list on Must Movie Tracking app directly on Raycast! [`@eggsy`](https://raycast.com/eggsy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/must) `api@^1.26.3`
+- **[Must](https://raycast.com/eggsy/must)** - Display your Want to Watch list on Must Movie Tracking app directly on Raycast! [`@eggsy`](https://raycast.com/eggsy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/must) `api@^1.79.0` `utils@^1.17.0`
 - **[My Daily Log](https://raycast.com/frugoman/my-daily-log)** - Log what you do every day. [`@frugoman`](https://raycast.com/frugoman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/my-daily-log) `api@^1.51.1` `utils@^1.4.10`
 - **[NativeBase Documention](https://raycast.com/shubham/nativebase-docs)** - Search Nativebase documentation [`@shubham`](https://raycast.com/shubham) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nativebase-docs) `api@^1.28.0`
 - **[NeteaseMusic](https://raycast.com/chyroc/netease-music)** - Control the NeteaseMusic app with your keyboard [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/netease-music) `api@^1.32.1`

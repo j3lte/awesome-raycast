@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/eb9dbb91ecd22453_update-time.svg)
+![Last update](/icons/80e0c6bfb1e70e9e_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1761** packages in **15** categories, **17** packages use Swift
-- **1131** authors, **634** contributors (of which **470** are only contributors, not authors)
+- **1764** packages in **15** categories, **17** packages use Swift
+- **1133** authors, **635** contributors (of which **471** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (38)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [peduarte](https://raycast.com/peduarte) (13)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (175)
-  - [xmok](https://raycast.com/xmok) (60)
+  - [xmok](https://raycast.com/xmok) (61)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (31)
   - [xilopaint](https://raycast.com/xilopaint) (28)
@@ -489,7 +489,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CUID Generator](https://raycast.com/dgrcode/cuid-generator)** - A quick way to generate CUIDs [`@dgrcode`](https://raycast.com/dgrcode) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cuid-generator) `api@^1.38.3`
 - **[Cuid2 Generator](https://raycast.com/gilbarbara/cuid2-generator)** - Generate cuid2 ids [`@gilbarbara`](https://raycast.com/gilbarbara) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cuid2-generator) `api@^1.46.0`
 - **[CyberChef](https://raycast.com/mblode/cyberchef)** - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis [`@mblode`](https://raycast.com/mblode) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cyberchef) `api@^1.66.2` `utils@^1.12.4`
-- **[CyberPanel](https://raycast.com/xmok/cyberpanel)** - Interact with CyberPanel [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cyberpanel) `api@^1.60.1` `utils@^1.10.0`
+- **[CyberPanel](https://raycast.com/xmok/cyberpanel)** - Interact with CyberPanel [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cyberpanel) `api@^1.79.0` `utils@^1.18.0`
 - **[Date Converter](https://raycast.com/asportnoy/date-converter)** - Convert a variety of date formats [`@asportnoy`](https://raycast.com/asportnoy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/date-converter) `api@^1.53.3`
 - **[Deno Deploy](https://raycast.com/j3lte/deno-deploy)** - View and modify your Deno Deploy projects [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deno-deploy) `api@^1.71.4` `utils@^1.14.0`
 - **[Dig - DNS Lookup](https://raycast.com/danielbahl/dig)** - DNS lookup and nameserver query using the built-in host command [`@danielbahl`](https://raycast.com/danielbahl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dig) `api@^1.69.3` `utils@^1.13.3`
@@ -656,6 +656,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Refresh Browsers](https://raycast.com/koinzhang/refresh-browsers)** - Refresh all browser tabs [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/refresh-browsers) `api@^1.76.0` `utils@^1.15.0`
 - **[RegEx REPL](https://raycast.com/hongkiulam/regex-repl)** - Quickly write and test Regular Expressions (RegEx) [`@hongkiulam`](https://raycast.com/hongkiulam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/regex-repl) `api@^1.59.0`
 - **[Regex Tester](https://raycast.com/allenan/regex-tester)** - Preview and test regular expressions [`@allenan`](https://raycast.com/allenan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/regex-tester) `api@^1.36.0`
+- **[Rehooks](https://raycast.com/Pyr33x/rehooks)** - An optimized, lightweight, and reusable react production-ready hooks library written in TypeScript. [`@Pyr33x`](https://raycast.com/Pyr33x) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rehooks) `api@^1.84.3` `utils@^1.18.0`
 - **[Render](https://raycast.com/destiner/render)** - View your Render services, deploys, and custom domains [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/render) `api@^1.79.0` `utils@^1.16.3`
 - **[Repology Search](https://raycast.com/SebDanielsson/repology-search)** - Search packages from repology.org [`@SebDanielsson`](https://raycast.com/SebDanielsson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/repology-search) `api@^1.61.2` `utils@^1.10.1`
 - **[Ruby Evaluate](https://raycast.com/obahareth/ruby-evaluate)** - Evaluate Ruby code on-the-fly [`@obahareth`](https://raycast.com/obahareth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ruby-evaluate) `api@^1.38.1`
@@ -800,6 +801,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[WCAG](https://raycast.com/fgeierst/wcag)** - Search the Web Content Accessibility Guidelines (WCAG) 2.2 [`@fgeierst`](https://raycast.com/fgeierst) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wcag) `api@^1.69.0`
 - **[WordPress Docs](https://raycast.com/tillkruss/wordpress-docs)** - Search the WordPress code reference. [`@tillkruss`](https://raycast.com/tillkruss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordpress-docs) `api@^1.51.1` `utils@^1.6.1`
 - **[Zeabur Docs](https://raycast.com/ridemountainpig/zeabur-docs)** - Search Zeabur Docs [`@ridemountainpig`](https://raycast.com/ridemountainpig) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zeabur-docs) `api@^1.81.2` `utils@^1.16.3`
+- **[Zod Docs](https://raycast.com/danieldeichfuss/zod-documentation)** - Search Zod docs and open in the browser [`@danieldeichfuss`](https://raycast.com/danieldeichfuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zod-documentation) `api@^1.84.3` `utils@^1.17.0`
 
 
 --------------------
@@ -1031,6 +1033,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[The Movie Database](https://raycast.com/Aayush9029/tmdb)** - Browse through hundreds of thousands of movies and tv shows, see new releases, parental guide and much more. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tmdb) `api@^1.69.0` `utils@^1.15.0`
 - **[Threads](https://raycast.com/chrismessina/threads)** - Quickly post to Threads and see recent updates. [`@chrismessina`](https://raycast.com/chrismessina) [`code`](https://github.com/raycast/extensions/tree/main/extensions/threads) `api@^1.80.0`
 - **[Tidal Controller](https://raycast.com/broc-dev/tidal-controller)** - Control your local Tidal client with your keyboard. Note: You **must** enable Accessibility permissions for Raycast in order for this extension to work. [`@broc-dev`](https://raycast.com/broc-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tidal-controller) `api@^1.81` `utils@^1.16.3`
+- **[Torr Manager](https://raycast.com/dannius/torr-manager)** - Allows connect to selfhosted TorrServer, browse available torrents, select and watch movies directly from Raycast. [`@dannius`](https://raycast.com/dannius) [`code`](https://github.com/raycast/extensions/tree/main/extensions/torr-manager) `api@^1.84.2` `utils@^1.18.0`
 - **[Trakt Manager](https://raycast.com/thesobercoder/trakt-manager)** - Control your Trakt account directly from Raycast [`@thesobercoder`](https://raycast.com/thesobercoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/trakt-manager) `api@^1.77.1` `utils@^1.16.1`
 - **[TransistorFM](https://raycast.com/madebyankur/raycast-transistorfm)** - Get TransistorFM stats directly from your command bar [`@madebyankur`](https://raycast.com/madebyankur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-transistorfm) `api@^1.65.1` `utils@^1.4.8`
 - **[Twitter/X Video Downloader](https://raycast.com/kaanrkaraman/twitter-video-downloader)** - Download videos from Twitter/X with ease [`@kaanrkaraman`](https://raycast.com/kaanrkaraman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) `api@^1.56.0`
@@ -1163,7 +1166,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Blockchain Gas Tracker](https://raycast.com/Vonernue/blockchain-gas-tracker)** - Track and caculate blockchain gas fees right in your Raycast! [`@Vonernue`](https://raycast.com/Vonernue) [`code`](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) `api@^1.49.3` `utils@^1.5.2`
 - **[Bring!](https://raycast.com/amuelli/bring)** - Add items to your Bring! shopping lists [`@amuelli`](https://raycast.com/amuelli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bring) `api@^1.68.1` `utils@^1.12.5`
 - **[Browser AI Companion](https://raycast.com/lin/browser-ai)** - Use the best models with Raycast Browser Extension to extend your browsing experience. [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) `api@^1.74.1` `utils@^1.15.0`
-- **[Capacities](https://raycast.com/steffenble/capacities)** - Interact with Capacities from your command bar. Search your notes, capture content & more. [`@steffenble`](https://raycast.com/steffenble) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capacities) `api@^1.71.4` `utils@^1.14.0`
+- **[Capacities](https://raycast.com/steffenble/capacities)** - Interact with Capacities from your command bar. Search your notes, capture content & more. [`@steffenble`](https://raycast.com/steffenble) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capacities) `api@^1.79.0` `utils@^1.18.0`
 - **[CCF What?](https://raycast.com/crackedpoly/ccf-what)** - Loop up CCF rankings. [`@crackedpoly`](https://raycast.com/crackedpoly) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ccf-what) `api@^1.68.1` `utils@^1.12.5`
 - **[ChatGPT](https://raycast.com/abielzulio/chatgpt)** - Interact with OpenAI's ChatGPT directly from your command bar [`@abielzulio`](https://raycast.com/abielzulio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) `api@^1.81.2` `utils@^1.14.1`
 - **[ChatGPT Quick Actions](https://raycast.com/alanzchen/chatgpt-quick-actions)** - Performs one-shot actions with ChatGPT [`@alanzchen`](https://raycast.com/alanzchen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) `api@^1.50.0`
@@ -1492,7 +1495,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bitwarden Vault](https://raycast.com/jomifepe/bitwarden)** - Access a Bitwarden account. Requires installing the Bitwarden CLI. [`@jomifepe`](https://raycast.com/jomifepe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) `api@^1.83.2` `utils@^1.17.0`
 - **[cryptgeon](https://raycast.com/cupcakearmy/cryptgeon)** - Create and share encrypted notes [`@cupcakearmy`](https://raycast.com/cupcakearmy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) `api@^1.81.2` `utils@^1.16.5`
 - **[Dashlane](https://raycast.com/dpnick/dashlane)** - Access your Dashlane vault directly from Raycast [`@dpnick`](https://raycast.com/dpnick) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dashlane) `api@^1.41.1`
-- **[Dashlane Vault](https://raycast.com/tm.wrnr/dashlane-vault)** - Access Dashlane Vault. Requires installing the Dashlane CLI. [`@tm.wrnr`](https://raycast.com/tm.wrnr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) `api@^1.72.1` `utils@^1.14.0`
+- **[Dashlane Vault](https://raycast.com/tm.wrnr/dashlane-vault)** - Access Dashlane Vault. Requires installing the Dashlane CLI. [`@tm.wrnr`](https://raycast.com/tm.wrnr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) `api@^1.84.3` `utils@^1.18.0`
 - **[Email Verifier](https://raycast.com/HerbertLu/email-verifier)** - A tool for email verification without sending any emails [`@HerbertLu`](https://raycast.com/HerbertLu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/email-verifier) `api@^1.79.0` `utils@^1.17.0`
 - **[Ente Auth](https://raycast.com/chkpwd/ente-auth)** - Get TOTP Codes from Ente Auth [`@chkpwd`](https://raycast.com/chkpwd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) `api@^1.81.2` `utils@^1.16.3`
 - **[Greip](https://raycast.com/ghadeer/greip)** - Use endpoint from greip.io directly from Raycast [`@ghadeer`](https://raycast.com/ghadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/greip) `api@^1.43.2` `utils@^1.4.11`

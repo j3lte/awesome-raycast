@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/f66ecc9e102aee7a_update-time.svg)
+![Last update](/icons/22ef4b42d2c42336_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -50,9 +50,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [peduarte](https://raycast.com/peduarte) (13)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (175)
-  - [xmok](https://raycast.com/xmok) (62)
+  - [xmok](https://raycast.com/xmok) (63)
   - [j3lte](https://raycast.com/j3lte) (39)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (31)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (32)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (23)
   - [erics118](https://raycast.com/erics118) (14)
@@ -479,7 +479,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Convert TypeScript to JavaScript](https://raycast.com/bengry/convert-typescript-to-javascript)** - Remove type information from TypeScript code to make it compatible with JavaScript REPLs and other applications [`@bengry`](https://raycast.com/bengry) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert-typescript-to-javascript) `api@^1.54.1`
 - **[Cookie String](https://raycast.com/NicolasMontone/cookie-string-parser)** - Parses your cookie string [`@NicolasMontone`](https://raycast.com/NicolasMontone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cookie-string-parser) `api@^1.67.1`
 - **[Copilot Workspace](https://raycast.com/cole/copilot-workspace)** - Take an idea from anywhere and turn it into code with Copilot Workspace [`@cole`](https://raycast.com/cole) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) `api@^1.69.0` `utils@^1.14.0`
-- **[Copy Path](https://raycast.com/koinzhang/copy-path)** - Copy the path of the open folder, selected file or the URL of the current browser tab. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copy-path) `api@^1.78.0` `utils@^1.16.1`
+- **[Copy Path](https://raycast.com/koinzhang/copy-path)** - Copy the path of the open folder, selected file or the URL of the current browser tab. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copy-path) `api@^1.84.6` `utils@^1.18.0`
 - **[CRAN/E Search](https://raycast.com/flaming-codes/cran-e-search)** - Search for R-code packages & authors hosted on CRAN via the CRAN/E search engine. [`@flaming-codes`](https://raycast.com/flaming-codes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cran-e-search) `api@^1.47.3` `utils@^1.4.8`
 - **[CrawlDoc - Documentations Search Engine](https://raycast.com/johan-perso/crawldoc)** - Allow searching through multiple documentations platforms [`@johan-perso`](https://raycast.com/johan-perso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/crawldoc) `api@^1.64.4` `utils@^1.4.8`
 - **[Create Remix](https://raycast.com/nuno_costa/create-remix)** - Create Remix Run Web App using create-remix [`@nuno_costa`](https://raycast.com/nuno_costa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-create-remix) `api@^1.56.3`
@@ -682,7 +682,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[SimpleBackups](https://raycast.com/islamessam/simplebackups)** - View and manage your backups from SimpleBackups.com [`@islamessam`](https://raycast.com/islamessam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) `api@^1.39.3` `utils@^1.4.8`
 - **[SimpleTexOCR](https://raycast.com/Arthals/simpletexocr)** - A LaTeX OCR by Simpletex [`@Arthals`](https://raycast.com/Arthals) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) `api@^1.59.0` `utils@^1.10.0`
 - **[Simulator Control](https://raycast.com/noppefoxwolf/simulator-control)** - Control Apple Simulator devices [`@noppefoxwolf`](https://raycast.com/noppefoxwolf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simctl) `api@^1.79.0` `utils@^1.17.0`
-- **[Slugify](https://raycast.com/unreadablename/slugify)** - A quick way to slugify text [`@unreadablename`](https://raycast.com/unreadablename) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slugify) `api@^1.45.3`
+- **[Slugify](https://raycast.com/unreadablename/slugify)** - A quick way to slugify text [`@unreadablename`](https://raycast.com/unreadablename) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slugify) `api@^1.79.0`
 - **[Snippet Surfer](https://raycast.com/astronight/snippetsurfer)** - SnippetSurfer is a Raycast extension designed to swiftly navigate through snippets of information. You can effortlessly skim through text excerpts, code snippets, or any other brief segments of content and copy them to the clipboard. The snippets are read from a folder of markdown or yaml files. [`@astronight`](https://raycast.com/astronight) [`code`](https://github.com/raycast/extensions/tree/main/extensions/snippetsurfer) `api@^1.44.0`
 - **[SnippetsLab](https://raycast.com/renfei_song/snippetslab)** - Search and view contents in your SnippetsLab library. [`@renfei_song`](https://raycast.com/renfei_song) [`code`](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) `api@^1.79.1`
 - **[SolusVM 1 Client](https://raycast.com/xmok/solusvm-1-client)** - Fetch Information and Manage SolusVM 1 Virtual Server [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solusvm-1-client) `api@^1.62.2`
@@ -1693,7 +1693,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bitly URL Shortener](https://raycast.com/blessanm86/bitly-url-shortener)** - Quickly shorten the selected URL or current clipboard URL with Bitly [`@blessanm86`](https://raycast.com/blessanm86) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitly-url-shortener) `api@^1.45.2`
 - **[BookStack](https://raycast.com/huskii/bookstack)** - Seamlessly integrates Raycast with BookStack to search and manage your documentation directly from your macOS desktop. [`@huskii`](https://raycast.com/huskii) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bookstack) `api@^1.72.1`
 - **[Brew](https://raycast.com/nhojb/brew)** - Search and install Homebrew formulae [`@nhojb`](https://raycast.com/nhojb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brew) `api@^1.78.1` `utils@^1.16.1`
-- **[Browser Tabs](https://raycast.com/koinzhang/browser-tabs)** - Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) `api@^1.78.1` `utils@^1.16.1`
+- **[Browser Tabs](https://raycast.com/koinzhang/browser-tabs)** - Search and open tabs in Chrome, Safari, Edge, Arc, Brave, Vivaldi, Opera and Orion, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-tabs) `api@^1.84.6` `utils@^1.18.0`
 - **[BTTV Emote](https://raycast.com/Aayush9029/bttv-emote)** - Browse Through Thousands of BTTV Emote [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bttv-emote) `api@^1.36.0`
 - **[BugMeNot](https://raycast.com/Yukai/bugmenot)** - Find username/password on BugMeNot [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bugmenot) `api@^1.25.0`
 - **[Calendly Share Meeting Links](https://raycast.com/eluce2/calendly)** - Quickly share your Calendly meeting links [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/calendly) `api@^1.39.2` `utils@^1.3.1`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/22ef4b42d2c42336_update-time.svg)
+![Last update](/icons/467d8cd34bbb9c09_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,11 +38,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1768** packages in **15** categories, **17** packages use Swift
+- **1769** packages in **15** categories, **17** packages use Swift
 - **1136** authors, **637** contributors (of which **471** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
-  - [xmok](https://raycast.com/xmok) (38)
+  - [xmok](https://raycast.com/xmok) (39)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (15)
   - [thomas](https://raycast.com/thomas) (14)
@@ -52,7 +52,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (175)
   - [xmok](https://raycast.com/xmok) (63)
   - [j3lte](https://raycast.com/j3lte) (39)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (32)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (33)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (23)
   - [erics118](https://raycast.com/erics118) (14)
@@ -194,7 +194,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Terminal](https://raycast.com/ron-myers/terminal)** - Control Terminal with Raycast [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/terminal) `api@^1.43.2`
 - **[Text Differ](https://raycast.com/ErikFisher/text-differ)** - Opens Text Differ from selected files [`@ErikFisher`](https://raycast.com/ErikFisher) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-differ) `api@^1.63.0`
 - **[Text Replacements](https://raycast.com/thomaslombart/text-replacements)** - Import macOS's text replacements to Raycast snippets. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-replacements) `api@^1.72.1` `utils@^1.14.0`
-- **[Tim](https://raycast.com/tm.wrnr/tim)** - Manage your timers for Tim from Raycast [`@tm.wrnr`](https://raycast.com/tm.wrnr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tim) `api@^1.76.0` `utils@^1.15.0`
+- **[Tim](https://raycast.com/tm.wrnr/tim)** - Manage your timers for Tim from Raycast [`@tm.wrnr`](https://raycast.com/tm.wrnr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tim) `api@^1.84.3` `utils@^1.18.0`
 - **[Todo List](https://raycast.com/maggie/todo-list)** - Manage your todo list quickly by adding items and marking items as completed. [`@maggie`](https://raycast.com/maggie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/todo-list) `api@^1.52.1` `utils@^1.1.0`
 - **[Transmission](https://raycast.com/FezVrasta/transmission)** - View and manage torrents directly from Raycast. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/transmission) `api@^1.71.3` `utils@^1.14.0`
 - **[Update Clash Subscription](https://raycast.com/JakeYu/update-clash-subscription)** - Update clash subscription & insert custom rules [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) `api@^1.46.1`
@@ -581,6 +581,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mailwip](https://raycast.com/xmok/mailwip)** - Delete Domains, Manage Aliases, and View MailLog [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailwip) `api@^1.55.1` `utils@^1.7.0`
 - **[Man Pages](https://raycast.com/HelloImSteven/man-pages)** - Search through the macOS man pages [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/man-pages) `api@^1.46.0`
 - **[Manage Services](https://raycast.com/erics118/brew-services)** - Manage homebrew services [`@erics118`](https://raycast.com/erics118) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brew-services) `api@^1.83.1` `utils@^1.17.0`
+- **[Manotori](https://raycast.com/xmok/manotori)** - Manage Domains in Manotori [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/manotori) `api@^1.83.2` `utils@^1.17.0`
 - **[Markdown Image to HTML](https://raycast.com/qeude/markdown-image-to-html)** - Transform a Markdown Image to HTML. This allows us to fix image size in Markdown base files. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-image-to-html) `api@^1.55.1`
 - **[Markdown Table Generator](https://raycast.com/Visual-Studio-Coder/markdown-table-generator)** - Specify your width and height, and receive a markdown table that you can input your own values into. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator) `api@^1.57.2`
 - **[Markdown This](https://raycast.com/aravindballa/markdown-this)** - Convert Markdown text in clipboard to HTML [`@aravindballa`](https://raycast.com/aravindballa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-this) `api@^1.35.2`

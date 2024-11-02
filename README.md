@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/0f96e9c47dd2ff48_update-time.svg)
+![Last update](/icons/d62aece04ca2c0be_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1770** packages in **15** categories, **17** packages use Swift
-- **1137** authors, **637** contributors (of which **471** are only contributors, not authors)
+- **1771** packages in **15** categories, **17** packages use Swift
+- **1138** authors, **637** contributors (of which **471** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (39)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [peduarte](https://raycast.com/peduarte) (13)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (175)
-  - [xmok](https://raycast.com/xmok) (66)
+  - [xmok](https://raycast.com/xmok) (67)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (34)
   - [xilopaint](https://raycast.com/xilopaint) (28)
@@ -1041,6 +1041,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[TransistorFM](https://raycast.com/madebyankur/raycast-transistorfm)** - Get TransistorFM stats directly from your command bar [`@madebyankur`](https://raycast.com/madebyankur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-transistorfm) `api@^1.65.1` `utils@^1.4.8`
 - **[Twitter/X Video Downloader](https://raycast.com/kaanrkaraman/twitter-video-downloader)** - Download videos from Twitter/X with ease [`@kaanrkaraman`](https://raycast.com/kaanrkaraman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) `api@^1.56.0`
 - **[Unogs](https://raycast.com/mohitkyadav/unogs)** - A Raycast extension for Unogs [`@mohitkyadav`](https://raycast.com/mohitkyadav) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unogs) `api@^1.33.2`
+- **[Valheim Wiki Search](https://raycast.com/constantin_prum/valheim-wiki)** - Search the Valheim Wiki, display a preview and open the full article in your browser. [`@constantin_prum`](https://raycast.com/constantin_prum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/valheim-wiki) `api@^1.69.3` `utils@^1.17.0`
 - **[Wistia](https://raycast.com/darin/wistia)** - Search Wistia Medias and Projects [`@darin`](https://raycast.com/darin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wistia) `api@^1.79.0` `utils@^1.18.0`
 - **[xQc](https://raycast.com/Aayush9029/xqc)** - Search and Explore Vods for twitch.tv/xqc [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xqc) `api@^1.38.0`
 - **[Yandex Music](https://raycast.com/alexstrnik/yandex-music)** - Control the Yandex Music tab in browser with your keyboard. [`@alexstrnik`](https://raycast.com/alexstrnik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) `api@^1.35.1`
@@ -1562,7 +1563,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Toggle Menu Bar](https://raycast.com/iamyeizi/toggle-menu-bar)** - Switch between show/hide menu bar options [`@iamyeizi`](https://raycast.com/iamyeizi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toggle-menu-bar) `api@^1.58.1`
 - **[Toggle Scroll Bars Visibility](https://raycast.com/danulqua/toggle-scroll-bars-visibility)** - Change scroll bars visibility in macOS. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toggle-scroll-bars-visibility) `api@^1.57.1` `utils@^1.9.1`
 - **[Uptime](https://raycast.com/iaroslav_naiden/uptime)** - Show how long ago your mac was turned on [`@iaroslav_naiden`](https://raycast.com/iaroslav_naiden) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uptime) `api@^1.56.0` `utils@^1.9.0`
-- **[Uptime Kuma](https://raycast.com/MarlburroW/uptime-kuma)** - View all your Uptime Kuma monitors and their status [`@MarlburroW`](https://raycast.com/MarlburroW) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uptime-kuma) `api@^1.60.0` `utils@^1.10.0`
+- **[Uptime Kuma](https://raycast.com/MarlburroW/uptime-kuma)** - View all your Uptime Kuma monitors and their status [`@MarlburroW`](https://raycast.com/MarlburroW) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uptime-kuma) `api@^1.79.0` `utils@^1.18.0`
 - **[Wi-Fi](https://raycast.com/koinzhang/wi-fi)** - Check and toggle Wi-Fi via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) `api@^1.79.1` `utils@^1.16.2`
 - **[WOL](https://raycast.com/Lemon/wol)** - Simple wake on lan [`@Lemon`](https://raycast.com/Lemon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wol) `api@^1.83.2` `utils@^1.17.0`
 
@@ -1625,7 +1626,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Myanimelist Search](https://raycast.com/luknl/myanimelist-search)** - Easily search and open animes on Myanimelist. [`@luknl`](https://raycast.com/luknl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/myanimelist-search) `api@^1.40.1` `utils@^1.4.8`
 - **[Naver Search](https://raycast.com/magneto/naver-search)** - Naver search extension for Raycast [`@magneto`](https://raycast.com/magneto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/naver-search) `api@^1.48.8`
 - **[NeoDB](https://raycast.com/SevicheCC/neodb)** - Search NeoDB items and view item details [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neodb) `api@^1.53.4` `utils@^1.8.0`
-- **[Norwegian Public Transport](https://raycast.com/rosvik/raycast-norwegian-public-transport)** - Real-time departures for Norwegian public transport. Data made available by Entur. [`@rosvik`](https://raycast.com/rosvik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/norwegian-public-transport) `api@^1.72.1` `utils@^1.15.0`
+- **[Norwegian Public Transport](https://raycast.com/rosvik/raycast-norwegian-public-transport)** - Real-time departures for Norwegian public transport. Data made available by Entur. [`@rosvik`](https://raycast.com/rosvik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/norwegian-public-transport) `api@^1.84.7` `utils@^1.18.0`
 - **[Nouns](https://raycast.com/peduarte/nouns)** - Explore the Nouns Ecosystem. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nouns) `api@^1.40.3` `utils@^1.4.8`
 - **[Oh Dear](https://raycast.com/andreaselia/ohdear)** - Manage your Oh Dear sites easy directly from Raycast [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ohdear) `api@^1.39.1` `utils@^1.4.8`
 - **[Orion](https://raycast.com/plonq/orion)** - Manage your Orion Bookmarks, History, Tabs, and Reading list [`@plonq`](https://raycast.com/plonq) [`code`](https://github.com/raycast/extensions/tree/main/extensions/orion) `api@^1.58.0` `utils@^1.9.1`

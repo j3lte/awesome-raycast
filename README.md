@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/35adc3dea1a53122_update-time.svg)
+![Last update](/icons/4c8cd40ae8f05b1c_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1780** packages in **15** categories, **17** packages use Swift
-- **1145** authors, **642** contributors (of which **476** are only contributors, not authors)
+- **1782** packages in **15** categories, **17** packages use Swift
+- **1146** authors, **642** contributors (of which **476** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (39)
@@ -836,6 +836,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Finary](https://raycast.com/jetaix/finary)** - Fastest way to explore your Finary Portfolio & Investments. [`@jetaix`](https://raycast.com/jetaix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/finary) `api@^1.45.1`
 - **[Fluctuation](https://raycast.com/zoffyzhang/fluctuation)** - Calculation for fluctuation [`@zoffyzhang`](https://raycast.com/zoffyzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fluctuation) `api@^1.56.0` `utils@^1.10.0`
 - **[InFakt](https://raycast.com/teziovsky/infakt)** - Search, create and manage invoices, clients and products in inFakt directly from Raycast. [`@teziovsky`](https://raycast.com/teziovsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/infakt) `api@^1.63.0` `utils@^1.10.1`
+- **[Lunch Money Transactions](https://raycast.com/oppenheimer/lunchmoney)** - View and update your Lunch Money transactions [`@oppenheimer`](https://raycast.com/oppenheimer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lunchmoney) `api@^1.84.9` `utils@^1.17.0`
 - **[Mempool](https://raycast.com/dillionverma/mempool)** - Get current bitcoin mempool information [`@dillionverma`](https://raycast.com/dillionverma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mempool) `api@^1.33.2`
 - **[Mercury](https://raycast.com/atkinsmatt101/mercury)** - Quickly see your Mercury accounts and transactions directly in Raycast [`@atkinsmatt101`](https://raycast.com/atkinsmatt101) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mercury) `api@^1.81.2` `utils@^1.16.3`
 - **[MoneyLover](https://raycast.com/lachero/moneylover)** - MoneyLover is a personal finance app that helps you manage your money, budget, and track your spending. [`@lachero`](https://raycast.com/lachero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moneylover) `api@^1.79.0` `utils@^1.16.3`
@@ -1162,6 +1163,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Alice AI - Your ChatGPT Actions Companion](https://raycast.com/quiknull/alice-ai)** - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes. [`@quiknull`](https://raycast.com/quiknull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) `api@^1.69.0` `utils@^1.14.0`
 - **[Anki](https://raycast.com/anton-suprun/anki)** - Anki extension for Raycast [`@anton-suprun`](https://raycast.com/anton-suprun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anki) `api@^1.82.5` `utils@^1.17.0`
 - **[Apple Books](https://raycast.com/vimtor/apple-books)** - Search Apple Books from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-books) `api@^1.47.3` `utils@^1.5.2`
+- **[Apple Intelligence](https://raycast.com/EvanZhouDev/raycast-apple-intelligence)** - Use Apple Intelligence commands from the comfort of Raycast. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) `api@^1.84.9` `utils@^1.18.0`
 - **[Apple Reminders](https://raycast.com/thomaslombart/apple-reminders)** - Manage Apple Reminders. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) `api@^1.75.1` `utils@^1.14.0` `swift`
 - **[Apply Inline Code](https://raycast.com/alexian853/apply-inline-code)** - Apply inline code style in common apps and websites [`@alexian853`](https://raycast.com/alexian853) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) `api@^1.70.3` `utils@^1.13.6`
 - **[Arabic Keyboard](https://raycast.com/mSarheed/arabic-keyboard)** - Arabic Keyboard for Raycast [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arabic-keyboard) `api@^1.79.1`
@@ -1757,7 +1759,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Elgato Key Light](https://raycast.com/thomas/elgato-key-light)** - Control your Elgato Key Lights with ease [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) `api@^1.44.0`
 - **[Elm Search](https://raycast.com/HenriqueBuss/elm-search)** - Search Elm packages by name, type, author or module [`@HenriqueBuss`](https://raycast.com/HenriqueBuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elm-search) `api@^1.27.0`
 - **[ENS Name Lookup](https://raycast.com/Yukai/ens-name-lookup)** - Lookup ENS name or address [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) `api@^1.36.0`
-- **[Envato Sales](https://raycast.com/astroon/envato)** - Tracking New Sales For Envato Author [`@astroon`](https://raycast.com/astroon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/envato) `api@^1.79.0` `utils@^1.16.3`
+- **[Envato Sales](https://raycast.com/astroon/envato)** - Tracking New Sales For Envato Author [`@astroon`](https://raycast.com/astroon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/envato) `api@^1.84.8` `utils@^1.18.0`
 - **[Evernote Instant Search](https://raycast.com/artpi/evernote)** - Search your Evernote notes instantly using the local database of the Mac official Evernote client. [`@artpi`](https://raycast.com/artpi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/evernote) `api@^1.84.2` `utils@^1.17.0`
 - **[Expand Video Canvas](https://raycast.com/lzybiasia/expand-video-canvas)** - Expand different size video to 1920*1080. It will center the original video and fill background with the edge color. [`@lzybiasia`](https://raycast.com/lzybiasia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/expand-video-canvas) `api@^1.83.1` `utils@^1.17.0`
 - **[FaceTime](https://raycast.com/ron-myers/facetime)** - Make FaceTime calls with Raycast [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/facetime) `api@^1.28.0`

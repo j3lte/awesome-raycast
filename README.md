@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/dd1b9880be8ca549_update-time.svg)
+![Last update](/icons/6d28433cdcf29b1e_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1782** packages in **15** categories, **17** packages use Swift
-- **1146** authors, **643** contributors (of which **476** are only contributors, not authors)
+- **1783** packages in **15** categories, **17** packages use Swift
+- **1147** authors, **643** contributors (of which **476** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (39)
@@ -780,6 +780,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ghost - Docs Search](https://raycast.com/ryan_feigenbaum/ghost-docs)** - Search Ghost help center, developer docs, tutorials, changelog, and publisher resources [`@ryan_feigenbaum`](https://raycast.com/ryan_feigenbaum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ghost-docs) `api@^1.62.1` `utils@^1.4.8`
 - **[Git Commands](https://raycast.com/manumorante/git-commands)** - Quickly use and learn Git commands and Oh My Zsh alias. [`@manumorante`](https://raycast.com/manumorante) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-commands) `api@^1.75.2` `utils@^1.15.0`
 - **[GitHub CLI Manual](https://raycast.com/demartini/github-cli-manual)** - Raycast extension to search GitHub CLI Manual. [`@demartini`](https://raycast.com/demartini) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-cli-manual) `api@^1.44.0`
+- **[Gleam Packages](https://raycast.com/ryanmiville/gleam-packages)** - search for Gleam packages [`@ryanmiville`](https://raycast.com/ryanmiville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gleam-packages) `api@^1.84.3` `utils@^1.17.0`
 - **[Guitar Chords](https://raycast.com/GastroGeek/guitar-chords)** - Lookup chord diagrams for guitar [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) `api@^1.39.0`
 - **[HTTP MIME Types](https://raycast.com/Envl/http-mime)** - Search MIME types for HTTP Content-Type [`@Envl`](https://raycast.com/Envl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/http-mime) `api@^1.59.0` `utils@^1.10.0`
 - **[Mandarin Chinese Dictionary](https://raycast.com/CofCat/mandarin-chinese-dictionary)** - Mandarin Chinese Dictionary [`@CofCat`](https://raycast.com/CofCat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mandarin-chinese-dictionary) `api@^1.77.0` `utils@^1.16.1`
@@ -1384,7 +1385,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Readwise](https://raycast.com/natterstefan/readwise)** - Search and browse your Readwise Library. [`@natterstefan`](https://raycast.com/natterstefan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/readwise) `api@^1.31.0`
 - **[Readwise Reader](https://raycast.com/zach/readwise-reader)** - Interact with Readwise Reader [`@zach`](https://raycast.com/zach) [`code`](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) `api@^1.44.0` `utils@^1.5.2`
 - **[Ready](https://raycast.com/cfeigenbutz/readymetrics)** - Lists upcoming and past check-ins in Ready [`@cfeigenbutz`](https://raycast.com/cfeigenbutz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/readymetrics) `api@^1.39.1`
-- **[Rebrandly](https://raycast.com/grikomsn/rebrandly)** - Browse Rebrandly shortlinks [`@grikomsn`](https://raycast.com/grikomsn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rebrandly) `api@^1.79.0` `utils@^1.17.0`
+- **[Rebrandly](https://raycast.com/grikomsn/rebrandly)** - Browse Rebrandly shortlinks and create new ones [`@grikomsn`](https://raycast.com/grikomsn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rebrandly) `api@^1.84.8` `utils@^1.18.0`
 - **[Reclaim](https://raycast.com/lightbody/reclaim-ai)** - AI scheduling for Google Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar [`@lightbody`](https://raycast.com/lightbody) [`code`](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) `api@^1.52.1` `utils@^1.8.0`
 - **[Rectangle](https://raycast.com/crickford/rectangle)** - Integration with Rectangle [`@crickford`](https://raycast.com/crickford) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rectangle) `api@^1.76.0`
 - **[Redmine](https://raycast.com/jwickers/redmine)** - Integrate with the Redmine issue system (https://www.redmine.org/) [`@jwickers`](https://raycast.com/jwickers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/redmine) `api@^1.32.1`

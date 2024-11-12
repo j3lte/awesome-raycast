@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/6d28433cdcf29b1e_update-time.svg)
+![Last update](/icons/d13454e3a74942c8_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1783** packages in **15** categories, **17** packages use Swift
+- **1784** packages in **15** categories, **17** packages use Swift
 - **1147** authors, **643** contributors (of which **476** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -822,6 +822,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 - **[Alpaca Trading](https://raycast.com/stelo/alpaca-trading)** - Interact with your Alpaca trading account [`@stelo`](https://raycast.com/stelo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) `api@^1.74.1` `utils@^1.15.0`
 - **[Apple Stocks Search](https://raycast.com/hayden_barnes/apple-stocks-search)** - Apple Stocks Extension for Raycast with Autosuggestions [`@hayden_barnes`](https://raycast.com/hayden_barnes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) `api@^1.84.2` `utils@^1.17.0`
+- **[Base Stats](https://raycast.com/Osprey/base-stats)** - View current gas price and stats for Base [`@Osprey`](https://raycast.com/Osprey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/base-stats) `api@^1.84.6` `utils@^1.17.0`
 - **[Beancount Meta](https://raycast.com/iwfan/beancount-meta)** - The more effecient Beancount Bookkeeping way [`@iwfan`](https://raycast.com/iwfan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) `api@^1.45.2` `utils@^1.4.8`
 - **[BONK Price](https://raycast.com/AnishDe12020/bonk-price)** - Shows the price of the BONK token on your macOS menu bar [`@AnishDe12020`](https://raycast.com/AnishDe12020) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bonk-price) `api@^1.45.2` `utils@^1.4.8`
 - **[CardPointers](https://raycast.com/emcro/cardpointers)** - Search for any credit card details or Amex/Chase offer from the CardPointers database. [`@emcro`](https://raycast.com/emcro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cardpointers) `api@^1.51.3` `utils@^1.6.1`

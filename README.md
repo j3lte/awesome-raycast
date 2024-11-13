@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/d13454e3a74942c8_update-time.svg)
+![Last update](/icons/ec2a297bd484c9fa_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1784** packages in **15** categories, **17** packages use Swift
-- **1147** authors, **643** contributors (of which **476** are only contributors, not authors)
+- **1786** packages in **15** categories, **17** packages use Swift
+- **1147** authors, **645** contributors (of which **478** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (39)
@@ -49,10 +49,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (14)
   - [peduarte](https://raycast.com/peduarte) (13)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (175)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (176)
   - [xmok](https://raycast.com/xmok) (69)
   - [j3lte](https://raycast.com/j3lte) (39)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (35)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (36)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (23)
   - [erics118](https://raycast.com/erics118) (14)
@@ -901,6 +901,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Fluent Outdoors](https://raycast.com/juhamust/fluent-outdoors)** - Show maintenance status for outdoors activity tracks like skiing or skating. Backend system Fluent. [`@juhamust`](https://raycast.com/juhamust) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fluent-outdoors) `api@^1.46.0`
 - **[Formula 1](https://raycast.com/csigritz/f1-standings)** - List the current standings in Formula 1 [`@csigritz`](https://raycast.com/csigritz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/f1-standings) `api@^1.48.8`
 - **[FrankerFaceZ Emotes](https://raycast.com/davidchalifoux/frankerfacez)** - Search for your favorite FrankerFaceZ emotes. [`@davidchalifoux`](https://raycast.com/davidchalifoux) [`code`](https://github.com/raycast/extensions/tree/main/extensions/frankerfacez) `api@^1.33.2`
+- **[GitHub Spark](https://raycast.com/cole/github-spark)** - Turn your ideas into personalized apps with GitHub Spark [`@cole`](https://raycast.com/cole) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-spark) `api@^1.84.12` `utils@^1.17.0`
 - **[Google Maps Explorer](https://raycast.com/lichinlin/findnearby)** - Explore new places near you [`@lichinlin`](https://raycast.com/lichinlin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/findnearby) `api@^1.58.1` `utils@^1.9.1`
 - **[Govee](https://raycast.com/j3lte/govee)** - Control your Govee Lights [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/govee) `api@^1.79.1` `utils@^1.16.3`
 - **[Hearthstone Decks](https://raycast.com/sergigp/hsdecks)** - search the best Hearthstone decks from d0nkey.top [`@sergigp`](https://raycast.com/sergigp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hsdecks) `api@^1.69.0` `utils@^1.13.5`
@@ -916,7 +917,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Is It Toxic To?](https://raycast.com/chesterhow/is-it-toxic-to)** - Check if a plant is toxic to an animal [`@chesterhow`](https://raycast.com/chesterhow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/is-it-toxic-to) `api@^1.40.3` `utils@^1.4.9`
 - **[itch.io](https://raycast.com/Aayush9029/itch-io)** - Raycast Extension for itch.io, browse through milions of games made by indie developers! [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/itch-io) `api@^1.79.0` `utils@^1.16.2`
 - **[Jokes](https://raycast.com/xmok/jokes)** - Get up to 10 jokes at a time from a variety of categories. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jokes) `api@^1.70.3`
-- **[LaLiga](https://raycast.com/anhthang/laliga)** - A comprehensive extension for tracking La Liga matches, standings, and club information. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laliga) `api@^1.83.1` `utils@^1.17.0`
+- **[LaLiga](https://raycast.com/anhthang/laliga)** - A comprehensive extension for tracking La Liga matches, standings, and club information. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laliga) `api@^1.85.1` `utils@^1.18.0`
 - **[Lega Serie A](https://raycast.com/anhthang/serie-a)** - The top league in Italy, the twenty best teams, standings, results, statistics. [`@anhthang`](https://raycast.com/anhthang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lega-serie-a) `api@^1.47.3`
 - **[LEGO Bricks](https://raycast.com/mSarheed/lego-bricks)** - Look up LEGO sets, colors, bricks etc. [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lego-bricks) `api@^1.79.1` `utils@^1.17.0`
 - **[LetMeGoogleThat](https://raycast.com/Ek217/let-me-google-that)** - LetMeGoogleThat is a Raycast extension that generates links to the popular 'Let Me Google That For You' website. With just a few clicks, you can create a custom link that takes your friends or colleagues directly to a Google search page for the term you specify. Perfect for those times when someone asks you a question that they could easily look up themselves! Simply enter the search term, generate the link, and share it with others. LetMeGoogleThat saves you time and makes it easy to share information with others. [`@Ek217`](https://raycast.com/Ek217) [`code`](https://github.com/raycast/extensions/tree/main/extensions/let-me-google-that) `api@^1.54.1`
@@ -1436,6 +1437,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Superwhisper - Offline Voice to Text](https://raycast.com/nchudleigh/superwhisper)** - Start a recording, change Modes and open settings. Requires installing superwhisper. [`@nchudleigh`](https://raycast.com/nchudleigh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) `api@^1.64.4` `utils@^1.16.1`
 - **[Surl](https://raycast.com/fujiyamaorange/surl)** - Make your URLs shorter [`@fujiyamaorange`](https://raycast.com/fujiyamaorange) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surl) `api@^1.64.4`
 - **[SVG64 - Convert SVGs to Base64 Strings](https://raycast.com/EvanZhouDev/raycast-svg64)** - Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) `api@^1.57.1` `utils@^1.9.1`
+- **[Sync Folders](https://raycast.com/Undolog/sync-folders)** - Sync two folders [`@Undolog`](https://raycast.com/Undolog) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sync-folders) `api@^1.84.10` `utils@^1.17.0`
 - **[System Monitor](https://raycast.com/hossammourad/raycast-system-monitor)** - Show information and usage related to CPU , Memory , Power and Network [`@hossammourad`](https://raycast.com/hossammourad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) `api@^1.70.3` `utils@^1.13.6`
 - **[Tapo Smart Devices](https://raycast.com/timrogers/raycast-tapo-smart-devices)** - Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices) `api@^1.38.3`
 - **[TaskLink](https://raycast.com/jrodalo/tasklink)** - Converts issue tracker Ids into clickable links [`@jrodalo`](https://raycast.com/jrodalo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tasklink) `api@^1.67.1`
@@ -1555,7 +1557,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[HotCorner](https://raycast.com/mmmarcus/hotcorner)** - macOS Hot Corners quick settings [`@mmmarcus`](https://raycast.com/mmmarcus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hotcorner) `api@^1.64.5`
 - **[Keyboard Brightness](https://raycast.com/huzef44/keyboard-brightness)** - Easily Control Keyboard Brightness on your Apple Silicon MacBook [`@huzef44`](https://raycast.com/huzef44) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keyboard-brightness) `api@^1.60.1` `utils@^1.10.1`
 - **[Keyboard Win Mac Switch](https://raycast.com/fab_uleuh/keyboard-win-mac-switch)** - This extension allow you to switch alt and window keys [`@fab_uleuh`](https://raycast.com/fab_uleuh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keyboard-win-mac-switch) `api@^1.70.3`
-- **[LookSee - A MAC, OUI, IAB Lookup](https://raycast.com/olavgjerde/looksee)** - Use www.macvendorlookup.com from Raycast [`@olavgjerde`](https://raycast.com/olavgjerde) [`code`](https://github.com/raycast/extensions/tree/main/extensions/looksee) `api@^1.59.0` `utils@^1.10.0`
+- **[LookSee - A MAC, OUI, IAB Lookup](https://raycast.com/olavgjerde/looksee)** - Use www.macvendorlookup.com from Raycast [`@olavgjerde`](https://raycast.com/olavgjerde) [`code`](https://github.com/raycast/extensions/tree/main/extensions/looksee) `api@^1.85.1` `utils@^1.18.0`
 - **[Manage Macbook's Notch](https://raycast.com/zkondor/znotch)** - Visibility control of your macbook's notch [`@zkondor`](https://raycast.com/zkondor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/znotch) `api@^1.45.2`
 - **[Media Key Emulate](https://raycast.com/douo/global-media-key)** - Emulate keyboard media keys press. Reassign hotkey for media keys. [`@douo`](https://raycast.com/douo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/global-media-key) `api@^1.55.2` `swift`
 - **[Metal Performance HUD](https://raycast.com/say4n/performance-hud)** - Toggle macOS's built-in Metal performance HUD [`@say4n`](https://raycast.com/say4n) [`code`](https://github.com/raycast/extensions/tree/main/extensions/performance-hud) `api@^1.52.1`

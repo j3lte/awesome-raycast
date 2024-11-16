@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/970ed275c5fb9510_update-time.svg)
+![Last update](/icons/f22a130b60b5a5cb_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,18 +38,18 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1792** packages in **15** categories, **18** packages use Swift
-- **1150** authors, **646** contributors (of which **479** are only contributors, not authors)
+- **1795** packages in **15** categories, **18** packages use Swift
+- **1151** authors, **649** contributors (of which **481** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (41)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (15)
+  - [peduarte](https://raycast.com/peduarte) (14)
   - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
-  - [peduarte](https://raycast.com/peduarte) (13)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (177)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (178)
   - [xmok](https://raycast.com/xmok) (71)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (36)
@@ -255,6 +255,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Speed Dial](https://raycast.com/osama_aamer/speed-dial)** - Stop asking for meeting URLs and add them to Speed Dial to open with one click [`@osama_aamer`](https://raycast.com/osama_aamer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/speed-dial) `api@^1.50.3` `utils@^1.7.1`
 - **[TFL](https://raycast.com/haneenmahdin/tfl)** - Viewing public transport departures in London [`@haneenmahdin`](https://raycast.com/haneenmahdin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tfl) `api@^1.49.3`
 - **[Toggle Audio Input (Microphone)](https://raycast.com/Quentin23Soleil/mute-microphone)** - Extension to mute/unmute audio input (Microphone) [`@Quentin23Soleil`](https://raycast.com/Quentin23Soleil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mute-microphone) `api@^1.53.2` `utils@^1.8.0`
+- **[Tscheck.In](https://raycast.com/dnnsmnstrr/tscheck-in)** - Check-in questions for your team session [`@dnnsmnstrr`](https://raycast.com/dnnsmnstrr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tscheck-in) `api@^1.85.1` `utils@^1.17.0`
 - **[UTM Campaign Builder](https://raycast.com/vimtor/utm-campaign-builder)** - Create a campaign URL with UTM attributes [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) `api@^1.79.0` `utils@^1.17.0`
 - **[Video Call Reactions](https://raycast.com/yazanzaid00/video-call-reactions)** - This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. [`@yazanzaid00`](https://raycast.com/yazanzaid00) [`code`](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) `api@^1.75.2` `utils@^1.15.0`
 - **[WeChat](https://raycast.com/raffeyang/wechat)** - A Raycast extension for WeChat to quickly search your contacts and chat [`@raffeyang`](https://raycast.com/raffeyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wechat) `api@^1.39.3` `utils@^1.4.1`
@@ -898,6 +899,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Dungeons & Dragons](https://raycast.com/Rob/dungeons-dragons)** - All things DND 5e [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dungeons-and-dragons) `api@^1.64.2`
 - **[Ekstraklasa](https://raycast.com/szarbartosz/ekstraklasa)** - Stay up to date with the polish football league [`@szarbartosz`](https://raycast.com/szarbartosz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ekstraklasa) `api@^1.67.1` `utils@^1.12.4`
 - **[Evil Insult](https://raycast.com/j3lte/evil-insult)** - Generate Evil Insults [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/evil-insult) `api@^1.76.1` `utils@^1.16.0`
+- **[Fancy Text](https://raycast.com/peduarte/fancy-text)** - A fancy text generator to turn your normal text into fancy text [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fancy-text) `api@^1.85.0` `utils@^1.17.0`
 - **[Fantasy Premier League](https://raycast.com/hwb/fantasy-premier-league-rankings)** - See where you rank amongst in your league rivals in Fantasy Premier League within Raycast. [`@hwb`](https://raycast.com/hwb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fantasy-premier-league-rankings) `api@^1.68.0`
 - **[FIGlet](https://raycast.com/pernielsentikaer/figlet)** - Generate a FIGlet [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/figlet) `api@^1.69.0`
 - **[Fluent Outdoors](https://raycast.com/juhamust/fluent-outdoors)** - Show maintenance status for outdoors activity tracks like skiing or skating. Backend system Fluent. [`@juhamust`](https://raycast.com/juhamust) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fluent-outdoors) `api@^1.46.0`
@@ -1174,7 +1176,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Arabic Keyboard](https://raycast.com/mSarheed/arabic-keyboard)** - Arabic Keyboard for Raycast [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arabic-keyboard) `api@^1.79.1`
 - **[ArXiv Search](https://raycast.com/koayon/arxiv)** - Search the arXiv for papers and find citations. For Researchers, Students and Scholars in Computer Science, Mathematics, Physics, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics. [`@koayon`](https://raycast.com/koayon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arxiv) `api@^1.52.1` `utils@^1.4.8`
 - **[Asana](https://raycast.com/thomaslombart/asana)** - Create, access, and modify tasks. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asana) `api@^1.53.4` `utils@^1.12.3`
-- **[Ask Dust](https://raycast.com/albandum/dust-tt)** - Query dust.tt AI agents [`@albandum`](https://raycast.com/albandum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) `api@^1.70.3` `utils@^1.10.1`
+- **[Ask Dust](https://raycast.com/albandum/dust-tt)** - Query dust.tt AI agents [`@albandum`](https://raycast.com/albandum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) `api@^1.70.3` `utils@^1.18.0`
 - **[Audio Writer](https://raycast.com/pradeepb28/audio-writer)** - Transcribe it, refine it and structure it for you ✨ [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) `api@^1.68.0`
 - **[Bamboo Search (Self Hosted)](https://raycast.com/axp-dev/bamboo-self-hosted)** - The extension allow you to quickly access projects, deploys and plans in Bamboo [`@axp-dev`](https://raycast.com/axp-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bamboo-search-self-hosted) `api@^1.26.1`
 - **[Battery Health](https://raycast.com/o1y/battery-health)** - Shows live information about the battery in your Mac! [`@o1y`](https://raycast.com/o1y) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-health) `api@^1.36.1`
@@ -1317,6 +1319,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Markdown to Plain Text](https://raycast.com/skyline-123/markdown-to-plain-text)** - Convert Markdown-formatted text to plain text format for quick viewing and editing. [`@skyline-123`](https://raycast.com/skyline-123) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-plain-text) `api@^1.49.3`
 - **[Markdown to Rich Text](https://raycast.com/ning_cao_cabeza/markdown-to-rich-text)** - Converts Markdown text from the clipboard to Rich text and pastes it. [`@ning_cao_cabeza`](https://raycast.com/ning_cao_cabeza) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-rich-text) `api@^1.77.3`
 - **[MBTA Tracker](https://raycast.com/djpowers/mbta-tracker)** - View departure times for saved stops along MBTA routes [`@djpowers`](https://raycast.com/djpowers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mbta-tracker) `api@^1.49.3` `utils@^1.4.8`
+- **[Media Converter](https://raycast.com/leandro.maia/media-converter)** - This extension converts video, image, and audio files using ffmpeg [`@leandro.maia`](https://raycast.com/leandro.maia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/media-converter) `api@^1.84.3` `utils@^1.17.0`
 - **[Mem](https://raycast.com/brianfakhoury/mem)** - Access Mem functionality through Raycast using the Mem API. The Mem API is still growing and is currently very limited. [`@brianfakhoury`](https://raycast.com/brianfakhoury) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mem) `api@^1.45.2` `utils@^1.4.14`
 - **[Memo](https://raycast.com/mt40/memo)** - All your bookmarks and notes in 1 Notion [`@mt40`](https://raycast.com/mt40) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memo) `api@^1.39.3`
 - **[Memorable Password Generator](https://raycast.com/gandli/memorable-generate-password)** - Generate a set of passwords that are easy to remember and use· [`@gandli`](https://raycast.com/gandli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memorable-generate-password) `api@^1.51.1`
@@ -1805,7 +1808,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Hexlify](https://raycast.com/gkpln3/hexlify)** - Convert between hex and binary representations [`@gkpln3`](https://raycast.com/gkpln3) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hexlify) `api@^1.26.3`
 - **[Hoarder](https://raycast.com/kdurek/hoarder)** - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search [`@kdurek`](https://raycast.com/kdurek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hoarder) `api@^1.81.2` `utils@^1.16.3`
 - **[Huggingcast](https://raycast.com/ragnor/huggingcast)** - Use Huggingface models for summarization, translation, ... [`@ragnor`](https://raycast.com/ragnor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) `api@^1.25.1`
-- **[Humanize AI Text](https://raycast.com/frolik/ai-humanizer)** - Humanize AI Text [`@frolik`](https://raycast.com/frolik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) `api@^1.66.1`
+- **[Humanize AI Text](https://raycast.com/frolik/ai-humanizer)** - Humanize AI Text [`@frolik`](https://raycast.com/frolik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) `api@^1.85.1`
 - **[IMDb Search](https://raycast.com/ryan/imdb)** - Easily open your favorite film or TV series on IMDb. [`@ryan`](https://raycast.com/ryan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imdb) `api@^1.51.3` `utils@^1.6.1`
 - **[InertiaJS Documentation](https://raycast.com/danyelkeddah/inertiajs-documentation)** - InertiaJS Documentation Search [`@danyelkeddah`](https://raycast.com/danyelkeddah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/inertiajs-documentation) `api@^1.27.0`
 - **[Invoice Generator](https://raycast.com/alexs/invoice-generator)** - Create invoices using the Invoice Generator API. [`@alexs`](https://raycast.com/alexs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/invoice-generator) `api@^1.75.2` `utils@^1.15.0`

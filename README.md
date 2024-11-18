@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/f22a130b60b5a5cb_update-time.svg)
+![Last update](/icons/a3b66fef5d8d2df9_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1795** packages in **15** categories, **18** packages use Swift
-- **1151** authors, **649** contributors (of which **481** are only contributors, not authors)
+- **1797** packages in **15** categories, **18** packages use Swift
+- **1153** authors, **649** contributors (of which **481** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (41)
@@ -804,6 +804,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Searching Vue.js Documentation](https://raycast.com/DavidPascaud/vuejs-documentation)** - Search VueJS documentation (v3) [`@DavidPascaud`](https://raycast.com/DavidPascaud) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vuejs-documentation) `api@^1.30.1`
 - **[Serverless Framework Docs](https://raycast.com/yemilgr/serverless-framework-docs)** - Quickly search through serverless framework documentation and open it in the browser [`@yemilgr`](https://raycast.com/yemilgr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/serverless-framework-docs) `api@^1.39.3`
 - **[shadcn/ui](https://raycast.com/luisFilipePT/shadcn-ui)** - Browse shadcn/ui documentation, components and examples [`@luisFilipePT`](https://raycast.com/luisFilipePT) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) `api@^1.52.1` `utils@^1.4.8`
+- **[Simple Memo](https://raycast.com/hyokwonkim/simple-memo)** - A lightweight local memo extension for Raycast. [`@hyokwonkim`](https://raycast.com/hyokwonkim) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-memo) `api@^1.84.3` `utils@^1.17.0`
 - **[SiteSpeakAI](https://raycast.com/hermanschutte/sitespeakai)** - Train a chatbot on any website or documentation, then get answers in your command bar. [`@hermanschutte`](https://raycast.com/hermanschutte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sitespeakai) `api@^1.60.1` `utils@^1.10.0`
 - **[Spryker Docs](https://raycast.com/DinisEsteves/spryker-docs)** - Search Spryker Documentation directly from Raycast [`@DinisEsteves`](https://raycast.com/DinisEsteves) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spryker-docs) `api@^1.49.3`
 - **[Statamic Documentation Search](https://raycast.com/andrebreia/statamic-docs)** - This extension allows you to search through the Statamic docs directly from Raycast. [`@andrebreia`](https://raycast.com/andrebreia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/statamic-docs) `api@^1.39.0`
@@ -839,6 +840,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Fake Financial Data](https://raycast.com/andre-rd-rodrigues/fake-financial-data)** - Generate fake financial data [`@andre-rd-rodrigues`](https://raycast.com/andre-rd-rodrigues) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fake-financial-data) `api@^1.51.1`
 - **[Finary](https://raycast.com/jetaix/finary)** - Fastest way to explore your Finary Portfolio & Investments. [`@jetaix`](https://raycast.com/jetaix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/finary) `api@^1.45.1`
 - **[Fluctuation](https://raycast.com/zoffyzhang/fluctuation)** - Calculation for fluctuation [`@zoffyzhang`](https://raycast.com/zoffyzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fluctuation) `api@^1.56.0` `utils@^1.10.0`
+- **[Gumroad Sales](https://raycast.com/eddiesigner/gumroad)** - View your sales and products from Gumroad [`@eddiesigner`](https://raycast.com/eddiesigner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gumroad) `api@^1.84.3` `utils@^1.17.0`
 - **[InFakt](https://raycast.com/teziovsky/infakt)** - Search, create and manage invoices, clients and products in inFakt directly from Raycast. [`@teziovsky`](https://raycast.com/teziovsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/infakt) `api@^1.63.0` `utils@^1.10.1`
 - **[Lunch Money Transactions](https://raycast.com/oppenheimer/lunchmoney)** - View and update your Lunch Money transactions [`@oppenheimer`](https://raycast.com/oppenheimer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lunchmoney) `api@^1.84.9` `utils@^1.17.0`
 - **[Mempool](https://raycast.com/dillionverma/mempool)** - Get current bitcoin mempool information [`@dillionverma`](https://raycast.com/dillionverma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mempool) `api@^1.33.2`
@@ -1164,7 +1166,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 **[`^        back to top        ^`](#awesome-raycast)**
 
 - **[Addy](https://raycast.com/http.james/anonaddy)** - Generate and manage your Addy aliases from your keyboard. [`@http.james`](https://raycast.com/http.james) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anonaddy) `api@^1.63.0`
-- **[Aerospace Tiling Window Manager](https://raycast.com/limonkufu/aerospace)** - Aerospace Tiling Window Manager Extension for Raycast to see and configure your shortcuts [`@limonkufu`](https://raycast.com/limonkufu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aerospace) `api@^1.69.2` `utils@^1.15.0`
+- **[Aerospace Tiling Window Manager](https://raycast.com/limonkufu/aerospace)** - Aerospace Tiling Window Manager Extension for Raycast [`@limonkufu`](https://raycast.com/limonkufu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aerospace) `api@^1.69.2` `utils@^1.15.0`
 - **[Airplane](https://raycast.com/pradeepb28/airplane)** - Just like on iPhone, turn off the wireless features on your macOS anytime. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airplane) `api@^1.35.2`
 - **[Airtable](https://raycast.com/marks/raycast-airtable-extension)** - List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. [`@marks`](https://raycast.com/marks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airtable) `api@^1.84.7` `utils@^1.18.0`
 - **[Alice AI - Your ChatGPT Actions Companion](https://raycast.com/quiknull/alice-ai)** - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes. [`@quiknull`](https://raycast.com/quiknull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) `api@^1.69.0` `utils@^1.14.0`
@@ -1440,7 +1442,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Splix](https://raycast.com/splix.app/splix)** - Raycast interface for Splix (https://splix.app) to supercharge your productivity. [`@splix.app`](https://raycast.com/splix.app) [`code`](https://github.com/raycast/extensions/tree/main/extensions/splix) `api@^1.65.0` `utils@^1.10.1`
 - **[Static Marks - Bookmark Search](https://raycast.com/aerobless/static-marks)** - Search and launch websites from your Static Marks bookmark YAML file. [`@aerobless`](https://raycast.com/aerobless) [`code`](https://github.com/raycast/extensions/tree/main/extensions/static-marks-bookmarks) `api@^1.43.2` `utils@^1.4.11`
 - **[Summarize YouTube Videos with AI](https://raycast.com/iKasch/summarize-youtube-video-with-ai)** - Summarize any YouTube Video with AI. Choose between Raycast AI or ChatGPT. You have to either be a Raycast Pro Member or have an OpenAI API Key. [`@iKasch`](https://raycast.com/iKasch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) `api@^1.72.1` `utils@^1.15.0`
-- **[SupaHabits](https://raycast.com/gbarba/habits)** - Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries [`@gbarba`](https://raycast.com/gbarba) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supahabits) `api@^1.74.1` `utils@^1.15.0`
+- **[SupaHabits](https://raycast.com/gbarba/habits)** - Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries [`@gbarba`](https://raycast.com/gbarba) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supahabits) `api@^1.85.2` `utils@^1.18.0`
 - **[Superwhisper - Offline Voice to Text](https://raycast.com/nchudleigh/superwhisper)** - Start a recording, change Modes and open settings. Requires installing superwhisper. [`@nchudleigh`](https://raycast.com/nchudleigh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) `api@^1.64.4` `utils@^1.16.1`
 - **[Surl](https://raycast.com/fujiyamaorange/surl)** - Make your URLs shorter [`@fujiyamaorange`](https://raycast.com/fujiyamaorange) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surl) `api@^1.64.4`
 - **[SVG64 - Convert SVGs to Base64 Strings](https://raycast.com/EvanZhouDev/raycast-svg64)** - Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) `api@^1.57.1` `utils@^1.9.1`

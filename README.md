@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a3b66fef5d8d2df9_update-time.svg)
+![Last update](/icons/be268aa3af4001bd_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1797** packages in **15** categories, **18** packages use Swift
-- **1153** authors, **649** contributors (of which **481** are only contributors, not authors)
+- **1799** packages in **15** categories, **18** packages use Swift
+- **1154** authors, **650** contributors (of which **482** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (41)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (178)
-  - [xmok](https://raycast.com/xmok) (71)
+  - [xmok](https://raycast.com/xmok) (72)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (36)
   - [xilopaint](https://raycast.com/xilopaint) (28)
@@ -196,6 +196,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Terminal](https://raycast.com/ron-myers/terminal)** - Control Terminal with Raycast [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/terminal) `api@^1.43.2`
 - **[Text Differ](https://raycast.com/ErikFisher/text-differ)** - Opens Text Differ from selected files [`@ErikFisher`](https://raycast.com/ErikFisher) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-differ) `api@^1.63.0`
 - **[Text Replacements](https://raycast.com/thomaslombart/text-replacements)** - Import macOS's text replacements to Raycast snippets. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-replacements) `api@^1.72.1` `utils@^1.14.0`
+- **[Threads Video Downloader](https://raycast.com/ridemountainpig/threads-video-downloader)** - Download videos from Threads with ease [`@ridemountainpig`](https://raycast.com/ridemountainpig) [`code`](https://github.com/raycast/extensions/tree/main/extensions/threads-video-downloader) `api@^1.84.3` `utils@^1.17.0`
 - **[Tim](https://raycast.com/tm.wrnr/tim)** - Manage your timers for Tim from Raycast [`@tm.wrnr`](https://raycast.com/tm.wrnr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tim) `api@^1.84.3` `utils@^1.18.0`
 - **[Todo List](https://raycast.com/maggie/todo-list)** - Manage your todo list quickly by adding items and marking items as completed. [`@maggie`](https://raycast.com/maggie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/todo-list) `api@^1.52.1` `utils@^1.1.0`
 - **[Transmission](https://raycast.com/FezVrasta/transmission)** - View and manage torrents directly from Raycast. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/transmission) `api@^1.71.3` `utils@^1.14.0`
@@ -628,7 +629,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Outline Page](https://raycast.com/praveenjuge/outline-page)** - Check for CSS bugs by outlining all the elements in your web page. [`@praveenjuge`](https://raycast.com/praveenjuge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/outline-page) `api@^1.72.1` `utils@^1.14.1`
 - **[PagerDuty](https://raycast.com/horimislime/pagerduty)** - Display PagerDuty incidents and helps updating status. [`@horimislime`](https://raycast.com/horimislime) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) `api@^1.39.2`
 - **[Pagespeed](https://raycast.com/vorillaz/pagespeed)** - A simple extension that reports page speed insights based on page-speed.dev [`@vorillaz`](https://raycast.com/vorillaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pagespeed) `api@^1.78.1` `utils@1.16.2`
-- **[Paperspace](https://raycast.com/yuri/paperspace)** - Control your Paperspace machines [`@yuri`](https://raycast.com/yuri) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paperspace) `api@^1.39.3` `utils@^1.4.8`
+- **[Paperspace](https://raycast.com/yuri/paperspace)** - Control your Paperspace machines [`@yuri`](https://raycast.com/yuri) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paperspace) `api@^1.79.0` `utils@^1.18.0`
 - **[Passphrase Generator](https://raycast.com/omBratteng/passphrase-generator)** - Generates a set of random passwords using different generators. [`@omBratteng`](https://raycast.com/omBratteng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) `api@^1.37.0`
 - **[Paste as Plain Text](https://raycast.com/koinzhang/paste-as-plain-text)** - Paste text from the clipboard as any format. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) `api@^1.77.1`
 - **[Pastefy](https://raycast.com/julian_gojani/pastefy)** - Use Pastefy in Raycast to create and list pastes [`@julian_gojani`](https://raycast.com/julian_gojani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pastefy) `api@^1.82.5` `utils@^1.16.3`
@@ -1591,6 +1592,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Uptime](https://raycast.com/iaroslav_naiden/uptime)** - Show how long ago your mac was turned on [`@iaroslav_naiden`](https://raycast.com/iaroslav_naiden) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uptime) `api@^1.56.0` `utils@^1.9.0`
 - **[Uptime Kuma](https://raycast.com/MarlburroW/uptime-kuma)** - View all your Uptime Kuma monitors and their status [`@MarlburroW`](https://raycast.com/MarlburroW) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uptime-kuma) `api@^1.79.0` `utils@^1.18.0`
 - **[Wi-Fi](https://raycast.com/koinzhang/wi-fi)** - Check and toggle Wi-Fi via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wi-fi) `api@^1.79.1` `utils@^1.16.2`
+- **[Window Layouts](https://raycast.com/teemu_suvinen/window-layouts)** - Tile open windows into layouts [`@teemu_suvinen`](https://raycast.com/teemu_suvinen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/window-layouts) `api@^1.85.1` `utils@^1.17.0`
 - **[WOL](https://raycast.com/Lemon/wol)** - Simple wake on lan [`@Lemon`](https://raycast.com/Lemon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wol) `api@^1.83.2` `utils@^1.17.0`
 
 

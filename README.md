@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/e3caeae3e8a56e84_update-time.svg)
+![Last update](/icons/a4927f0faa8143d0_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1802** packages in **15** categories, **18** packages use Swift
-- **1156** authors, **651** contributors (of which **482** are only contributors, not authors)
+- **1807** packages in **15** categories, **18** packages use Swift
+- **1160** authors, **652** contributors (of which **483** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (41)
@@ -374,6 +374,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
+- **[8 Divide](https://raycast.com/pkliem/8-divide)** - Check if the number you highlighted is divisable by 8. If it isn't, paste the up- or down rounded number [`@pkliem`](https://raycast.com/pkliem) [`code`](https://github.com/raycast/extensions/tree/main/extensions/8-divide) `api@^1.79.1`
 - **[AI Screenshot](https://raycast.com/jochemloedeman/ai-screenshot)** - Modify screen captures using the latest generative AI models. [`@jochemloedeman`](https://raycast.com/jochemloedeman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) `api@^1.65.1` `utils@^1.12.5`
 - **[App Icon Generator](https://raycast.com/HunterJi/app-icon-generator)** - Generate icons for multiple platforms: iOS, Android, macOS, and more. [`@HunterJi`](https://raycast.com/HunterJi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/app-icon-generator) `api@^1.79.1`
 - **[Apple Devices](https://raycast.com/madza/apple-devices)** - Quickly look up Apple Devices and control Simulators [`@madza`](https://raycast.com/madza) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-devices) `api@^1.52.1` `utils@^1.7.0`
@@ -402,6 +403,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MynaUI Icons](https://raycast.com/praveenjuge/mynaui-icons)** - Search and Copy MynaUI Icons. [`@praveenjuge`](https://raycast.com/praveenjuge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mynaui-icons) `api@^1.83.2`
 - **[Noun Project](https://raycast.com/Rob/noun-project)** - Search for and download SVG and PNG icons from the Noun Project [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/noun-project) `api@^1.83.0` `utils@^1.17.0`
 - **[Paper](https://raycast.com/luctst/paper)** - Create and organize your ideas, work, etc., in Markdown files by category. [`@luctst`](https://raycast.com/luctst) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paper) `api@^1.68.1` `utils@^1.13.3`
+- **[Paper Search](https://raycast.com/mihaeltomic/papersize)** - Search international paper sizes in metric and imperial units [`@mihaeltomic`](https://raycast.com/mihaeltomic) [`code`](https://github.com/raycast/extensions/tree/main/extensions/papersize) `api@^1.84.7` `utils@^1.17.0`
 - **[Pexels](https://raycast.com/koinzhang/pexels)** - Search photos, videos or collections on Pexels. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pexels) `api@^1.79.1` `utils@^1.16.3`
 - **[Phosphor Icons](https://raycast.com/marinsokol/phosphor-icons)** - Search, preview and copy Phosphor Icons [`@marinsokol`](https://raycast.com/marinsokol) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) `api@^1.66.2` `utils@^1.12.4`
 - **[Pika](https://raycast.com/rishi/pika)** - Beautify screenshots quickly using pika.style [`@rishi`](https://raycast.com/rishi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pika) `api@^1.37.1`
@@ -565,6 +567,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[HTTP.cat Status Codes](https://raycast.com/lucasmezencio/http-dot-cat)** - Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats [`@lucasmezencio`](https://raycast.com/lucasmezencio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/http.cat) `api@^1.59.0` `utils@^1.10.0`
 - **[Hugging Face](https://raycast.com/crisboarna/hugging-face)** - Search and explore the Hugging Face platform [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hugging-face) `api@^1.72.1` `utils@^1.15.0`
 - **[Hypersonic](https://raycast.com/reboot.studio/hypersonic)** - Fastest Notion to-do app ever [`@reboot.studio`](https://raycast.com/reboot.studio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) `api@1.48.5` `utils@1.5.2`
+- **[Image Base64 Converter](https://raycast.com/vitorlostada/image-base64)** - Convert between base64 strings and images easily [`@vitorlostada`](https://raycast.com/vitorlostada) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-base64) `api@^1.85.2` `utils@^1.17.0`
 - **[Incident.io](https://raycast.com/nkl/incident-io)** - Gets the incidents from Incident.io [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/incident-io) `api@^1.75.2`
 - **[iOS Human Interface Guidelines](https://raycast.com/eliperkins/raycast-ios-hig)** - Shows you the iOS HIG's info for quick reference [`@eliperkins`](https://raycast.com/eliperkins) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) `api@^1.40.3`
 - **[IP Geolocation](https://raycast.com/koinzhang/ip-geolocation)** - Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) `api@^1.80.0` `utils@^1.16.3`
@@ -589,6 +592,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Man Pages](https://raycast.com/HelloImSteven/man-pages)** - Search through the macOS man pages [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/man-pages) `api@^1.46.0`
 - **[Manage Services](https://raycast.com/erics118/brew-services)** - Manage homebrew services [`@erics118`](https://raycast.com/erics118) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brew-services) `api@^1.83.1` `utils@^1.17.0`
 - **[Manotori](https://raycast.com/xmok/manotori)** - Manage Domains in Manotori [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/manotori) `api@^1.83.2` `utils@^1.17.0`
+- **[Markdown Codeblock](https://raycast.com/lachero/markdown-codeblock)** - Wraps your code in a markdown codeblock [`@lachero`](https://raycast.com/lachero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-codeblock) `api@^1.85.1` `utils@^1.17.0`
 - **[Markdown Image to HTML](https://raycast.com/qeude/markdown-image-to-html)** - Transform a Markdown Image to HTML. This allows us to fix image size in Markdown base files. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-image-to-html) `api@^1.55.1`
 - **[Markdown Table Generator](https://raycast.com/Visual-Studio-Coder/markdown-table-generator)** - Specify your width and height, and receive a markdown table that you can input your own values into. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator) `api@^1.57.2`
 - **[Markdown This](https://raycast.com/aravindballa/markdown-this)** - Convert Markdown text in clipboard to HTML [`@aravindballa`](https://raycast.com/aravindballa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-this) `api@^1.35.2`
@@ -1911,6 +1915,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Recents](https://raycast.com/GastroGeek/recents)** - Show Recently used files and folders in Raycast [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/recents) `api@^1.40.3`
 - **[Reddit Search](https://raycast.com/ewlcheng/reddit-search)** - Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. [`@ewlcheng`](https://raycast.com/ewlcheng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) `api@^1.30.0`
 - **[Remove Background](https://raycast.com/maantje/remove-background)** - Removes the background from an image with remove.bg [`@maantje`](https://raycast.com/maantje) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-background) `api@^1.30.3`
+- **[Remove Window from Set](https://raycast.com/silv/remove-window-from-set)** - Try to click menu item "Remove Window from Set" from menu bar item "Window" with AppleScript. This menu item might be available when Stage Manager is enabled and the active Set has more than one Window. [`@silv`](https://raycast.com/silv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-window-from-set) `api@^1.85.2` `utils@^1.17.0`
 - **[Rewardful](https://raycast.com/alexs/rewardful)** - Unofficial Rewardful extension [`@alexs`](https://raycast.com/alexs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rewardful) `api@^1.72.1` `utils@^1.14.1`
 - **[RICE Score](https://raycast.com/tonka3000/ricescore)** - Calculate RICE Score and output value or markdown table [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ricescore) `api@^1.33.0`
 - **[Roblox](https://raycast.com/TaylorRobinson/roblox-games)** - Searches for & launches Roblox places [`@TaylorRobinson`](https://raycast.com/TaylorRobinson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/roblox-games) `api@^1.27.1`

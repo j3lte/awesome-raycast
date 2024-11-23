@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/4ab8dd1a97ecc17a_update-time.svg)
+![Last update](/icons/4de4ef3fa2f9abaf_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1808** packages in **15** categories, **18** packages use Swift
-- **1161** authors, **652** contributors (of which **482** are only contributors, not authors)
+- **1809** packages in **15** categories, **18** packages use Swift
+- **1162** authors, **653** contributors (of which **482** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (41)
@@ -1417,6 +1417,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Restart System Processes](https://raycast.com/muzhen_gaming/restart-system-processes)** - Restart system processes such as Finder, Dock, Menu Bar, Audio and more! [`@muzhen_gaming`](https://raycast.com/muzhen_gaming) [`code`](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) `api@^1.80.0`
 - **[Retrac](https://raycast.com/adi_amar/retrac)** - Retrac is an inventory management tool for business owners. This extension allows you to create and retrieve your items directly inside Raycast. [`@adi_amar`](https://raycast.com/adi_amar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/retrac) `api@^1.61.2` `utils@^1.16.0`
 - **[Roam Research](https://raycast.com/roamresearch/roam-research)** - Your Roam graphs at your fingertips! Quickly search, capture and navigate your Roam graphs. [`@roamresearch`](https://raycast.com/roamresearch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/roam-research) `api@^1.56.1` `utils@^1.4.11`
+- **[Roblox](https://raycast.com/iamEvan/roblox)** - Raycast Extension for finding games, users & more on Roblox [`@iamEvan`](https://raycast.com/iamEvan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/roblox) `api@^1.85.2` `utils@^1.17.0`
 - **[Rsync Commands](https://raycast.com/fahl/rsync-commands)** - Save your commonly used rsync commands in one place and run them with ease. [`@fahl`](https://raycast.com/fahl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) `api@^1.35.1`
 - **[Safe Secret](https://raycast.com/melonamin/safe-secret)** - Safely share text over the web [`@melonamin`](https://raycast.com/melonamin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/safe-secret) `api@^1.70.2`
 - **[Sage HR](https://raycast.com/cyxn/sage-hr)** - Integration with Sage HR to get a searchable list on who is out today [`@cyxn`](https://raycast.com/cyxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sage-hr) `api@^1.64.4` `utils@^1.10.1`

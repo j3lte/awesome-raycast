@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/4de4ef3fa2f9abaf_update-time.svg)
+![Last update](/icons/39a7c1e7f767cbab_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1809** packages in **15** categories, **18** packages use Swift
-- **1162** authors, **653** contributors (of which **482** are only contributors, not authors)
+- **1162** authors, **654** contributors (of which **482** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (41)
@@ -749,7 +749,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Wifi Share QR-Code](https://raycast.com/abul_kalam_robin/wifi-share)** - Share any saved wifi qr code to other devices to join the network [`@abul_kalam_robin`](https://raycast.com/abul_kalam_robin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wifi-share) `api@^1.58.1`
 - **[Windmill](https://raycast.com/emiliobool/windmill)** - Windmill Extension to run workflows directly from Raycast [`@emiliobool`](https://raycast.com/emiliobool) [`code`](https://github.com/raycast/extensions/tree/main/extensions/windmill) `api@^1.57.1` `utils@^1.9.1`
 - **[WordPress Plugins](https://raycast.com/edmundcwm/wordpress-plugins)** - Search and download plugins from the WordPress Plugin Directory. [`@edmundcwm`](https://raycast.com/edmundcwm) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordpress-plugins) `api@^1.58.1` `utils@^1.10.0`
-- **[WP Bones](https://raycast.com/Undolog/wp-bones)** - Create the WP Bones classes. [`@Undolog`](https://raycast.com/Undolog) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wp-bones) `api@^1.84.3` `utils@^1.17.0`
+- **[WP Bones](https://raycast.com/Undolog/wp-bones)** - WP Bones documentation and scaffolding [`@Undolog`](https://raycast.com/Undolog) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wp-bones) `api@^1.84.3` `utils@^1.17.0`
 - **[WPPB](https://raycast.com/pernielsentikaer/wppb)** - WordPress Plugin Boilerplate [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wppb) `api@^1.82.0` `utils@^1.17.0`
 - **[Xcode](https://raycast.com/SvenTiigi/xcode)** - Search and open your recent Xcode Projects, manage your Simulators & Apps, view the latest Releases, search the Apple Developer Documentation and quickly clear Xcode cache files. [`@SvenTiigi`](https://raycast.com/SvenTiigi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xcode) `api@^1.65.0` `utils@^1.10.1`
 - **[Xcode Cloud](https://raycast.com/yuta24/xcode-cloud)** - Check your Xcode Cloud builds and start new ones. [`@yuta24`](https://raycast.com/yuta24) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xcode-cloud) `api@^1.45.2` `utils@^1.4.14`

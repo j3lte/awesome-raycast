@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/39a7c1e7f767cbab_update-time.svg)
+![Last update](/icons/39ff8c3cf2bef190_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1809** packages in **15** categories, **18** packages use Swift
-- **1162** authors, **654** contributors (of which **482** are only contributors, not authors)
+- **1162** authors, **656** contributors (of which **483** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (41)
@@ -1457,7 +1457,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Surl](https://raycast.com/fujiyamaorange/surl)** - Make your URLs shorter [`@fujiyamaorange`](https://raycast.com/fujiyamaorange) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surl) `api@^1.64.4`
 - **[SVG64 - Convert SVGs to Base64 Strings](https://raycast.com/EvanZhouDev/raycast-svg64)** - Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) `api@^1.57.1` `utils@^1.9.1`
 - **[Sync Folders](https://raycast.com/Undolog/sync-folders)** - Sync two folders [`@Undolog`](https://raycast.com/Undolog) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sync-folders) `api@^1.84.10` `utils@^1.17.0`
-- **[System Monitor](https://raycast.com/hossammourad/raycast-system-monitor)** - Show information and usage related to CPU , Memory , Power and Network [`@hossammourad`](https://raycast.com/hossammourad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) `api@^1.70.3` `utils@^1.13.6`
+- **[System Monitor](https://raycast.com/hossammourad/raycast-system-monitor)** - Show information and usage related to CPU, memory, power and network [`@hossammourad`](https://raycast.com/hossammourad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) `api@^1.70.3` `utils@^1.13.6`
 - **[Tapo Smart Devices](https://raycast.com/timrogers/raycast-tapo-smart-devices)** - Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices) `api@^1.38.3`
 - **[TaskLink](https://raycast.com/jrodalo/tasklink)** - Converts issue tracker Ids into clickable links [`@jrodalo`](https://raycast.com/jrodalo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tasklink) `api@^1.67.1`
 - **[Taskplane](https://raycast.com/albingroen/taskplane)** - Manage your tasks for Taskplane right in Raycast [`@albingroen`](https://raycast.com/albingroen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/taskplane) `api@^1.37.1`

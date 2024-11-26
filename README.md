@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/39ff8c3cf2bef190_update-time.svg)
+![Last update](/icons/c03a506a44a38733_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1809** packages in **15** categories, **18** packages use Swift
-- **1162** authors, **656** contributors (of which **483** are only contributors, not authors)
+- **1810** packages in **15** categories, **18** packages use Swift
+- **1163** authors, **659** contributors (of which **486** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (41)
@@ -49,10 +49,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (178)
-  - [xmok](https://raycast.com/xmok) (73)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (179)
+  - [xmok](https://raycast.com/xmok) (74)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (40)
   - [j3lte](https://raycast.com/j3lte) (39)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (23)
   - [litomore](https://raycast.com/litomore) (16)
@@ -521,6 +521,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[EVM Codes](https://raycast.com/clabby/evm-codes)** - Search for EVM opcodes on evm.codes [`@clabby`](https://raycast.com/clabby) [`code`](https://github.com/raycast/extensions/tree/main/extensions/evm-codes) `api@^1.51.3`
 - **[Exif Viewer](https://raycast.com/j3lte/exif)** - Show metadata (EXIF) for images from clipboard or URL [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/exif) `api@^1.72.1`
 - **[Explain Command](https://raycast.com/maantje/explain-command)** - Let ChatGPT explain a command for you [`@maantje`](https://raycast.com/maantje) [`code`](https://github.com/raycast/extensions/tree/main/extensions/explain-command) `api@^1.56.0`
+- **[Fastly](https://raycast.com/JonathanSpeek/fastly)** - Access your Fastly account from Raycast [`@JonathanSpeek`](https://raycast.com/JonathanSpeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fastly) `api@latest`
 - **[Fibonacci Sequence](https://raycast.com/adambutler/fibonacci-sequence)** - Gives you the fibonacci sequence for using in story points on engineering tickets [`@adambutler`](https://raycast.com/adambutler) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fibonacci-sequence) `api@^1.34.1`
 - **[File Tree Generator](https://raycast.com/csharp/file-tree-generator)** - Generates file tree from text [`@csharp`](https://raycast.com/csharp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/file-tree-generator) `api@^1.68.1` `utils@^1.12.5`
 - **[FileZilla](https://raycast.com/naqet/filezilla)** - Connect to the FTP/SFTP server via FileZilla by just using your keyboard! [`@naqet`](https://raycast.com/naqet) [`code`](https://github.com/raycast/extensions/tree/main/extensions/filezilla) `api@^1.39.0`
@@ -1103,7 +1104,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Olympic Games](https://raycast.com/elonwoo/olympic-games)** - Paris 2024 Olympic Medal Table [`@elonwoo`](https://raycast.com/elonwoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/olympic-games) `api@^1.80.0` `utils@^1.16.3`
 - **[Omni News](https://raycast.com/MacRayCast/omni-news)** - Fetching news from omni.se [`@MacRayCast`](https://raycast.com/MacRayCast) [`code`](https://github.com/raycast/extensions/tree/main/extensions/omni-news) `api@^1.46.0`
 - **[Pitchfork](https://raycast.com/koayon/pitchfork)** - See Pitchfork Album Reviews [`@koayon`](https://raycast.com/koayon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) `api@^1.51.0` `utils@^1.4.16`
-- **[Polymarket](https://raycast.com/Osprey/polymarket)** - Polymarket Election Odds [`@Osprey`](https://raycast.com/Osprey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polymarket) `api@^1.84.6`
+- **[Polymarket](https://raycast.com/Osprey/polymarket)** - Search and view top markets on Polymarket [`@Osprey`](https://raycast.com/Osprey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polymarket) `api@^1.84.6`
 - **[Recent News](https://raycast.com/klkvsky/the-verge)** - Check top articles on The Verge [`@klkvsky`](https://raycast.com/klkvsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-verge) `api@^1.47.3` `utils@^1.4.18`
 - **[Rusbase](https://raycast.com/khlebobul/rusbase)** - Get sections, markets and companies from Rusbase directly in Raycast [`@khlebobul`](https://raycast.com/khlebobul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rusbase) `api@^1.55.2` `utils@^1.8.0`
 - **[TabNews](https://raycast.com/juniorodilton/tabnews)** - Content for those who work with Programming and Technology [`@juniorodilton`](https://raycast.com/juniorodilton) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tabnews) `api@^1.59.0` `utils@^1.10.0`
@@ -1437,7 +1438,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Send to Workflowy Inbox](https://raycast.com/cameron_pak/workflowy-inbox)** - Quickly add items to your Workflowy inbox. (This is an independent extension and is not created by Workflowy.) [`@cameron_pak`](https://raycast.com/cameron_pak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/workflowy-inbox) `api@^1.69.0` `utils@^1.12.5`
 - **[Sensible - Document Data Extraction](https://raycast.com/michaelschultz/sensible)** - Extract structured data from documents using Sensible.so [`@michaelschultz`](https://raycast.com/michaelschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sensible) `api@^1.61.2` `utils@^1.10.1`
 - **[Sequel Ace](https://raycast.com/nagauta/sequel-ace)** - search and connect databases in Sequel Ace [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sequel-ace) `api@^1.48.9`
-- **[ServiceNow](https://raycast.com/robertoalvarezalonso/servicenow)** - Search and explore content across your ServiceNow instances [`@robertoalvarezalonso`](https://raycast.com/robertoalvarezalonso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/servicenow) `api@^1.83.1` `utils@^1.17.0`
+- **[ServiceNow](https://raycast.com/robertoalvarezalonso/servicenow)** - Search and explore content across your ServiceNow instances [`@robertoalvarezalonso`](https://raycast.com/robertoalvarezalonso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/servicenow) `api@^1.86.0` `utils@^1.18.1`
 - **[Shiori](https://raycast.com/namiwang/shiori)** - Interact with Shiori the bookmark manager [`@namiwang`](https://raycast.com/namiwang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shiori) `api@^1.65.1` `utils@^1.12.4`
 - **[Shortcut](https://raycast.com/Yukai/shortcut)** - Raycast extension for Shortcut [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shortcut) `api@^1.38.1` `utils@^1.0.6`
 - **[Shortcuts Search](https://raycast.com/solomkinmv/shortcuts-search)** - List, search and run shortcuts for different applications [`@solomkinmv`](https://raycast.com/solomkinmv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) `api@^1.63.0` `utils@^1.10.1`

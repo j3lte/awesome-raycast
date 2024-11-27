@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/c03a506a44a38733_update-time.svg)
+![Last update](/icons/684721c8a5b5ff87_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1810** packages in **15** categories, **18** packages use Swift
-- **1163** authors, **659** contributors (of which **486** are only contributors, not authors)
+- **1814** packages in **15** categories, **18** packages use Swift
+- **1167** authors, **660** contributors (of which **487** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (41)
@@ -49,9 +49,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (179)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (180)
   - [xmok](https://raycast.com/xmok) (74)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (40)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (42)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (23)
@@ -349,7 +349,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Stock Lookup](https://raycast.com/jones-sam/stock-lookup)** - Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alphavantage.co/premium/ [`@jones-sam`](https://raycast.com/jones-sam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) `api@^1.35.0`
 - **[Storyblok](https://raycast.com/Rob/storyblok)** - Query your Storyblok spaces, stories, assets, and more. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storyblok) `api@^1.84.3` `utils@^1.18.0`
 - **[StoryTime](https://raycast.com/andreaselia/storytime)** - Generate a story using OpenAI and Upstash. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storytime) `api@^1.45.2` `utils@^1.4.14`
-- **[Streamshare Uploader](https://raycast.com/PandaDEV/streamshare-uploader)** - Upload files to streamshare. [`@PandaDEV`](https://raycast.com/PandaDEV) [`code`](https://github.com/raycast/extensions/tree/main/extensions/streamshare-uploader) `api@^1.77.3`
+- **[Streamshare Uploader](https://raycast.com/PandaDEV/streamshare-uploader)** - Upload files to streamshare. [`@PandaDEV`](https://raycast.com/PandaDEV) [`code`](https://github.com/raycast/extensions/tree/main/extensions/to-streamshare) `api@^1.77.3`
 - **[Sun/Moon Times](https://raycast.com/danny_seidel/sun-moon-times)** - Show times for sun and moon for any city in the World. [`@danny_seidel`](https://raycast.com/danny_seidel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sun-moon-times) `api@^1.48.9` `utils@^1.5.2`
 - **[Tesla](https://raycast.com/williamwelsh/tesla)** - Control and view your Tesla [`@williamwelsh`](https://raycast.com/williamwelsh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tesla) `api@^1.57.1` `utils@^1.9.1`
 - **[TeslaMate](https://raycast.com/mSarheed/teslamate)** - View your TeslaMate data in Raycast [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/teslamate) `api@^1.73.2` `utils@^1.15.0`
@@ -404,6 +404,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Noun Project](https://raycast.com/Rob/noun-project)** - Search for and download SVG and PNG icons from the Noun Project [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/noun-project) `api@^1.83.0` `utils@^1.17.0`
 - **[Paper](https://raycast.com/luctst/paper)** - Create and organize your ideas, work, etc., in Markdown files by category. [`@luctst`](https://raycast.com/luctst) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paper) `api@^1.68.1` `utils@^1.13.3`
 - **[Paper Search](https://raycast.com/mihaeltomic/papersize)** - Search international paper sizes in metric and imperial units [`@mihaeltomic`](https://raycast.com/mihaeltomic) [`code`](https://github.com/raycast/extensions/tree/main/extensions/papersize) `api@^1.84.7` `utils@^1.17.0`
+- **[Penpot](https://raycast.com/bobbymannino/penpot)** - See and quickly access your Penpot design boards [`@bobbymannino`](https://raycast.com/bobbymannino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/penpot) `api@^1.85.2` `utils@^1.17.0`
 - **[Pexels](https://raycast.com/koinzhang/pexels)** - Search photos, videos or collections on Pexels. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pexels) `api@^1.79.1` `utils@^1.16.3`
 - **[Phosphor Icons](https://raycast.com/marinsokol/phosphor-icons)** - Search, preview and copy Phosphor Icons [`@marinsokol`](https://raycast.com/marinsokol) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phosphor-icons) `api@^1.66.2` `utils@^1.12.4`
 - **[Pika](https://raycast.com/rishi/pika)** - Beautify screenshots quickly using pika.style [`@rishi`](https://raycast.com/rishi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pika) `api@^1.37.1`
@@ -502,6 +503,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CyberPanel](https://raycast.com/xmok/cyberpanel)** - Interact with CyberPanel [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cyberpanel) `api@^1.79.0` `utils@^1.18.0`
 - **[Date Converter](https://raycast.com/asportnoy/date-converter)** - Convert a variety of date formats [`@asportnoy`](https://raycast.com/asportnoy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/date-converter) `api@^1.53.3`
 - **[Deno Deploy](https://raycast.com/j3lte/deno-deploy)** - View and modify your Deno Deploy projects [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deno-deploy) `api@^1.71.4` `utils@^1.14.0`
+- **[DevPod](https://raycast.com/nicholasq/devpod)** - Manage DevPod workspaces [`@nicholasq`](https://raycast.com/nicholasq) [`code`](https://github.com/raycast/extensions/tree/main/extensions/devpod) `api@^1.82.4` `utils@^1.16.3`
 - **[Dig - DNS Lookup](https://raycast.com/danielbahl/dig)** - DNS lookup and nameserver query using the built-in host command [`@danielbahl`](https://raycast.com/danielbahl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dig) `api@^1.69.3` `utils@^1.13.3`
 - **[DigitalOcean](https://raycast.com/shukantpal/digitalocean)** - Quickly find resources in your DigitalOcean team [`@shukantpal`](https://raycast.com/shukantpal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/digitalocean) `api@^1.79.0` `utils@^1.16.0`
 - **[DirectAdmin Reseller](https://raycast.com/xmok/directadmin-reseller)** - Interact with DirectAdmin as a Reseller [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/directadmin-reseller) `api@^1.79.0` `utils@^1.17.0`
@@ -815,7 +817,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Simple Memo](https://raycast.com/hyokwonkim/simple-memo)** - A lightweight local memo extension for Raycast. [`@hyokwonkim`](https://raycast.com/hyokwonkim) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-memo) `api@^1.84.3` `utils@^1.17.0`
 - **[SiteSpeakAI](https://raycast.com/hermanschutte/sitespeakai)** - Train a chatbot on any website or documentation, then get answers in your command bar. [`@hermanschutte`](https://raycast.com/hermanschutte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sitespeakai) `api@^1.60.1` `utils@^1.10.0`
 - **[Spryker Docs](https://raycast.com/DinisEsteves/spryker-docs)** - Search Spryker Documentation directly from Raycast [`@DinisEsteves`](https://raycast.com/DinisEsteves) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spryker-docs) `api@^1.49.3`
-- **[Statamic Documentation Search](https://raycast.com/andrebreia/statamic-docs)** - This extension allows you to search through the Statamic docs directly from Raycast. [`@andrebreia`](https://raycast.com/andrebreia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/statamic-docs) `api@^1.39.0`
+- **[Statamic Documentation Search](https://raycast.com/andrebreia/statamic-docs)** - This extension allows you to search through the Statamic docs directly from Raycast. [`@andrebreia`](https://raycast.com/andrebreia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/statamic-docs) `api@^1.41.0`
 - **[Supabase Documentation](https://raycast.com/Isaiah-Hamilton/supabase-docs)** - Quickly search Supabase documentation and open it in the browser [`@Isaiah-Hamilton`](https://raycast.com/Isaiah-Hamilton) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) `api@^1.42.0`
 - **[Tailwind CSS](https://raycast.com/vimtor/tailwindcss)** - Utilities to work with Tailwind CSS [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) `api@^1.57.2`
 - **[Textlint AWS Service Name](https://raycast.com/bun913/raycast-textlint-rule-aws-service-name)** - Check AWS services name typo [`@bun913`](https://raycast.com/bun913) [`code`](https://github.com/raycast/extensions/tree/main/extensions/textlint-rule-aws-service-name) `api@^1.49.3`
@@ -1008,6 +1010,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Cloudinary](https://raycast.com/colbyfayock/cloudinary)** - Search assets and upload your clipboard to your Cloudinary account [`@colbyfayock`](https://raycast.com/colbyfayock) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudinary) `api@^1.57.2` `utils@^1.9.1`
 - **[Deutscher Wetterdienst](https://raycast.com/nicolai/deutscherwetterdienst)** - Shows current rain radar by the Deutscher Wetter Dienst [`@nicolai`](https://raycast.com/nicolai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deutscherwetterdienst) `api@^1.39.3`
 - **[DouTu](https://raycast.com/gaoyang/doutu)** - Easy retrieval of web emoji and GIF images while chatting. [`@gaoyang`](https://raycast.com/gaoyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doutu) `api@^1.72.1` `utils@^1.14.0`
+- **[Fetch YouTube Transcript](https://raycast.com/apoorv_khandelwal/fetch-youtube-transcript)** - Fetches and saves the transcript of a YouTube video [`@apoorv_khandelwal`](https://raycast.com/apoorv_khandelwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) `api@^1.82.5`
 - **[FFmpeg - View, Analyze and Manipulate](https://raycast.com/RenderCoder/ffmpeg)** - Use FFmpeg to view media file info [`@RenderCoder`](https://raycast.com/RenderCoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) `api@^1.56.1` `utils@^1.9.1`
 - **[Fip](https://raycast.com/louison/fip)** - Start and explore the fip radio directly from Raycast [`@louison`](https://raycast.com/louison) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fip) `api@^1.58.0`
 - **[Freesound](https://raycast.com/j3lte/freesound)** - Search the Freesound Library [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/freesound) `api@^1.76.0` `utils@^1.15.0`
@@ -1437,6 +1440,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Send to E-Reader](https://raycast.com/AlanHuang/send-to-e-reader)** - Send ebooks to Kobo/Kindle devices through https://send.djazz.se/ [`@AlanHuang`](https://raycast.com/AlanHuang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/send-to-e-reader) `api@^1.85.1` `utils@^1.17.0`
 - **[Send to Workflowy Inbox](https://raycast.com/cameron_pak/workflowy-inbox)** - Quickly add items to your Workflowy inbox. (This is an independent extension and is not created by Workflowy.) [`@cameron_pak`](https://raycast.com/cameron_pak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/workflowy-inbox) `api@^1.69.0` `utils@^1.12.5`
 - **[Sensible - Document Data Extraction](https://raycast.com/michaelschultz/sensible)** - Extract structured data from documents using Sensible.so [`@michaelschultz`](https://raycast.com/michaelschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sensible) `api@^1.61.2` `utils@^1.10.1`
+- **[SEO Lighthouse](https://raycast.com/guelug/seo-lighthouse)** - Lighthouse SEO Analyzer is a powerful Raycast extension that leverages Google Lighthouse to provide comprehensive SEO and performance audits for any website. Simply input a URL and choose your desired analysis mode, device type, and categories. Get detailed insights into page load speed, core web vitals, accessibility, best practices, and more. [`@guelug`](https://raycast.com/guelug) [`code`](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) `api@^1.84.3` `utils@^1.17.0`
 - **[Sequel Ace](https://raycast.com/nagauta/sequel-ace)** - search and connect databases in Sequel Ace [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sequel-ace) `api@^1.48.9`
 - **[ServiceNow](https://raycast.com/robertoalvarezalonso/servicenow)** - Search and explore content across your ServiceNow instances [`@robertoalvarezalonso`](https://raycast.com/robertoalvarezalonso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/servicenow) `api@^1.86.0` `utils@^1.18.1`
 - **[Shiori](https://raycast.com/namiwang/shiori)** - Interact with Shiori the bookmark manager [`@namiwang`](https://raycast.com/namiwang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shiori) `api@^1.65.1` `utils@^1.12.4`
@@ -1622,7 +1626,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bitcoin Price](https://raycast.com/futantan/bitcoin-price)** - See the current price of Bitcoin in various currencies. [`@futantan`](https://raycast.com/futantan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitcoin-price) `api@^1.39.3` `utils@^1.4.8`
 - **[Brave Search](https://raycast.com/VishwasShashidhar/brave-search)** - Brave search with autosuggestions [`@VishwasShashidhar`](https://raycast.com/VishwasShashidhar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brave-search) `api@^1.60.0`
 - **[Brave Search with Results](https://raycast.com/electerious/brave-search-with-results)** - Search Brave and get direct results [`@electerious`](https://raycast.com/electerious) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brave-search-with-results) `api@^1.71.3` `utils@^1.14.0`
-- **[Browser Bookmarks](https://raycast.com/thomaslombart/browser-bookmarks)** - Integrate bookmarks from Chrome, Brave, Edge, Firefox, Safari, Arc or Vivaldi. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) `api@^1.64.0` `utils@^1.10.0`
+- **[Browser Bookmarks](https://raycast.com/thomaslombart/browser-bookmarks)** - Integrate bookmarks from Chrome, Brave, Edge, Firefox, Safari, Arc, Vivaldi, or Zen. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) `api@^1.64.0` `utils@^1.10.0`
 - **[Capture Fullpage of Website](https://raycast.com/Coun1er/capture-fullpage-of-website)** - This extension allows you to quickly make a screenshot of the entire page of the site and save it to your desktop just by writing the address of the site. [`@Coun1er`](https://raycast.com/Coun1er) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capture-fullpage-of-website) `api@^1.76.0`
 - **[Codeforces](https://raycast.com/harsh_varshney/codeforces-extension)** - Gives details about latest contests and details about any handle [`@harsh_varshney`](https://raycast.com/harsh_varshney) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codeforces-extension) `api@^1.64.5` `utils@^1.10.1`
 - **[Collected Notes](https://raycast.com/txemaleon/collected-notes)** - Manage your Collected Notes blog [`@txemaleon`](https://raycast.com/txemaleon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) `api@^1.64.4` `utils@^1.10.1`

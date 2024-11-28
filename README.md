@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/684721c8a5b5ff87_update-time.svg)
+![Last update](/icons/4c69a2cd4d4b924f_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,11 +38,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1814** packages in **15** categories, **18** packages use Swift
-- **1167** authors, **660** contributors (of which **487** are only contributors, not authors)
+- **1816** packages in **15** categories, **18** packages use Swift
+- **1168** authors, **660** contributors (of which **487** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
-  - [xmok](https://raycast.com/xmok) (41)
+  - [xmok](https://raycast.com/xmok) (42)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (15)
   - [peduarte](https://raycast.com/peduarte) (14)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (180)
-  - [xmok](https://raycast.com/xmok) (74)
+  - [xmok](https://raycast.com/xmok) (75)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (42)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
@@ -236,6 +236,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Lacinka](https://raycast.com/colorage/lacinka)** - Use belarussian lacinka on the go [`@colorage`](https://raycast.com/colorage) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lacinka) `api@^1.49.3`
 - **[Lemmy](https://raycast.com/http.james/lemmy)** - Lightly browse your Lemmy communities and notifications. [`@http.james`](https://raycast.com/http.james) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lemmy) `api@^1.53.2`
 - **[mailboxlayer](https://raycast.com/xmok/mailboxlayer)** - Check and Verify email addresses using mailboxlayer [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailboxlayer) `api@^1.56.0` `utils@^1.9.1`
+- **[MailerLite Stats](https://raycast.com/nkl/mailerlite-stats)** - MailerLite Stats Raycast extension [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailerlite-stats) `api@^1.79.0` `utils@^1.18.1`
 - **[Mailsy](https://raycast.com/BalliAsghar/mailsy)** - Quickly Generate Disposable Email Address and view received mails. [`@BalliAsghar`](https://raycast.com/BalliAsghar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailsy) `api@^1.63.0`
 - **[Mastodon](https://raycast.com/SevicheCC/mastodon)** - Publish status from Raycast to Mastodon, and view your bookmarked status [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mastodon) `api@^1.64.4` `utils@^1.10.1`
 - **[Mastodon Search](https://raycast.com/daveverwer/mastodon-search)** - Search for People or Hashtags on Mastodon. [`@daveverwer`](https://raycast.com/daveverwer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mastodon-search) `api@^1.49.3` `utils@^1.5.2`
@@ -471,6 +472,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Carbon Screenshot for Raycast](https://raycast.com/adelowo/carbon-code-screenshot-for-raycast)** - Uses the carbon.now.sh to create beautiful screenshot you can share online or with your team [`@adelowo`](https://raycast.com/adelowo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/carbon-raycast) `api@^1.45.1`
 - **[Catppuccin](https://raycast.com/dvhsh/catppuccin)** - Quickly view the Catppuccin color palette, userstyles, ports, and documentation. [`@dvhsh`](https://raycast.com/dvhsh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) `api@^1.81.2` `utils@^1.16.3`
 - **[Change Case](https://raycast.com/erics118/change-case)** - Transform a string between camelCase, snake_case, CONSTANT_CASE, and more [`@erics118`](https://raycast.com/erics118) [`code`](https://github.com/raycast/extensions/tree/main/extensions/change-case) `api@^1.75.2`
+- **[changedetection.io](https://raycast.com/xmok/changedetection-io)** - Website Change Detection For Clever People [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) `api@^1.85.2` `utils@^1.17.0`
 - **[Charged: Starknet Shortcuts](https://raycast.com/apoorv/charged)** - Shorcuts for common web3 tasks [`@apoorv`](https://raycast.com/apoorv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/charged) `api@^1.51.1`
 - **[ChatGo](https://raycast.com/DDDDesign/chatgo)** - A chatGPT AI Tool [`@DDDDesign`](https://raycast.com/DDDDesign) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgo) `api@^1.54.1` `utils@^1.8.0`
 - **[Cheetah](https://raycast.com/ronglecat/cheetah)** - Search for a local Git project and open it with the specified application. [`@ronglecat`](https://raycast.com/ronglecat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cheetah) `api@^1.42.2` `utils@^1.4.8`
@@ -478,6 +480,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CIDR Conversion](https://raycast.com/Yansong/cidr)** - CIDR to IPv4 Conversion [`@Yansong`](https://raycast.com/Yansong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cidr) `api@^1.47.3`
 - **[Cloudflare](https://raycast.com/destiner/cloudflare)** - Search and view your Cloudflare sites, pages, domains, and more [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) `api@^1.68.1`
 - **[Code Grepper](https://raycast.com/emircanerkul/codegrepper)** - Get code examples instantly [`@emircanerkul`](https://raycast.com/emircanerkul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codegrepper) `api@^1.43.2` `utils@^1.4.11`
+- **[Code Quarkus](https://raycast.com/loic_magnette/code-quarkus)** - Create new Quarkus project [`@loic_magnette`](https://raycast.com/loic_magnette) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-quarkus) `api@^1.85.2` `utils@^1.18.0`
 - **[Code Saver](https://raycast.com/Gnosnay/code-saver)** - store your code snippets and export them freely when you need it. [`@Gnosnay`](https://raycast.com/Gnosnay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-saver) `api@^1.48.9` `utils@^1.5.2`
 - **[Code Stash](https://raycast.com/ben-greenwood/code-stash)** - Searching git.. now you have two problems. Store chunks of code and retrieve them later [`@ben-greenwood`](https://raycast.com/ben-greenwood) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-stash) `api@^1.42.0`
 - **[CodeBlocks](https://raycast.com/isfeng/codeblocks)** - Set or modify the programming language in markdown code blocks in batch. [`@isfeng`](https://raycast.com/isfeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/CodeBlocks) `api@^1.37.1`
@@ -1862,7 +1865,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Linguee](https://raycast.com/geekdada/linguee)** - Search Linguee translations for English, Chinese, German, Italian, Spanish, French. [`@geekdada`](https://raycast.com/geekdada) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linguee) `api@^1.36.0` `utils@^1.4.18`
 - **[Lobste.rs Homepage](https://raycast.com/dev99problems/lobsters)** - Read the latest stories of lobste.rs [`@dev99problems`](https://raycast.com/dev99problems) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lobsters) `api@^1.25.0`
 - **[Logseq](https://raycast.com/futantan/logseq)** - Add notes quickly in Logseq [`@futantan`](https://raycast.com/futantan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/logseq) `api@^1.75.0`
-- **[MailerLite Stats](https://raycast.com/nkl/mailerlite-stats)** - MailerLite Stats Raycast extension [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailerlite-stats) `api@^1.64.3` `utils@^1.10.1`
 - **[Main Library in University of St Andrews](https://raycast.com/Harry_Huang/st-andrews-main-library-occupancy)** - How busy is the main library now? [`@Harry_Huang`](https://raycast.com/Harry_Huang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/st-andrews-main-library-occupancy) `api@^1.69.0` `utils@^1.14.0`
 - **[Markdown Reference](https://raycast.com/codedbyjordan/markdown-reference)** - Markdown documentation at your fingertips [`@codedbyjordan`](https://raycast.com/codedbyjordan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-reference) `api@^1.26.3`
 - **[Markprompt](https://raycast.com/nickrttn/markprompt)** - Prompt your Markprompt project from Raycast [`@nickrttn`](https://raycast.com/nickrttn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markprompt) `api@^1.68.1` `utils@^1.12.5`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/4c69a2cd4d4b924f_update-time.svg)
+![Last update](/icons/55287bfa4bd41065_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1816** packages in **15** categories, **18** packages use Swift
-- **1168** authors, **660** contributors (of which **487** are only contributors, not authors)
+- **1818** packages in **15** categories, **18** packages use Swift
+- **1169** authors, **660** contributors (of which **487** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (42)
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (180)
   - [xmok](https://raycast.com/xmok) (75)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (42)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (43)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (23)
@@ -164,6 +164,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Otter Bookmarks](https://raycast.com/mrmartineau/otter)** - Companion bookmarking utility for Otter bookmarks [`@mrmartineau`](https://raycast.com/mrmartineau) [`code`](https://github.com/raycast/extensions/tree/main/extensions/otter) `api@^1.68.1` `utils@^1.10.0`
 - **[Owledge - All Your Tools in One Search](https://raycast.com/Romain/owledge-raycast)** - Access Notion, Figma, Github, Miro, Jira and way more in a single crazy fast search. | Set your Owledge workspace at: https://search.owledge.app | Documentation available at: https://owledge.notion.site/Use-Raycast-s-extension-75b90b8501014bb7b8c8c901a9fcc552?pvs=74 [`@Romain`](https://raycast.com/Romain) [`code`](https://github.com/raycast/extensions/tree/main/extensions/owledge-raycast) `api@^1.71.3` `utils@^1.4.8`
 - **[Papago Translate](https://raycast.com/rita_mordio/papago-translate)** - Language translation extension using Papago [`@rita_mordio`](https://raycast.com/rita_mordio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/papago-translate) `api@^1.58.1`
+- **[pCloud](https://raycast.com/xela92/pcloud)** - Search your pCloud through API and use pCloud Drive to open files and folders in Finder [`@xela92`](https://raycast.com/xela92) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pcloud) `api@^1.85.2` `utils@^1.18.0`
 - **[PlanetScale](https://raycast.com/vimtor/planetscale)** - Manage PlanetScale from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/planetscale) `api@^1.65.0` `utils@^1.10.1`
 - **[Pocket](https://raycast.com/vimtor/pocket)** - Manage Pocket bookmarks from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pocket) `api@^1.79.0` `utils@^1.10.1`
 - **[PostHog](https://raycast.com/david_newell/posthog)** - Open the web app, search for projects, persons, feature flags, and cohorts. [`@david_newell`](https://raycast.com/david_newell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/posthog) `api@^1.54.1` `utils@^1.8.0`
@@ -1592,6 +1593,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MyIP](https://raycast.com/Kang/myip)** - My IP information [`@Kang`](https://raycast.com/Kang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/myip) `api@^1.70.2` `utils@^1.13.3`
 - **[Network Diagnostics](https://raycast.com/hmarr/network-diagnostics)** - View diagnostic information about your network to help figure out why it's playing up. [`@hmarr`](https://raycast.com/hmarr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/network-diagnostics) `api@^1.41.1` `utils@^1.4.9`
 - **[Network Menubar Monitor](https://raycast.com/iaroslav_naiden/network-menubar-monitor)** - Show current network bandwith [`@iaroslav_naiden`](https://raycast.com/iaroslav_naiden) [`code`](https://github.com/raycast/extensions/tree/main/extensions/network-menubar-monitor) `api@^1.59.0` `utils@^1.4.8`
+- **[Open With App](https://raycast.com/fturcheti/open-with-app)** - Choose an application to open the selected Finder items. [`@fturcheti`](https://raycast.com/fturcheti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) `api@^1.79.0` `utils@^1.10.1`
 - **[Openfortivpn](https://raycast.com/rafalpetryka/openfortivpn)** - Connect to openfortivpn [`@rafalpetryka`](https://raycast.com/rafalpetryka) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openfortivpn) `api@^1.32.1`
 - **[PaperMatch](https://raycast.com/marlonr/papermatch)** - Toggle the system's appearance while updating the wallpaper for each appearance mode. [`@marlonr`](https://raycast.com/marlonr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/papermatch) `api@^1.46.1`
 - **[Pick Your Wallpaper](https://raycast.com/hugomarfani/pick-your-wallpaper)** - Lets you pick a wallpaper from a folder of finder. [`@hugomarfani`](https://raycast.com/hugomarfani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pick-your-wallpaper) `api@^1.74.0`
@@ -1693,7 +1695,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Sink Short Links Manager](https://raycast.com/luolei/raycast-sink)** - Create, search, and manage short links using Sink [`@luolei`](https://raycast.com/luolei) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-sink) `api@^1.84.3` `utils@^1.17.0`
 - **[Sublime](https://raycast.com/sublime.app/sublime)** - Search, discover, and add cards to your library. [`@sublime.app`](https://raycast.com/sublime.app) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sublime) `api@^1.81.2` `utils@^1.16.5`
 - **[Substack](https://raycast.com/j3lte/substack)** - Search Substack posts and profiles from Raycast [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/substack) `api@^1.71.4` `utils@^1.14.0`
-- **[Surf Check](https://raycast.com/john_alexander/surf-check)** - Check nearby surf conditions [`@john_alexander`](https://raycast.com/john_alexander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surf-check) `api@^1.81.2` `utils@^1.16.3`
+- **[Surf Check](https://raycast.com/john_alexander/surf-check)** - Get real-time surfing reports and forecasts for nearby locations [`@john_alexander`](https://raycast.com/john_alexander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surf-check) `api@^1.81.2` `utils@^1.16.3`
 - **[Tabler](https://raycast.com/zavbala/tabler)** - Copy & Paste Tabler Icons [`@zavbala`](https://raycast.com/zavbala) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tabler) `api@^1.59.0`
 - **[Temporary Email](https://raycast.com/natterstefan/temporary-email)** - Quickly and easily create a temporary email. [`@natterstefan`](https://raycast.com/natterstefan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/temporary-email) `api@^1.31.0`
 - **[Terraform Doc](https://raycast.com/shopping-jaws/terraform-doc)** - Quickly access Terraform resources [`@shopping-jaws`](https://raycast.com/shopping-jaws) [`code`](https://github.com/raycast/extensions/tree/main/extensions/terraform-doc) `api@^1.63.0` `utils@^1.10.1`
@@ -1707,6 +1709,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ViaCEP](https://raycast.com/xilopaint/viacep)** - Find Brazilian addresses and postal codes [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/viacep) `api@^1.81.2` `utils@^1.16.5`
 - **[Vocabula.lat](https://raycast.com/silencesys/vocabula-lat)** - An extension to look for words and abbreviations in the Vocabula.lat Latin dictionary [`@silencesys`](https://raycast.com/silencesys) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vocabula-lat) `api@^1.75.1` `utils@^1.15.0`
 - **[Wayback Machine](https://raycast.com/pernielsentikaer/wayback-machine)** - Quickly open and save webpages in Wayback Machine [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wayback-machine) `api@^1.72.1` `utils@^1.14.1`
+- **[Web Page Design Mode](https://raycast.com/danulqua/web-page-design-mode)** - Toggle the document.designMode property on your web page to control whether the entire document is editable. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web-page-design-mode) `api@^1.86.0` `utils@^1.17.0`
 - **[Web3 Profile](https://raycast.com/peduarte/web3-profile)** - Search for ENS names and view its profile — Avatar, description, social URLs and more! [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) `api@^1.39.1` `utils@^1.3.1`
 - **[Whois](https://raycast.com/zavbala/whois)** - Retrieve whois data. [`@zavbala`](https://raycast.com/zavbala) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whois) `api@^1.79.1` `utils@^1.16.3`
 - **[WhoSampled](https://raycast.com/andrewtruex/whosampled)** - Search WhoSampled.com from the currently playing song in Spotify [`@andrewtruex`](https://raycast.com/andrewtruex) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whosampled) `api@^1.46.0`
@@ -1890,7 +1893,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Notion Page Search](https://raycast.com/reckoning-dev/search-notion)** - Search Notion pages and open visited ones faster. No admin access required. [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-notion) `api@^1.25.0`
 - **[One Thing](https://raycast.com/pernielsentikaer/one-thing)** - Put a thing in your Menu Bar. [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-thing) `api@^1.68.0`
 - **[ONES](https://raycast.com/k8scat/ones)** - Raycast Extension for ONES [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ones) `api@^1.39.3`
-- **[Open With App](https://raycast.com/fturcheti/open-with-app)** - Choose an application to open the selected Finder items. [`@fturcheti`](https://raycast.com/fturcheti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-with-app) `api@^1.63.0` `utils@^1.10.1`
 - **[OpenStreetMap Search](https://raycast.com/crisboarna/openstreetmap-search)** - Quickly open OpenStreetMaps directions, for example from your current location to your home. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openstreetmap-search) `api@^1.44.0`
 - **[OpenWeatherMap](https://raycast.com/tonka3000/openweathermap)** - Get Weather via https://openweathermap.com [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openweathermap) `api@^1.34.1`
 - **[Opsgenie](https://raycast.com/ricoberger/opsgenie)** - Manage Opsgenie alerts and incidents. [`@ricoberger`](https://raycast.com/ricoberger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/opsgenie) `api@^1.79.0` `utils@^1.17.0`

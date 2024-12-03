@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/55287bfa4bd41065_update-time.svg)
+![Last update](/icons/dc4b16c74d592987_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1818** packages in **15** categories, **18** packages use Swift
-- **1169** authors, **660** contributors (of which **487** are only contributors, not authors)
+- **1819** packages in **15** categories, **18** packages use Swift
+- **1170** authors, **661** contributors (of which **487** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (42)
@@ -51,10 +51,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (180)
   - [xmok](https://raycast.com/xmok) (75)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (43)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (44)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
-  - [stelo](https://raycast.com/stelo) (23)
+  - [stelo](https://raycast.com/stelo) (24)
   - [litomore](https://raycast.com/litomore) (16)
 
 <!-- END STATISTICS -->
@@ -133,6 +133,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Iridium](https://raycast.com/crisboarna/iridium)** - Search open tabs, bookmarks and history in Iridium. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iridium) `api@^1.44.0` `utils@^1.4.13`
 - **[iTerm](https://raycast.com/ron-myers/iterm)** - Control iTerm with Raycast [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iterm) `api@^1.44.0`
 - **[iWork](https://raycast.com/HelloImSteven/iwork)** - Control Pages, Numbers, and Keynote [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iwork) `api@^1.39.3`
+- **[Jq](https://raycast.com/vladimir-kotikov/raycast-jq)** - Run queries on Json data using jq [`@vladimir-kotikov`](https://raycast.com/vladimir-kotikov) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) `api@^1.84.3` `utils@^1.17.0`
 - **[Just Focus](https://raycast.com/koinzhang/just-focus)** - Control Just Focus via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/just-focus) `api@^1.79.1`
 - **[Kaleidoscope](https://raycast.com/anfalas/kaleidoscope)** - Opens Kaleidoscope from selected files [`@anfalas`](https://raycast.com/anfalas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) `api@^1.63.0`
 - **[Klack](https://raycast.com/henrikruscon/klack)** - Control Klack for macOS with Raycast [`@henrikruscon`](https://raycast.com/henrikruscon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/klack) `api@^1.73.2`
@@ -699,7 +700,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Shell](https://raycast.com/asubbotin/shell)** - Run shell commands from Raycast [`@asubbotin`](https://raycast.com/asubbotin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell) `api@^1.38.2`
 - **[Shell Buddy](https://raycast.com/jebraat/shell-buddy)** - Converts natural language prompts to shell commands with AI [`@jebraat`](https://raycast.com/jebraat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) `api@^1.39.3`
 - **[Shell History](https://raycast.com/koinzhang/shell-history)** - Search shell command history from zsh, bash, and fish. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-history) `api@^1.83.1` `utils@^1.17.0`
-- **[Short.io](https://raycast.com/koinzhang/short-io)** - Shorten and search links with your own domain via Short.io [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/short-io) `api@^1.66.2`
+- **[Short.io](https://raycast.com/koinzhang/short-io)** - Shorten and search links with your own domain via Short.io [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/short-io) `api@^1.86.1` `utils@^1.18.1`
 - **[SimpleBackups](https://raycast.com/islamessam/simplebackups)** - View and manage your backups from SimpleBackups.com [`@islamessam`](https://raycast.com/islamessam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) `api@^1.39.3` `utils@^1.4.8`
 - **[SimpleTexOCR](https://raycast.com/Arthals/simpletexocr)** - A LaTeX OCR by Simpletex [`@Arthals`](https://raycast.com/Arthals) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) `api@^1.59.0` `utils@^1.10.0`
 - **[Simulator Control](https://raycast.com/noppefoxwolf/simulator-control)** - Control Apple Simulator devices [`@noppefoxwolf`](https://raycast.com/noppefoxwolf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simctl) `api@^1.79.0` `utils@^1.17.0`
@@ -1540,7 +1541,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
-- **[1Password](https://raycast.com/khasbilegt/1password)** - Search, open or edit your 1Password passwords from Raycast [`@khasbilegt`](https://raycast.com/khasbilegt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1password) `api@^1.59.0` `utils@^1.4.9`
+- **[1Password](https://raycast.com/khasbilegt/1password)** - Search, open or edit your 1Password passwords from Raycast [`@khasbilegt`](https://raycast.com/khasbilegt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1password) `api@^1.86.1` `utils@^1.18.1`
 - **[Aegis Authenticator](https://raycast.com/bfayers/aegis)** - Search, sync and use your Aegis 2FA database with Raycast [`@bfayers`](https://raycast.com/bfayers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aegis) `api@^1.77.1` `utils@^1.16.1`
 - **[Apple-Like Password](https://raycast.com/breadone/keychain-password-gen)** - Copies a generated Apple Keychain-Like password directly to the clipboard in one step [`@breadone`](https://raycast.com/breadone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) `api@^1.48.8`
 - **[Authy - Twilio App](https://raycast.com/guga4ka/authy)** - Search, sync and use your Twilio’s Authy 2fa tokens with Raycast [`@guga4ka`](https://raycast.com/guga4ka) [`code`](https://github.com/raycast/extensions/tree/main/extensions/authy) `api@^1.77.1` `utils@^1.16.1`
@@ -1796,7 +1797,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Elgato Key Light](https://raycast.com/thomas/elgato-key-light)** - Control your Elgato Key Lights with ease [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) `api@^1.44.0`
 - **[Elm Search](https://raycast.com/HenriqueBuss/elm-search)** - Search Elm packages by name, type, author or module [`@HenriqueBuss`](https://raycast.com/HenriqueBuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elm-search) `api@^1.27.0`
 - **[ENS Name Lookup](https://raycast.com/Yukai/ens-name-lookup)** - Lookup ENS name or address [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) `api@^1.36.0`
-- **[Envato Sales](https://raycast.com/astroon/envato)** - Tracking New Sales For Envato Author [`@astroon`](https://raycast.com/astroon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/envato) `api@^1.84.8` `utils@^1.18.0`
+- **[Envato Sales, Purchases and Search](https://raycast.com/astroon/envato)** - Tracking New Sales For Envato Author, View Purchases and Search Catalog [`@astroon`](https://raycast.com/astroon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/envato) `api@^1.84.8` `utils@^1.18.0`
 - **[Evernote Instant Search](https://raycast.com/artpi/evernote)** - Search your Evernote notes instantly using the local database of the Mac official Evernote client. [`@artpi`](https://raycast.com/artpi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/evernote) `api@^1.84.2` `utils@^1.17.0`
 - **[Expand Video Canvas](https://raycast.com/lzybiasia/expand-video-canvas)** - Expand different size video to 1920*1080. It will center the original video and fill background with the edge color. [`@lzybiasia`](https://raycast.com/lzybiasia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/expand-video-canvas) `api@^1.83.1` `utils@^1.17.0`
 - **[FaceTime](https://raycast.com/ron-myers/facetime)** - Make FaceTime calls with Raycast [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/facetime) `api@^1.78.1` `utils@^1.16.2` `swift`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/b158330ffe7e2f4c_update-time.svg)
+![Last update](/icons/f1de1ffddbc5f2de_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1821** packages in **15** categories, **18** packages use Swift
-- **1170** authors, **665** contributors (of which **491** are only contributors, not authors)
+- **1170** authors, **666** contributors (of which **492** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (43)
@@ -710,7 +710,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Snippet Surfer](https://raycast.com/astronight/snippetsurfer)** - SnippetSurfer is a Raycast extension designed to swiftly navigate through snippets of information. You can effortlessly skim through text excerpts, code snippets, or any other brief segments of content and copy them to the clipboard. The snippets are read from a folder of markdown or yaml files. [`@astronight`](https://raycast.com/astronight) [`code`](https://github.com/raycast/extensions/tree/main/extensions/snippetsurfer) `api@^1.44.0`
 - **[SnippetsLab](https://raycast.com/renfei_song/snippetslab)** - Search and view contents in your SnippetsLab library. [`@renfei_song`](https://raycast.com/renfei_song) [`code`](https://github.com/raycast/extensions/tree/main/extensions/snippetslab) `api@^1.79.1`
 - **[SolusVM 1 Client](https://raycast.com/xmok/solusvm-1-client)** - Fetch Information and Manage SolusVM 1 Virtual Server [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solusvm-1-client) `api@^1.62.2`
-- **[Sourcegraph](https://raycast.com/bobheadxi/sourcegraph)** - Search your code and 2M+ public repositories on Sourcegraph. [`@bobheadxi`](https://raycast.com/bobheadxi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) `api@^1.45.1` `utils@^1.4.14`
+- **[Sourcegraph](https://raycast.com/bobheadxi/sourcegraph)** - Search your code and public repositories with Sourcegraph. [`@bobheadxi`](https://raycast.com/bobheadxi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) `api@^1.86.1` `utils@^1.18.1`
 - **[Sourcetree](https://raycast.com/i906/sourcetree)** - Search and open Sourcetree repositories [`@i906`](https://raycast.com/i906) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) `api@^1.38.2` `utils@^1.0.6`
 - **[Spiceblow - Sql Database Management](https://raycast.com/xmorse/spiceblow-database)** - Search, update, insert and delete rows in your Sql database, deeply integrated with AI [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) `api@^1.81.2` `utils@^1.17.0`
 - **[Spike](https://raycast.com/damanpreet_singh/spike)** - Resolve incidents, check who is on-call, and add overrides from Raycast. [`@damanpreet_singh`](https://raycast.com/damanpreet_singh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spike) `api@^1.83.2` `utils@^1.17.0`
@@ -1017,7 +1017,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Cloudinary](https://raycast.com/colbyfayock/cloudinary)** - Search assets and upload your clipboard to your Cloudinary account [`@colbyfayock`](https://raycast.com/colbyfayock) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudinary) `api@^1.57.2` `utils@^1.9.1`
 - **[Deutscher Wetterdienst](https://raycast.com/nicolai/deutscherwetterdienst)** - Shows current rain radar by the Deutscher Wetter Dienst [`@nicolai`](https://raycast.com/nicolai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deutscherwetterdienst) `api@^1.39.3`
 - **[DouTu](https://raycast.com/gaoyang/doutu)** - Easy retrieval of web emoji and GIF images while chatting. [`@gaoyang`](https://raycast.com/gaoyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doutu) `api@^1.72.1` `utils@^1.14.0`
-- **[Fetch YouTube Transcript](https://raycast.com/apoorv_khandelwal/fetch-youtube-transcript)** - Fetches and saves the transcript of a YouTube video [`@apoorv_khandelwal`](https://raycast.com/apoorv_khandelwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) `api@^1.82.5`
+- **[Fetch YouTube Transcript](https://raycast.com/apoorv_khandelwal/fetch-youtube-transcript)** - Fetches and saves the transcript of a YouTube video in your downaloads folder [`@apoorv_khandelwal`](https://raycast.com/apoorv_khandelwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) `api@^1.82.5`
 - **[FFmpeg - View, Analyze and Manipulate](https://raycast.com/RenderCoder/ffmpeg)** - Use FFmpeg to view media file info [`@RenderCoder`](https://raycast.com/RenderCoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) `api@^1.56.1` `utils@^1.9.1`
 - **[Fip](https://raycast.com/louison/fip)** - Start and explore the fip radio directly from Raycast [`@louison`](https://raycast.com/louison) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fip) `api@^1.58.0`
 - **[Freesound](https://raycast.com/j3lte/freesound)** - Search the Freesound Library [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/freesound) `api@^1.76.0` `utils@^1.15.0`

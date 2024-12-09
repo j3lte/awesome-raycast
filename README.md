@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/196b7fb8c81fc89c_update-time.svg)
+![Last update](/icons/4eec02898b2cbddf_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1823** packages in **15** categories, **18** packages use Swift
+- **1824** packages in **15** categories, **18** packages use Swift
 - **1170** authors, **667** contributors (of which **493** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -675,6 +675,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Radicle](https://raycast.com/sebastinez_rhizoma/radicle)** - Interact with your Radicle storage. [`@sebastinez_rhizoma`](https://raycast.com/sebastinez_rhizoma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/radicle) `api@^1.64.4` `utils@^1.10.1`
 - **[Railway Project Search](https://raycast.com/coffee-cup/railway)** - Search and navigate to your Railway projects [`@coffee-cup`](https://raycast.com/coffee-cup) [`code`](https://github.com/raycast/extensions/tree/main/extensions/railway) `api@^1.79.0` `utils@^1.16.3`
 - **[Raycast Notification](https://raycast.com/maxnyby/raycast-notification)** - This extension makes it easy to display Raycast notifications via a quicklink, making the Raycast interface accessible to other applications or scripts [`@maxnyby`](https://raycast.com/maxnyby) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) `api@^1.80.0`
+- **[Raycast Port](https://raycast.com/litomore/raycast-port)** - This allows you to use Raycast features out of Raycast. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) `api@^1.86.1`
 - **[React Documentation](https://raycast.com/webdiego/react-docs)** - Quick links to the new React documentation [`@webdiego`](https://raycast.com/webdiego) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-docs) `api@^1.45.2`
 - **[React Native Directory](https://raycast.com/shubh_porwal/react-native-directory)** - A searchable and filterable directory of React Native libraries. [`@shubh_porwal`](https://raycast.com/shubh_porwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-native-directory) `api@^1.82.5` `utils@^1.16.3`
 - **[Redis](https://raycast.com/k8scat/redis)** - Redis extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/redis) `api@^1.40.1` `utils@^1.4.8`

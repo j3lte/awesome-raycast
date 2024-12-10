@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/4eec02898b2cbddf_update-time.svg)
+![Last update](/icons/e9403a368ef4d05d_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1824** packages in **15** categories, **18** packages use Swift
-- **1170** authors, **667** contributors (of which **493** are only contributors, not authors)
+- **1827** packages in **15** categories, **18** packages use Swift
+- **1172** authors, **669** contributors (of which **495** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (43)
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (181)
   - [xmok](https://raycast.com/xmok) (81)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (44)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (45)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (24)
@@ -968,6 +968,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Party Parrot](https://raycast.com/thomas/party-parrot)** - Celebrating the good times with some dancing party parrot in Raycast. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/party-parrot) `api@^1.25.0`
 - **[Perchance Generator](https://raycast.com/Visual-Studio-Coder/perchance-generator)** - Input the generator name and receive the generated text. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perchance-generator) `api@^1.57.2` `utils@1.10.0`
 - **[Podcasts Now](https://raycast.com/cloudy9101/podcasts-now)** - Manage, explore, and listen to podcasts all in one place through Raycast. [`@cloudy9101`](https://raycast.com/cloudy9101) [`code`](https://github.com/raycast/extensions/tree/main/extensions/podcasts-now) `api@^1.46.1` `utils@^1.4.8`
+- **[Pokémon Tcg Pocket Binder](https://raycast.com/azyz/pokemon-tcg-pocket-binder)** - Browse the complete collection of Pokémon TCG Pocket Cards [`@azyz`](https://raycast.com/azyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pokemon-tcg-pocket-binder) `api@^1.86.0` `utils@^1.17.0`
 - **[Portuguese Primeira Liga](https://raycast.com/danielsequeira/portuguese-primeira-liga)** - View the latest Portuguese Primeira Liga standings. [`@danielsequeira`](https://raycast.com/danielsequeira) [`code`](https://github.com/raycast/extensions/tree/main/extensions/portuguese-primeira-liga) `api@^1.48.0`
 - **[Random Fart](https://raycast.com/szy.fr/random-fart)** - Plays a random fart sound. An extension nobody asked for and nobody needed. [`@szy.fr`](https://raycast.com/szy.fr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-fart) `api@^1.69.0`
 - **[Random Text Picker](https://raycast.com/ezzylan/random-text-picker)** - Pick a random item from a list by entering multiple text inputs, ala Wheel of Names [`@ezzylan`](https://raycast.com/ezzylan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) `api@^1.55.2`
@@ -1022,6 +1023,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Fetch YouTube Transcript](https://raycast.com/apoorv_khandelwal/fetch-youtube-transcript)** - Fetches and saves the transcript of a YouTube video in your downaloads folder [`@apoorv_khandelwal`](https://raycast.com/apoorv_khandelwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) `api@^1.82.5`
 - **[FFmpeg - View, Analyze and Manipulate](https://raycast.com/RenderCoder/ffmpeg)** - Use FFmpeg to view media file info [`@RenderCoder`](https://raycast.com/RenderCoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) `api@^1.56.1` `utils@^1.9.1`
 - **[Fip](https://raycast.com/louison/fip)** - Start and explore the fip radio directly from Raycast [`@louison`](https://raycast.com/louison) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fip) `api@^1.58.0`
+- **[Frame Crop - Discover Art for Your TV](https://raycast.com/jsheffers/frame-crop-art)** - Discover & download amazing artwork curated by Frame Crop [`@jsheffers`](https://raycast.com/jsheffers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/frame-crop) `api@^1.86.1` `utils@^1.17.0`
 - **[Freesound](https://raycast.com/j3lte/freesound)** - Search the Freesound Library [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/freesound) `api@^1.76.0` `utils@^1.15.0`
 - **[Genius Lyrics](https://raycast.com/tkdkid1000/genius-lyrics)** - Search by song title to instantly view lyrics, or enter remembered lyrics to quickly find the song's title, utilizing the Genius Lyrics API. [`@tkdkid1000`](https://raycast.com/tkdkid1000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/genius-lyrics) `api@^1.73.2` `utils@^1.15.0`
 - **[GIF Search](https://raycast.com/josephschmitt/gif-search)** - Search the Internet for animated GIFs [`@josephschmitt`](https://raycast.com/josephschmitt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gif-search) `api@^1.72.1` `utils@^1.14.0`
@@ -1188,6 +1190,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 - **[Addy](https://raycast.com/http.james/anonaddy)** - Generate and manage your Addy aliases from your keyboard. [`@http.james`](https://raycast.com/http.james) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anonaddy) `api@^1.63.0`
 - **[Aerospace Tiling Window Manager](https://raycast.com/limonkufu/aerospace)** - Aerospace Tiling Window Manager Extension for Raycast [`@limonkufu`](https://raycast.com/limonkufu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aerospace) `api@^1.69.2` `utils@^1.15.0`
+- **[AI Text to Calendar](https://raycast.com/tatsuhiko_imaizumi/ai-text-to-calendar)** - Convert selected text to Google Calendar event with OpenAI [`@tatsuhiko_imaizumi`](https://raycast.com/tatsuhiko_imaizumi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-text-to-calendar) `api@^1.86.1` `utils@^1.17.0`
 - **[Airplane](https://raycast.com/pradeepb28/airplane)** - Just like on iPhone, turn off the wireless features on your macOS anytime. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airplane) `api@^1.35.2`
 - **[Airtable](https://raycast.com/marks/raycast-airtable-extension)** - List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. [`@marks`](https://raycast.com/marks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airtable) `api@^1.84.7` `utils@^1.18.0`
 - **[Alice AI - Your ChatGPT Actions Companion](https://raycast.com/quiknull/alice-ai)** - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes. [`@quiknull`](https://raycast.com/quiknull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) `api@^1.69.0` `utils@^1.14.0`

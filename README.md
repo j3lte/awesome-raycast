@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/056db84402252322_update-time.svg)
+![Last update](/icons/5a9ee3279683f98e_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1828** packages in **15** categories, **18** packages use Swift
-- **1173** authors, **670** contributors (of which **496** are only contributors, not authors)
+- **1832** packages in **15** categories, **18** packages use Swift
+- **1176** authors, **673** contributors (of which **499** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (43)
@@ -50,8 +50,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (182)
-  - [xmok](https://raycast.com/xmok) (82)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (46)
+  - [xmok](https://raycast.com/xmok) (83)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (47)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (24)
@@ -150,6 +150,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Microsoft Teams Meeting](https://raycast.com/sven/microsoft-teams-calling)** - Control your meeting with the keyboard, even when Microsoft Teams is in the background. Toggle microphone, camera and background blur and send reactions. [`@sven`](https://raycast.com/sven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-teams-calling) `api@^1.48.9` `utils@^1.5.2`
 - **[Midjourney](https://raycast.com/carter/midjourney)** - Interact with Midjourney right from your command bar [`@carter`](https://raycast.com/carter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/midjourney) `api@^1.59.0` `utils@^1.10.0`
 - **[Mite](https://raycast.com/paolo_ricciuti/mite)** - Interact with your mite account via Raycast [`@paolo_ricciuti`](https://raycast.com/paolo_ricciuti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mite) `api@^1.65.1` `utils@^1.10.1`
+- **[Modrinth](https://raycast.com/soradotwav/modrinth)** - Your Minecraft modding companion - find mods, resource packs, and more [`@soradotwav`](https://raycast.com/soradotwav) [`code`](https://github.com/raycast/extensions/tree/main/extensions/modrinth) `api@^1.86.1` `utils@^1.18.1`
 - **[Mozeidon](https://raycast.com/egovelox/mozeidon)** - Search, open tabs and bookmarks in Firefox via Mozeidon add-on [`@egovelox`](https://raycast.com/egovelox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozeidon) `api@^1.70.3` `utils@^1.13.5`
 - **[Mozilla Firefox](https://raycast.com/crisboarna/mozilla-firefox)** - Search and open tabs from bookmarks and history in Mozilla Firefox. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) `api@^1.59.0` `utils@^1.4.13`
 - **[Multi](https://raycast.com/fernando_barbat/multi)** - See rooms & teammates, join sessions, control devices and more [`@fernando_barbat`](https://raycast.com/fernando_barbat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multi) `api@^1.70.2` `utils@^1.13.4`
@@ -515,12 +516,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[DirectAdmin Reseller](https://raycast.com/xmok/directadmin-reseller)** - Interact with DirectAdmin as a Reseller [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/directadmin-reseller) `api@^1.79.0` `utils@^1.17.0`
 - **[Disk Utility](https://raycast.com/stelo/diskutil)** - Create, list and delete Apple File System (APFS) disk volumes [`@stelo`](https://raycast.com/stelo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/diskutil) `api@^1.81.2` `utils@^1.16.5`
 - **[Dock Tinker](https://raycast.com/koinzhang/dock-tinker)** - Custom hidden preferences of Dock. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) `api@^1.83.1`
-- **[Doppler Share Secrets](https://raycast.com/thomas/doppler-share-secrets)** - Share sensitive data (a "secret") with friends, teammates, or strangers on the internet. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) `api@^1.79.0`
+- **[Doppler Share Secrets](https://raycast.com/thomas/doppler-share-secrets)** - Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) `api@^1.87.4` `utils@^1.18.1`
 - **[DOTween Eases](https://raycast.com/metakirby5/dotween-eases)** - Preview DOTween easing options through GIFs. [`@metakirby5`](https://raycast.com/metakirby5) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotween-eases) `api@^1.37.0`
 - **[Drupal Toolbox](https://raycast.com/emircanerkul/drupal-toolbox)** - Valuable tools and shortcuts for your Drupal Websites [`@emircanerkul`](https://raycast.com/emircanerkul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox) `api@1.44.0` `utils@^1.4.11`
 - **[Drupal.org](https://raycast.com/hussainweb/drupal-org)** - Get information from drupal.org [`@hussainweb`](https://raycast.com/hussainweb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drupal-org) `api@^1.72.0`
 - **[Dynamic Font Size](https://raycast.com/nils_hoenson/dynamic-font-size)** - Create dynamic font sizes using the 'clamp' CSS function [`@nils_hoenson`](https://raycast.com/nils_hoenson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dynamic-font-size) `api@^1.60.1`
 - **[Easy New File](https://raycast.com/koinzhang/easy-new-file)** - Quickly create file in the open Finder window. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) `api@^1.77.1`
+- **[Elixir](https://raycast.com/dinocosta/elixir)** - Navigate Elixir's documentation without leaving Raycast. [`@dinocosta`](https://raycast.com/dinocosta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elixir) `api@^1.86.1` `utils@^1.16.3`
 - **[Ember.js API Documentation](https://raycast.com/tdwesten/ember-api-documentation)** - Search Ember.js Api Documentation and open it in the browser [`@tdwesten`](https://raycast.com/tdwesten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ember-api-documentation) `api@^1.40.1` `utils@^1.4.8`
 - **[Encoding Tools](https://raycast.com/eth-p/encoding-tools)** - A toolbox for encoding, decoding, and hashing data in the clipboard. [`@eth-p`](https://raycast.com/eth-p) [`code`](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) `api@^1.32.1`
 - **[End of Life](https://raycast.com/csigritz/end-of-life)** - An extension to bring endoflife.date into Raycast. Get End-of-life (EOL) and support information for various products [`@csigritz`](https://raycast.com/csigritz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/end-of-life) `api@^1.69.0`
@@ -567,6 +569,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Grafbase](https://raycast.com/mlafeldt/grafbase)** - Explore your Grafbase projects, branches, deployments, and commit history. [`@mlafeldt`](https://raycast.com/mlafeldt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/grafbase) `api@^1.45.1` `utils@^1.4.16`
 - **[GROQ Tools](https://raycast.com/juice49/groq-tools)** - Format GROQ queries and parse Sanity query URLs. [`@juice49`](https://raycast.com/juice49) [`code`](https://github.com/raycast/extensions/tree/main/extensions/groq-tools) `api@^1.58.1`
 - **[Helm Chart](https://raycast.com/eunchurn/helm-chart)** - Search in Helm Chart [`@eunchurn`](https://raycast.com/eunchurn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/helm-chart) `api@^1.64.3` `utils@^1.4.8`
+- **[Hephaestus - JSON Tools](https://raycast.com/sharker_alice_sharker/hephaestus)** - A collection of useful developer tools and utilities, including JSON to Swift, Objective-C, TypeScript, and more. [`@sharker_alice_sharker`](https://raycast.com/sharker_alice_sharker) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hephaestus) `api@^1.86.0` `utils@^1.17.0`
 - **[Heroicons](https://raycast.com/johndoe123789/heroicons)** - Search and preview Heroicons [`@johndoe123789`](https://raycast.com/johndoe123789) [`code`](https://github.com/raycast/extensions/tree/main/extensions/heroicons) `api@^1.70.3`
 - **[Heroku](https://raycast.com/Yukai/heroku)** - Heroku extension for Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/heroku) `api@^1.32.1`
 - **[HestiaCP Admin](https://raycast.com/xmok/hestiacp-admin)** - Manage Users, Domains, Mail Domains, Databases, and more, in your HestiaCP isntance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hestiacp-admin) `api@^1.79.0` `utils@^1.18.0`
@@ -1109,6 +1112,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ifanr](https://raycast.com/madcodelife/ifanr)** - Read the latest news from ifanr [`@madcodelife`](https://raycast.com/madcodelife) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ifanr) `api@^1.48.9` `utils@^1.5.2`
 - **[IndieHackers](https://raycast.com/xmok/indiehackers)** - Browse IndieHackers [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/indiehackers) `api@^1.81.0` `utils@^1.17.0`
 - **[Initium](https://raycast.com/unpopular/initium)** - Show posts on theinitium.com [`@unpopular`](https://raycast.com/unpopular) [`code`](https://github.com/raycast/extensions/tree/main/extensions/initium) `api@^1.44.0` `utils@^1.4.11`
+- **[Juejin](https://raycast.com/sharker_alice_sharker/jue-jin)** - Display recommended articles under each category of Nuggets, and support the selection and switching of different types of articles [`@sharker_alice_sharker`](https://raycast.com/sharker_alice_sharker) [`code`](https://github.com/raycast/extensions/tree/main/extensions/juejin) `api@^1.86.1` `utils@^1.17.0`
 - **[Latest Local News](https://raycast.com/FilipeCerejo/latest-news)** - Latest local news served by Microsoft Bing [`@FilipeCerejo`](https://raycast.com/FilipeCerejo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/latest-news) `api@^1.35.2`
 - **[Miniflux](https://raycast.com/SevicheCC/miniflux)** - A Raycast extension for Miniflux [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/miniflux) `api@^1.51.1` `utils@^1.6.1`
 - **[New York Times](https://raycast.com/Antonwy/new-york-times)** - Checkout all NYT posts [`@Antonwy`](https://raycast.com/Antonwy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) `api@^1.39.2` `utils@^1.4.8`

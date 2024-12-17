@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a83191d1c5200f12_update-time.svg)
+![Last update](/icons/a727d71c56f625bc_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1835** packages in **15** categories, **18** packages use Swift
-- **1179** authors, **674** contributors (of which **500** are only contributors, not authors)
+- **1836** packages in **15** categories, **18** packages use Swift
+- **1179** authors, **675** contributors (of which **500** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (43)
@@ -49,13 +49,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (182)
-  - [xmok](https://raycast.com/xmok) (84)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (183)
+  - [xmok](https://raycast.com/xmok) (85)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (49)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (24)
-  - [litomore](https://raycast.com/litomore) (16)
+  - [litomore](https://raycast.com/litomore) (17)
 
 <!-- END STATISTICS -->
 
@@ -678,7 +678,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Quicktype](https://raycast.com/Aayush9029/quicktype)** - Generate Models and Serializers from JSON [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicktype) `api@^1.31.0`
 - **[Radicle](https://raycast.com/sebastinez_rhizoma/radicle)** - Interact with your Radicle storage. [`@sebastinez_rhizoma`](https://raycast.com/sebastinez_rhizoma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/radicle) `api@^1.64.4` `utils@^1.10.1`
 - **[Railway Project Search](https://raycast.com/coffee-cup/railway)** - Search and navigate to your Railway projects [`@coffee-cup`](https://raycast.com/coffee-cup) [`code`](https://github.com/raycast/extensions/tree/main/extensions/railway) `api@^1.79.0` `utils@^1.16.3`
-- **[Raycast Notification](https://raycast.com/maxnyby/raycast-notification)** - This extension makes it easy to display Raycast notifications via a quicklink, making the Raycast interface accessible to other applications or scripts [`@maxnyby`](https://raycast.com/maxnyby) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) `api@^1.80.0`
+- **[Raycast Notification](https://raycast.com/maxnyby/raycast-notification)** - This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast interface accessible to other applications or scripts. [`@maxnyby`](https://raycast.com/maxnyby) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) `api@^1.87.0`
 - **[Raycast Port](https://raycast.com/litomore/raycast-port)** - This allows you to use Raycast features out of Raycast. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) `api@^1.86.1`
 - **[React Documentation](https://raycast.com/webdiego/react-docs)** - Quick links to the new React documentation [`@webdiego`](https://raycast.com/webdiego) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-docs) `api@^1.45.2`
 - **[React Native Directory](https://raycast.com/shubh_porwal/react-native-directory)** - A searchable and filterable directory of React Native libraries. [`@shubh_porwal`](https://raycast.com/shubh_porwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-native-directory) `api@^1.82.5` `utils@^1.16.3`
@@ -865,7 +865,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Gumroad Sales](https://raycast.com/eddiesigner/gumroad)** - View your sales and products from Gumroad [`@eddiesigner`](https://raycast.com/eddiesigner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gumroad) `api@^1.84.3` `utils@^1.17.0`
 - **[InFakt](https://raycast.com/teziovsky/infakt)** - Search, create and manage invoices, clients and products in inFakt directly from Raycast. [`@teziovsky`](https://raycast.com/teziovsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/infakt) `api@^1.63.0` `utils@^1.10.1`
 - **[Lunch Money Transactions](https://raycast.com/oppenheimer/lunchmoney)** - View and update your Lunch Money transactions [`@oppenheimer`](https://raycast.com/oppenheimer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lunchmoney) `api@^1.84.9` `utils@^1.17.0`
-- **[Mempool](https://raycast.com/dillionverma/mempool)** - Get current bitcoin mempool information [`@dillionverma`](https://raycast.com/dillionverma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mempool) `api@^1.33.2`
+- **[Mempool](https://raycast.com/dillionverma/mempool)** - Get current bitcoin mempool information [`@dillionverma`](https://raycast.com/dillionverma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mempool) `api@^1.79.0` `utils@^1.18.1`
 - **[Mercury](https://raycast.com/atkinsmatt101/mercury)** - Quickly see your Mercury accounts and transactions directly in Raycast [`@atkinsmatt101`](https://raycast.com/atkinsmatt101) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mercury) `api@^1.81.2` `utils@^1.16.3`
 - **[MoneyLover](https://raycast.com/lachero/moneylover)** - MoneyLover is a personal finance app that helps you manage your money, budget, and track your spending. [`@lachero`](https://raycast.com/lachero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moneylover) `api@^1.79.0` `utils@^1.16.3`
 - **[monobank](https://raycast.com/danulqua/monobank)** - View currency rates and all your accounts in monobank. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monobank) `api@^1.57.1` `utils@^1.9.0`
@@ -1307,6 +1307,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Harpoon](https://raycast.com/brian_wang/harpoon)** - Tag frequently used applications and quickly switch between them. Inspired by The Primeagen's Harpoon plugin. [`@brian_wang`](https://raycast.com/brian_wang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/harpoon) `api@^1.55.0` `utils@^1.8.0`
 - **[Harvest](https://raycast.com/eluce2/harvest)** - Access Harvest Time Entries [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/harvest) `api@^1.68.0` `utils@^1.3.1`
 - **[Hide Files](https://raycast.com/koinzhang/hide-files)** - Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hide-files) `api@^1.75.1`
+- **[Hide My Email](https://raycast.com/svenhofman/hidemyemail)** - Quick and easy way to view and manage your Hide My Email addresses. [`@svenhofman`](https://raycast.com/svenhofman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) `api@^1.85.0` `utils@^1.17.0`
 - **[Homey](https://raycast.com/DominicVonk/homey)** - Homey Flows & Devices [`@DominicVonk`](https://raycast.com/DominicVonk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/homey) `api@^1.39.1`
 - **[HubSpot Portal Launcher](https://raycast.com/chriso/hubspot-portal-launcher)** - A simple Raycast extension that allows you to quickly launch and navigate to different objects in your HubSpot portals [`@chriso`](https://raycast.com/chriso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hubspot-portal-launcher) `api@^1.50.0`
 - **[Humaans](https://raycast.com/farisaziz12/humaans)** - Interact with the Humaans platform [`@farisaziz12`](https://raycast.com/farisaziz12) [`code`](https://github.com/raycast/extensions/tree/main/extensions/humaans) `api@^1.47.3` `utils@^1.4.18`
@@ -1674,6 +1675,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Google Search](https://raycast.com/mblode/google-search)** - Google search with autosuggestions [`@mblode`](https://raycast.com/mblode) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-search) `api@^1.44.0`
 - **[Google Translate](https://raycast.com/gebeto/translate)** - Simple translation using Google Translate [`@gebeto`](https://raycast.com/gebeto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-translate) `api@^1.47.3` `utils@^1.4.16`
 - **[Hakuna](https://raycast.com/fratoro/hakuna)** - Raycast extention for hakuna.ch. Get your personal API token from app.hakuna.ch/token. [`@fratoro`](https://raycast.com/fratoro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hakuna) `api@^1.83.1` `utils@^1.17.0`
+- **[Hoarder](https://raycast.com/luolei/hoarder)** - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search [`@luolei`](https://raycast.com/luolei) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hoarder) `api@^1.86.0` `utils@^1.17.0`
 - **[Holodex](https://raycast.com/uetchy/holodex)** - Search live streams, archives, clips and channels in Holodex. [`@uetchy`](https://raycast.com/uetchy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/holodex) `api@^1.37.1`
 - **[Incognito Clone](https://raycast.com/kgrhartlage/incognito-clone)** - Open the URL of the currently active tab in an Incognito (Chromium-based) or private (Webkit-based) browser window. [`@kgrhartlage`](https://raycast.com/kgrhartlage) [`code`](https://github.com/raycast/extensions/tree/main/extensions/incognito-clone) `api@^1.50.2`
 - **[Inspire HEP Search](https://raycast.com/rpenco/inspire-search)** - Search papers on inspirehep.net and browse results inside Raycast. Includes actions to copy one or more bibtex entries, look up references or citations, and (when available) download pdf version. [`@rpenco`](https://raycast.com/rpenco) [`code`](https://github.com/raycast/extensions/tree/main/extensions/inspire-search) `api@^1.51.2` `utils@^1.7.0`
@@ -1847,7 +1849,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[HazeOver Controls](https://raycast.com/ratoru/hazeover)** - Control the HazeOver app. [`@ratoru`](https://raycast.com/ratoru) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hazeover) `api@^1.25.6`
 - **[Helm Documentation](https://raycast.com/tiagomichaelsousa/helm-docs)** - Quickly search through the Helm docs directly from Raycast. [`@tiagomichaelsousa`](https://raycast.com/tiagomichaelsousa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/helm-docs) `api@^1.28.0`
 - **[Hexlify](https://raycast.com/gkpln3/hexlify)** - Convert between hex and binary representations [`@gkpln3`](https://raycast.com/gkpln3) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hexlify) `api@^1.26.3`
-- **[Hoarder](https://raycast.com/kdurek/hoarder)** - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search [`@kdurek`](https://raycast.com/kdurek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hoarder) `api@^1.81.2` `utils@^1.16.3`
 - **[Huggingcast](https://raycast.com/ragnor/huggingcast)** - Use Huggingface models for summarization, translation, ... [`@ragnor`](https://raycast.com/ragnor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) `api@^1.25.1`
 - **[Humanize AI Text](https://raycast.com/frolik/ai-humanizer)** - Humanize AI Text [`@frolik`](https://raycast.com/frolik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) `api@^1.85.1`
 - **[IMDb Search](https://raycast.com/ryan/imdb)** - Easily open your favorite film or TV series on IMDb. [`@ryan`](https://raycast.com/ryan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imdb) `api@^1.51.3` `utils@^1.6.1`

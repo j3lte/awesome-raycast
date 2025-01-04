@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/640a6d503500ea58_update-time.svg)
+![Last update](/icons/132e1ebcb3eaf79a_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1850** packages in **15** categories, **18** packages use Swift
-- **1187** authors, **692** contributors (of which **517** are only contributors, not authors)
+- **1851** packages in **15** categories, **18** packages use Swift
+- **1188** authors, **693** contributors (of which **518** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (45)
@@ -608,7 +608,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mailwip](https://raycast.com/xmok/mailwip)** - Delete Domains, Manage Aliases, and View MailLog [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailwip) `api@^1.55.1` `utils@^1.7.0`
 - **[Man Pages](https://raycast.com/HelloImSteven/man-pages)** - Search through the macOS man pages [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/man-pages) `api@^1.46.0`
 - **[Manage Services](https://raycast.com/erics118/brew-services)** - Manage homebrew services [`@erics118`](https://raycast.com/erics118) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brew-services) `api@^1.83.1` `utils@^1.17.0`
-- **[Manotori](https://raycast.com/xmok/manotori)** - Manage Domains in Manotori [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/manotori) `api@^1.83.2` `utils@^1.17.0`
+- **[Manotori](https://raycast.com/xmok/manotori)** - Manage Domains in Manotori [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/manotori) `api@^1.87.5` `utils@^1.18.1`
 - **[Markdown Codeblock](https://raycast.com/lachero/markdown-codeblock)** - Wraps your code in a markdown codeblock [`@lachero`](https://raycast.com/lachero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-codeblock) `api@^1.85.1` `utils@^1.17.0`
 - **[Markdown Image to HTML](https://raycast.com/qeude/markdown-image-to-html)** - Transform a Markdown Image to HTML. This allows us to fix image size in Markdown base files. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-image-to-html) `api@^1.55.1`
 - **[Markdown Table Generator](https://raycast.com/Visual-Studio-Coder/markdown-table-generator)** - Specify your width and height, and receive a markdown table that you can input your own values into. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator) `api@^1.57.2`
@@ -1171,6 +1171,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Homepage](https://raycast.com/bgiovand/homepage)** - Homepage services and bookmarks in Raycast [`@bgiovand`](https://raycast.com/bgiovand) [`code`](https://github.com/raycast/extensions/tree/main/extensions/homepage) `api@^1.76.0` `utils@^1.16.0`
 - **[ICD10 Lookup](https://raycast.com/ubergraham/icd10-lookup)** - Shows matching ICD10 codes based on disease name input. Uses NLM's ICD10 API. [`@ubergraham`](https://raycast.com/ubergraham) [`code`](https://github.com/raycast/extensions/tree/main/extensions/icd10-lookup) `api@^1.75.1` `utils@^1.15.0`
 - **[Linak Desk Controller](https://raycast.com/samuelkraft/linak-desk-controller)** - Control the height of standing desks manufactured by Linak, for example the Ikea Idasen desk. [`@samuelkraft`](https://raycast.com/samuelkraft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linak-desk-controller) `api@^1.69.0`
+- **[Medialister Marketplace Helper](https://raycast.com/timsedov/medialister-marketplace-helper)** - Medialister is a marketplace where brands can buy advertorial placements in the variety of online media. The extension can help to set up proper filters and sortig options for a particular goal. [`@timsedov`](https://raycast.com/timsedov) [`code`](https://github.com/raycast/extensions/tree/main/extensions/medialister-marketplace-helper) `api@^1.87.5` `utils@^1.17.0`
 - **[Metronome](https://raycast.com/Visual-Studio-Coder/metronome)** - Based on an input (integer argument) BPM, you can get a metronome that plays a sound after a certain amount of time. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metronome) `api@^1.57.1`
 - **[MLB Scores](https://raycast.com/jso8910/mlb-scores)** - Shows current MLB game scores. [`@jso8910`](https://raycast.com/jso8910) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mlb-scores) `api@^1.31.0` `utils@^1.17.0`
 - **[Moon Phrase](https://raycast.com/bucketfish/moon-phrase)** - Show details about the current moon phase, or put it in your menu bar. [`@bucketfish`](https://raycast.com/bucketfish) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moon-phrase) `api@^1.45.3`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/74ca0eb6550edec0_update-time.svg)
+![Last update](/icons/513f6c193009ad96_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1851** packages in **15** categories, **18** packages use Swift
-- **1188** authors, **694** contributors (of which **518** are only contributors, not authors)
+- **1858** packages in **15** categories, **18** packages use Swift
+- **1195** authors, **699** contributors (of which **522** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (45)
@@ -49,9 +49,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (183)
-  - [xmok](https://raycast.com/xmok) (85)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (50)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (184)
+  - [xmok](https://raycast.com/xmok) (86)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (51)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (24)
@@ -408,7 +408,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Material Icons](https://raycast.com/creasty/material-icons)** - Search and preview Material Icons [`@creasty`](https://raycast.com/creasty) [`code`](https://github.com/raycast/extensions/tree/main/extensions/material-icons) `api@^1.59.0` `utils@^1.10.0`
 - **[MynaUI Icons](https://raycast.com/praveenjuge/mynaui-icons)** - Search and Copy MynaUI Icons. [`@praveenjuge`](https://raycast.com/praveenjuge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mynaui-icons) `api@^1.83.2`
 - **[Noun Project](https://raycast.com/Rob/noun-project)** - Search for and download SVG and PNG icons from the Noun Project [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/noun-project) `api@^1.83.0` `utils@^1.17.0`
-- **[Oklch Color Converter](https://raycast.com/strongeron/oklch-color-converter)** - Convert colors between formats with wide gamut support [`@strongeron`](https://raycast.com/strongeron) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oklch-color-converter) `api@^1.87.4`
+- **[OKLCH Color Converter](https://raycast.com/strongeron/oklch-color-converter)** - Convert colors between formats with wide gamut support [`@strongeron`](https://raycast.com/strongeron) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oklch-color-converter) `api@^1.87.4`
 - **[Paper](https://raycast.com/luctst/paper)** - Create and organize your ideas, work, etc., in Markdown files by category. [`@luctst`](https://raycast.com/luctst) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paper) `api@^1.68.1` `utils@^1.13.3`
 - **[Paper Search](https://raycast.com/mihaeltomic/papersize)** - Search international paper sizes in metric and imperial units [`@mihaeltomic`](https://raycast.com/mihaeltomic) [`code`](https://github.com/raycast/extensions/tree/main/extensions/papersize) `api@^1.84.7` `utils@^1.17.0`
 - **[Penpot](https://raycast.com/bobbymannino/penpot)** - See and quickly access your Penpot design boards [`@bobbymannino`](https://raycast.com/bobbymannino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/penpot) `api@^1.85.2` `utils@^1.17.0`
@@ -500,6 +500,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Cookie String](https://raycast.com/NicolasMontone/cookie-string-parser)** - Parses your cookie string [`@NicolasMontone`](https://raycast.com/NicolasMontone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cookie-string-parser) `api@^1.67.1`
 - **[Copilot Workspace](https://raycast.com/cole/copilot-workspace)** - Take an idea from anywhere and turn it into code with Copilot Workspace [`@cole`](https://raycast.com/cole) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) `api@^1.69.0` `utils@^1.14.0`
 - **[Copy Path](https://raycast.com/koinzhang/copy-path)** - Copy the path of the open folder, selected file or the URL of the current browser tab. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copy-path) `api@^1.84.6` `utils@^1.18.0`
+- **[Copy Text Files](https://raycast.com/netcookies/copy-text-files)** - Copy text files in current finder [`@netcookies`](https://raycast.com/netcookies) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copy-text-files) `api@^1.86.1` `utils@^1.17.0`
 - **[CRAN/E Search](https://raycast.com/flaming-codes/cran-e-search)** - Search for R-code packages & authors hosted on CRAN via the CRAN/E search engine. [`@flaming-codes`](https://raycast.com/flaming-codes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cran-e-search) `api@^1.47.3` `utils@^1.4.8`
 - **[CrawlDoc - Documentations Search Engine](https://raycast.com/johan-perso/crawldoc)** - Allow searching through multiple documentations platforms [`@johan-perso`](https://raycast.com/johan-perso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/crawldoc) `api@^1.64.4` `utils@^1.4.8`
 - **[Create Remix](https://raycast.com/nuno_costa/create-remix)** - Create Remix Run Web App using create-remix [`@nuno_costa`](https://raycast.com/nuno_costa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-create-remix) `api@^1.56.3`
@@ -714,6 +715,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Shell](https://raycast.com/asubbotin/shell)** - Run shell commands from Raycast [`@asubbotin`](https://raycast.com/asubbotin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell) `api@^1.38.2`
 - **[Shell Buddy](https://raycast.com/jebraat/shell-buddy)** - Converts natural language prompts to shell commands with AI [`@jebraat`](https://raycast.com/jebraat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) `api@^1.39.3`
 - **[Shell History](https://raycast.com/koinzhang/shell-history)** - Search shell command history from zsh, bash, and fish. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-history) `api@^1.83.1` `utils@^1.17.0`
+- **[Shopify Theme Resources](https://raycast.com/trpage_dev/shopify-theme-resources)** - Quickly reference and search Shopify theme resources, like input settings, fonts, and more for Shopify theme development. [`@trpage_dev`](https://raycast.com/trpage_dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shopify-theme-resources) `api@^1.88.4` `utils@^1.17.0`
 - **[Short.io](https://raycast.com/koinzhang/short-io)** - Shorten and search links with your own domain via Short.io [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/short-io) `api@^1.86.1` `utils@^1.18.1`
 - **[SimpleBackups](https://raycast.com/islamessam/simplebackups)** - View and manage your backups from SimpleBackups.com [`@islamessam`](https://raycast.com/islamessam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) `api@^1.39.3` `utils@^1.4.8`
 - **[SimpleTexOCR](https://raycast.com/Arthals/simpletexocr)** - A LaTeX OCR by Simpletex [`@Arthals`](https://raycast.com/Arthals) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) `api@^1.59.0` `utils@^1.10.0`
@@ -727,6 +729,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Sourcetree](https://raycast.com/i906/sourcetree)** - Search and open Sourcetree repositories [`@i906`](https://raycast.com/i906) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) `api@^1.38.2` `utils@^1.0.6`
 - **[Spiceblow - Sql Database Management](https://raycast.com/xmorse/spiceblow-database)** - Search, update, insert and delete rows in your Sql database, deeply integrated with AI [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) `api@^1.81.2` `utils@^1.17.0`
 - **[Spike](https://raycast.com/damanpreet_singh/spike)** - Resolve incidents, check who is on-call, and add overrides from Raycast. [`@damanpreet_singh`](https://raycast.com/damanpreet_singh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spike) `api@^1.83.2` `utils@^1.17.0`
+- **[Spring Initializr](https://raycast.com/danvega/spring-initializr)** - Spring Initializr is a tool that simplifies the creation of Spring Boot projects. [`@danvega`](https://raycast.com/danvega) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spring-initializr) `api@^1.88.3` `utils@^1.17.0`
 - **[Storybook Launcher](https://raycast.com/vrn/storybook-launcher)** - Browse and search stories across multiple Storybooks and open them in the browser [`@vrn`](https://raycast.com/vrn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storybook-launcher) `api@^1.56.0` `utils@^1.9.0`
 - **[Storybook Sandboxes](https://raycast.com/JReinhold/storybook-sandboxes)** - Create new Storybook sandboxes locally, or online in StackBlitz [`@JReinhold`](https://raycast.com/JReinhold) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storybook-sandboxes) `api@^1.51.1` `utils@^1.6.1`
 - **[Storybook Search](https://raycast.com/nakaakist/storybook-search)** - Search components in Storybook [`@nakaakist`](https://raycast.com/nakaakist) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storybook-search) `api@^1.51.3` `utils@^1.4.8`
@@ -864,7 +867,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Coinpaprika](https://raycast.com/gumbleliks/coinpaprika)** - Cryptocurrency Prices & Statistics [`@gumbleliks`](https://raycast.com/gumbleliks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) `api@^1.32.1`
 - **[Crypto Price](https://raycast.com/gutenye/crypto-price)** - Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar [`@gutenye`](https://raycast.com/gutenye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) `api@^1.67.1` `utils@^1.12.4`
 - **[Defichain Dobby](https://raycast.com/adrian-schnell/defichain-dobby)** - Show your current Defichain vaults, setup in https://defichain-dobby.com/ [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/defichain-dobby) `api@^1.32.1`
-- **[DefiScan.live](https://raycast.com/adrian-schnell/defiscan)** - Search on defiscan.live [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/defiscan) `api@^1.32.0`
+- **[DefiScan.live](https://raycast.com/adrian-schnell/defiscan)** - Search on defiscan.live [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/defiscan) `api@^1.87.5` `utils@^1.18.1`
 - **[Dolar Hoy Argentina](https://raycast.com/Gusta/dolar-hoy)** - US Dollars conversion to Argentine Pesos [`@Gusta`](https://raycast.com/Gusta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dolar-hoy) `api@^1.68.1` `utils@^1.12.5`
 - **[DolarCripto AR](https://raycast.com/manuel_de_la_torre/dolar-cripto-ar)** - DolarCripto AR es una extensión para Raycast que te permite visualizar en tiempo real las cotizaciones de los diferentes dólares en Argentina (CCL, MEP y Blue) y de criptomonedas populares (ETH, BTC) directamente en la barra de menú de tu Mac. [`@manuel_de_la_torre`](https://raycast.com/manuel_de_la_torre) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dolar-cripto-ar) `api@^1.75.1` `utils@^1.4.8`
 - **[Dollar Blue](https://raycast.com/agus/dollar-blue)** - Gives you the exchange rate of the "Parallel" US Dollar against Argentine Peso [`@agus`](https://raycast.com/agus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dollar-blue) `api@^1.47.3` `utils@^1.4.18`
@@ -1064,6 +1067,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MusicThread](https://raycast.com/ChucKN0risK/musicthread)** - Create a thread and add links to a thread in MusicThread [`@ChucKN0risK`](https://raycast.com/ChucKN0risK) [`code`](https://github.com/raycast/extensions/tree/main/extensions/musicthread) `api@^1.49.3`
 - **[NHK Program Search](https://raycast.com/sitogi/nhk-program-search)** - Search NHK program guide by NHK API [`@sitogi`](https://raycast.com/sitogi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nhk-program-search) `api@^1.72.1` `utils@^1.15.0`
 - **[nowplaying-cli](https://raycast.com/yusuf_akdeniz/nowplaying-cli)** - It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features [`@yusuf_akdeniz`](https://raycast.com/yusuf_akdeniz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) `api@^1.74.1` `utils@^1.16.0`
+- **[NTS Radio](https://raycast.com/tiktuk/nts)** - Shows the currently playing NTS Radio shows [`@tiktuk`](https://raycast.com/tiktuk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nts) `api@^1.87.5` `utils@^1.17.0`
 - **[NTS Radio](https://raycast.com/arjanski/nts-radio)** - Stream & Search NTS Radio [`@arjanski`](https://raycast.com/arjanski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nts-radio) `api@^1.50.0` `utils@^1.5.2`
 - **[Odesli](https://raycast.com/annedouwe/odesli)** - Get an Odesli link for the currently copied link of a song/album. Odesli is a service that provides smart music links. These links show a list of platforms you can hear the song/album on. [`@annedouwe`](https://raycast.com/annedouwe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/odesli) `api@^1.60.1`
 - **[Omnivore](https://raycast.com/karolusd/omnivore)** - Interact with Omnivore read-it-later app [`@karolusd`](https://raycast.com/karolusd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/omnivore) `api@^1.61.2` `utils@^1.10.1`
@@ -1248,6 +1252,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Clipboard Formatter](https://raycast.com/joshtemple/clipboard-formatter)** - Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. [`@joshtemple`](https://raycast.com/joshtemple) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) `api@^1.51.1`
 - **[Clipboard Utilities](https://raycast.com/csharp/clipboard-utilities)** - A bunch of utilities for actions that require multiple items in the clipboard history [`@csharp`](https://raycast.com/csharp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-utilities) `api@^1.76.0`
 - **[ClipMenu](https://raycast.com/Envl/clipmenu)** - Show Current Clipboard Content on Menu Bar [`@Envl`](https://raycast.com/Envl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipmenu) `api@^1.62.1` `utils@^1.4.8`
+- **[Close All Open Apps](https://raycast.com/guide/close-apps)** - Script that closes all open apps [`@guide`](https://raycast.com/guide) [`code`](https://github.com/raycast/extensions/tree/main/extensions/close-apps) `api@^1.87.4` `utils@^1.17.0`
 - **[Close Finder](https://raycast.com/qeude/close-finder)** - Utils to close Finder from Raycast. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/close-finder) `api@^1.64.4` `utils@^1.10.1`
 - **[Coda Bookmarks Search](https://raycast.com/allienx/coda-bookmarks-search)** - Quickly find and open your bookmarked URLs stored in a coda table. [`@allienx`](https://raycast.com/allienx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coda-bookmarks-search) `api@1.36.0`
 - **[Common Directory](https://raycast.com/koinzhang/common-directory)** - Quickly open or show common directory in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/common-directory) `api@^1.43.2`
@@ -1263,6 +1268,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Crisp](https://raycast.com/xmorse/crisp)** - Manage Crisp conversations quickly, all websites conversations in one place [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/crisp) `api@^1.76.0` `utils@^1.16.0`
 - **[Cron](https://raycast.com/astrit/cron)** - A companion for Cron (cron.re) [`@astrit`](https://raycast.com/astrit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cron) `api@^1.70.1` `utils@^1.13.6`
 - **[CSS.GG](https://raycast.com/astrit/css-gg)** - Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API [`@astrit`](https://raycast.com/astrit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/css-gg) `api@^1.38.2` `utils@^1.8.0`
+- **[CTA - Chicago Transit Authority](https://raycast.com/jonathan_ochocki/cta)** - Track and view estimated times for buses and trains provided by the Chicago Transit Authority. [`@jonathan_ochocki`](https://raycast.com/jonathan_ochocki) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cta) `api@^1.87.5` `utils@^1.17.0`
 - **[Curator Bio](https://raycast.com/Yukai/curator-bio)** - Control your curator.bio account from Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) `api@^1.44.0` `utils@^1.4.11`
 - **[cURL](https://raycast.com/jonathangiardino/curl)** - Keyboard-first HTTP client [`@jonathangiardino`](https://raycast.com/jonathangiardino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curl) `api@^1.55.2` `utils@^1.9.0`
 - **[Cursor Directory](https://raycast.com/escwxyz/cursor-directory)** - Your cursor.directory in Raycast [`@escwxyz`](https://raycast.com/escwxyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) `api@^1.84.2` `utils@^1.18.0`
@@ -1352,6 +1358,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Laravel Tips](https://raycast.com/Godruoyi/laravel-tips)** - Get or search laravel tips in Raycast [`@Godruoyi`](https://raycast.com/Godruoyi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laravel-tips) `api@^1.53.1` `utils@^1.7.1`
 - **[LastPass Credentials Search](https://raycast.com/alex-popov-tech/lastpass)** - Search, view, and copy credentials from LastPass [`@alex-popov-tech`](https://raycast.com/alex-popov-tech) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lastpass) `api@^1.47.1` `utils@^1.4.16`
 - **[Linear](https://raycast.com/thomaslombart/linear)** - Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linear) `api@^1.72.1` `utils@^1.16.0`
+- **[Link Bundles](https://raycast.com/toni_birka/link-bundles)** - Efficiently manage and launch groups of links in specific Chrome profiles. [`@toni_birka`](https://raycast.com/toni_birka) [`code`](https://github.com/raycast/extensions/tree/main/extensions/link-bundles) `api@^1.85.2` `utils@^1.17.0`
 - **[Link Lock - Password Locked Links](https://raycast.com/EvanZhouDev/raycast-link-lock)** - Using shrtcode, protect any link with a password! [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-link-lock) `api@^1.57.0` `utils@^1.9.0`
 - **[Linkwarden](https://raycast.com/leodbrs/linkwarden)** - Manage your Linkwarden bookmarks directly from Raycast. You can add new bookmarks and search through your existing ones effortlessly. [`@leodbrs`](https://raycast.com/leodbrs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linkwarden) `api@^1.79.0` `utils@^1.17.0`
 - **[Logitech Litra](https://raycast.com/timrogers/logitech-litra)** - Manage USB-connected Logitech Litra Glow, Litra Beam and Litra Beam LX lights from Raycast [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/logitech-litra) `api@^1.71.4`

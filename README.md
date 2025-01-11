@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/fa38230d4b24863f_update-time.svg)
+![Last update](/icons/9547bc28e20fbc48_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1867** packages in **15** categories, **19** packages use Swift
-- **1200** authors, **702** contributors (of which **524** are only contributors, not authors)
+- **1871** packages in **15** categories, **19** packages use Swift
+- **1203** authors, **704** contributors (of which **524** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (48)
@@ -138,6 +138,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Kaleidoscope](https://raycast.com/anfalas/kaleidoscope)** - Opens Kaleidoscope from selected files [`@anfalas`](https://raycast.com/anfalas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) `api@^1.63.0`
 - **[Klack](https://raycast.com/henrikruscon/klack)** - Control Klack for macOS with Raycast [`@henrikruscon`](https://raycast.com/henrikruscon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/klack) `api@^1.73.2`
 - **[Lark AppLink](https://raycast.com/chyroc/lark-applink)** - Open Lark AppLink [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) `api@^1.32.1`
+- **[LaunchDarkly](https://raycast.com/luarmr/launchdarkly)** - A Raycast extension integrating with LaunchDarkly [`@luarmr`](https://raycast.com/luarmr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly) `api@^1.88.4` `utils@^1.18.1`
 - **[Leafcast](https://raycast.com/syropian/leafcast)** - Control your Nanoleaf panels with Raycast! Unofficial extension. [`@syropian`](https://raycast.com/syropian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/leafcast) `api@^1.59.0` `utils@^1.10.0`
 - **[Leitner Box](https://raycast.com/gzyannick/leitnerbox)** - This is a simple extension that use the concept of a learning process called leitner box [`@gzyannick`](https://raycast.com/gzyannick) [`code`](https://github.com/raycast/extensions/tree/main/extensions/leitnerbox) `api@^1.66.0` `utils@^1.12.4`
 - **[Liba.ro - URL Shortener](https://raycast.com/libaro/liba-ro_shortener)** - The Libaro powered URL shortener Shorten your URL in seconds [`@libaro`](https://raycast.com/libaro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) `api@^1.44.0`
@@ -298,6 +299,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[DICOM](https://raycast.com/sedghi/dicom)** - DICOM tag lookup [`@sedghi`](https://raycast.com/sedghi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dicom) `api@^1.38.0`
 - **[Diff Checker](https://raycast.com/destiner/diff-checker)** - Compare content of two texts [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/diff-checker) `api@^1.28.0`
 - **[Dota 2](https://raycast.com/FlorianWendelborn/dota-2)** - View various data about Dota 2, like heroes and their stats. [`@FlorianWendelborn`](https://raycast.com/FlorianWendelborn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dota-2) `api@^1.39.3`
+- **[Dovetail](https://raycast.com/barlow/dovetail)** - Search for data in your Dovetail workspace from wherever you are. [`@barlow`](https://raycast.com/barlow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dovetail) `api@^1.88.4` `utils@^1.17.0`
 - **[Dutch License Plate Search](https://raycast.com/jeffreyvanhees/rdw-kentekencheck)** - Shows details about Dutch cars by their license plate [`@jeffreyvanhees`](https://raycast.com/jeffreyvanhees) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rdw-kentekencheck) `api@^1.75.2` `utils@^1.15.0`
 - **[eBird](https://raycast.com/OozyGrub/ebird)** - Exploring bird species from eBird [`@OozyGrub`](https://raycast.com/OozyGrub) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ebird) `api@^1.49.1` `utils@^1.4.8`
 - **[Emissions Calculator](https://raycast.com/andreaselia/emissions-calculator)** - Calculate the carbon emissions for the given distance and mode of transport. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/emissions-calculator) `api@^1.48.9`
@@ -488,7 +490,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CIDR Conversion](https://raycast.com/Yansong/cidr)** - CIDR to IPv4 Conversion [`@Yansong`](https://raycast.com/Yansong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cidr) `api@^1.47.3`
 - **[Cloudflare](https://raycast.com/destiner/cloudflare)** - Search and view your Cloudflare sites, pages, domains, and more [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) `api@^1.79.0` `utils@^1.18.1`
 - **[Code Grepper](https://raycast.com/emircanerkul/codegrepper)** - Get code examples instantly [`@emircanerkul`](https://raycast.com/emircanerkul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codegrepper) `api@^1.43.2` `utils@^1.4.11`
-- **[Code Quarkus](https://raycast.com/loic_magnette/code-quarkus)** - Create new Quarkus project [`@loic_magnette`](https://raycast.com/loic_magnette) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-quarkus) `api@^1.85.2` `utils@^1.18.0`
+- **[Code Quarkus](https://raycast.com/loic_magnette/code-quarkus)** - Create new Quarkus project [`@loic_magnette`](https://raycast.com/loic_magnette) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-quarkus) `api@^1.86.1` `utils@^1.18.1`
 - **[Code Saver](https://raycast.com/Gnosnay/code-saver)** - store your code snippets and export them freely when you need it. [`@Gnosnay`](https://raycast.com/Gnosnay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-saver) `api@^1.48.9` `utils@^1.5.2`
 - **[Code Stash](https://raycast.com/ben-greenwood/code-stash)** - Searching git.. now you have two problems. Store chunks of code and retrieve them later [`@ben-greenwood`](https://raycast.com/ben-greenwood) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-stash) `api@^1.42.0`
 - **[CodeBlocks](https://raycast.com/isfeng/codeblocks)** - Set or modify the programming language in markdown code blocks in batch. [`@isfeng`](https://raycast.com/isfeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/CodeBlocks) `api@^1.37.1`
@@ -1279,6 +1281,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Cursor Directory](https://raycast.com/escwxyz/cursor-directory)** - Your cursor.directory in Raycast [`@escwxyz`](https://raycast.com/escwxyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) `api@^1.84.2` `utils@^1.18.0`
 - **[Dash Off](https://raycast.com/peduarte/dash-off)** - The fastest way to dash off a quick email to yourself and others [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dash-off) `api@^1.65.0` `utils@^1.11.1`
 - **[Deduplicator](https://raycast.com/HerbertLu/deduplicator)** - A text tool for de-duplicating text content. [`@HerbertLu`](https://raycast.com/HerbertLu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deduplicator) `api@^1.44.0`
+- **[Deepseek Quick Actions](https://raycast.com/ViGeng/deepseeker)** - Performs one-shot actions with DeepSeek and more [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deepseeker) `api@^1.50.0`
 - **[Descript to YouTube Chapters](https://raycast.com/peduarte/descript-to-youtube-chapters)** - Convert Descript's transcript file into YouTube Chapters [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) `api@^1.47.0`
 - **[DEVONthink](https://raycast.com/bgnfu7re/devonthink)** - Search through DEVONthink [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/devonthink) `api@^1.39.2`
 - **[DEX Screener](https://raycast.com/wp-lai/dex-screener)** - Search token pair in dexscreener.com [`@wp-lai`](https://raycast.com/wp-lai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dex-screener) `api@^1.31.0`
@@ -1865,6 +1868,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[GitHub Status](https://raycast.com/FezVrasta/github-status)** - Quickly check why GitHub is down today [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-status) `api@^1.31.0`
 - **[GitLab Docs](https://raycast.com/saschaeggi/gitlab-docs)** - Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. [`@saschaeggi`](https://raycast.com/saschaeggi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) `api@^1.36.1`
 - **[Gitmoji Search](https://raycast.com/ricoberger/gitmoji)** - Gitmoji is an emoji guide for your commit messages [`@ricoberger`](https://raycast.com/ricoberger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitmoji) `api@^1.42.0` `utils@^1.5.2`
+- **[Glide](https://raycast.com/titouanv/glide)** - Extension to open Glide Apps [`@titouanv`](https://raycast.com/titouanv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/glide) `api@^1.84.7` `utils@^1.17.0`
 - **[Golden Ratio](https://raycast.com/yang_monch/golden-ratio)** - Gold ratio and silver ratio calculation tool [`@yang_monch`](https://raycast.com/yang_monch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) `api@^1.76.1`
 - **[Google Books](https://raycast.com/aparandeh/google-books)** - Search Books with Google Books [`@aparandeh`](https://raycast.com/aparandeh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-books) `api@^1.27.0`
 - **[Google Calendar Epic Time Logger](https://raycast.com/aramikuto/time-logger)** - Helps you register your work to Google Calendar [`@aramikuto`](https://raycast.com/aramikuto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/time-logger) `api@^1.60.1`

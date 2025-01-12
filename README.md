@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/9547bc28e20fbc48_update-time.svg)
+![Last update](/icons/3e6c6cd9ca0a74e9_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1871** packages in **15** categories, **19** packages use Swift
-- **1203** authors, **704** contributors (of which **524** are only contributors, not authors)
+- **1203** authors, **705** contributors (of which **525** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (48)
@@ -616,7 +616,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Markdown Codeblock](https://raycast.com/lachero/markdown-codeblock)** - Wraps your code in a markdown codeblock [`@lachero`](https://raycast.com/lachero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-codeblock) `api@^1.85.1` `utils@^1.17.0`
 - **[Markdown Image to HTML](https://raycast.com/qeude/markdown-image-to-html)** - Transform a Markdown Image to HTML. This allows us to fix image size in Markdown base files. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-image-to-html) `api@^1.55.1`
 - **[Markdown Table Generator](https://raycast.com/Visual-Studio-Coder/markdown-table-generator)** - Specify your width and height, and receive a markdown table that you can input your own values into. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-table-generator) `api@^1.57.2`
-- **[Markdown This](https://raycast.com/aravindballa/markdown-this)** - Convert Markdown text in clipboard to HTML [`@aravindballa`](https://raycast.com/aravindballa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-this) `api@^1.35.2`
+- **[Markdown This](https://raycast.com/aravindballa/markdown-this)** - Convert Markdown text in clipboard to HTML [`@aravindballa`](https://raycast.com/aravindballa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-this) `api@^1.88.4` `utils@^1.17.0`
 - **[Maven Central Repository](https://raycast.com/koinzhang/maven-central-repository)** - Official search by the maintainers of Maven Central Repository. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/maven-central-repository) `api@^1.75.1` `utils@^1.15.0`
 - **[MiniSim](https://raycast.com/okwasniewski/minisim)** - Raycast extension for MiniSim [`@okwasniewski`](https://raycast.com/okwasniewski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minisim) `api@^1.53.4` `utils@^1.9.1`
 - **[mittwald](https://raycast.com/danieldeichfuss/mittwald)** - Search mittwald mStudio and API documentation. [`@danieldeichfuss`](https://raycast.com/danieldeichfuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mittwald) `api@^1.81.2` `utils@^1.16.5`

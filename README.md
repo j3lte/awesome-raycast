@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/d5bcd9e12fe2fbdc_update-time.svg)
+![Last update](/icons/ed47331cf5f12193_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1875** packages in **15** categories, **19** packages use Swift
-- **1205** authors, **707** contributors (of which **527** are only contributors, not authors)
+- **1205** authors, **708** contributors (of which **528** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (48)
@@ -709,7 +709,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Scrcpy](https://raycast.com/zcfan/scrcpy)** - Mirror android device screen with scrcpy [`@zcfan`](https://raycast.com/zcfan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) `api@^1.48.5`
 - **[SCSS Compile](https://raycast.com/SuoweiHu/scss-compile)** - Utility that convert SCSS (Sassy Cascading Style Sheets) file into CSS file [`@SuoweiHu`](https://raycast.com/SuoweiHu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scss-compile) `api@^1.76.0` `utils@^1.16.0`
 - **[Search Hex](https://raycast.com/jordelver/search-hex)** - A Raycast extension that enables you to quickly look up package information from Hex [`@jordelver`](https://raycast.com/jordelver) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-hexpm) `api@^1.40.1`
-- **[Search npm Packages](https://raycast.com/mrmartineau/search-npm)** - Search for npm package information [`@mrmartineau`](https://raycast.com/mrmartineau) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-npm) `api@^1.87.5` `utils@^1.18.1`
+- **[Search npm Packages](https://raycast.com/mrmartineau/search-npm)** - Search for npm package information [`@mrmartineau`](https://raycast.com/mrmartineau) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-npm) `api@^1.88.4` `utils@^1.18.1`
 - **[Search R Packages](https://raycast.com/grrrck/r-pkg-search)** - Search and lookup information about R packages using r-pkg.org. [`@grrrck`](https://raycast.com/grrrck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) `api@^1.72.0`
 - **[Search Vant Documentation](https://raycast.com/cai_aisen/vant-documentation)** - Search Vant documentation [`@cai_aisen`](https://raycast.com/cai_aisen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vant-documentation) `api@^1.82.3` `utils@^1.16.3`
 - **[Sesh](https://raycast.com/joshmedeski/sesh)** - Smart, instant terminal session management. [`@joshmedeski`](https://raycast.com/joshmedeski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sesh) `api@^1.57.2`

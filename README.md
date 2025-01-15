@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/ed47331cf5f12193_update-time.svg)
+![Last update](/icons/c5c6be2a6717fdc4_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1875** packages in **15** categories, **19** packages use Swift
-- **1205** authors, **708** contributors (of which **528** are only contributors, not authors)
+- **1876** packages in **15** categories, **19** packages use Swift
+- **1206** authors, **708** contributors (of which **528** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (48)
@@ -452,7 +452,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Alacritty](https://raycast.com/jose-elias-alvarez/alacritty)** - Adds commands to control the Alacritty terminal emulator. [`@jose-elias-alvarez`](https://raycast.com/jose-elias-alvarez) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alacritty) `api@^1.55.1`
 - **[Alt-Text Generator](https://raycast.com/jack_casica/alt-text-generator)** - This extension makes it easy to generate descriptive alt-text for images. Simply provide an image URL, and the extension will make a call to the openai api to create a concise and descriptive alt text. This extension is Bring-Your-Own-Key (support for OpenAI only at the moment). If you don't have an API key yet, you can sign up for one at [OpenAI - Api Keys](https://platform.openai.com/api-keys). [`@jack_casica`](https://raycast.com/jack_casica) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alt-text-generator) `api@^1.72.1` `utils@^1.15.0`
 - **[Amazon AWS](https://raycast.com/Falcon/aws)** - The best way to interact with your AWS resources [`@Falcon`](https://raycast.com/Falcon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) `api@^1.42.0` `utils@^1.4.11`
-- **[Android](https://raycast.com/mibrahimdev/android)** - Useful Android commands to list projects and emulators [`@mibrahimdev`](https://raycast.com/mibrahimdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/android) `api@^1.59.0`
+- **[Android](https://raycast.com/mibrahimdev/android)** - Useful Android commands to list projects and emulators [`@mibrahimdev`](https://raycast.com/mibrahimdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/android) `api@^1.79.0`
 - **[Android Debug Bridge (Adb) Commands](https://raycast.com/Quentin23Soleil/adb)** - Run useful adb commands [`@Quentin23Soleil`](https://raycast.com/Quentin23Soleil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adb) `api@^1.72.1`
 - **[Android Screen Capture](https://raycast.com/chenhuazhao/android-screen-capture)** - Screenshot & screenrecords of Android via ADB [`@chenhuazhao`](https://raycast.com/chenhuazhao) [`code`](https://github.com/raycast/extensions/tree/main/extensions/android-screen-capture) `api@^1.51.3`
 - **[Android Versions](https://raycast.com/bruce3x/android-versions)** - Search quickly between Android version number, API level, codename. [`@bruce3x`](https://raycast.com/bruce3x) [`code`](https://github.com/raycast/extensions/tree/main/extensions/android-versions) `api@^1.69.0`
@@ -852,7 +852,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Textlint AWS Service Name](https://raycast.com/bun913/raycast-textlint-rule-aws-service-name)** - Check AWS services name typo [`@bun913`](https://raycast.com/bun913) [`code`](https://github.com/raycast/extensions/tree/main/extensions/textlint-rule-aws-service-name) `api@^1.49.3`
 - **[WCAG](https://raycast.com/fgeierst/wcag)** - Search the Web Content Accessibility Guidelines (WCAG) 2.2 [`@fgeierst`](https://raycast.com/fgeierst) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wcag) `api@^1.69.0`
 - **[WordPress Docs](https://raycast.com/tillkruss/wordpress-docs)** - Search the WordPress code reference. [`@tillkruss`](https://raycast.com/tillkruss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordpress-docs) `api@^1.51.1` `utils@^1.6.1`
-- **[Zeabur Docs](https://raycast.com/ridemountainpig/zeabur-docs)** - Search Zeabur Docs [`@ridemountainpig`](https://raycast.com/ridemountainpig) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zeabur-docs) `api@^1.81.2` `utils@^1.16.3`
+- **[Zeabur Docs](https://raycast.com/ridemountainpig/zeabur-docs)** - Search Zeabur Docs [`@ridemountainpig`](https://raycast.com/ridemountainpig) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zeabur) `api@^1.81.2` `utils@^1.16.3`
 - **[Zod Docs](https://raycast.com/danieldeichfuss/zod-documentation)** - Search Zod docs and open in the browser [`@danieldeichfuss`](https://raycast.com/danieldeichfuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zod-documentation) `api@^1.84.3` `utils@^1.17.0`
 
 
@@ -1532,6 +1532,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Time Until I Do](https://raycast.com/MuhaddiMu/time-until-i-do)** - Time Until 'The Big Day' is a customizable Raycast extension that helps you keep track of the time left until your upcoming event. Whether you're counting down to a birthday, anniversary, vacation, or any other special occasion, this extension has you covered. Stay motivated and inspired with its daily quotes and focus points. Download now and start counting down to your big day! [`@MuhaddiMu`](https://raycast.com/MuhaddiMu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/time-until-i-do) `api@^1.48.8`
 - **[Time-Traveling World Clock](https://raycast.com/marky/world-clock)** - A world clock that enables you to scrub across time and see the corresponding time across various cities. [`@marky`](https://raycast.com/marky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/time-traveling-world-clock) `api@^1.79.0`
 - **[TimeCamp](https://raycast.com/iAmKevinCruz/timecamp)** - Start and stop TimeCamp tasks. [`@iAmKevinCruz`](https://raycast.com/iAmKevinCruz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/timecamp) `api@^1.65.0` `utils@^1.11.1`
+- **[TimeCrowd Tracker](https://raycast.com/machamp0714/timecrowd-tracker)** - Track your time with TimeCrowd [`@machamp0714`](https://raycast.com/machamp0714) [`code`](https://github.com/raycast/extensions/tree/main/extensions/timecrowd-tracker) `api@^1.88.4` `utils@^1.17.0`
 - **[Timers](https://raycast.com/ThatNerd/timers)** - Start, stop, and save countdown timers, directly in Raycast, with no external dependencies. [`@ThatNerd`](https://raycast.com/ThatNerd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/timers) `api@^1.78.1`
 - **[TL;DR (Too Long; Didn't Read)](https://raycast.com/chessjoe/tl-dr-ai-summary-tool)** - Let AI help you read articles from url. [`@chessjoe`](https://raycast.com/chessjoe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) `api@^1.65.0`
 - **[Tny](https://raycast.com/stayallive/tny)** - Shorten links with Tny by Chief Tools. [`@stayallive`](https://raycast.com/stayallive) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tny) `api@^1.66.2` `utils@^1.12.5`

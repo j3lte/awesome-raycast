@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/c750f1f8b80ff10a_update-time.svg)
+![Last update](/icons/5ed89e9e2b2c958e_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1883** packages in **15** categories, **19** packages use Swift
+- **1884** packages in **15** categories, **19** packages use Swift
 - **1211** authors, **708** contributors (of which **528** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -857,7 +857,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Textlint AWS Service Name](https://raycast.com/bun913/raycast-textlint-rule-aws-service-name)** - Check AWS services name typo [`@bun913`](https://raycast.com/bun913) [`code`](https://github.com/raycast/extensions/tree/main/extensions/textlint-rule-aws-service-name) `api@^1.49.3`
 - **[WCAG](https://raycast.com/fgeierst/wcag)** - Search the Web Content Accessibility Guidelines (WCAG) 2.2 [`@fgeierst`](https://raycast.com/fgeierst) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wcag) `api@^1.69.0`
 - **[WordPress Docs](https://raycast.com/tillkruss/wordpress-docs)** - Search the WordPress code reference. [`@tillkruss`](https://raycast.com/tillkruss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordpress-docs) `api@^1.51.1` `utils@^1.6.1`
-- **[Zeabur](https://raycast.com/ridemountainpig/zeabur)** - The Raycast extension for Zeabur [`@ridemountainpig`](https://raycast.com/ridemountainpig) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zeabur) `api@^1.81.2` `utils@^1.16.3`
+- **[Zeabur](https://raycast.com/ridemountainpig/zeabur)** - The Raycast extension for Zeabur. [`@ridemountainpig`](https://raycast.com/ridemountainpig) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zeabur) `api@^1.81.2` `utils@^1.16.3`
 - **[Zod Docs](https://raycast.com/danieldeichfuss/zod-documentation)** - Search Zod docs and open in the browser [`@danieldeichfuss`](https://raycast.com/danieldeichfuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zod-documentation) `api@^1.84.3` `utils@^1.17.0`
 
 
@@ -1397,6 +1397,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MindNode](https://raycast.com/thuggyduck/mindnode)** - Create Mindmap Quickly using Raycast [`@thuggyduck`](https://raycast.com/thuggyduck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mindnode) `api@^1.62.0`
 - **[Minecraft Color Codes](https://raycast.com/lafkpages/minecraft-color-codes)** - View and copy Minecraft chat color codes. [`@lafkpages`](https://raycast.com/lafkpages) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) `api@^1.72.1` `utils@^1.16.3`
 - **[Miro](https://raycast.com/felixhaeberle/miro)** - Create, search and copy link, open Miro boards and more. [`@felixhaeberle`](https://raycast.com/felixhaeberle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/miro) `api@^1.41.1` `utils@^1.4.10`
+- **[Mirror Displays](https://raycast.com/yonbergman/mirror-displays)** - Toggles mirroring of external displays quickly [`@yonbergman`](https://raycast.com/yonbergman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mirror-displays) `api@^1.88.4` `utils@^1.17.0`
 - **[Mochi](https://raycast.com/kawamataryo/mochi)** - Quickly create Mochi cards [`@kawamataryo`](https://raycast.com/kawamataryo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mochi) `api@^1.45.3` `utils@^1.4.15`
 - **[MOCO](https://raycast.com/eviscares/moco)** - Provide Integration to MOCO timetracking. [`@eviscares`](https://raycast.com/eviscares) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moco) `api@^1.43.2`
 - **[MonitorMate](https://raycast.com/MuhaddiMu/monitor-mate)** - MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check their status. It also provides a dashboard to see the status of all your monitoring resources. [`@MuhaddiMu`](https://raycast.com/MuhaddiMu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) `api@^1.67.1`

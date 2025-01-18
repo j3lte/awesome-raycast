@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/5ed89e9e2b2c958e_update-time.svg)
+![Last update](/icons/9d0a28d4a2f5dca3_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1884** packages in **15** categories, **19** packages use Swift
-- **1211** authors, **708** contributors (of which **528** are only contributors, not authors)
+- **1885** packages in **15** categories, **19** packages use Swift
+- **1212** authors, **707** contributors (of which **527** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (48)
@@ -843,10 +843,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Scrapbox Search](https://raycast.com/zett-8/scrapbox-search)** - Search Scrapbox pages and open quickly. [`@zett-8`](https://raycast.com/zett-8) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scrapbox-search) `api@^1.48.9` `utils@^1.5.2`
 - **[Search Ansible Documentation](https://raycast.com/Kcih4518/search-ansible-documentation)** - Search Ansible Offical Documentation [`@Kcih4518`](https://raycast.com/Kcih4518) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ansible-documentation) `api@^1.39.1`
 - **[Search Astro Documentation](https://raycast.com/ElianCodes/search-astro-docs)** - Search the Astro Documentation right from Raycast [`@ElianCodes`](https://raycast.com/ElianCodes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-astro-docs) `api@^1.59.0` `utils@^1.10.0`
-- **[Search Shopify Liquid Documentation](https://raycast.com/maximedaraize/search-shopify-liquid-documentation)** - Search Shopify's Liquid Documentation Directly From Raycast [`@maximedaraize`](https://raycast.com/maximedaraize) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-shopify-liquid-documentation) `api@^1.60.1`
 - **[Searching Vue.js Documentation](https://raycast.com/DavidPascaud/vuejs-documentation)** - Search VueJS documentation (v3) [`@DavidPascaud`](https://raycast.com/DavidPascaud) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vuejs-documentation) `api@^1.30.1`
 - **[Serverless Framework Docs](https://raycast.com/yemilgr/serverless-framework-docs)** - Quickly search through serverless framework documentation and open it in the browser [`@yemilgr`](https://raycast.com/yemilgr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/serverless-framework-docs) `api@^1.39.3`
 - **[shadcn/ui](https://raycast.com/luisFilipePT/shadcn-ui)** - Browse shadcn/ui documentation, components and examples [`@luisFilipePT`](https://raycast.com/luisFilipePT) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-ui) `api@^1.52.1` `utils@^1.4.8`
+- **[Shopify Liquid Documentation](https://raycast.com/maximedaraize/search-shopify-liquid-documentation)** - Search Shopify's Liquid Documentation Directly From Raycast [`@maximedaraize`](https://raycast.com/maximedaraize) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-shopify-liquid-documentation) `api@^1.60.1`
 - **[Shopify Polaris Docs](https://raycast.com/approxhuman/shopify-polaris-docs)** - Search through Shopify Polaris documentation from Raycast [`@approxhuman`](https://raycast.com/approxhuman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shopify-polaris-docs) `api@^1.87.4` `utils@^1.17.0`
 - **[Simple Memo](https://raycast.com/hyokwonkim/simple-memo)** - A lightweight local memo extension for Raycast. [`@hyokwonkim`](https://raycast.com/hyokwonkim) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-memo) `api@^1.84.3` `utils@^1.17.0`
 - **[SiteSpeakAI](https://raycast.com/hermanschutte/sitespeakai)** - Train a chatbot on any website or documentation, then get answers in your command bar. [`@hermanschutte`](https://raycast.com/hermanschutte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sitespeakai) `api@^1.60.1` `utils@^1.10.0`
@@ -1079,6 +1079,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[nowplaying-cli](https://raycast.com/yusuf_akdeniz/nowplaying-cli)** - It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features [`@yusuf_akdeniz`](https://raycast.com/yusuf_akdeniz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) `api@^1.74.1` `utils@^1.16.0`
 - **[NTS Radio](https://raycast.com/tiktuk/nts)** - Shows the currently playing NTS Radio shows [`@tiktuk`](https://raycast.com/tiktuk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nts) `api@^1.87.5` `utils@^1.17.0`
 - **[NTS Radio](https://raycast.com/arjanski/nts-radio)** - Stream & Search NTS Radio [`@arjanski`](https://raycast.com/arjanski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nts-radio) `api@^1.50.0` `utils@^1.5.2`
+- **[NZBGet](https://raycast.com/wyattjoh/nzbget)** - Manage your NZBGet application from the comfort of Raycast. [`@wyattjoh`](https://raycast.com/wyattjoh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nzbget) `api@^1.88.4` `utils@^1.17.0`
 - **[Odesli](https://raycast.com/annedouwe/odesli)** - Get an Odesli link for the currently copied link of a song/album. Odesli is a service that provides smart music links. These links show a list of platforms you can hear the song/album on. [`@annedouwe`](https://raycast.com/annedouwe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/odesli) `api@^1.60.1`
 - **[Omnivore](https://raycast.com/karolusd/omnivore)** - Interact with Omnivore read-it-later app [`@karolusd`](https://raycast.com/karolusd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/omnivore) `api@^1.61.2` `utils@^1.10.1`
 - **[OpenAI Generator](https://raycast.com/josephschmitt/ai-gen)** - AI generation using OpenAI's GPT-3 and DALL·E AI models [`@josephschmitt`](https://raycast.com/josephschmitt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-gen) `api@^1.43.2`
@@ -1233,7 +1234,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Anki](https://raycast.com/anton-suprun/anki)** - Anki extension for Raycast [`@anton-suprun`](https://raycast.com/anton-suprun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anki) `api@^1.87.4` `utils@^1.17.0`
 - **[Apple Books](https://raycast.com/vimtor/apple-books)** - Search Apple Books from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-books) `api@^1.47.3` `utils@^1.5.2`
 - **[Apple Intelligence](https://raycast.com/EvanZhouDev/raycast-apple-intelligence)** - Use Apple Intelligence from the comfort of Raycast. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) `api@^1.84.9` `utils@^1.18.0`
-- **[Apple Reminders](https://raycast.com/thomaslombart/apple-reminders)** - Manage Apple Reminders. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) `api@^1.75.1` `utils@^1.14.0` `swift`
+- **[Apple Reminders](https://raycast.com/thomaslombart/apple-reminders)** - Manage Apple Reminders. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) `api@^1.75.1` `utils@^1.18.1` `swift`
 - **[Apply Inline Code](https://raycast.com/alexian853/apply-inline-code)** - Apply inline code style in common apps and websites [`@alexian853`](https://raycast.com/alexian853) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) `api@^1.70.3` `utils@^1.13.6`
 - **[Arabic Keyboard](https://raycast.com/mSarheed/arabic-keyboard)** - Arabic Keyboard for Raycast [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arabic-keyboard) `api@^1.79.1`
 - **[ArXiv Search](https://raycast.com/koayon/arxiv)** - Search the arXiv for papers and find citations. For Researchers, Students and Scholars in Computer Science, Mathematics, Physics, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics. [`@koayon`](https://raycast.com/koayon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arxiv) `api@^1.52.1` `utils@^1.4.8`

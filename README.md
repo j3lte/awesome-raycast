@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/9d0a28d4a2f5dca3_update-time.svg)
+![Last update](/icons/6383fa7264ea46af_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1885** packages in **15** categories, **19** packages use Swift
-- **1212** authors, **707** contributors (of which **527** are only contributors, not authors)
+- **1886** packages in **15** categories, **19** packages use Swift
+- **1213** authors, **707** contributors (of which **527** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (48)
@@ -1604,6 +1604,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 **[`^        back to top        ^`](#awesome-raycast)**
 
 - **[1Password](https://raycast.com/khasbilegt/1password)** - Search, open or edit your 1Password passwords from Raycast [`@khasbilegt`](https://raycast.com/khasbilegt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1password) `api@^1.86.1` `utils@^1.18.1`
+- **[Adguard Home](https://raycast.com/theplgeek/adguard-home)** - Control your AdGuard Home instance [`@theplgeek`](https://raycast.com/theplgeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adguard-home) `api@^1.89.0`
 - **[Aegis Authenticator](https://raycast.com/bfayers/aegis)** - Search, sync and use your Aegis 2FA database with Raycast [`@bfayers`](https://raycast.com/bfayers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aegis) `api@^1.77.1` `utils@^1.16.1`
 - **[Apple-Like Password](https://raycast.com/breadone/keychain-password-gen)** - Copies a generated Apple Keychain-Like password directly to the clipboard in one step [`@breadone`](https://raycast.com/breadone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) `api@^1.48.8`
 - **[Authy - Twilio App](https://raycast.com/guga4ka/authy)** - Search, sync and use your Twilio’s Authy 2fa tokens with Raycast [`@guga4ka`](https://raycast.com/guga4ka) [`code`](https://github.com/raycast/extensions/tree/main/extensions/authy) `api@^1.77.1` `utils@^1.16.1`

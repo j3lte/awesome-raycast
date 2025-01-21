@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/9be0e2f9c176e8ed_update-time.svg)
+![Last update](/icons/596e90f230c52d89_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,11 +38,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1890** packages in **15** categories, **19** packages use Swift
-- **1216** authors, **709** contributors (of which **529** are only contributors, not authors)
+- **1892** packages in **15** categories, **19** packages use Swift
+- **1217** authors, **710** contributors (of which **530** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
-  - [xmok](https://raycast.com/xmok) (48)
+  - [xmok](https://raycast.com/xmok) (49)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (15)
   - [peduarte](https://raycast.com/peduarte) (14)
@@ -372,7 +372,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Valorant Esports](https://raycast.com/vimtor/valorant-esports)** - Search Valorant esports schedules and standings. [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/valorant-esports) `api@^1.66.2` `utils@^1.12.0`
 - **[vatlayer](https://raycast.com/xmok/vatlayer)** - Validate VAT numbers, retrieve all or single EU VAT rates based on IP address or country code, convert prices in compliance with EU VAT rates and types, and more. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vatlayer) `api@^1.58.0` `utils@^1.4.8`
 - **[Workouts](https://raycast.com/samuelkraft/workouts)** - Stay on top of your workouts from Strava [`@samuelkraft`](https://raycast.com/samuelkraft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/workouts) `api@^1.71.0` `utils@^1.15.0`
-- **[World Clock](https://raycast.com/koinzhang/world-clock)** - Query the current time of a region, ip or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/world-clock) `api@^1.79.1` `utils@^1.16.2`
+- **[World Clock](https://raycast.com/koinzhang/world-clock)** - Query the current time of a region, ip or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/world-clock) `api@^1.89.0` `utils@^1.18.1`
 - **[Zefix](https://raycast.com/cmdr/zefix)** - A Raycast extension that looks up companies in the Swiss national trade register [`@cmdr`](https://raycast.com/cmdr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zefix) `api@1.78.1` `utils@1.16.1`
 - **[Zipcodebase](https://raycast.com/xmok/zipcodebase)** - Lookup postal codes, calculate distances and much more with Zipcodebase. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) `api@^1.68.0` `utils@^1.10.1`
 
@@ -631,6 +631,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MUI Documentation](https://raycast.com/kgrhartlage/mui-documentation)** - Search the online MUI documentation. [`@kgrhartlage`](https://raycast.com/kgrhartlage) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) `api@^1.55.2` `utils@^1.9.0`
 - **[MultiForce](https://raycast.com/brian_j_decoder22/multi-force)** - Allows a Salesforce Developer to access and authenticate orgs availabe via the SF command line tools. [`@brian_j_decoder22`](https://raycast.com/brian_j_decoder22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multi-force) `api@^1.67.1` `utils@^1.12.5`
 - **[MyIdlers](https://raycast.com/xmok/myidlers)** - View Summary and details of your idlers [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/my-idlers) `api@^1.87.0` `utils@^1.17.0`
+- **[Neon](https://raycast.com/xmok/neon)** - Manage Neon Projects and API Keys [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neon) `api@^1.88.4` `utils@^1.17.0`
 - **[Netlify](https://raycast.com/destiner/netlify)** - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/netlify) `api@^1.87.5` `utils@^1.18.1`
 - **[Network Speed](https://raycast.com/koinzhang/network-speed)** - Quickly check your internet connection speed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/network-speed) `api@^1.77.0`
 - **[New Relic](https://raycast.com/cirne/new-relic)** - Search Applications, Dashboard, Alerts, and more in New Relic [`@cirne`](https://raycast.com/cirne) [`code`](https://github.com/raycast/extensions/tree/main/extensions/new-relic) `api@^1.48.3` `utils@^1.4.8`
@@ -689,6 +690,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Proxyman](https://raycast.com/noah_tran/proxyman)** - Navigate and perform common actions in Proxyman faster [`@noah_tran`](https://raycast.com/noah_tran) [`code`](https://github.com/raycast/extensions/tree/main/extensions/proxyman) `api@^1.69.0`
 - **[Python](https://raycast.com/ahmedivy/python)** - Search Python Packages on PyPi [`@ahmedivy`](https://raycast.com/ahmedivy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/python) `api@^1.76.0` `utils@^1.16.0`
 - **[Quick Access](https://raycast.com/koinzhang/quick-access)** - Quick access, drag and drop the files or folders pinned in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-access) `api@^1.79.1` `utils@^1.16.2`
+- **[QuickSnip](https://raycast.com/anders_morille/quicksnip)** - An open-source project that categorizes handy code snippets across various programming languages. [`@anders_morille`](https://raycast.com/anders_morille) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicksnip) `api@^1.88.4` `utils@^1.17.0`
 - **[Quicktype](https://raycast.com/Aayush9029/quicktype)** - Generate Models and Serializers from JSON [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicktype) `api@^1.31.0`
 - **[Radicle](https://raycast.com/sebastinez_rhizoma/radicle)** - Interact with your Radicle storage. [`@sebastinez_rhizoma`](https://raycast.com/sebastinez_rhizoma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/radicle) `api@^1.64.4` `utils@^1.10.1`
 - **[Rails Routes](https://raycast.com/renzo/rails-routes)** - Inspect your Rails routes in development mode directly from Raycast [`@renzo`](https://raycast.com/renzo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rails-routes) `api@^1.86.1` `utils@^1.17.0`
@@ -1619,7 +1621,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Email Verifier](https://raycast.com/HerbertLu/email-verifier)** - A tool for email verification without sending any emails [`@HerbertLu`](https://raycast.com/HerbertLu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/email-verifier) `api@^1.79.0` `utils@^1.17.0`
 - **[Ente Auth](https://raycast.com/chkpwd/ente-auth)** - Get TOTP Codes from Ente Auth [`@chkpwd`](https://raycast.com/chkpwd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) `api@^1.81.2` `utils@^1.16.3`
 - **[Greip](https://raycast.com/ghadeer/greip)** - Use endpoint from greip.io directly from Raycast [`@ghadeer`](https://raycast.com/ghadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/greip) `api@^1.43.2` `utils@^1.4.11`
-- **[KeePassXC](https://raycast.com/Sulfyderz/keepassxc)** - Access a KeePass database through KeePassXC [`@Sulfyderz`](https://raycast.com/Sulfyderz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) `api@^1.88.4` `utils@^1.18.1`
+- **[KeePassXC](https://raycast.com/Sulfyderz/keepassxc)** - Access a KeePass database through KeePassXC [`@Sulfyderz`](https://raycast.com/Sulfyderz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) `api@^1.89.0` `utils@^1.18.1`
 - **[Link Cleaner](https://raycast.com/MisakiCoca/link-cleaner)** - Remove tracking parameters from the URL link in clipboard. [`@MisakiCoca`](https://raycast.com/MisakiCoca) [`code`](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) `api@^1.79.0`
 - **[Mozilla VPN Connect](https://raycast.com/natew/mozilla-vpn)** - Interact with the Mozilla VPN from Raycast. [`@natew`](https://raycast.com/natew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) `api@^1.71.4`
 - **[Okta Search](https://raycast.com/damian_zachwieja/oktasearch)** - Serach Okta users and groups by name. [`@damian_zachwieja`](https://raycast.com/damian_zachwieja) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oktasearch) `api@^1.55.2`

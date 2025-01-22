@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/596e90f230c52d89_update-time.svg)
+![Last update](/icons/a1c5ff3fdc71750f_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1892** packages in **15** categories, **19** packages use Swift
-- **1217** authors, **710** contributors (of which **530** are only contributors, not authors)
+- **1894** packages in **15** categories, **19** packages use Swift
+- **1219** authors, **711** contributors (of which **530** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (49)
@@ -71,6 +71,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ableton Live](https://raycast.com/dch09/ableton-live)** - Search and open recent Ableton Live Projects [`@dch09`](https://raycast.com/dch09) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) `api@^1.48.5` `utils@^1.4.18`
 - **[Adhan Time](https://raycast.com/mzaien/adhan-time)** - This extension helps you to search prayer time for the user location [`@mzaien`](https://raycast.com/mzaien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) `api@^1.46.0` `utils@^1.4.16`
 - **[Anybox](https://raycast.com/anybox/anybox)** - Control Anybox with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anybox) `api@^1.71.4`
+- **[Anytype](https://raycast.com/jmetrikat/anytype)** - Create, browse and search in Anytype - right at your fingertips, anywhere on your Mac [`@jmetrikat`](https://raycast.com/jmetrikat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anytype) `api@^1.86.0` `utils@^1.17.0`
 - **[Apple Mail](https://raycast.com/yug2005/mail)** - Extension for Apple Mail. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mail) `api@^1.80.0` `utils@^1.16.3`
 - **[Apple Maps Search](https://raycast.com/djpowers/apple-maps-search)** - Quickly search Apple Maps or find directions. [`@djpowers`](https://raycast.com/djpowers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search) `api@^1.47.0`
 - **[Auto Quit App](https://raycast.com/koinzhang/auto-quit-app)** - Automatically quit the application after all windows are closed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) `api@^1.83.1` `utils@^1.17.0`
@@ -937,6 +938,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Colorify - Generate Themes From Images](https://raycast.com/EvanZhouDev/colorify)** - Takes an image (such as your wallpaper) and generates a Raycast Theme out of it! [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/colorify) `api@^1.55.1`
 - **[Count Numbers](https://raycast.com/muzhen_gaming/count-numbers)** - A simple but powerful number counter! [`@muzhen_gaming`](https://raycast.com/muzhen_gaming) [`code`](https://github.com/raycast/extensions/tree/main/extensions/count-numbers) `api@^1.82.3` `utils@^1.16.3`
 - **[Crunchbase](https://raycast.com/qdequele/crunchbase)** - Search on Crunchbase companies [`@qdequele`](https://raycast.com/qdequele) [`code`](https://github.com/raycast/extensions/tree/main/extensions/crunchbase) `api@^1.41.0` `utils@^1.4.9`
+- **[Custom Wordle](https://raycast.com/pallav_agarwal/custom-wordle)** - Get a link to play wordle with your own word [`@pallav_agarwal`](https://raycast.com/pallav_agarwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/custom-wordle) `api@^1.88.4` `utils@^1.17.0`
 - **[Dad Jokes](https://raycast.com/pernielsentikaer/dad-jokes)** - Get a random dad joke [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dad-jokes) `api@^1.79.0` `utils@^1.17.0`
 - **[Defichain Lottery](https://raycast.com/adrian-schnell/defichain-lottery)** - Stats and your tickets for the Defichain Lottery [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/defichain-lottery) `api@^1.41.1`
 - **[Developer Excuses](https://raycast.com/niemtec/developer-excuse)** - Insert a random developer excuse for not doing your work. [`@niemtec`](https://raycast.com/niemtec) [`code`](https://github.com/raycast/extensions/tree/main/extensions/developer-excuse) `api@^1.58.0`
@@ -1975,7 +1977,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pest Documentation](https://raycast.com/danyelkeddah/pestphp-documentation)** - Pest Documentation Search [`@danyelkeddah`](https://raycast.com/danyelkeddah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pestphp-documentation) `api@^1.27.0`
 - **[Phind Search](https://raycast.com/Chuck/phind-search)** - Search anything with Phind [`@Chuck`](https://raycast.com/Chuck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phind-search) `api@^1.58.1` `utils@^1.10.0`
 - **[PHP Monitor](https://raycast.com/nicoverbruggen/php-monitor)** - Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by default in PHP Monitor.)   https://phpmon.app [`@nicoverbruggen`](https://raycast.com/nicoverbruggen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phpmon) `api@^1.27.1`
-- **[Pipedrive Search](https://raycast.com/ahp/pipedrive)** - Search Pipedrive deals, people and organizations [`@ahp`](https://raycast.com/ahp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pipedrive) `api@^1.65.1`
+- **[Pipedrive Search](https://raycast.com/ahp/pipedrive)** - Search Pipedrive deals, people and organizations [`@ahp`](https://raycast.com/ahp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pipedrive) `api@^1.89.0`
 - **[Podcasts](https://raycast.com/ron-myers/podcasts)** - Control the Podcasts app for macOS with your keyboard. [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/podcasts) `api@^1.29.1`
 - **[Polished](https://raycast.com/lekoarts/polished)** - Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. [`@lekoarts`](https://raycast.com/lekoarts) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polished) `api@^1.26.1`
 - **[Product Hunt - Today's Hunts](https://raycast.com/ragnor/producthunt)** - Get the latest products from the fontpage of Product Hunt. [`@ragnor`](https://raycast.com/ragnor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/producthunt) `api@^1.79.0` `utils@^1.9.1`

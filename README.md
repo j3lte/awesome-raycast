@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a1c5ff3fdc71750f_update-time.svg)
+![Last update](/icons/787f63952cd169a2_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1894** packages in **15** categories, **19** packages use Swift
-- **1219** authors, **711** contributors (of which **530** are only contributors, not authors)
+- **1219** authors, **713** contributors (of which **532** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (49)
@@ -50,8 +50,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (187)
-  - [xmok](https://raycast.com/xmok) (93)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (52)
+  - [xmok](https://raycast.com/xmok) (94)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (53)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (24)
@@ -656,7 +656,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Open in Visual Studio Code](https://raycast.com/shubzkothekar/open-in-visual-studio-code)** - Open current Finder directory, selected folder or file in Visual Studio Code. [`@shubzkothekar`](https://raycast.com/shubzkothekar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) `api@^1.39.1`
 - **[Open Laravel Herd Site](https://raycast.com/medienbaecker/open-laravel-herd-site)** - Lists all your Laravel Herd sites and allows you to open them in Visual Studio Code, Finder or your browser. [`@medienbaecker`](https://raycast.com/medienbaecker) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-laravel-herd-site) `api@^1.77.1`
 - **[Open Link in Specific Browser](https://raycast.com/koinzhang/open-link-in-specific-browser)** - Open link or search text in specific browser. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-link-in-specific-browser) `api@^1.79.1` `utils@^1.16.2`
-- **[Open Path](https://raycast.com/koinzhang/open-path)** - Open path and link from selection or clipboard in Finder, browsers, terminal, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-path) `api@^1.75.1` `utils@^1.15.0`
+- **[Open Path](https://raycast.com/koinzhang/open-path)** - Open path and link from selection or clipboard in Finder, browsers, terminal, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-path) `api@^1.89.0` `utils@^1.18.1`
 - **[OpenStatus](https://raycast.com/thibaultleouay/openstatus)** - Manage your OpenStatus monitors, Incidents and status page [`@thibaultleouay`](https://raycast.com/thibaultleouay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openstatus) `api@^1.88.4` `utils@^1.18.1`
 - **[Oracle Cloud](https://raycast.com/xmok/oci)** - Manage Oracle Cloud Infrastructure [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oci) `api@^1.84.3` `utils@^1.17.0`
 - **[OSINT Web Check](https://raycast.com/gksander/osint-web-check)** - Raycast extension to perform OSINT web check against a url [`@gksander`](https://raycast.com/gksander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) `api@^1.64.4`
@@ -809,6 +809,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[.NET Documentation Search](https://raycast.com/huseyint/dotnet-docs-search)** - Search .NET API documentation. [`@huseyint`](https://raycast.com/huseyint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) `api@^1.44.0`
 - **[AdonisJS Documentation](https://raycast.com/craigharman/adonisjs-documentation)** - Access AdonisJS documentation from within Raycast [`@craigharman`](https://raycast.com/craigharman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adonisjs-documentation) `api@^1.76.0`
 - **[Alpine.js](https://raycast.com/aurawindsurfing/alpinejs)** - Search Alpine.js documentation [`@aurawindsurfing`](https://raycast.com/aurawindsurfing) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alpinejs-doc-search) `api@^1.79.0` `utils@^1.16.4`
+- **[Axios Docs](https://raycast.com/denizyoldas/axios-docs)** - Quickly lookup Axios documentation [`@denizyoldas`](https://raycast.com/denizyoldas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/axios-docs) `api@^1.79.0`
 - **[Backstage](https://raycast.com/yukukotani/backstage)** - Shortcuts for Backstage [`@yukukotani`](https://raycast.com/yukukotani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/backstage) `api@^1.79.1` `utils@^1.16.2`
 - **[Badges - shields.io](https://raycast.com/litomore/badges)** - Concise, consistent, and legible badges. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/badges) `api@^1.88.4` `utils@^1.18.1`
 - **[Braid Design System](https://raycast.com/felixhabib/braid)** - Search and use Braid Components and Iconography from Raycast [`@felixhabib`](https://raycast.com/felixhabib) [`code`](https://github.com/raycast/extensions/tree/main/extensions/braid) `api@^1.84.2` `utils@^1.18.0`
@@ -1176,7 +1177,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Acqua](https://raycast.com/FezVrasta/acqua)** - Acqua helps you remember to regularly drink water. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/acqua) `api@^1.69.0` `utils@^1.4.8`
 - **[Active Mississaugua](https://raycast.com/Aayush9029/active-mississaugua)** - Explore activities for the city of Mississaugua in Ontario, Canada. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/active-mississaugua) `api@^1.38.2`
 - **[Airsy](https://raycast.com/piotrzaborow/airsy)** - Check air pollution in Poland [`@piotrzaborow`](https://raycast.com/piotrzaborow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airsy) `api@^1.40.3` `utils@^1.4.8`
-- **[Axios Docs](https://raycast.com/denizyoldas/axios-docs)** - Quickly lookup Axios documentation [`@denizyoldas`](https://raycast.com/denizyoldas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/axios-docs) `api@^1.42.2`
 - **[Berlin Public Transportation](https://raycast.com/arjanski/berlin-public-transportation)** - Departures for Berlin public transport stations using BVG (Berliner Verkehrsbetriebe) real-time traffic data [`@arjanski`](https://raycast.com/arjanski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/berlin-public-transportation) `api@^1.49.3`
 - **[Binge Clock](https://raycast.com/Aayush9029/binge-clock)** - Find out how long it takes to watch every episode in a TV series or every movie in a marathon. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/binge-clock) `api@^1.50.0`
 - **[Brawl Stars Search](https://raycast.com/Maxime_GUILIANI/brawlstars)** - Extension to search for Brawl Stars players, clubs and brawlers [`@Maxime_GUILIANI`](https://raycast.com/Maxime_GUILIANI) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brawlstars) `api@^1.54.0`
@@ -1259,7 +1259,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Browser AI Companion](https://raycast.com/lin/browser-ai)** - Use the best models with Raycast Browser Extension to extend your browsing experience. [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-ai) `api@^1.74.1` `utils@^1.15.0`
 - **[Capacities](https://raycast.com/steffenble/capacities)** - Interact with Capacities from your command bar. Search your notes, capture content & more. [`@steffenble`](https://raycast.com/steffenble) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capacities) `api@^1.79.0` `utils@^1.18.0`
 - **[CCF What?](https://raycast.com/crackedpoly/ccf-what)** - Loop up CCF rankings. [`@crackedpoly`](https://raycast.com/crackedpoly) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ccf-what) `api@^1.68.1` `utils@^1.12.5`
-- **[ChatGPT](https://raycast.com/abielzulio/chatgpt)** - Interact with OpenAI's ChatGPT directly from your command bar [`@abielzulio`](https://raycast.com/abielzulio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) `api@^1.81.2` `utils@^1.14.1`
+- **[ChatGPT](https://raycast.com/abielzulio/chatgpt)** - Interact with OpenAI's ChatGPT directly from your command bar [`@abielzulio`](https://raycast.com/abielzulio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) `api@^1.88.4` `utils@^1.18.1`
 - **[ChatGPT Quick Actions](https://raycast.com/alanzchen/chatgpt-quick-actions)** - Performs one-shot actions with ChatGPT [`@alanzchen`](https://raycast.com/alanzchen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) `api@^1.50.0`
 - **[Chatwith](https://raycast.com/rafal_zawadzki/chatwith)** - AI chatbot trained on your data and with access to automations. [`@rafal_zawadzki`](https://raycast.com/rafal_zawadzki) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatwith) `api@^1.67.1` `utils@^1.12.4`
 - **[Checklist](https://raycast.com/zeekrey/checklist)** - Create and work on checklists. [`@zeekrey`](https://raycast.com/zeekrey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/checklist) `api@^1.66.0` `utils@^1.5.2`
@@ -1461,7 +1461,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Productlane](https://raycast.com/dimagrossman/productlane)** - Quickly add insights to Productlane [`@dimagrossman`](https://raycast.com/dimagrossman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/productlane) `api@^1.48.4` `utils@^1.5.2`
 - **[Prompt Stash](https://raycast.com/renzo/prompt-stash)** - Efficiently manage and organize your AI prompts. Save, tag, and favorite your most effective prompts for quick access across any LLM or chatbot. [`@renzo`](https://raycast.com/renzo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prompt-stash) `api@^1.84.7` `utils@^1.17.0`
 - **[PromptLab](https://raycast.com/HelloImSteven/promptlab)** - Create custom AI commands using powerful placeholders [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/promptlab) `api@^1.64.4` `utils@^1.10.1`
-- **[Punto Switcher](https://raycast.com/red.avtovo/punto)** - Changes the layout of selected text [`@red.avtovo`](https://raycast.com/red.avtovo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/punto) `api@^1.45.2`
+- **[Punto Switcher](https://raycast.com/red.avtovo/punto)** - Changes the layout of selected text. Requires Accessibility access [`@red.avtovo`](https://raycast.com/red.avtovo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/punto) `api@^1.89.0`
 - **[QOTP](https://raycast.com/ariesly15/qotp)** - QOTP is a simple tool to generate OTP code [`@ariesly15`](https://raycast.com/ariesly15) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qotp) `api@^1.49.3` `utils@^1.5.2`
 - **[Query ChatGPT](https://raycast.com/cyxn/query-chatgpt)** - Opens ChatGPT in your browser and executes your query in it [`@cyxn`](https://raycast.com/cyxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/query-chatgpt) `api@^1.66.2` `utils@^1.11.1`
 - **[Quick Calendar](https://raycast.com/fuksman/calendar)** - View calendar month-by-month [`@fuksman`](https://raycast.com/fuksman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/calendar) `api@^1.65.0`

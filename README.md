@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/787f63952cd169a2_update-time.svg)
+![Last update](/icons/c216223dc8ab1ccd_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1894** packages in **15** categories, **19** packages use Swift
-- **1219** authors, **713** contributors (of which **532** are only contributors, not authors)
+- **1895** packages in **15** categories, **19** packages use Swift
+- **1219** authors, **714** contributors (of which **533** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (49)
@@ -55,7 +55,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (24)
-  - [litomore](https://raycast.com/litomore) (17)
+  - [litomore](https://raycast.com/litomore) (18)
 
 <!-- END STATISTICS -->
 
@@ -217,7 +217,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[WHOOP](https://raycast.com/josha1len/whoop)** - Your WHOOP data, now at your fingertips. Monitor your recovery, sleep, strain, workouts and more! Favourite the Overview command for quick access to your WHOOP data. [`@josha1len`](https://raycast.com/josha1len) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whoop) `api@^1.84.3` `utils@^1.10.1`
 - **[Wireguard](https://raycast.com/sbugzhu/wireguard)** - Control Wireguard connections. [`@sbugzhu`](https://raycast.com/sbugzhu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wireguard) `api@^1.79.0` `utils@^1.18.1`
 - **[Xecutor](https://raycast.com/GastroGeek/xecutor)** - Create presets to launch multiple macOS applications and/or urls from within Raycast [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xecutor) `api@^1.39.3`
-- **[YouTube Downloader](https://raycast.com/vimtor/youtube-downloader)** - Download YouTube video from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube-downloader) `api@^1.48.9` `utils@^1.5.2`
+- **[YouTube Downloader](https://raycast.com/vimtor/youtube-downloader)** - Download YouTube video from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube-downloader) `api@^1.89.1` `utils@^1.18.1`
 - **[Zen Browser](https://raycast.com/Keyruu/zen-browser)** - Search and open tabs from bookmarks and history in Zen Browser. [`@Keyruu`](https://raycast.com/Keyruu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) `api@^1.59.0` `utils@^1.4.13`
 
 
@@ -1532,6 +1532,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Surl](https://raycast.com/fujiyamaorange/surl)** - Make your URLs shorter [`@fujiyamaorange`](https://raycast.com/fujiyamaorange) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surl) `api@^1.64.4`
 - **[SVG64 - Convert SVGs to Base64 Strings](https://raycast.com/EvanZhouDev/raycast-svg64)** - Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) `api@^1.57.1` `utils@^1.9.1`
 - **[Sync Folders](https://raycast.com/Undolog/sync-folders)** - Sync two folders [`@Undolog`](https://raycast.com/Undolog) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sync-folders) `api@^1.84.10` `utils@^1.17.0`
+- **[Synonyms](https://raycast.com/xmorse/synonyms)** - Find synonyms for words and translate if necessary [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/synonyms) `api@^1.87.5` `utils@^1.18.1`
 - **[System Monitor](https://raycast.com/hossammourad/raycast-system-monitor)** - Show information and usage related to CPU, memory, power and network [`@hossammourad`](https://raycast.com/hossammourad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) `api@^1.70.3` `utils@^1.13.6`
 - **[Tapo Smart Devices](https://raycast.com/timrogers/raycast-tapo-smart-devices)** - Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices) `api@^1.38.3`
 - **[TaskLink](https://raycast.com/jrodalo/tasklink)** - Converts issue tracker Ids into clickable links [`@jrodalo`](https://raycast.com/jrodalo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tasklink) `api@^1.67.1`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/6224950e6df65e9c_update-time.svg)
+![Last update](/icons/eba2748f9aed8fc8_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -54,7 +54,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [ridemountainpig](https://raycast.com/ridemountainpig) (53)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
-  - [stelo](https://raycast.com/stelo) (24)
+  - [stelo](https://raycast.com/stelo) (25)
   - [litomore](https://raycast.com/litomore) (18)
 
 <!-- END STATISTICS -->
@@ -1867,7 +1867,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Designer News](https://raycast.com/itsnwa/designer-news)** - See top design stories [`@itsnwa`](https://raycast.com/itsnwa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/designer-news) `api@^1.76.1`
 - **[Diki Translate](https://raycast.com/blazej_kustra/raycast-diki)** - Diki Translate with autosuggestions [`@blazej_kustra`](https://raycast.com/blazej_kustra) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-diki) `api@^1.69.0`
 - **[Display Placer](https://raycast.com/eluce2/displayplacer)** - Manage favorite display configurations [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) `api@^1.33.0`
-- **[Docker](https://raycast.com/priithaamer/docker)** - Manage Docker with Raycast [`@priithaamer`](https://raycast.com/priithaamer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/docker) `api@^1.62.0`
+- **[Docker](https://raycast.com/priithaamer/docker)** - Manage Docker with Raycast [`@priithaamer`](https://raycast.com/priithaamer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/docker) `api@^1.89.1`
 - **[Docker Hub](https://raycast.com/k8scat/dockerhub)** - Docker Hub extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) `api@^1.39.3`
 - **[Domainr](https://raycast.com/fedevitaledev/domainr)** - Search domains availability with Domainr [`@fedevitaledev`](https://raycast.com/fedevitaledev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/domainr) `api@^1.25.1`
 - **[DropsTab](https://raycast.com/nikolayqwerty/dropstab)** - Get crypto coin data and navigate to official sites or X. Instantly view your wallets via blockchain explorers. [`@nikolayqwerty`](https://raycast.com/nikolayqwerty) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropstab) `api@^1.80.0`

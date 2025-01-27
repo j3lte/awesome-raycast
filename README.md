@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/eba2748f9aed8fc8_update-time.svg)
+![Last update](/icons/f22a1c134ee33804_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,11 +38,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1898** packages in **15** categories, **19** packages use Swift
-- **1222** authors, **715** contributors (of which **534** are only contributors, not authors)
+- **1899** packages in **15** categories, **19** packages use Swift
+- **1222** authors, **716** contributors (of which **535** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
-  - [xmok](https://raycast.com/xmok) (49)
+  - [xmok](https://raycast.com/xmok) (50)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (15)
   - [peduarte](https://raycast.com/peduarte) (14)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (187)
-  - [xmok](https://raycast.com/xmok) (94)
+  - [xmok](https://raycast.com/xmok) (95)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (53)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
@@ -145,7 +145,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Leitner Box](https://raycast.com/gzyannick/leitnerbox)** - This is a simple extension that use the concept of a learning process called leitner box [`@gzyannick`](https://raycast.com/gzyannick) [`code`](https://github.com/raycast/extensions/tree/main/extensions/leitnerbox) `api@^1.66.0` `utils@^1.12.4`
 - **[Liba.ro - URL Shortener](https://raycast.com/libaro/liba-ro_shortener)** - The Libaro powered URL shortener Shorten your URL in seconds [`@libaro`](https://raycast.com/libaro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/liba-ro) `api@^1.44.0`
 - **[LocalCan](https://raycast.com/andrewjazbec/localcan)** - List LocalCan domains [`@andrewjazbec`](https://raycast.com/andrewjazbec) [`code`](https://github.com/raycast/extensions/tree/main/extensions/localcan) `api@^1.65.0` `utils@^1.10.1`
-- **[MacUpdater](https://raycast.com/kall/macupdater)** - Get app updates and popular apps from macupdater.net [`@kall`](https://raycast.com/kall) [`code`](https://github.com/raycast/extensions/tree/main/extensions/macupdater) `api@^1.31.0`
+- **[MacUpdater](https://raycast.com/kall/macupdater)** - Get app updates and popular apps from macupdater.net [`@kall`](https://raycast.com/kall) [`code`](https://github.com/raycast/extensions/tree/main/extensions/macupdater) `api@^1.79.0` `utils@^1.18.1`
 - **[MarginNote](https://raycast.com/ourongxing/marginnote)** - Offical Raycast Extensition of MarginNote [`@ourongxing`](https://raycast.com/ourongxing) [`code`](https://github.com/raycast/extensions/tree/main/extensions/marginnote) `api@^1.43.2`
 - **[Menubar Calendar](https://raycast.com/koinzhang/menubar-calendar)** - Show calendar and reminders in the menu bar. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/menubar-calendar) `api@^1.89.0` `utils@^1.18.1` `swift`
 - **[Microsoft Azure](https://raycast.com/crisboarna/microsoft-azure)** - Quick access to Microsoft Azure resources [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-azure) `api@^1.44.0` `utils@^1.4.13`
@@ -681,6 +681,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pixels to Viewport Width or Height](https://raycast.com/Atiipik/convert-px-to-vw-vh)** - Fast conversion of pixels to vw or vh depending on the size of your viewport. [`@Atiipik`](https://raycast.com/Atiipik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert-px-to-vw-vh) `api@^1.51.1` `utils@^1.6.1`
 - **[Ploi](https://raycast.com/ploi-deploy/ploi)** - View and manage your ploi.io servers and sites [`@ploi-deploy`](https://raycast.com/ploi-deploy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ploi) `api@^1.77.0` `utils@^1.16.1`
 - **[PM2](https://raycast.com/litomore/pm2)** - Advanced, production process manager for Node.js. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pm2) `api@^1.86.0` `utils@^1.18.0`
+- **[PocketBase](https://raycast.com/xmok/pocketbase)** - Manage PocketBase [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pocketbase) `api@^1.89.1` `utils@^1.18.1`
 - **[Popicons](https://raycast.com/lucaschultz/popicons)** - Browse and copy Popicons [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/popicons) `api@^1.76.0` `utils@^1.15.0`
 - **[Port Manager](https://raycast.com/lucaschultz/port-manager)** - Find open ports and close them [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/port-manager) `api@^1.57.0` `utils@^1.9.1`
 - **[Prettier Code](https://raycast.com/lin/prettier)** - Format code with Prettier [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prettier) `api@^1.79.0`
@@ -1749,7 +1750,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Lucky Surf](https://raycast.com/popalay/lucky-surf)** - Say goodbye to scrolling through endless search results – simply trust your intuition and let serendipity guide you to the information you need, swiftly and efficiently [`@popalay`](https://raycast.com/popalay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lucky-surf) `api@^1.74.1`
 - **[Masked Link Generator](https://raycast.com/Visual-Studio-Coder/masked-link-generator)** - Input a destination URL and the title of the link and receive a masked link in your clipboard. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) `api@^1.57.2` `utils@^1.4.8`
 - **[Mayar](https://raycast.com/friantom/mayar)** - Mayar Raycast Extensions [`@friantom`](https://raycast.com/friantom) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mayar) `api@^1.42.0` `utils@1.0.3`
-- **[Mercado Libre](https://raycast.com/xilopaint/mercado-libre)** - Search Mercado Libre listings [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mercado-libre) `api@^1.83.1` `utils@^1.17.0`
+- **[Mercado Libre](https://raycast.com/xilopaint/mercado-libre)** - Search Mercado Libre listings [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mercado-libre) `api@^1.89.1` `utils@^1.18.1`
 - **[Myanimelist Search](https://raycast.com/luknl/myanimelist-search)** - Easily search and open animes on Myanimelist. [`@luknl`](https://raycast.com/luknl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/myanimelist-search) `api@^1.40.1` `utils@^1.4.8`
 - **[Naver Search](https://raycast.com/magneto/naver-search)** - Naver search extension for Raycast [`@magneto`](https://raycast.com/magneto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/naver-search) `api@^1.48.8`
 - **[NeoDB](https://raycast.com/SevicheCC/neodb)** - Search NeoDB items and view item details [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neodb) `api@^1.79.0` `utils@^1.18.0`
@@ -1910,7 +1911,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[HazeOver Controls](https://raycast.com/ratoru/hazeover)** - Control the HazeOver app. [`@ratoru`](https://raycast.com/ratoru) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hazeover) `api@^1.25.6`
 - **[Helm Documentation](https://raycast.com/tiagomichaelsousa/helm-docs)** - Quickly search through the Helm docs directly from Raycast. [`@tiagomichaelsousa`](https://raycast.com/tiagomichaelsousa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/helm-docs) `api@^1.28.0`
 - **[Hexlify](https://raycast.com/gkpln3/hexlify)** - Convert between hex and binary representations [`@gkpln3`](https://raycast.com/gkpln3) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hexlify) `api@^1.26.3`
-- **[Huggingcast](https://raycast.com/ragnor/huggingcast)** - Use Huggingface models for summarization, translation, ... [`@ragnor`](https://raycast.com/ragnor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) `api@^1.25.1`
+- **[Huggingcast](https://raycast.com/ragnor/huggingcast)** - Use Huggingface models for summarization, translation, ... [`@ragnor`](https://raycast.com/ragnor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) `api@^1.89.1` `utils@^1.18.1`
 - **[Humanize AI Text](https://raycast.com/frolik/ai-humanizer)** - Humanize AI Text [`@frolik`](https://raycast.com/frolik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) `api@^1.85.1`
 - **[IMDb Search](https://raycast.com/ryan/imdb)** - Easily open your favorite film or TV series on IMDb. [`@ryan`](https://raycast.com/ryan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imdb) `api@^1.51.3` `utils@^1.6.1`
 - **[InertiaJS Documentation](https://raycast.com/danyelkeddah/inertiajs-documentation)** - InertiaJS Documentation Search [`@danyelkeddah`](https://raycast.com/danyelkeddah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/inertiajs-documentation) `api@^1.27.0`

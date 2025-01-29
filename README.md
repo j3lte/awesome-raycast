@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/f22a1c134ee33804_update-time.svg)
+![Last update](/icons/e9ff011f6aeb3c51_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1899** packages in **15** categories, **19** packages use Swift
-- **1222** authors, **716** contributors (of which **535** are only contributors, not authors)
+- **1900** packages in **15** categories, **19** packages use Swift
+- **1222** authors, **717** contributors (of which **536** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (50)
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (187)
   - [xmok](https://raycast.com/xmok) (95)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (53)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (54)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (25)
@@ -468,6 +468,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Azure DevOps Repositories Search](https://raycast.com/willem_van_lent/ado-search)** - Search trough Azure DevOps git repositories and find open Pull Requests [`@willem_van_lent`](https://raycast.com/willem_van_lent) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ado-search) `api@^1.70.3` `utils@^1.13.6`
 - **[Bech32 Converter](https://raycast.com/zygimantas_magelinskas/bech32-converter)** - Converts Cosmos Bech32 addresses to a desired prefix [`@zygimantas_magelinskas`](https://raycast.com/zygimantas_magelinskas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bech32-converter) `api@^1.69.0`
 - **[Bento Email](https://raycast.com/zeromana/bento)** - Interact with Bento (bentonow.com) to add subscribers, view broadcasts, reports, and other utility features. [`@zeromana`](https://raycast.com/zeromana) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bento) `api@^1.84.3`
+- **[Beszel](https://raycast.com/wyattjoh/beszel-extension)** - Monitor and configure your systems managed by Beszel. [`@wyattjoh`](https://raycast.com/wyattjoh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension) `api@^1.89.0` `utils@^1.17.0`
 - **[Big-O](https://raycast.com/shayneo/big-o)** - A cheatsheet for Big-O notation [`@shayneo`](https://raycast.com/shayneo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/big-o) `api@^1.87.0` `utils@^1.17.0`
 - **[Binary Tools](https://raycast.com/frostplexx/bintools)** - A calculator for binary, decimal, hex and octal numbers. [`@frostplexx`](https://raycast.com/frostplexx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bintools) `api@^1.53.2`
 - **[Bitbucket Search (Self-Hosted)](https://raycast.com/yuercl/bitbucket-search-self-hosted)** - The extension allow you to quickly access repositories and pull-requests in Bitbucket Server (Self-Hosted) [`@yuercl`](https://raycast.com/yuercl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitbucket-search-self-hosted) `api@^1.42.0`
@@ -1455,7 +1456,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Password Generator](https://raycast.com/joshuaiz/password-generator)** - Generates a password from 5–64 characters with options for case, special characters, and more [`@joshuaiz`](https://raycast.com/joshuaiz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-generator) `api@^1.79.0`
 - **[PDF Tools](https://raycast.com/xilopaint/pdf-tools)** - Your all-in-one PDF toolkit [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdf-tools) `api@^1.82.3` `swift`
 - **[PDFSearch](https://raycast.com/kevin-pek/pdfsearch)** - Search across collections of PDF files. [`@kevin-pek`](https://raycast.com/kevin-pek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdfsearch) `api@^1.79.1` `utils@^1.10.1` `swift`
-- **[Perplexity API](https://raycast.com/ilian/perplexity-api)** - Use the powerful models via Perplexity API from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) `api@^1.68.1`
+- **[Perplexity API](https://raycast.com/ilian/perplexity-api)** - Use the powerful models via Perplexity API from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perplexity-api) `api@^1.89.1`
 - **[Personio](https://raycast.com/boosteblume/personio)** - Track your time with Personio. [`@boosteblume`](https://raycast.com/boosteblume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/personio) `api@^1.69.0`
 - **[Pie for Pi-hole](https://raycast.com/GLaDO8/pie-for-pi-hole)** - Control your Pi-hole from Raycast. [`@GLaDO8`](https://raycast.com/GLaDO8) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pie-for-pihole) `api@^1.47.3`
 - **[Pins](https://raycast.com/HelloImSteven/pins)** - Create pins for paths and URLs and display them in the menu bar [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pins) `api@^1.77.1` `utils@^1.16.1`

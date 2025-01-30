@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/e9ff011f6aeb3c51_update-time.svg)
+![Last update](/icons/19f12fcb38035dec_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1900** packages in **15** categories, **19** packages use Swift
-- **1222** authors, **717** contributors (of which **536** are only contributors, not authors)
+- **1901** packages in **15** categories, **19** packages use Swift
+- **1223** authors, **719** contributors (of which **538** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (50)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (187)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (188)
   - [xmok](https://raycast.com/xmok) (95)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (54)
   - [j3lte](https://raycast.com/j3lte) (39)
@@ -71,7 +71,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ableton Live](https://raycast.com/dch09/ableton-live)** - Search and open recent Ableton Live Projects [`@dch09`](https://raycast.com/dch09) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) `api@^1.48.5` `utils@^1.4.18`
 - **[Adhan Time](https://raycast.com/mzaien/adhan-time)** - This extension helps you to search prayer time for the user location [`@mzaien`](https://raycast.com/mzaien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) `api@^1.46.0` `utils@^1.4.16`
 - **[Anybox](https://raycast.com/anybox/anybox)** - Control Anybox with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anybox) `api@^1.71.4`
-- **[Anytype](https://raycast.com/jmetrikat/anytype)** - Create, browse and search in Anytype - right at your fingertips, anywhere on your Mac [`@jmetrikat`](https://raycast.com/jmetrikat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anytype) `api@^1.86.0` `utils@^1.17.0`
+- **[Anytype](https://raycast.com/jmetrikat/anytype)** - Create, browse and search in Anytype - right at your fingertips, anywhere on your Mac. [`@jmetrikat`](https://raycast.com/jmetrikat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anytype) `api@^1.86.0` `utils@^1.17.0`
 - **[Apple Mail](https://raycast.com/yug2005/mail)** - Extension for Apple Mail. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mail) `api@^1.80.0` `utils@^1.16.3`
 - **[Apple Maps Search](https://raycast.com/djpowers/apple-maps-search)** - Quickly search Apple Maps or find directions. [`@djpowers`](https://raycast.com/djpowers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search) `api@^1.47.0`
 - **[Auto Quit App](https://raycast.com/koinzhang/auto-quit-app)** - Automatically quit the application after all windows are closed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) `api@^1.83.1` `utils@^1.17.0`
@@ -1152,6 +1152,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Initium](https://raycast.com/unpopular/initium)** - Show posts on theinitium.com [`@unpopular`](https://raycast.com/unpopular) [`code`](https://github.com/raycast/extensions/tree/main/extensions/initium) `api@^1.44.0` `utils@^1.4.11`
 - **[Juejin](https://raycast.com/sharker_alice_sharker/jue-jin)** - Display recommended articles under each category of Nuggets, and support the selection and switching of different types of articles [`@sharker_alice_sharker`](https://raycast.com/sharker_alice_sharker) [`code`](https://github.com/raycast/extensions/tree/main/extensions/juejin) `api@^1.86.1` `utils@^1.17.0`
 - **[Latest Local News](https://raycast.com/FilipeCerejo/latest-news)** - Latest local news served by Microsoft Bing [`@FilipeCerejo`](https://raycast.com/FilipeCerejo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/latest-news) `api@^1.35.2`
+- **[MacRumors](https://raycast.com/hughmcmillanv/macrumors)** - Browse MacRumors headlines from the comfort of Raycast. [`@hughmcmillanv`](https://raycast.com/hughmcmillanv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/macrumors) `api@^1.89.1` `utils@^1.18.1`
 - **[Meduza](https://raycast.com/castletaste/meduza)** - Every day, we bring you the most important news and feature stories from hundreds of sources in Russia and across the former Soviet Union. Our team includes some of Russia's top professionals in news and reporting. We value our independence and strive to be a reliable, trusted outlet for verified, unbiased information about Russia and the former Soviet Union, as well as a source for sharp insights about one of the world's most enigmatic regions [`@castletaste`](https://raycast.com/castletaste) [`code`](https://github.com/raycast/extensions/tree/main/extensions/meduza) `api@^1.88.4` `utils@^1.18.1`
 - **[Miniflux](https://raycast.com/SevicheCC/miniflux)** - A Raycast extension for Miniflux [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/miniflux) `api@^1.51.1` `utils@^1.6.1`
 - **[New York Times](https://raycast.com/Antonwy/new-york-times)** - Checkout all NYT posts [`@Antonwy`](https://raycast.com/Antonwy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/new-york-times) `api@^1.39.2` `utils@^1.4.8`
@@ -1531,7 +1532,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Split Video Scenes](https://raycast.com/xmorse/split-video-scenes)** - Select a video file and split it into scenes [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/split-video-scenes) `api@^1.80.0` `utils@^1.16.3`
 - **[Splix](https://raycast.com/splix.app/splix)** - Raycast interface for Splix (https://splix.app) to supercharge your productivity. [`@splix.app`](https://raycast.com/splix.app) [`code`](https://github.com/raycast/extensions/tree/main/extensions/splix) `api@^1.65.0` `utils@^1.10.1`
 - **[Static Marks - Bookmark Search](https://raycast.com/aerobless/static-marks)** - Search and launch websites from your Static Marks bookmark YAML file. [`@aerobless`](https://raycast.com/aerobless) [`code`](https://github.com/raycast/extensions/tree/main/extensions/static-marks-bookmarks) `api@^1.43.2` `utils@^1.4.11`
-- **[Summarize YouTube Videos with AI](https://raycast.com/iKasch/summarize-youtube-video-with-ai)** - Summarize any YouTube Video with AI. Choose between Raycast AI or ChatGPT. You have to either be a Raycast Pro Member or have an OpenAI API Key. [`@iKasch`](https://raycast.com/iKasch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) `api@^1.88.4` `utils@^1.17.0`
+- **[Summarize YouTube Videos with AI](https://raycast.com/iKasch/summarize-youtube-video-with-ai)** - Summarize any YouTube Video with AI. Choose between Raycast, OpenAI or Anthropic. You have to either be a Raycast Pro Member or have an OpenAI/Anthropic API Key. [`@iKasch`](https://raycast.com/iKasch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) `api@^1.88.4` `utils@^1.17.0`
 - **[SupaHabits](https://raycast.com/gbarba/habits)** - Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries [`@gbarba`](https://raycast.com/gbarba) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supahabits) `api@^1.85.2` `utils@^1.18.0`
 - **[Superwhisper - Offline Voice to Text](https://raycast.com/nchudleigh/superwhisper)** - Start a recording, change Modes and open settings. Requires installing superwhisper. [`@nchudleigh`](https://raycast.com/nchudleigh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) `api@^1.64.4` `utils@^1.16.1`
 - **[Surl](https://raycast.com/fujiyamaorange/surl)** - Make your URLs shorter [`@fujiyamaorange`](https://raycast.com/fujiyamaorange) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surl) `api@^1.64.4`

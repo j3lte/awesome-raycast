@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/19f12fcb38035dec_update-time.svg)
+![Last update](/icons/68c9fc05f02c289a_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1901** packages in **15** categories, **19** packages use Swift
-- **1223** authors, **719** contributors (of which **538** are only contributors, not authors)
+- **1905** packages in **15** categories, **19** packages use Swift
+- **1227** authors, **720** contributors (of which **539** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (50)
@@ -286,7 +286,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Air Quality](https://raycast.com/earthpyy/air-quality)** - An air quality information extension [`@earthpyy`](https://raycast.com/earthpyy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/air-quality) `api@^1.67.1` `utils@^1.12.4`
 - **[Archiver](https://raycast.com/JinShi/archiver)** - An archive tool for compressing or extracting, supporting multiple formats. [`@JinShi`](https://raycast.com/JinShi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/archiver) `api@^1.44.0`
 - **[Base64 to File](https://raycast.com/forrestzh/base64-to-file)** - convert base64 to file [`@forrestzh`](https://raycast.com/forrestzh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/base64-to-file) `api@^1.67.1` `utils@^1.12.4`
-- **[Better Uptime](https://raycast.com/andreaselia/better-uptime)** - Check on your Better Uptime monitors, incidents and heartbeats. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/better-uptime) `api@^1.38.1`
+- **[Better Uptime](https://raycast.com/andreaselia/better-uptime)** - Check on your Better Uptime monitors, incidents and heartbeats. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/better-uptime) `api@^1.89.1` `utils@^1.18.1`
 - **[Bible](https://raycast.com/josmithua/bible)** - Search the bible [`@josmithua`](https://raycast.com/josmithua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bible) `api@^1.62.0`
 - **[BMW](https://raycast.com/aesign/bmw)** - Control and view your BMW [`@aesign`](https://raycast.com/aesign) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bmw) `api@^1.64.4` `utils@^1.9.1`
 - **[Brand.dev](https://raycast.com/xmok/brand-dev)** - Get a company's brand logos, colors, slogan, socials, and more. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brand-dev) `api@^1.79.0` `utils@^1.17.0`
@@ -323,6 +323,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[iLovePDF](https://raycast.com/mohamedk1/ilovepdf)** - Set of commands to interact with iLovePDF [`@mohamedk1`](https://raycast.com/mohamedk1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) `api@^1.72.1` `utils@^1.15.0`
 - **[ipapi.is](https://raycast.com/xmok/ipapi-is)** - Lookup IP or ASN via ipapi.is [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) `api@^1.79.0` `utils@^1.18.0`
 - **[Jalali Date Convertor](https://raycast.com/amin_saedi/jalali-date-convertor)** - Converts Shamsi (Jalali) calendar dates to/from Gregorian calendar [`@amin_saedi`](https://raycast.com/amin_saedi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jalali-date-convertor) `api@^1.56.1`
+- **[James Webb Space Telescope](https://raycast.com/Infonautica/james-webb-space-telescope)** - List data from James Webb Space Telescope's observations, including images, csv, jsons and fits files. [`@Infonautica`](https://raycast.com/Infonautica) [`code`](https://github.com/raycast/extensions/tree/main/extensions/james-webb-space-telescope) `api@^1.89.0` `utils@^1.18.1`
 - **[Jupiter Aggregator](https://raycast.com/stevedsimkins/jup-agg)** - Lets you display the value of a token in the menu bar and lets you calculate the value of tokens [`@stevedsimkins`](https://raycast.com/stevedsimkins) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jupiter-aggregator) `api@^1.47.2` `utils@^1.4.8`
 - **[Just Delete Me](https://raycast.com/andreaselia/just-delete-me)** - A directory of direct links to delete your account from web services. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) `api@^1.78.0` `utils@^1.16.2`
 - **[JWT Decoder](https://raycast.com/gdsmith/jwt-decoder)** - Decode Your JSON Web Tokens – extract the header and data information from a JWT [`@gdsmith`](https://raycast.com/gdsmith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) `api@^1.32.1`
@@ -747,6 +748,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Storybook Launcher](https://raycast.com/vrn/storybook-launcher)** - Browse and search stories across multiple Storybooks and open them in the browser [`@vrn`](https://raycast.com/vrn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storybook-launcher) `api@^1.56.0` `utils@^1.9.0`
 - **[Storybook Sandboxes](https://raycast.com/JReinhold/storybook-sandboxes)** - Create new Storybook sandboxes locally, or online in StackBlitz [`@JReinhold`](https://raycast.com/JReinhold) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storybook-sandboxes) `api@^1.51.1` `utils@^1.6.1`
 - **[Storybook Search](https://raycast.com/nakaakist/storybook-search)** - Search components in Storybook [`@nakaakist`](https://raycast.com/nakaakist) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storybook-search) `api@^1.51.3` `utils@^1.4.8`
+- **[Strapi](https://raycast.com/douwepausma/strapi-raycast-extension)** - Strapi extension for Raycast [`@douwepausma`](https://raycast.com/douwepausma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/strapi-raycast-extension) `api@^1.88.4` `utils@^1.17.0`
 - **[Strftime Cheatsheet](https://raycast.com/antonengelhardt/strftime-cheatsheet)** - Search strftime codes, meanings and examples [`@antonengelhardt`](https://raycast.com/antonengelhardt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/strftime-cheatsheet) `api@^1.83.1` `utils@^1.17.0`
 - **[Stripe](https://raycast.com/pradeepb28/stripe)** - Quick Stripe dashboard functionality and quick link access [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stripe) `api@^1.38.2` `utils@^1.0.7`
 - **[SVGA Player](https://raycast.com/liaoyuan_ju/svga-player)** - Play SVGA animations with ease [`@liaoyuan_ju`](https://raycast.com/liaoyuan_ju) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svga-player) `api@^1.87.5` `utils@^1.17.0` `swift`
@@ -961,6 +963,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Fluent Outdoors](https://raycast.com/juhamust/fluent-outdoors)** - Show maintenance status for outdoors activity tracks like skiing or skating. Backend system Fluent. [`@juhamust`](https://raycast.com/juhamust) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fluent-outdoors) `api@^1.46.0`
 - **[Formula 1](https://raycast.com/csigritz/f1-standings)** - List the current standings in Formula 1 [`@csigritz`](https://raycast.com/csigritz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/f1-standings) `api@^1.48.8`
 - **[FrankerFaceZ Emotes](https://raycast.com/davidchalifoux/frankerfacez)** - Search for your favorite FrankerFaceZ emotes. [`@davidchalifoux`](https://raycast.com/davidchalifoux) [`code`](https://github.com/raycast/extensions/tree/main/extensions/frankerfacez) `api@^1.33.2`
+- **[Gift Stardew Valley](https://raycast.com/naorojas/gift-stardew-valley)** - A database of gifts for Stardew Valley characters. [`@naorojas`](https://raycast.com/naorojas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gift-stardew-valley) `api@^1.89.0` `utils@^1.17.0`
 - **[GitHub Spark](https://raycast.com/cole/github-spark)** - Turn your ideas into personalized apps with GitHub Spark. [`@cole`](https://raycast.com/cole) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-spark) `api@^1.84.12` `utils@^1.17.0`
 - **[Google Maps Explorer](https://raycast.com/lichinlin/findnearby)** - Explore new places near you [`@lichinlin`](https://raycast.com/lichinlin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/findnearby) `api@^1.58.1` `utils@^1.9.1`
 - **[Govee](https://raycast.com/j3lte/govee)** - Control your Govee Lights [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/govee) `api@^1.79.1` `utils@^1.16.3`
@@ -1069,7 +1072,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[hostloc](https://raycast.com/J3n5en/hostloc)** - You can quickly access the 20 latest posts of hostloc at the moment. Note: The hostloc home page can be reached by visiting https://www.hostloc.com/ through your browser. [`@J3n5en`](https://raycast.com/J3n5en) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hostloc) `api@^1.36.0`
 - **[I Don't Have Spotify](https://raycast.com/sjdonado/idonthavespotify)** - Effortlessly convert Spotify links to your preferred streaming service [`@sjdonado`](https://raycast.com/sjdonado) [`code`](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) `api@^1.78.1` `utils@^1.16.2`
 - **[Image Host](https://raycast.com/efeclk/image-host)** - Host an image on imgBB [`@efeclk`](https://raycast.com/efeclk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-host) `api@^1.65.1` `utils@^1.11.1`
-- **[Image Modification](https://raycast.com/HelloImSteven/sips)** - Apply filters and transformations to various image formats, and convert between them. [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sips) `api@^1.82.1` `utils@^1.17.0`
+- **[Image Modification](https://raycast.com/HelloImSteven/sips)** - Apply filters and transformations to various image formats, and convert between them. [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sips) `api@^1.89.1` `utils@^1.18.1`
 - **[Image Wallet](https://raycast.com/ibll/image-wallet)** - Store and retrieve images quickly from Raycast! [`@ibll`](https://raycast.com/ibll) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) `api@^1.55.0` `utils@^1.5.2`
 - **[ImageKit Uploader](https://raycast.com/ludafa/imagekit-uploader)** - Upload Image to imagekit [`@ludafa`](https://raycast.com/ludafa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imagekit-uploader) `api@^1.64.5` `utils@^1.10.1`
 - **[Internet Radio](https://raycast.com/HelloImSteven/internet-radio)** - Plays internet radio via the Music app [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/internet-radio) `api@^1.46.0` `utils@^1.4.16`
@@ -1218,6 +1221,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Stoic Quotes](https://raycast.com/rrajath/stoicquotes)** - Gives a random quote from one of the stoic philosophers - Marcus Aurelius, Seneca or Epictetus [`@rrajath`](https://raycast.com/rrajath) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stoicquotes) `api@^1.46.0` `utils@^1.4.16`
 - **[The Matrix of Destiny](https://raycast.com/unitech/the-matrix-of-destiny)** - Quickly go to a date on the Matrix of Destiny [`@unitech`](https://raycast.com/unitech) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) `api@^1.60.1`
 - **[tldraw](https://raycast.com/zephraph/tldraw)** - Creates and persists tldraw projects [`@zephraph`](https://raycast.com/zephraph) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tldraw) `api@^1.64.3` `utils@^1.10.1`
+- **[Trenit](https://raycast.com/gianpiero_spinelli/trenit)** - Italian Rail departure information [`@gianpiero_spinelli`](https://raycast.com/gianpiero_spinelli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/trenit) `api@^1.89.1` `utils@^1.17.0`
 - **[Twitch Chat](https://raycast.com/Aayush9029/twitch-chat)** - View twitch.tv's live chat [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitch-chat) `api@^1.38.0`
 - **[Twitch Logs](https://raycast.com/Aayush9029/twitch-logs)** - See what messages a user has sent on a paticular twitch channel on a paticular month. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitch-logs) `api@^1.47.3` `utils@^1.4.8`
 - **[UK Bank Holidays](https://raycast.com/kud/uk-bank-holidays)** - Display the upcoming bank holiday information for England and Wales. [`@kud`](https://raycast.com/kud) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uk-bank-holidays) `api@^1.60.1`

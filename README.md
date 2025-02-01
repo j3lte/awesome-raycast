@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/68c9fc05f02c289a_update-time.svg)
+![Last update](/icons/fcdde93cc6daae11_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1905** packages in **15** categories, **19** packages use Swift
-- **1227** authors, **720** contributors (of which **539** are only contributors, not authors)
+- **1906** packages in **15** categories, **19** packages use Swift
+- **1228** authors, **722** contributors (of which **540** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (50)
@@ -49,8 +49,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (14)
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (188)
-  - [xmok](https://raycast.com/xmok) (95)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (189)
+  - [xmok](https://raycast.com/xmok) (96)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (54)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
@@ -777,7 +777,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ULID](https://raycast.com/entwine7250/ulid)** - some basic ulid tools [`@entwine7250`](https://raycast.com/entwine7250) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ulid) `api@^1.55.2`
 - **[Unkey](https://raycast.com/xmok/unkey)** - Create, Verify, Update and Revoke Keys through Unkey [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unkey) `api@^1.57.0` `utils@^1.9.0`
 - **[Unleash Feature Toggle](https://raycast.com/firhan_ramadhan/unleash-feature-toggle)** - List all projects and feature toggles from Unleash [`@firhan_ramadhan`](https://raycast.com/firhan_ramadhan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unleash-feature-toggle) `api@^1.69.0` `utils@^1.13.4`
-- **[UploadThing](https://raycast.com/juliusmarminge/uploadthing)** - Upload files in a single click [`@juliusmarminge`](https://raycast.com/juliusmarminge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) `api@^1.69.3`
+- **[UploadThing](https://raycast.com/juliusmarminge/uploadthing)** - Upload files in a single click [`@juliusmarminge`](https://raycast.com/juliusmarminge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) `api@^1.79.0` `utils@^1.18.1`
 - **[URL Parse](https://raycast.com/Johnson/url-parse)** - URL parse tool for developer. [`@Johnson`](https://raycast.com/Johnson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/url-parse) `api@^1.67.1` `utils@^1.12.5`
 - **[User-Agent Parser](https://raycast.com/third774/user-agent)** - Parses the User-Agent of the selected text [`@third774`](https://raycast.com/third774) [`code`](https://github.com/raycast/extensions/tree/main/extensions/user-agent) `api@^1.60.1`
 - **[UTM Virtual Machines](https://raycast.com/alaidriel/utm-virtual-machines)** - Launch and control virtual machines in UTM. [`@alaidriel`](https://raycast.com/alaidriel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) `api@^1.46.1`
@@ -996,7 +996,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Metaphorpsum](https://raycast.com/jsumnersmith/metaphorpsum)** - An extension for generating random text from the metaphorpsum API. [`@jsumnersmith`](https://raycast.com/jsumnersmith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metaphorpsum) `api@^1.81.2` `utils@^1.16.3`
 - **[Minecraft Crafting Recipes](https://raycast.com/lafkpages/minecraft-crafting-recipes)** - Quickly find recipes for Minecraft crafting. [`@lafkpages`](https://raycast.com/lafkpages) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minecraft-crafting-recipes) `api@^1.79.0` `utils@^1.16.2`
 - **[MouseHunt Helper](https://raycast.com/chesterhow/mousehunt-helper)** - Find the best attraction rates for different mice [`@chesterhow`](https://raycast.com/chesterhow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mousehunt-helper) `api@^1.45.3` `utils@^1.4.15`
-- **[NBA & WNBA Viewer](https://raycast.com/AbhinavPalacharla/nba-viewer)** - View upcoming NBA or WNBA games and team standings [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) `api@^1.81.0` `utils@^1.16.4`
+- **[NBA & WNBA Viewer](https://raycast.com/AbhinavPalacharla/nba-game-viewer)** - View upcoming NBA or WNBA games and team standings [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) `api@^1.81.0` `utils@^1.16.4`
 - **[NFL](https://raycast.com/kciarnie/nfl-information)** - Fetches the NFL Schedule, News, and Team News [`@kciarnie`](https://raycast.com/kciarnie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) `api@^1.64.5` `utils@^1.10.1`
 - **[NHL](https://raycast.com/Rob/nhl)** - Get today's NHL games, scores, matchups, and statistics. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nhl) `api@^1.84.3` `utils@^1.17.0`
 - **[Number Facts](https://raycast.com/BossElijah/number-facts)** - Get facts about numbers, dates, and years [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/number-facts) `api@^1.73.2` `utils@^1.15.0`
@@ -1360,6 +1360,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Harvest](https://raycast.com/eluce2/harvest)** - Access Harvest Time Entries [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/harvest) `api@^1.68.0` `utils@^1.3.1`
 - **[Hide Files](https://raycast.com/koinzhang/hide-files)** - Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hide-files) `api@^1.75.1`
 - **[Hide My Email](https://raycast.com/svenhofman/hidemyemail)** - Quick and easy way to view and manage your Hide My Email addresses. [`@svenhofman`](https://raycast.com/svenhofman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) `api@^1.85.0` `utils@^1.17.0`
+- **[Hipster Ipsum](https://raycast.com/plev/hipster-ipsum)** - Generate placeholder content using the official Hipster Ipsum API [`@plev`](https://raycast.com/plev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hipster-ipsum) `api@^1.89.0` `utils@^1.17.0`
 - **[Homey](https://raycast.com/DominicVonk/homey)** - Homey Flows & Devices [`@DominicVonk`](https://raycast.com/DominicVonk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/homey) `api@^1.39.1`
 - **[HubSpot Portal Launcher](https://raycast.com/chriso/hubspot-portal-launcher)** - A simple Raycast extension that allows you to quickly launch and navigate to different objects in your HubSpot portals [`@chriso`](https://raycast.com/chriso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hubspot-portal-launcher) `api@^1.50.0`
 - **[Humaans](https://raycast.com/farisaziz12/humaans)** - Interact with the Humaans platform [`@farisaziz12`](https://raycast.com/farisaziz12) [`code`](https://github.com/raycast/extensions/tree/main/extensions/humaans) `api@^1.47.3` `utils@^1.4.18`

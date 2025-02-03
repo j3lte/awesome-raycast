@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/fcdde93cc6daae11_update-time.svg)
+![Last update](/icons/796f56837d29e099_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1906** packages in **15** categories, **19** packages use Swift
-- **1228** authors, **722** contributors (of which **540** are only contributors, not authors)
+- **1228** authors, **724** contributors (of which **541** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (50)
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (189)
   - [xmok](https://raycast.com/xmok) (96)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (54)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (55)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (25)
@@ -701,7 +701,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Rails Routes](https://raycast.com/renzo/rails-routes)** - Inspect your Rails routes in development mode directly from Raycast [`@renzo`](https://raycast.com/renzo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rails-routes) `api@^1.86.1` `utils@^1.17.0`
 - **[Railway Project Search](https://raycast.com/coffee-cup/railway)** - Search and navigate to your Railway projects [`@coffee-cup`](https://raycast.com/coffee-cup) [`code`](https://github.com/raycast/extensions/tree/main/extensions/railway) `api@^1.79.0` `utils@^1.16.3`
 - **[Raycast Notification](https://raycast.com/maxnyby/raycast-notification)** - This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast interface accessible to other applications or scripts. [`@maxnyby`](https://raycast.com/maxnyby) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) `api@^1.87.0`
-- **[Raycast Port](https://raycast.com/litomore/raycast-port)** - This allows you to use Raycast features out of Raycast. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) `api@^1.86.1`
+- **[Raycast Port](https://raycast.com/litomore/raycast-port)** - This allows you to use Raycast features out of Raycast. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) `api@^1.90.0`
 - **[React Documentation](https://raycast.com/webdiego/react-docs)** - Quick links to the new React documentation [`@webdiego`](https://raycast.com/webdiego) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-docs) `api@^1.45.2`
 - **[React Native Directory](https://raycast.com/shubh_porwal/react-native-directory)** - A searchable and filterable directory of React Native libraries. [`@shubh_porwal`](https://raycast.com/shubh_porwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-native-directory) `api@^1.89.0` `utils@^1.18.1`
 - **[Redis](https://raycast.com/k8scat/redis)** - Redis extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/redis) `api@^1.40.1` `utils@^1.4.8`
@@ -742,7 +742,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[SolusVM 1 Client](https://raycast.com/xmok/solusvm-1-client)** - Fetch Information and Manage SolusVM 1 Virtual Server [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solusvm-1-client) `api@^1.62.2`
 - **[Sourcegraph](https://raycast.com/bobheadxi/sourcegraph)** - Search your code and public repositories with Sourcegraph. [`@bobheadxi`](https://raycast.com/bobheadxi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) `api@^1.86.1` `utils@^1.18.1`
 - **[Sourcetree](https://raycast.com/i906/sourcetree)** - Search and open Sourcetree repositories [`@i906`](https://raycast.com/i906) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) `api@^1.38.2` `utils@^1.0.6`
-- **[Spiceblow - Sql Database Management](https://raycast.com/xmorse/spiceblow-database)** - Search, update, insert and delete rows in your Sql database, deeply integrated with AI [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) `api@^1.81.2` `utils@^1.17.0`
+- **[Spiceblow - Sql Database Management](https://raycast.com/xmorse/spiceblow-database)** - Search, update, insert and delete rows in your Sql database, deeply integrated with AI [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) `api@^1.81.0` `utils@^1.18.1`
 - **[Spike](https://raycast.com/damanpreet_singh/spike)** - Resolve incidents, check who is on-call, and add overrides from Raycast. [`@damanpreet_singh`](https://raycast.com/damanpreet_singh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spike) `api@^1.83.2` `utils@^1.17.0`
 - **[Spring Initializr](https://raycast.com/danvega/spring-initializr)** - Spring Initializr is a tool that simplifies the creation of Spring Boot projects. [`@danvega`](https://raycast.com/danvega) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spring-initializr) `api@^1.88.3` `utils@^1.17.0`
 - **[Storybook Launcher](https://raycast.com/vrn/storybook-launcher)** - Browse and search stories across multiple Storybooks and open them in the browser [`@vrn`](https://raycast.com/vrn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/storybook-launcher) `api@^1.56.0` `utils@^1.9.0`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/796f56837d29e099_update-time.svg)
+![Last update](/icons/7f5cd29e94971129_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1906** packages in **15** categories, **19** packages use Swift
-- **1228** authors, **724** contributors (of which **541** are only contributors, not authors)
+- **1228** authors, **726** contributors (of which **543** are only contributors, not authors)
 - Top **7** authors:
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [xmok](https://raycast.com/xmok) (50)
@@ -996,7 +996,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Metaphorpsum](https://raycast.com/jsumnersmith/metaphorpsum)** - An extension for generating random text from the metaphorpsum API. [`@jsumnersmith`](https://raycast.com/jsumnersmith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metaphorpsum) `api@^1.81.2` `utils@^1.16.3`
 - **[Minecraft Crafting Recipes](https://raycast.com/lafkpages/minecraft-crafting-recipes)** - Quickly find recipes for Minecraft crafting. [`@lafkpages`](https://raycast.com/lafkpages) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minecraft-crafting-recipes) `api@^1.79.0` `utils@^1.16.2`
 - **[MouseHunt Helper](https://raycast.com/chesterhow/mousehunt-helper)** - Find the best attraction rates for different mice [`@chesterhow`](https://raycast.com/chesterhow) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mousehunt-helper) `api@^1.45.3` `utils@^1.4.15`
-- **[NBA & WNBA Viewer](https://raycast.com/AbhinavPalacharla/nba-game-viewer)** - View upcoming NBA or WNBA games and team standings [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) `api@^1.81.0` `utils@^1.16.4`
+- **[NBA & WNBA Viewer](https://raycast.com/AbhinavPalacharla/nba-game-viewer)** - View upcoming NBA or WNBA games and team standings. [`@AbhinavPalacharla`](https://raycast.com/AbhinavPalacharla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nba-game-viewer) `api@^1.81.0` `utils@^1.16.4`
 - **[NFL](https://raycast.com/kciarnie/nfl-information)** - Fetches the NFL Schedule, News, and Team News [`@kciarnie`](https://raycast.com/kciarnie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nfl-information) `api@^1.64.5` `utils@^1.10.1`
 - **[NHL](https://raycast.com/Rob/nhl)** - Get today's NHL games, scores, matchups, and statistics. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nhl) `api@^1.84.3` `utils@^1.17.0`
 - **[Number Facts](https://raycast.com/BossElijah/number-facts)** - Get facts about numbers, dates, and years [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/number-facts) `api@^1.73.2` `utils@^1.15.0`
@@ -1686,7 +1686,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Power Management](https://raycast.com/sasivarnan/power-management)** - Change Power Management Settings of the system [`@sasivarnan`](https://raycast.com/sasivarnan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/power-management) `api@^1.67.1` `utils@^1.12.4`
 - **[Quit Applications](https://raycast.com/mackopes/quit-applications)** - Quit appplications directly from Raycast [`@mackopes`](https://raycast.com/mackopes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) `api@^1.65.1` `utils@^1.10.1`
 - **[Refresh WiFi](https://raycast.com/natterstefan/refresh-wifi)** - Quickly turn your WiFi off and on again. [`@natterstefan`](https://raycast.com/natterstefan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/refresh-wifi) `api@^1.32.1`
-- **[Remove Background - Powered by Mac](https://raycast.com/xmorse/remove-background-powered-by-mac)** - Remove background from image with the Mac Vision API [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) `api@^1.71.3` `swift`
+- **[Remove Background - Powered by Mac](https://raycast.com/xmorse/remove-background-powered-by-mac)** - Remove background from image with the Mac Vision API [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) `api@^1.79.0` `swift`
 - **[Setapp](https://raycast.com/lardissone/setapp)** - Search Setapp apps [`@lardissone`](https://raycast.com/lardissone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/setapp) `api@^1.54.1` `utils@^1.8.0`
 - **[Single Focus](https://raycast.com/Mmehdi06/single-focus)** - Closes all the open apps except the frontmost one [`@Mmehdi06`](https://raycast.com/Mmehdi06) [`code`](https://github.com/raycast/extensions/tree/main/extensions/single-focus) `api@^1.71.4` `utils@^1.10.1`
 - **[SSH Tunnel Manager](https://raycast.com/MinatoHikari/ssh-tunnel-manager)** - Manage ssh tunnels [`@MinatoHikari`](https://raycast.com/MinatoHikari) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ssh-tunnel-manager) `api@^1.45.1` `utils@^1.4.14`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/7f5cd29e94971129_update-time.svg)
+![Last update](/icons/c3e928fb741680b5_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -55,7 +55,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (25)
-  - [litomore](https://raycast.com/litomore) (18)
+  - [litomore](https://raycast.com/litomore) (19)
 
 <!-- END STATISTICS -->
 
@@ -1347,7 +1347,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Glyph Search](https://raycast.com/gbgk/glyph-search)** - Like the emoji picker, but for unicode glyphs [`@gbgk`](https://raycast.com/gbgk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/glyph-search) `api@^1.47.3`
 - **[Google Advanced Search](https://raycast.com/developerlover/google-advanced-search)** - Enhance your desktop with this Raycast extension that simplifies Google's advanced search, bringing features like exact matches and domain filtration directly to macOS—ideal for quick, precise searches without needing to remember complex search options. [`@developerlover`](https://raycast.com/developerlover) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-advanced-search) `api@^1.71.4`
 - **[Google Bard](https://raycast.com/EvanZhouDev/raycast-bard-ai)** - Perform Actions with Google Bard [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-bard-ai) `api@^1.48.5`
-- **[Google Gemini](https://raycast.com/EvanZhouDev/raycast-gemini)** - Use the Google Gemini from the comfort of Raycast. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) `api@^1.62.0` `utils@^1.9.0`
+- **[Google Gemini](https://raycast.com/EvanZhouDev/raycast-gemini)** - Use the Google Gemini from the comfort of Raycast. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-gemini) `api@^1.90.0` `utils@^1.9.0`
 - **[Google PaLM](https://raycast.com/EvanZhouDev/raycast-google-palm)** - Use the Google PaLM 2 API in Raycast. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-google-palm) `api@^1.56.0` `utils@^1.9.0`
 - **[Google Tasks](https://raycast.com/elliotdes/google-tasks)** - Manage Google Tasks from Raycast. [`@elliotdes`](https://raycast.com/elliotdes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) `api@^1.39.3` `utils@^1.4.11`
 - **[Google Workspace](https://raycast.com/thomaslombart/google-workspace)** - Access Google Drive files. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) `api@^1.62.0` `utils@^1.16.2`

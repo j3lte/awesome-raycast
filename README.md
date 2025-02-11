@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/f8849672ffba5ffc_update-time.svg)
+![Last update](/icons/74994b9b2658f5ef_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,11 +38,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1906** packages in **15** categories, **19** packages use Swift
-- **1228** authors, **727** contributors (of which **544** are only contributors, not authors)
+- **1908** packages in **15** categories, **19** packages use Swift
+- **1228** authors, **732** contributors (of which **548** are only contributors, not authors)
 - Top **7** authors:
+  - [xmok](https://raycast.com/xmok) (52)
   - [koinzhang](https://raycast.com/koinzhang) (50)
-  - [xmok](https://raycast.com/xmok) (50)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (15)
   - [peduarte](https://raycast.com/peduarte) (14)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (189)
-  - [xmok](https://raycast.com/xmok) (96)
+  - [xmok](https://raycast.com/xmok) (97)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (55)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
@@ -210,6 +210,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Todo List](https://raycast.com/maggie/todo-list)** - Manage your todo list quickly by adding items and marking items as completed. [`@maggie`](https://raycast.com/maggie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/todo-list) `api@^1.52.1` `utils@^1.1.0`
 - **[Transmission](https://raycast.com/FezVrasta/transmission)** - View and manage torrents directly from Raycast. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/transmission) `api@^1.71.3` `utils@^1.14.0`
 - **[Update Clash Subscription](https://raycast.com/JakeYu/update-clash-subscription)** - Update clash subscription & insert custom rules [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) `api@^1.46.1`
+- **[UptimeRobot](https://raycast.com/xmok/uptime-robot)** - View Monitors and Account Details [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) `api@^1.79.0` `utils@^1.18.1`
 - **[Vivaldi](https://raycast.com/crisboarna/vivaldi)** - Search open tabs, bookmarks and history in Vivaldi. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) `api@^1.79.1` `utils@^1.4.13`
 - **[VivaPB](https://raycast.com/Codrkoaz/vivapb)** - Browse the web in privacy with the Vivaldi Browser. [`@Codrkoaz`](https://raycast.com/Codrkoaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivapb) `api@^1.64.4` `utils@^1.11.1`
 - **[WhatsApp](https://raycast.com/vimtor/whatsapp)** - Open WhatsApp chats [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) `api@^1.79.0` `utils@^1.17.0`
@@ -742,6 +743,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[SolusVM 1 Client](https://raycast.com/xmok/solusvm-1-client)** - Fetch Information and Manage SolusVM 1 Virtual Server [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solusvm-1-client) `api@^1.62.2`
 - **[Sourcegraph](https://raycast.com/bobheadxi/sourcegraph)** - Search your code and public repositories with Sourcegraph. [`@bobheadxi`](https://raycast.com/bobheadxi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) `api@^1.86.1` `utils@^1.18.1`
 - **[Sourcetree](https://raycast.com/i906/sourcetree)** - Search and open Sourcetree repositories [`@i906`](https://raycast.com/i906) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) `api@^1.38.2` `utils@^1.0.6`
+- **[Spaceship](https://raycast.com/xmok/spaceship)** - Easily manage your Spaceship products [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spaceship) `api@^1.89.1` `utils@^1.17.0`
 - **[Spiceblow - Sql Database Management](https://raycast.com/xmorse/spiceblow-database)** - Search, update, insert and delete rows in your Sql database, deeply integrated with AI [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) `api@^1.81.0` `utils@^1.18.1`
 - **[Spike](https://raycast.com/damanpreet_singh/spike)** - Resolve incidents, check who is on-call, and add overrides from Raycast. [`@damanpreet_singh`](https://raycast.com/damanpreet_singh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spike) `api@^1.83.2` `utils@^1.17.0`
 - **[Spring Initializr](https://raycast.com/danvega/spring-initializr)** - Spring Initializr is a tool that simplifies the creation of Spring Boot projects. [`@danvega`](https://raycast.com/danvega) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spring-initializr) `api@^1.88.3` `utils@^1.17.0`
@@ -1249,7 +1251,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Anki](https://raycast.com/anton-suprun/anki)** - Anki extension for Raycast [`@anton-suprun`](https://raycast.com/anton-suprun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anki) `api@^1.87.4` `utils@^1.17.0`
 - **[Apple Books](https://raycast.com/vimtor/apple-books)** - Search Apple Books from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-books) `api@^1.47.3` `utils@^1.5.2`
 - **[Apple Intelligence](https://raycast.com/EvanZhouDev/raycast-apple-intelligence)** - Use Apple Intelligence from the comfort of Raycast. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) `api@^1.84.9` `utils@^1.18.0`
-- **[Apple Reminders](https://raycast.com/thomaslombart/apple-reminders)** - Manage Apple Reminders. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) `api@^1.75.1` `utils@^1.18.1` `swift`
+- **[Apple Reminders](https://raycast.com/thomaslombart/apple-reminders)** - Manage Apple Reminders. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-reminders) `api@^1.91.1` `utils@^1.18.1` `swift`
 - **[Apply Inline Code](https://raycast.com/alexian853/apply-inline-code)** - Apply inline code style in common apps and websites [`@alexian853`](https://raycast.com/alexian853) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apply-inline-code) `api@^1.70.3` `utils@^1.13.6`
 - **[Arabic Keyboard](https://raycast.com/mSarheed/arabic-keyboard)** - Arabic Keyboard for Raycast [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arabic-keyboard) `api@^1.79.1`
 - **[ArXiv Search](https://raycast.com/koayon/arxiv)** - Search the arXiv for papers and find citations. For Researchers, Students and Scholars in Computer Science, Mathematics, Physics, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics. [`@koayon`](https://raycast.com/koayon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arxiv) `api@^1.52.1` `utils@^1.4.8`
@@ -1418,6 +1420,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mirror Displays](https://raycast.com/yonbergman/mirror-displays)** - Toggles mirroring of external displays quickly [`@yonbergman`](https://raycast.com/yonbergman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mirror-displays) `api@^1.88.4` `utils@^1.17.0`
 - **[Mochi](https://raycast.com/kawamataryo/mochi)** - Quickly create Mochi cards [`@kawamataryo`](https://raycast.com/kawamataryo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mochi) `api@^1.45.3` `utils@^1.4.15`
 - **[MOCO](https://raycast.com/eviscares/moco)** - Provide Integration to MOCO timetracking. [`@eviscares`](https://raycast.com/eviscares) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moco) `api@^1.43.2`
+- **[monday.com](https://raycast.com/freak4pc/monday-com)** - Quickly navigate to your latest monday.com boards and create items [`@freak4pc`](https://raycast.com/freak4pc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monday) `api@^1.79.0` `utils@^1.18.0`
 - **[MonitorMate](https://raycast.com/MuhaddiMu/monitor-mate)** - MonitorMate is a simple monitoring tool that helps you keep track of your resources uptime and downtime. It allows you to add resources to monitor and check their status. It also provides a dashboard to see the status of all your monitoring resources. [`@MuhaddiMu`](https://raycast.com/MuhaddiMu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monitor-mate) `api@^1.67.1`
 - **[Morning Coffee](https://raycast.com/oliverjanssen/morning-coffee)** - Morning Coffee is your Raycast extension with which you can easily organize routine web readings. Organize the websites you want to open simultaneously in your default browser and set a hotkey for launching 'Open Websites'. [`@oliverjanssen`](https://raycast.com/oliverjanssen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/morning-coffee) `api@^1.48.4` `utils@^1.4.18`
 - **[Mound](https://raycast.com/desmondsofua/mound-for-pile)** - A Raycast extension for the Pile journaling app [`@desmondsofua`](https://raycast.com/desmondsofua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mound-for-pile) `api@^1.61.2`
@@ -1488,7 +1491,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Readwise](https://raycast.com/natterstefan/readwise)** - Search and browse your Readwise Library. [`@natterstefan`](https://raycast.com/natterstefan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/readwise) `api@^1.31.0`
 - **[Readwise Reader](https://raycast.com/zach/readwise-reader)** - Interact with Readwise Reader [`@zach`](https://raycast.com/zach) [`code`](https://github.com/raycast/extensions/tree/main/extensions/readwise-reader) `api@^1.44.0` `utils@^1.5.2`
 - **[Ready](https://raycast.com/cfeigenbutz/readymetrics)** - Lists upcoming and past check-ins in Ready [`@cfeigenbutz`](https://raycast.com/cfeigenbutz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/readymetrics) `api@^1.39.1`
-- **[Rebrandly](https://raycast.com/grikomsn/rebrandly)** - Browse Rebrandly shortlinks and create new ones [`@grikomsn`](https://raycast.com/grikomsn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rebrandly) `api@^1.84.8` `utils@^1.18.0`
+- **[Rebrandly](https://raycast.com/grikomsn/rebrandly)** - Browse Rebrandly shortlinks, create new and delete old [`@grikomsn`](https://raycast.com/grikomsn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rebrandly) `api@^1.91.0` `utils@^1.18.1`
 - **[Reclaim](https://raycast.com/lightbody/reclaim-ai)** - AI scheduling for Google Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar [`@lightbody`](https://raycast.com/lightbody) [`code`](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) `api@^1.52.1` `utils@^1.8.0`
 - **[Rectangle](https://raycast.com/crickford/rectangle)** - Integration with Rectangle [`@crickford`](https://raycast.com/crickford) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rectangle) `api@^1.88.4`
 - **[Redmine](https://raycast.com/jwickers/redmine)** - Integrate with the Redmine issue system (https://www.redmine.org/) [`@jwickers`](https://raycast.com/jwickers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/redmine) `api@^1.32.1`
@@ -1624,18 +1627,18 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 **[`^        back to top        ^`](#awesome-raycast)**
 
 - **[1Password](https://raycast.com/khasbilegt/1password)** - Search, open or edit your 1Password passwords from Raycast [`@khasbilegt`](https://raycast.com/khasbilegt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1password) `api@^1.89.0` `utils@^1.18.1`
-- **[Adguard Home](https://raycast.com/theplgeek/adguard-home)** - Control your AdGuard Home instance [`@theplgeek`](https://raycast.com/theplgeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adguard-home) `api@^1.89.0`
+- **[AdGuard Home](https://raycast.com/theplgeek/adguard-home)** - Control your AdGuard Home instance [`@theplgeek`](https://raycast.com/theplgeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adguard-home) `api@^1.89.0`
 - **[Aegis Authenticator](https://raycast.com/bfayers/aegis)** - Search, sync and use your Aegis 2FA database with Raycast [`@bfayers`](https://raycast.com/bfayers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aegis) `api@^1.77.1` `utils@^1.16.1`
 - **[Apple-Like Password](https://raycast.com/breadone/keychain-password-gen)** - Copies a generated Apple Keychain-Like password directly to the clipboard in one step [`@breadone`](https://raycast.com/breadone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) `api@^1.48.8`
 - **[Authy - Twilio App](https://raycast.com/guga4ka/authy)** - Search, sync and use your Twilio’s Authy 2fa tokens with Raycast [`@guga4ka`](https://raycast.com/guga4ka) [`code`](https://github.com/raycast/extensions/tree/main/extensions/authy) `api@^1.77.1` `utils@^1.16.1`
 - **[Bitwarden Vault](https://raycast.com/jomifepe/bitwarden)** - Access a Bitwarden account. Requires installing the Bitwarden CLI. [`@jomifepe`](https://raycast.com/jomifepe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) `api@^1.83.2` `utils@^1.17.0`
 - **[cryptgeon](https://raycast.com/cupcakearmy/cryptgeon)** - Create and share encrypted notes [`@cupcakearmy`](https://raycast.com/cupcakearmy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) `api@^1.81.2` `utils@^1.16.5`
 - **[Dashlane](https://raycast.com/dpnick/dashlane)** - Access your Dashlane vault directly from Raycast [`@dpnick`](https://raycast.com/dpnick) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dashlane) `api@^1.41.1`
-- **[Dashlane Vault](https://raycast.com/tm.wrnr/dashlane-vault)** - Access Dashlane Vault. Requires installing the Dashlane CLI. [`@tm.wrnr`](https://raycast.com/tm.wrnr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) `api@^1.84.3` `utils@^1.18.0`
+- **[Dashlane Vault](https://raycast.com/tm.wrnr/dashlane-vault)** - Access Dashlane Vault. Requires installing the Dashlane CLI. [`@tm.wrnr`](https://raycast.com/tm.wrnr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) `api@^1.90.0` `utils@^1.18.1`
 - **[Email Verifier](https://raycast.com/HerbertLu/email-verifier)** - A tool for email verification without sending any emails [`@HerbertLu`](https://raycast.com/HerbertLu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/email-verifier) `api@^1.79.0` `utils@^1.17.0`
 - **[Ente Auth](https://raycast.com/chkpwd/ente-auth)** - Get TOTP Codes from Ente Auth [`@chkpwd`](https://raycast.com/chkpwd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) `api@^1.81.2` `utils@^1.16.3`
 - **[Greip](https://raycast.com/ghadeer/greip)** - Use endpoint from greip.io directly from Raycast [`@ghadeer`](https://raycast.com/ghadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/greip) `api@^1.43.2` `utils@^1.4.11`
-- **[KeePassXC](https://raycast.com/Sulfyderz/keepassxc)** - Access a KeePass database through KeePassXC [`@Sulfyderz`](https://raycast.com/Sulfyderz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) `api@^1.89.1` `utils@^1.18.1`
+- **[KeePassXC](https://raycast.com/pabroux/keepassxc)** - Access a KeePass database through KeePassXC. [`@pabroux`](https://raycast.com/pabroux) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) `api@^1.90.0` `utils@^1.18.1`
 - **[Link Cleaner](https://raycast.com/MisakiCoca/link-cleaner)** - Remove tracking parameters from the URL link in clipboard. [`@MisakiCoca`](https://raycast.com/MisakiCoca) [`code`](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) `api@^1.79.0`
 - **[Mozilla VPN Connect](https://raycast.com/natew/mozilla-vpn)** - Interact with the Mozilla VPN from Raycast. [`@natew`](https://raycast.com/natew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) `api@^1.71.4`
 - **[Okta Search](https://raycast.com/damian_zachwieja/oktasearch)** - Serach Okta users and groups by name. [`@damian_zachwieja`](https://raycast.com/damian_zachwieja) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oktasearch) `api@^1.55.2`
@@ -1964,7 +1967,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Microsoft Edge](https://raycast.com/KartikKumarSahoo/microsoft-edge)** - Search open tabs, bookmarks, collections and history in Microsoft Edge. [`@KartikKumarSahoo`](https://raycast.com/KartikKumarSahoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) `api@^1.86.0` `utils@^1.18.1`
 - **[MLDocs](https://raycast.com/reckoning-dev/mldocs)** - Raycast Commands for Searching Different ML APIs [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mldocs) `api@^1.26.1`
 - **[Moji Dict Search](https://raycast.com/Kasper/moji)** - Search mojidict.com [`@Kasper`](https://raycast.com/Kasper) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moji) `api@^1.27.1`
-- **[monday.com](https://raycast.com/freak4pc/monday-com)** - Quickly navigate to your latest monday.com boards and create items [`@freak4pc`](https://raycast.com/freak4pc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monday) `api@^1.29.1`
 - **[Mullvad VPN](https://raycast.com/0x46616c6b/mullvad)** - Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. [`@0x46616c6b`](https://raycast.com/0x46616c6b) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mullvad) `api@^1.62.0` `utils@^1.10.1`
 - **[Multipass](https://raycast.com/davibe/multipass)** - Manage Multipass instances [`@davibe`](https://raycast.com/davibe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multipass) `api@^1.39.2`
 - **[Music](https://raycast.com/fedevitaledev/music)** - Control the Apple Music app with your keyboard. [`@fedevitaledev`](https://raycast.com/fedevitaledev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/music) `api@^1.59.0` `utils@^1.10.0`
@@ -2054,7 +2056,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[TablePlus](https://raycast.com/pernielsentikaer/tableplus)** - Search and open database connections in TablePlus [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tableplus) `api@^1.79.0` `utils@^1.16.5`
 - **[TeamGantt](https://raycast.com/knownasilya/teamgantt)** - Finding and creating tasks in TeamGantt [`@knownasilya`](https://raycast.com/knownasilya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/teamgantt) `api@^1.51.3`
 - **[Terminal Finder](https://raycast.com/yedongze/terminalfinder)** - Open currently selected Finder (or Path Finder) window in Terminal (or iTerm2, Warp, WezTerm) and vice versa [`@yedongze`](https://raycast.com/yedongze) [`code`](https://github.com/raycast/extensions/tree/main/extensions/terminalfinder) `api@^1.48.5`
-- **[The Blue Cloud](https://raycast.com/chyroc/the-blue-cloud)** - List and Search Files using the Raycast Extension for Dropbox. [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) `api@^1.84.6` `utils@^1.18.0`
+- **[The Blue Cloud](https://raycast.com/chyroc/the-blue-cloud)** - List, Search and Download Files using the Raycast Extension for Dropbox. [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) `api@^1.91.0` `utils@^1.18.1`
 - **[The Noble Quran](https://raycast.com/BalliAsghar/the-noble-quran)** - Explore The Noble Quran [`@BalliAsghar`](https://raycast.com/BalliAsghar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) `api@^1.55.1` `utils@^1.8.0`
 - **[Things](https://raycast.com/loris/things)** - Search and manage your Things to-dos from Raycast [`@loris`](https://raycast.com/loris) [`code`](https://github.com/raycast/extensions/tree/main/extensions/things) `api@^1.79.1` `utils@^1.16.2`
 - **[Timeular](https://raycast.com/bgnfu7re/raycast-timeular)** - Track time with Timeular [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/timeular) `api@^1.26.3`

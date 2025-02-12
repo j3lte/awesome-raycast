@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/74994b9b2658f5ef_update-time.svg)
+![Last update](/icons/d1e435b6762b8009_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1908** packages in **15** categories, **19** packages use Swift
-- **1228** authors, **732** contributors (of which **548** are only contributors, not authors)
+- **1909** packages in **15** categories, **19** packages use Swift
+- **1229** authors, **733** contributors (of which **549** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (52)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -2043,6 +2043,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Sketch](https://raycast.com/aesign/sketch)** - Frictionless Workspace Browsing [`@aesign`](https://raycast.com/aesign) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sketch) `api@^1.25.0`
 - **[Snake](https://raycast.com/tonka3000/snake)** - Play the classic snake game 🐍 [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/snake) `api@1.44.0`
 - **[SnapJot](https://raycast.com/k41531/snap-jot)** - Create a memo with a timestamp [`@k41531`](https://raycast.com/k41531) [`code`](https://github.com/raycast/extensions/tree/main/extensions/snap-jot) `api@^1.63.0` `utils@^1.10.1`
+- **[Sniffer](https://raycast.com/night_coder/sniffer)** - FInd who is connected to your network [`@night_coder`](https://raycast.com/night_coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sniffer) `api@^1.89.0` `utils@^1.18.1`
 - **[Solana Explorer](https://raycast.com/darklong/solana-explorer)** - Look up transactions and accounts on the various Solana clusters. [`@darklong`](https://raycast.com/darklong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solana-explorer) `api@^1.46.1` `utils@^1.4.16`
 - **[Spatie Documentation](https://raycast.com/danyelkeddah/spatie-documentation)** - Spatie Documentation Search [`@danyelkeddah`](https://raycast.com/danyelkeddah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spatie-documentation) `api@^1.27.0`
 - **[Spotify Beta](https://raycast.com/mattisssa/spotify-beta)** - Spotify's most common features, now at your fingertips. Search for music and podcasts, browse your library, and control the playback. Glance at what's currently playing directly from the menu bar. [`@mattisssa`](https://raycast.com/mattisssa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spotify-beta) `api@^1.48.9` `utils@^1.5.2`

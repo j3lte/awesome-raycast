@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/d1e435b6762b8009_update-time.svg)
+![Last update](/icons/c77f727aa9900197_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (14)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (189)
-  - [xmok](https://raycast.com/xmok) (97)
+  - [xmok](https://raycast.com/xmok) (98)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (55)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
@@ -158,7 +158,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mozilla Firefox](https://raycast.com/crisboarna/mozilla-firefox)** - Search and open tabs from bookmarks and history in Mozilla Firefox. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) `api@^1.59.0` `utils@^1.4.13`
 - **[Multi](https://raycast.com/fernando_barbat/multi)** - See rooms & teammates, join sessions, control devices and more [`@fernando_barbat`](https://raycast.com/fernando_barbat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multi) `api@^1.70.2` `utils@^1.13.4`
 - **[Multi Viewer](https://raycast.com/secustor/multiviewer)** - Controls your MultiViewer for F1 setup [`@secustor`](https://raycast.com/secustor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multiviewer) `api@^1.84.3` `utils@^1.17.0`
-- **[n8n](https://raycast.com/koinzhang/n8n)** - Control n8n via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/n8n) `api@^1.44.0`
+- **[n8n](https://raycast.com/koinzhang/n8n)** - Control n8n via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/n8n) `api@^1.79.0` `utils@^1.18.1`
 - **[NameSilo](https://raycast.com/xmok/namesilo)** - View your Domains, Orders, Whois Info and Account Balance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/namesilo) `api@^1.79.0` `utils@^1.16.3`
 - **[NameSpaces](https://raycast.com/GastroGeek/namespaces)** - Create named aliases for your macOS Spaces and easily switch between them from within Raycast [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/namespaces) `api@^1.79.0` `utils@^1.17.0`
 - **[Nature Remo](https://raycast.com/uetchy/nature-remo)** - Control Nature Remo right from Raycast. [`@uetchy`](https://raycast.com/uetchy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) `api@^1.33.2`
@@ -715,7 +715,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ruby Evaluate](https://raycast.com/obahareth/ruby-evaluate)** - Evaluate Ruby code on-the-fly [`@obahareth`](https://raycast.com/obahareth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ruby-evaluate) `api@^1.38.1`
 - **[RunCloud](https://raycast.com/itsjustxan/runcloud)** - Search Your RunCloud Servers + Webapps [`@itsjustxan`](https://raycast.com/itsjustxan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/runcloud) `api@^1.56.0` `utils@^1.4.8`
 - **[Sanity](https://raycast.com/marcusforsberg/sanity)** - Quickly search for Sanity projects you have access to [`@marcusforsberg`](https://raycast.com/marcusforsberg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sanity) `api@^1.79.0` `utils@^1.17.0`
-- **[Sav](https://raycast.com/xmok/sav)** - Manage Domains in your Sav Account [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sav) `api@^1.85.2` `utils@^1.17.0`
+- **[Sav](https://raycast.com/xmok/sav)** - Manage Domains in your Sav Account [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sav) `api@^1.91.0` `utils@^1.18.1`
 - **[Saved Items](https://raycast.com/guoxudong/saved-items)** - Save some items (eg. quick replies) and insert or copy them. [`@guoxudong`](https://raycast.com/guoxudong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/saved-items) `api@^1.58.1`
 - **[Scaleway](https://raycast.com/philibea/scaleway)** - Quick access to your Scaleway services [`@philibea`](https://raycast.com/philibea) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scaleway) `api@1.70.3`
 - **[Scrcpy](https://raycast.com/zcfan/scrcpy)** - Mirror android device screen with scrcpy [`@zcfan`](https://raycast.com/zcfan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) `api@^1.48.5`
@@ -1892,7 +1892,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Expand Video Canvas](https://raycast.com/lzybiasia/expand-video-canvas)** - Expand different size video to 1920*1080. It will center the original video and fill background with the edge color. [`@lzybiasia`](https://raycast.com/lzybiasia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/expand-video-canvas) `api@^1.83.1` `utils@^1.17.0`
 - **[FaceTime](https://raycast.com/ron-myers/facetime)** - Make FaceTime calls with Raycast [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/facetime) `api@^1.78.1` `utils@^1.16.2` `swift`
 - **[Feedly](https://raycast.com/shubham/feedly)** - Browse Feedly through Raycast [`@shubham`](https://raycast.com/shubham) [`code`](https://github.com/raycast/extensions/tree/main/extensions/feedly) `api@^1.44.0` `utils@^1.4.14`
-- **[Figma File Search](https://raycast.com/michaelschultz/figma-files-raycast-extension)** - Lists Figma files allowing you to search and navigate to them. [`@michaelschultz`](https://raycast.com/michaelschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/figma-files) `api@^1.71.3` `utils@^1.14.0`
+- **[Figma File Search](https://raycast.com/michaelschultz/figma-files-raycast-extension)** - Lists Figma files allowing you to search and navigate to them. [`@michaelschultz`](https://raycast.com/michaelschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/figma-files) `api@^1.91.1` `utils@^1.18.1`
 - **[Filament](https://raycast.com/aurawindsurfing/filament)** - Documentation Search [`@aurawindsurfing`](https://raycast.com/aurawindsurfing) [`code`](https://github.com/raycast/extensions/tree/main/extensions/filamentphp-doc-seach) `api@^1.37.1`
 - **[File Manager](https://raycast.com/erics118/file-manager)** - Manage files from Raycast [`@erics118`](https://raycast.com/erics118) [`code`](https://github.com/raycast/extensions/tree/main/extensions/file-manager) `api@^1.79.1` `utils@^1.16.2`
 - **[Flighty](https://raycast.com/hrishabhn/flighty)** - Interact with the Flighty app. [`@hrishabhn`](https://raycast.com/hrishabhn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flighty) `api@^1.85.2` `utils@^1.18.0`

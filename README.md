@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/4406b596805246c4_update-time.svg)
+![Last update](/icons/9460c94f70cecfea_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (189)
   - [xmok](https://raycast.com/xmok) (98)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (56)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (57)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
   - [stelo](https://raycast.com/stelo) (25)
@@ -98,7 +98,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Contentful](https://raycast.com/ewgenius/contentful)** - Browse and search Contentful content and assets library [`@ewgenius`](https://raycast.com/ewgenius) [`code`](https://github.com/raycast/extensions/tree/main/extensions/contentful) `api@^1.84.3` `utils@^1.18.0`
 - **[Convert CSV to Excel](https://raycast.com/VictoRD11/csv-to-excel)** - Convert CSV table to Excel compatible table. [`@VictoRD11`](https://raycast.com/VictoRD11) [`code`](https://github.com/raycast/extensions/tree/main/extensions/csv-to-excel) `api@^1.53.0`
 - **[Coolify](https://raycast.com/xmok/coolify)** - View Servers, Resources, Teams and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coolify) `api@^1.84.3` `utils@^1.18.0`
-- **[cPanel](https://raycast.com/xmok/cpanel)** - View Domains, DNS Zones, Email Accounts, Databases, Files and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpanel) `api@^1.79.0` `utils@^1.17.0`
+- **[cPanel](https://raycast.com/xmok/cpanel)** - View Domains, DNS Zones, Email Accounts, Databases, Files and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpanel) `api@^1.91.0` `utils@^1.18.1`
 - **[Cursor](https://raycast.com/degouville/cursor-recent-projects)** - Control Cursor, Cursor & Codium directly from Raycast - Search and open recent projects, handle extensions and commands. [`@degouville`](https://raycast.com/degouville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) `api@^1.83.1` `utils@^1.17.0`
 - **[Cursor Documentation](https://raycast.com/degouville/cursor)** - Search the Cursor Documentation right from Raycast [`@degouville`](https://raycast.com/degouville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor) `api@^1.83.1` `utils@^1.17.0`
 - **[Daminik](https://raycast.com/xmok/daminik)** - Manage your Digital Assets [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/daminik) `api@^1.85.1` `utils@^1.18.0`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/ee7d94eed3017fa8_update-time.svg)
+![Last update](/icons/5e2b1d2a220cb711_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1917** packages in **15** categories, **19** packages use Swift
-- **1236** authors, **736** contributors (of which **552** are only contributors, not authors)
+- **1236** authors, **739** contributors (of which **555** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (52)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (14)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (189)
-  - [xmok](https://raycast.com/xmok) (98)
+  - [xmok](https://raycast.com/xmok) (100)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (57)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (28)
@@ -638,8 +638,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Motion Preview](https://raycast.com/ayarse/raycast-motion-preview)** - Preview Lottie and Rive Animations in Raycast [`@ayarse`](https://raycast.com/ayarse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-motion-preview) `api@^1.79.1` `utils@^1.16.2` `swift`
 - **[MUI Documentation](https://raycast.com/kgrhartlage/mui-documentation)** - Search the online MUI documentation. [`@kgrhartlage`](https://raycast.com/kgrhartlage) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) `api@^1.55.2` `utils@^1.9.0`
 - **[MultiForce](https://raycast.com/brian_j_decoder22/multi-force)** - Allows a Salesforce Developer to access and authenticate orgs availabe via the SF command line tools. [`@brian_j_decoder22`](https://raycast.com/brian_j_decoder22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multi-force) `api@^1.67.1` `utils@^1.12.5`
-- **[MyIdlers](https://raycast.com/xmok/myidlers)** - View Summary and details of your idlers [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/my-idlers) `api@^1.87.0` `utils@^1.17.0`
-- **[Neon](https://raycast.com/xmok/neon)** - Manage Neon Projects and API Keys [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neon) `api@^1.88.4` `utils@^1.17.0`
+- **[MyIdlers](https://raycast.com/xmok/myidlers)** - View Summary and details of your idlers [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/my-idlers) `api@^1.91.0` `utils@^1.18.1`
+- **[Neon](https://raycast.com/xmok/neon)** - Manage Neon Projects and API Keys [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neon) `api@^1.91.0` `utils@^1.18.1`
 - **[Netlify](https://raycast.com/destiner/netlify)** - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/netlify) `api@^1.87.5` `utils@^1.18.1`
 - **[Network Speed](https://raycast.com/koinzhang/network-speed)** - Quickly check your internet connection speed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/network-speed) `api@^1.77.0`
 - **[New Relic](https://raycast.com/cirne/new-relic)** - Search Applications, Dashboard, Alerts, and more in New Relic [`@cirne`](https://raycast.com/cirne) [`code`](https://github.com/raycast/extensions/tree/main/extensions/new-relic) `api@^1.48.3` `utils@^1.4.8`
@@ -705,7 +705,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Radicle](https://raycast.com/sebastinez_rhizoma/radicle)** - Interact with your Radicle storage. [`@sebastinez_rhizoma`](https://raycast.com/sebastinez_rhizoma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/radicle) `api@^1.64.4` `utils@^1.10.1`
 - **[Rails Routes](https://raycast.com/renzo/rails-routes)** - Inspect your Rails routes in development mode directly from Raycast [`@renzo`](https://raycast.com/renzo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rails-routes) `api@^1.86.1` `utils@^1.17.0`
 - **[Railway Project Search](https://raycast.com/coffee-cup/railway)** - Search and navigate to your Railway projects [`@coffee-cup`](https://raycast.com/coffee-cup) [`code`](https://github.com/raycast/extensions/tree/main/extensions/railway) `api@^1.79.0` `utils@^1.16.3`
-- **[Raycast Notification](https://raycast.com/maxnyby/raycast-notification)** - This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast interface accessible to other applications or scripts. [`@maxnyby`](https://raycast.com/maxnyby) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) `api@^1.87.0`
+- **[Raycast Notification](https://raycast.com/maxnyby/raycast-notification)** - This extension makes it easy to display system built-in Notification Center and Raycast HUD via a quicklink or cross-extension launch, making the Raycast interface accessible to other applications or scripts. [`@maxnyby`](https://raycast.com/maxnyby) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-notification) `api@^1.85.2`
 - **[Raycast Port](https://raycast.com/litomore/raycast-port)** - This allows you to use Raycast features out of Raycast. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-port) `api@^1.90.0`
 - **[React Documentation](https://raycast.com/webdiego/react-docs)** - Quick links to the new React documentation [`@webdiego`](https://raycast.com/webdiego) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-docs) `api@^1.45.2`
 - **[React Native Directory](https://raycast.com/shubh_porwal/react-native-directory)** - A searchable and filterable directory of React Native libraries. [`@shubh_porwal`](https://raycast.com/shubh_porwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-native-directory) `api@^1.89.0` `utils@^1.18.1`
@@ -1762,7 +1762,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[LeetCode](https://raycast.com/justin0u0/leetcode)** - Search LeetCode problem, view LeetCode daily challenge, view LeetCode problem and more. [`@justin0u0`](https://raycast.com/justin0u0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/leetcode) `api@^1.79.0` `utils@^1.17.0`
 - **[Lenscast](https://raycast.com/peduarte/lenscast)** - Web3 Social Raycast Extension built with Lens Protocol [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lenscast) `api@^1.39.3` `utils@^1.4.1`
 - **[Library Genesis](https://raycast.com/yz3440/library-genesis)** - Search books on Library Genesis and directly download them. [`@yz3440`](https://raycast.com/yz3440) [`code`](https://github.com/raycast/extensions/tree/main/extensions/library-genesis) `api@^1.79.0` `utils@^1.18.0`
-- **[Linkding](https://raycast.com/InteractiveNinja/linkding)** - Manage Linkding through Raycast [`@InteractiveNinja`](https://raycast.com/InteractiveNinja) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linkding) `api@^1.60.0`
+- **[Linkding](https://raycast.com/InteractiveNinja/linkding)** - Manage Linkding through Raycast [`@InteractiveNinja`](https://raycast.com/InteractiveNinja) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linkding) `api@^1.91.0` `utils@^1.18.1`
 - **[Literal](https://raycast.com/OkanBilal/literal)** - Track and edit your reading progress from your command bar [`@OkanBilal`](https://raycast.com/OkanBilal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/literal) `api@^1.69.0` `utils@^1.14.1`
 - **[Lucky Surf](https://raycast.com/popalay/lucky-surf)** - Say goodbye to scrolling through endless search results – simply trust your intuition and let serendipity guide you to the information you need, swiftly and efficiently [`@popalay`](https://raycast.com/popalay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lucky-surf) `api@^1.74.1`
 - **[Masked Link Generator](https://raycast.com/Visual-Studio-Coder/masked-link-generator)** - Input a destination URL and the title of the link and receive a masked link in your clipboard. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/masked-link-generator) `api@^1.57.2` `utils@^1.4.8`
@@ -1780,7 +1780,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Password Strength](https://raycast.com/j3lte/password-strength)** - Check your passwords [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-strength) `api@^1.83.1` `utils@^1.17.0`
 - **[Pastebin](https://raycast.com/vimtor/pastebin)** - Create and manage Pastebin pastes [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pastebin) `api@^1.36.0`
 - **[Pinata](https://raycast.com/stevedylandev/pinata)** - An extension to interact with the Pianta API [`@stevedylandev`](https://raycast.com/stevedylandev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pinata) `api@^1.45.2` `utils@^1.4.16`
-- **[Plausible Analytics](https://raycast.com/thebrokenfinger/plausible-analytics)** - Get a quick, brief overview of your Plausible Analytics data. [`@thebrokenfinger`](https://raycast.com/thebrokenfinger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/plausible-analytics) `api@^1.44.0` `utils@^1.4.11`
+- **[Plausible Analytics](https://raycast.com/thebrokenfinger/plausible-analytics)** - Get a quick, brief overview of your Plausible Analytics data. [`@thebrokenfinger`](https://raycast.com/thebrokenfinger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/plausible-analytics) `api@^1.91.0` `utils@^1.18.1`
 - **[Quip](https://raycast.com/justin0u0/quip)** - Search and View Quip Documents [`@justin0u0`](https://raycast.com/justin0u0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quip) `api@^1.47.2` `utils@^1.4.16`
 - **[Rate Your Music Search](https://raycast.com/leepyd/rateyourmusic-search)** - Search Rate Your Music in Raycast [`@leepyd`](https://raycast.com/leepyd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rateyourmusic-search) `api@^1.67.1` `utils@^1.4.8`
 - **[Raycaster](https://raycast.com/stevedylandev/raycaster)** - Send casts to Farcaster from Raycast [`@stevedylandev`](https://raycast.com/stevedylandev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycaster) `api@^1.74.1` `utils@^1.15.0`

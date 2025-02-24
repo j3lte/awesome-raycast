@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/3c21fe29e4863797_update-time.svg)
+![Last update](/icons/57aad9ff27099a1d_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **1920** packages in **15** categories, **19** packages use Swift
-- **1236** authors, **742** contributors (of which **557** are only contributors, not authors)
+- **1237** authors, **742** contributors (of which **557** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (52)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -1234,7 +1234,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Twitch Chat](https://raycast.com/Aayush9029/twitch-chat)** - View twitch.tv's live chat [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitch-chat) `api@^1.38.0`
 - **[Twitch Logs](https://raycast.com/Aayush9029/twitch-logs)** - See what messages a user has sent on a paticular twitch channel on a paticular month. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitch-logs) `api@^1.47.3` `utils@^1.4.8`
 - **[UK Bank Holidays](https://raycast.com/kud/uk-bank-holidays)** - Display the upcoming bank holiday information for England and Wales. [`@kud`](https://raycast.com/kud) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uk-bank-holidays) `api@^1.60.1`
-- **[UniFi](https://raycast.com/tonka3000/unifi)** - Manage Unifi Controllers [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unifi) `api@^1.66.0` `utils@^1.9.0`
+- **[Unifi](https://raycast.com/lewj/unifi)** - Manage Unifi Controllers [`@lewj`](https://raycast.com/lewj) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unifi) `api@1.91.1` `utils@1.18.1`
 - **[Universities](https://raycast.com/alewandowski/universities)** - Search for universities worldwide [`@alewandowski`](https://raycast.com/alewandowski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/universities) `api@^1.47.3` `utils@^1.4.18`
 - **[V2EX](https://raycast.com/daikaiyu/v2ex-viewer)** - View V2EX in Raycast. [`@daikaiyu`](https://raycast.com/daikaiyu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/v2ex-viewer) `api@^1.39.2` `utils@^1.3.1`
 - **[Veganify](https://raycast.com/philipbrembeck/veganify-application)** - Instantly verify the vegan status of food ingredients using the Veganify API. Perfect for quick checks while cooking or searching for recipes. Works in several languages. [`@philipbrembeck`](https://raycast.com/philipbrembeck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/veganify-application) `api@^1.82.5` `utils@^1.16.3`
@@ -1350,7 +1350,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ftrack](https://raycast.com/lucaas/ftrack)** - Interacting with ftrack [`@lucaas`](https://raycast.com/lucaas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ftrack) `api@^1.50.0` `utils@^1.5.2`
 - **[Get Direct Link](https://raycast.com/trungnghiatn/get-direct-link)** - Get a direct link from a shareable link of Dropbox, Google Drive, and Imgur service. [`@trungnghiatn`](https://raycast.com/trungnghiatn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-direct-link) `api@^1.41.1`
 - **[GetSound](https://raycast.com/asgudev/getsound)** - Get focused with GetSound.AI [`@asgudev`](https://raycast.com/asgudev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/getsound) `api@^1.44.0` `utils@^1.4.11`
-- **[Ghostty](https://raycast.com/jarry_chung/ghostty)** - Control Ghostty with Raycast [`@jarry_chung`](https://raycast.com/jarry_chung) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ghostty) `api@^1.88.4` `utils@^1.17.0`
+- **[Ghostty](https://raycast.com/jarry_chung/ghostty)** - Control Ghostty with Raycast [`@jarry_chung`](https://raycast.com/jarry_chung) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ghostty) `api@^1.89.0` `utils@^1.17.0`
 - **[GHPic](https://raycast.com/xiangsanliu/gh-pic)** - A simple extension of Raycast to upload images to GitHub from clipboard. [`@xiangsanliu`](https://raycast.com/xiangsanliu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gh-pic) `api@^1.69.0`
 - **[Gistly](https://raycast.com/rafal_zawadzki/gistly)** - YouTube AI Summaries & Transcripts [`@rafal_zawadzki`](https://raycast.com/rafal_zawadzki) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gistly) `api@^1.67.1` `utils@^1.12.4`
 - **[GitHub Review Requests](https://raycast.com/resessh/github-review-requests)** - Search review requests on GitHub and listing them. [`@resessh`](https://raycast.com/resessh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-review-requests) `api@^1.38.1`

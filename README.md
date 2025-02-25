@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/57aad9ff27099a1d_update-time.svg)
+![Last update](/icons/968eeee68d790ff5_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1920** packages in **15** categories, **19** packages use Swift
-- **1237** authors, **742** contributors (of which **557** are only contributors, not authors)
+- **1921** packages in **15** categories, **19** packages use Swift
+- **1236** authors, **745** contributors (of which **559** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (52)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -1079,7 +1079,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[hostloc](https://raycast.com/J3n5en/hostloc)** - You can quickly access the 20 latest posts of hostloc at the moment. Note: The hostloc home page can be reached by visiting https://www.hostloc.com/ through your browser. [`@J3n5en`](https://raycast.com/J3n5en) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hostloc) `api@^1.36.0`
 - **[I Don't Have Spotify](https://raycast.com/sjdonado/idonthavespotify)** - Effortlessly convert Spotify links to your preferred streaming service [`@sjdonado`](https://raycast.com/sjdonado) [`code`](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) `api@^1.78.1` `utils@^1.16.2`
 - **[Image Host](https://raycast.com/efeclk/image-host)** - Host an image on imgBB [`@efeclk`](https://raycast.com/efeclk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-host) `api@^1.65.1` `utils@^1.11.1`
-- **[Image Modification](https://raycast.com/HelloImSteven/sips)** - Apply filters and transformations to various image formats, and convert between them. [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sips) `api@^1.89.1` `utils@^1.18.1`
+- **[Image Modification](https://raycast.com/HelloImSteven/sips)** - Apply filters and transformations to various image formats, and convert between them. [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sips) `api@^1.92.1` `utils@^1.18.1`
 - **[Image Wallet](https://raycast.com/ibll/image-wallet)** - Store and retrieve images quickly from Raycast! [`@ibll`](https://raycast.com/ibll) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) `api@^1.55.0` `utils@^1.5.2`
 - **[ImageKit Uploader](https://raycast.com/ludafa/imagekit-uploader)** - Upload Image to imagekit [`@ludafa`](https://raycast.com/ludafa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imagekit-uploader) `api@^1.64.5` `utils@^1.10.1`
 - **[Internet Radio](https://raycast.com/HelloImSteven/internet-radio)** - Plays internet radio via the Music app [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/internet-radio) `api@^1.46.0` `utils@^1.4.16`
@@ -1522,6 +1522,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Screen Saver](https://raycast.com/koinzhang/screen-saver)** - Activate screen saver of your Mac. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) `api@^1.78.1`
 - **[Screen Sharing Recents](https://raycast.com/bix/screen-sharing-recents)** - Adds shortcuts to recent screen sharing locations [`@bix`](https://raycast.com/bix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) `api@^1.66.1`
 - **[ScreenOCR](https://raycast.com/huzef44/screenocr)** - Extract text from screen captures locally via OCR [`@huzef44`](https://raycast.com/huzef44) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screenocr) `api@^1.83.1` `utils@^1.17.0` `swift`
+- **[Screenpipe](https://raycast.com/huzef44/screenpipe)** - Interact with Screenpipe [`@huzef44`](https://raycast.com/huzef44) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screenpipe) `api@^1.91.1` `utils@^1.17.0`
 - **[Screenshot](https://raycast.com/Aayush9029/screenshot)** - Capture your screen with macOS native tools [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screenshot) `api@^1.42.0`
 - **[Search Blockchain](https://raycast.com/gutenye/search-blockchain)** - Search Bitcoin (BTC), Cardano (ADA), EOS, Ethereum (ETH), Monero (XMR), NEO, Ontology (ONT), Polygon (DOT), Solana (SOL), Stellar (XLM), Tron (TRX), XRP and more cryptocurrency blockchain explorer [`@gutenye`](https://raycast.com/gutenye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) `api@^1.69.0`
 - **[Search ClojureDocs Documentation](https://raycast.com/danblancas/search-clojuredocs)** - Search and browse clojuredocs.org site. [`@danblancas`](https://raycast.com/danblancas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clojuredocs-search) `api@^1.39.3`
@@ -1813,7 +1814,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Web Page Design Mode](https://raycast.com/danulqua/web-page-design-mode)** - Toggle the document.designMode property on your web page to control whether the entire document is editable. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web-page-design-mode) `api@^1.86.0` `utils@^1.17.0`
 - **[Web3 Profile](https://raycast.com/peduarte/web3-profile)** - Search for ENS names and view its profile — Avatar, description, social URLs and more! [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web3-profile) `api@^1.39.1` `utils@^1.3.1`
 - **[Whois](https://raycast.com/zavbala/whois)** - Retrieve whois data. [`@zavbala`](https://raycast.com/zavbala) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whois) `api@^1.79.1` `utils@^1.16.3`
-- **[WhoSampled](https://raycast.com/andrewtruex/whosampled)** - Search WhoSampled.com from the currently playing song in Spotify [`@andrewtruex`](https://raycast.com/andrewtruex) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whosampled) `api@^1.46.0`
+- **[WhoSampled](https://raycast.com/truex/whosampled)** - Search WhoSampled.com from the currently playing song in Spotify, Apple Music, or search for a song and artists [`@truex`](https://raycast.com/truex) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whosampled) `api@^1.46.0`
 - **[Wikipedia](https://raycast.com/vimtor/wikipedia)** - Search Wikipedia from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wikipedia) `api@^1.79.0` `utils@^1.14.0`
 - **[You.com Search](https://raycast.com/salman_mian/you-com-search)** - Search You.com directly from Raycast [`@salman_mian`](https://raycast.com/salman_mian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/you-com-search) `api@^1.71.3` `utils@^1.14.0`
 - **[YouTube Companion](https://raycast.com/sasivarnan/youtube-companion)** - Collection of scripts to improve YouTube browsing experience [`@sasivarnan`](https://raycast.com/sasivarnan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) `api@^1.33.2`

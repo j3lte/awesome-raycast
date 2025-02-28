@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a4361f014d466b22_update-time.svg)
+![Last update](/icons/d6dfd617a7660ed7_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1934** packages in **15** categories, **19** packages use Swift
-- **1245** authors, **753** contributors (of which **566** are only contributors, not authors)
+- **1935** packages in **15** categories, **19** packages use Swift
+- **1246** authors, **754** contributors (of which **567** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (54)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -53,7 +53,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [xmok](https://raycast.com/xmok) (102)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (57)
   - [j3lte](https://raycast.com/j3lte) (39)
-  - [xilopaint](https://raycast.com/xilopaint) (29)
+  - [xilopaint](https://raycast.com/xilopaint) (30)
   - [stelo](https://raycast.com/stelo) (25)
   - [litomore](https://raycast.com/litomore) (19)
 
@@ -116,7 +116,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Feedbin](https://raycast.com/third774/feedbin)** - Feedbin reader in Raycast [`@third774`](https://raycast.com/third774) [`code`](https://github.com/raycast/extensions/tree/main/extensions/feedbin) `api@^1.63.0` `utils@^1.10.1`
 - **[Feishu Document Creator](https://raycast.com/rokcso/feishu-document-creator)** - Create Feishu/Lark online document quickly using native Feishu/Lark URLs. [`@rokcso`](https://raycast.com/rokcso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/feishu-document-creator) `api@^1.62.1`
 - **[Firecrawl](https://raycast.com/nickscamara/firecrawl)** - Scrape, search, and deep research with Firecrawl [`@nickscamara`](https://raycast.com/nickscamara) [`code`](https://github.com/raycast/extensions/tree/main/extensions/firecrawl) `api@^1.91.2` `utils@^1.17.0`
-- **[Flow Timer](https://raycast.com/vimtor/flow)** - Control Flow application timer [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flow) `api@^1.31.0`
+- **[Flow Timer](https://raycast.com/vimtor/flow)** - Control Flow application timer [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flow) `api@^1.50.0`
 - **[Focus - Website Blocker for Mac](https://raycast.com/ernest/focus)** - Raycast extension for Focus app [`@ernest`](https://raycast.com/ernest) [`code`](https://github.com/raycast/extensions/tree/main/extensions/focus) `api@^1.45.0`
 - **[Gitfox Repositories](https://raycast.com/azlekov/gitfox)** - Navigate and open your repositories in Gitfox. [`@azlekov`](https://raycast.com/azlekov) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitfox) `api@^1.83.1` `utils@^1.17.0`
 - **[Gradle Plugins](https://raycast.com/alex-w0/gradle-plugins)** - Search for gradle plugins [`@alex-w0`](https://raycast.com/alex-w0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gradle-plugins) `api@^1.64.4`
@@ -457,7 +457,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[1 LOC - JavaScript Utilities in Single Line of Code](https://raycast.com/kud/1loc)** - Browse JavaScript Utilities from 1loc.dev [`@kud`](https://raycast.com/kud) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1loc) `api@^1.79.0` `utils@^1.18.1`
 - **[AI Code Namer](https://raycast.com/HunterJi/ai-code-namer)** - AI Code Namer is a Raycast extension that leverages AI to help developers generate clear, descriptive, and context-appropriate names for various code elements such as variables, functions, classes, and files. [`@HunterJi`](https://raycast.com/HunterJi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-code-namer) `api@^1.81.2` `utils@^1.16.3`
 - **[AI Git Assistant](https://raycast.com/popalay/ai-git-assistant)** - Your personal AI assistant for Git commit operations such as generating commit messages and PR descriptions [`@popalay`](https://raycast.com/popalay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-git-assistant) `api@^1.70.0` `utils@^1.13.5`
-- **[Aiven](https://raycast.com/xmok/aiven)** - Manage Aiven Projects and Services [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aiven) `api@^1.86.1` `utils@^1.17.0`
+- **[Aiven](https://raycast.com/xmok/aiven)** - Manage Aiven Projects and Services [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aiven) `api@^1.91.0` `utils@^1.18.1`
 - **[Alacritty](https://raycast.com/jose-elias-alvarez/alacritty)** - Adds commands to control the Alacritty terminal emulator. [`@jose-elias-alvarez`](https://raycast.com/jose-elias-alvarez) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alacritty) `api@^1.55.1`
 - **[Alt-Text Generator](https://raycast.com/jack_casica/alt-text-generator)** - This extension makes it easy to generate descriptive alt-text for images. Simply provide an image URL, and the extension will make a call to the openai api to create a concise and descriptive alt text. This extension is Bring-Your-Own-Key (support for OpenAI only at the moment). If you don't have an API key yet, you can sign up for one at [OpenAI - Api Keys](https://platform.openai.com/api-keys). [`@jack_casica`](https://raycast.com/jack_casica) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alt-text-generator) `api@^1.72.1` `utils@^1.15.0`
 - **[Amazon AWS](https://raycast.com/Falcon/aws)** - The best way to interact with your AWS resources [`@Falcon`](https://raycast.com/Falcon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/amazon-aws) `api@^1.42.0` `utils@^1.4.11`
@@ -1777,6 +1777,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[LeetCode](https://raycast.com/justin0u0/leetcode)** - Search LeetCode problem, view LeetCode daily challenge, view LeetCode problem and more. [`@justin0u0`](https://raycast.com/justin0u0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/leetcode) `api@^1.79.0` `utils@^1.17.0`
 - **[Lenscast](https://raycast.com/peduarte/lenscast)** - Web3 Social Raycast Extension built with Lens Protocol [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lenscast) `api@^1.39.3` `utils@^1.4.1`
 - **[Library Genesis](https://raycast.com/yz3440/library-genesis)** - Search books on Library Genesis and directly download them. [`@yz3440`](https://raycast.com/yz3440) [`code`](https://github.com/raycast/extensions/tree/main/extensions/library-genesis) `api@^1.79.0` `utils@^1.18.0`
+- **[Lingorep - Translate, Repeat, Memorize](https://raycast.com/oleksandr_oliynyk/lingo-rep-raycast)** - Translate, save and repeat translations to increase your vocabulary [`@oleksandr_oliynyk`](https://raycast.com/oleksandr_oliynyk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lingo-rep-raycast) `api@^1.92.1` `utils@^1.18.1`
 - **[Linkding](https://raycast.com/InteractiveNinja/linkding)** - Manage Linkding through Raycast [`@InteractiveNinja`](https://raycast.com/InteractiveNinja) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linkding) `api@^1.91.0` `utils@^1.18.1`
 - **[Literal](https://raycast.com/OkanBilal/literal)** - Track and edit your reading progress from your command bar [`@OkanBilal`](https://raycast.com/OkanBilal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/literal) `api@^1.69.0` `utils@^1.14.1`
 - **[Lucky Surf](https://raycast.com/popalay/lucky-surf)** - Say goodbye to scrolling through endless search results – simply trust your intuition and let serendipity guide you to the information you need, swiftly and efficiently [`@popalay`](https://raycast.com/popalay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lucky-surf) `api@^1.74.1`
@@ -2106,7 +2107,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[v2ex](https://raycast.com/leo/v2ex)** - You can quickly access the 10 most popular posts of v2ex at the moment. Note: The v2ex home page can be reached by visiting https://www.v2ex.com/ through your browser. For users in China, proxy access is supported. [`@leo`](https://raycast.com/leo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/v2ex) `api@^1.25.1`
 - **[Vercel](https://raycast.com/MaxLeiter/vercast)** - View and modify your Vercel projects, deployments and domains. [`@MaxLeiter`](https://raycast.com/MaxLeiter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vercast) `api@^1.79.0` `utils@^1.16.2`
 - **[VirtualBox Power Switch](https://raycast.com/diogo_ferrer/virtualbox-power-switch)** - List your VirtualBox VMs, turn them on/off, or delete them. [`@diogo_ferrer`](https://raycast.com/diogo_ferrer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/virtualbox-power-switch) `api@^1.56.3` `utils@^1.9.0`
-- **[Visual Studio Code](https://raycast.com/thomas/visual-studio-code)** - Control Visual Studio Code, Cursor & Codium directly from Raycast - Search and open recent projects, handle extensions and commands. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) `api@^1.79.0` `utils@^1.10.0`
+- **[Visual Studio Code](https://raycast.com/thomas/visual-studio-code)** - Control VS Code and compatible editors directly from Raycast [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) `api@^1.79.0` `utils@^1.10.0`
 - **[Visual Studio Code - Project Manager](https://raycast.com/MarkusLanger/vscode-project-manager)** - Search and open projects from Visual Studio Code Project Manager [`@MarkusLanger`](https://raycast.com/MarkusLanger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) `api@^1.77.0` `utils@^1.16.1`
 - **[VueUse Functions](https://raycast.com/noopurphalak/vueuse-functions)** - Search VueUse functions [`@noopurphalak`](https://raycast.com/noopurphalak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vueuse-functions) `api@^1.29.1`
 - **[Weather](https://raycast.com/tonka3000/weather)** - Weather forecast via wttr.in [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/weather) `api@^1.66.0` `utils@^1.9.1`

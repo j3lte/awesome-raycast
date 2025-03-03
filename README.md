@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/2478a32cd22fd243_update-time.svg)
+![Last update](/icons/038895b6ac66f720_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1943** packages in **15** categories, **19** packages use Swift
-- **1253** authors, **759** contributors (of which **570** are only contributors, not authors)
+- **1948** packages in **15** categories, **19** packages use Swift
+- **1257** authors, **761** contributors (of which **572** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (54)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -159,6 +159,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mozilla Firefox](https://raycast.com/crisboarna/mozilla-firefox)** - Search and open tabs from bookmarks and history in Mozilla Firefox. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-firefox) `api@^1.59.0` `utils@^1.4.13`
 - **[Multi](https://raycast.com/fernando_barbat/multi)** - See rooms & teammates, join sessions, control devices and more [`@fernando_barbat`](https://raycast.com/fernando_barbat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multi) `api@^1.70.2` `utils@^1.13.4`
 - **[Multi Viewer](https://raycast.com/secustor/multiviewer)** - Controls your MultiViewer for F1 setup [`@secustor`](https://raycast.com/secustor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multiviewer) `api@^1.84.3` `utils@^1.17.0`
+- **[MuteDeck](https://raycast.com/chad_walters/mutedeck)** - Control MuteDeck from Raycast [`@chad_walters`](https://raycast.com/chad_walters) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mutedeck) `api@^1.91.2` `utils@^1.17.0`
 - **[n8n](https://raycast.com/koinzhang/n8n)** - Control n8n via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/n8n) `api@^1.79.0` `utils@^1.18.1`
 - **[NameSilo](https://raycast.com/xmok/namesilo)** - View your Domains, Orders, Whois Info and Account Balance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/namesilo) `api@^1.79.0` `utils@^1.16.3`
 - **[NameSpaces](https://raycast.com/GastroGeek/namespaces)** - Create named aliases for your macOS Spaces and easily switch between them from within Raycast [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/namespaces) `api@^1.79.0` `utils@^1.17.0`
@@ -661,6 +662,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[NPM Registry Manager](https://raycast.com/lihzsky/raycast-nrm)** - Change the NPM registry address [`@lihzsky`](https://raycast.com/lihzsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) `api@^1.70.3`
 - **[NuGet](https://raycast.com/lbergantin/nuget)** - Simple extension to search for NuGet packages and copy command to install them to clipboard [`@lbergantin`](https://raycast.com/lbergantin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuget) `api@^1.36.1`
 - **[NuGet Package Explorer](https://raycast.com/gaoyang/nuget-package-explorer)** - Local NuGet package explorer [`@gaoyang`](https://raycast.com/gaoyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) `api@^1.71.4`
+- **[Nuxt UI](https://raycast.com/HugoRCD/nuxt-ui)** - Supercharge your Nuxt UI workflow [`@HugoRCD`](https://raycast.com/HugoRCD) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuxt-ui) `api@^1.93.0`
 - **[Oh My Zsh Git Alias](https://raycast.com/yufeikang/oh-my-zsh-git-alias)** - Quick search git alias. [`@yufeikang`](https://raycast.com/yufeikang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) `api@^1.58.0`
 - **[Oh My Zsh Plugins](https://raycast.com/k8scat/ohmyzsh-plugins)** - Oh My Zsh Plugins [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins) `api@^1.40.1` `utils@^1.4.8`
 - **[OK JSON](https://raycast.com/anybox/ok-json)** - Control OK JSON with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ok-json) `api@^1.63.0`
@@ -1060,6 +1062,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Wemo](https://raycast.com/iamnatch/raycast-wemo)** - Control your Wemo devices from Raycast [`@iamnatch`](https://raycast.com/iamnatch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) `api@^1.47.3`
 - **[Wordle](https://raycast.com/chrisalxlng/wordle)** - Play Wordle locally once a day. [`@chrisalxlng`](https://raycast.com/chrisalxlng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordle) `api@^1.47.3`
 - **[XKCD Comics](https://raycast.com/maggie/xkcd)** - Browse the xkcd comics and keep track of the ones you've read. [`@maggie`](https://raycast.com/maggie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xkcd) `api@^1.31.0`
+- **[Yu-Gi-Oh! Card Lookup](https://raycast.com/ApopeOS/yu-gi-oh-card-lookup)** - Find info on Yu-Gi-Oh TCG cards. [`@ApopeOS`](https://raycast.com/ApopeOS) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yu-gi-oh-card-lookup) `api@^1.91.2` `utils@^1.18.1`
 - **[Zalgo Text Generator](https://raycast.com/petermiles/zalgo-text)** - Translates given text to Zalgo text [`@petermiles`](https://raycast.com/petermiles) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zalgo-text) `api@^1.48.4` `utils@^1.5.2`
 
 
@@ -1562,6 +1565,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Sleep Timer](https://raycast.com/dtmzr/sleep-timer)** - Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. [`@dtmzr`](https://raycast.com/dtmzr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) `api@^1.44.0`
 - **[Smultron](https://raycast.com/felixthehat/smultron)** - Creates a new Smultron File with Selection [`@felixthehat`](https://raycast.com/felixthehat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/smultron) `api@^1.42.2`
 - **[SnapAsk](https://raycast.com/renzo/snapask)** - Get instant AI answers for your questions. [`@renzo`](https://raycast.com/renzo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/snapask) `api@^1.82.4` `utils@^1.16.3`
+- **[Solidtime](https://raycast.com/cupcakearmy/solidtime)** - Manage your clients, projects and time entries for Solidtime [`@cupcakearmy`](https://raycast.com/cupcakearmy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solidtime) `api@^1.91.2` `utils@^1.17.0`
 - **[Spaces](https://raycast.com/pradeepb28/spaces)** - Declutter and organize your workspace in 1-click [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spaces) `api@^1.36.1`
 - **[Spell](https://raycast.com/Gorzog/spell)** - Struggling to spell a word? With this extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API. [`@Gorzog`](https://raycast.com/Gorzog) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spell) `api@^1.69.0` `utils@^1.4.8`
 - **[Split Video Scenes](https://raycast.com/xmorse/split-video-scenes)** - Select a video file and split it into scenes [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/split-video-scenes) `api@^1.80.0` `utils@^1.16.3`
@@ -1638,6 +1642,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Work Time Countdown](https://raycast.com/thomas/work-time-countdown)** - A simple timer to help you keep productive during work time. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/work-time-countdown) `api@^1.39.0`
 - **[Wrike](https://raycast.com/Slus/wrike)** - Interact with Wrike [`@Slus`](https://raycast.com/Slus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wrike) `api@^1.31.0`
 - **[YAFW](https://raycast.com/pablopunk/yafw)** - Yet Another FFMPEG Wrapper. Compress videos easily from Raycast. Zero config. From your clipboard, or the Finder. [`@pablopunk`](https://raycast.com/pablopunk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yafw) `api@^1.71.4`
+- **[Yamli](https://raycast.com/menisy/yamli)** - Convert English-Arabic transliteration to Arabic text using Yamli [`@menisy`](https://raycast.com/menisy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yamli) `api@^1.91.2` `utils@^1.17.0`
 - **[Year in Progress](https://raycast.com/thomas/year-in-progress)** - Stay motivated by see the progress of the year. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) `api@^1.47.3` `utils@^1.4.8`
 - **[YOURLS Link Shortener](https://raycast.com/firhan_ramadhan/yourls)** - Create and view shortened links using YOURLS [`@firhan_ramadhan`](https://raycast.com/firhan_ramadhan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yourls) `api@^1.79.0` `utils@^1.18.0`
 - **[YouTube Shorts to Normal Video Page](https://raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/youtube-shorts-to-normal-video-page)** - One click to convert YouTube shorts url to regular url [`@b6pzeusbc54tvhw5jgpyw8pwz2x6gs`](https://raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube-shorts-to-normal-video-page) `api@^1.72.1` `utils@^1.14.1`
@@ -1688,7 +1693,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
-- **[App Cleaner](https://raycast.com/dziad/appcleaner)** - Uninstall applications with AppCleaner or PearCleaner [`@dziad`](https://raycast.com/dziad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) `api@^1.91.2` `utils@^1.18.1`
+- **[App Cleaner](https://raycast.com/dziad/appcleaner)** - Uninstall applications with AppCleaner, Pearcleaner or TrashMe 3 [`@dziad`](https://raycast.com/dziad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) `api@^1.93.0` `utils@^1.19.0`
 - **[App Keeper Manager](https://raycast.com/edith/app-keeper-manager)** - This extention offers users the ability to manage currently running applications, with options to choose which apps to keep open and which to close during cleanup. It's especially suited for users looking to optimize their work environment and increase productivity. Users can set apps to “Always Keep,” ensuring they aren't closed during cleanup operations. The extension also provides an intuitive interface to add or remove apps from the preset keep list and features a one-click function to close non-kept apps. [`@edith`](https://raycast.com/edith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) `api@^1.69.0`
 - **[Battery Menu Bar](https://raycast.com/panrafal/battery-menubar)** - Battery capacity and power-draw information in the Menu Bar [`@panrafal`](https://raycast.com/panrafal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-menubar) `api@^1.56.1` `utils@^1.4.8`
 - **[Battery Optimizer](https://raycast.com/Qetesh/battery-optimizer)** - Keep the battery healthy by limiting the charging capacity. [`@Qetesh`](https://raycast.com/Qetesh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) `api@^1.74.0` `utils@^1.17.0`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/baf6dc760a894f22_update-time.svg)
+![Last update](/icons/57b2dbfe02438af6_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1966** packages in **15** categories, **19** packages use Swift
-- **1268** authors, **763** contributors (of which **573** are only contributors, not authors)
+- **1968** packages in **15** categories, **19** packages use Swift
+- **1270** authors, **763** contributors (of which **573** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (54)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -234,7 +234,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 - **[Akkoma](https://raycast.com/SevicheCC/akkoma)** - Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/akkoma) `api@^1.51.1`
 - **[BambooHR](https://raycast.com/Rob/bamboohr)** - Get employee information from Bamboo HR. See who is out today, look up employee details, and manage your PTO from Raycast. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bamboohr) `api@^1.63.0` `utils@^1.10.1`
-- **[Bluesky](https://raycast.com/dharamkapila/bluesky)** - Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. [`@dharamkapila`](https://raycast.com/dharamkapila) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bluesky) `api@^1.83.1` `utils@^1.17.0`
+- **[Bluesky](https://raycast.com/dharamkapila/bluesky)** - Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. [`@dharamkapila`](https://raycast.com/dharamkapila) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bluesky) `api@^1.91.0` `utils@^1.18.1`
 - **[Cal.com - Share Meeting Links](https://raycast.com/eluce2/cal-com-share-meeting-links)** - Quickly share your Cal.com meeting links [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) `api@^1.79.1` `utils@^1.16.1`
 - **[Chatwork Search](https://raycast.com/nagauta/chatwork-search)** - Search chats through all the room [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) `api@^1.79.0` `utils@^1.18.0`
 - **[Chinese Character](https://raycast.com/koinzhang/chinese-character)** - Chinese character conversion tools. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chinese-character) `api@^1.76.0`
@@ -653,6 +653,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Motion Preview](https://raycast.com/ayarse/raycast-motion-preview)** - Preview Lottie and Rive Animations in Raycast [`@ayarse`](https://raycast.com/ayarse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-motion-preview) `api@^1.79.1` `utils@^1.16.2` `swift`
 - **[MUI Documentation](https://raycast.com/kgrhartlage/mui-documentation)** - Search the online MUI documentation. [`@kgrhartlage`](https://raycast.com/kgrhartlage) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) `api@^1.55.2` `utils@^1.9.0`
 - **[MultiForce](https://raycast.com/brian_j_decoder22/multi-force)** - Allows a Salesforce Developer to access and authenticate orgs availabe via the SF command line tools. [`@brian_j_decoder22`](https://raycast.com/brian_j_decoder22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multi-force) `api@^1.67.1` `utils@^1.12.5`
+- **[Mux.com](https://raycast.com/adam_engebretson/raycast-mux)** - Interact with your Mux.com assets [`@adam_engebretson`](https://raycast.com/adam_engebretson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-mux) `api@^1.93.0` `utils@^1.19.0`
 - **[MyIdlers](https://raycast.com/xmok/myidlers)** - View Summary and details of your idlers [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/my-idlers) `api@^1.91.0` `utils@^1.18.1`
 - **[Neon](https://raycast.com/xmok/neon)** - Manage Neon Projects and API Keys [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neon) `api@^1.91.0` `utils@^1.18.1`
 - **[Netlify](https://raycast.com/destiner/netlify)** - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/netlify) `api@^1.90.0` `utils@^1.18.1`
@@ -746,6 +747,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Search npm Packages](https://raycast.com/mrmartineau/search-npm)** - Search for npm package information [`@mrmartineau`](https://raycast.com/mrmartineau) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-npm) `api@^1.88.4` `utils@^1.18.1`
 - **[Search R Packages](https://raycast.com/grrrck/r-pkg-search)** - Search and lookup information about R packages using r-pkg.org. [`@grrrck`](https://raycast.com/grrrck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) `api@^1.72.0`
 - **[Search Vant Documentation](https://raycast.com/cai_aisen/vant-documentation)** - Search Vant documentation [`@cai_aisen`](https://raycast.com/cai_aisen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vant-documentation) `api@^1.82.3` `utils@^1.16.3`
+- **[Sendme File Share](https://raycast.com/nazif_ishrak/sendme)** - Send and receive files peer-to-peer directly from Raycast with no intermediary servers or accounts required [`@nazif_ishrak`](https://raycast.com/nazif_ishrak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sendme) `api@^1.55.2` `utils@^1.10.0`
 - **[Sesh](https://raycast.com/joshmedeski/sesh)** - Smart, instant terminal session management. [`@joshmedeski`](https://raycast.com/joshmedeski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sesh) `api@^1.57.2`
 - **[Shadcn/Svelte](https://raycast.com/selemondev/shadcn-svelte)** - Browses shadcn/svelte documentation, components, and commands. [`@selemondev`](https://raycast.com/selemondev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-svelte) `api@^1.77.1` `utils@^1.16.1`
 - **[Shadcn/Vue](https://raycast.com/selemondev/shadcn-vue)** - Browses shadcn/vue documentation, components, and commands. [`@selemondev`](https://raycast.com/selemondev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-vue) `api@^1.73.2` `utils@^1.15.0`

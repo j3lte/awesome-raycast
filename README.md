@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/817692e6318a61b0_update-time.svg)
+![Last update](/icons/bcd835a4a243fadd_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1968** packages in **15** categories, **19** packages use Swift
-- **1270** authors, **763** contributors (of which **573** are only contributors, not authors)
+- **1969** packages in **15** categories, **19** packages use Swift
+- **1271** authors, **763** contributors (of which **572** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (54)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -1242,6 +1242,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Memberstack](https://raycast.com/xmok/memberstack)** - List, Update or Delete Members [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memberstack) `api@^1.86.1` `utils@^1.17.0`
 - **[Metronome](https://raycast.com/Visual-Studio-Coder/metronome)** - Based on an input (integer argument) BPM, you can get a metronome that plays a sound after a certain amount of time. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metronome) `api@^1.86.1`
 - **[MLB Scores](https://raycast.com/jso8910/mlb-scores)** - Shows current MLB game scores. [`@jso8910`](https://raycast.com/jso8910) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mlb-scores) `api@^1.31.0` `utils@^1.17.0`
+- **[Mood Tracker](https://raycast.com/vyacheslav/mood)** - Track your mood, view glanceable charts and get insights with Raycast AI [`@vyacheslav`](https://raycast.com/vyacheslav) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mood) `api@^1.93.0` `utils@^1.18.1`
 - **[Moon Phrase](https://raycast.com/bucketfish/moon-phrase)** - Show details about the current moon phase, or put it in your menu bar. [`@bucketfish`](https://raycast.com/bucketfish) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moon-phrase) `api@^1.45.3`
 - **[Nepali Date Converter](https://raycast.com/beedhan/nepali-date-converter)** - It converts current, provided date to Nepali date [`@beedhan`](https://raycast.com/beedhan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nepali-date-converter) `api@^1.84.2` `utils@^1.17.0`
 - **[NMBS Planner](https://raycast.com/Samuel3865/nmbs-planner)** - Plan your trainrides with NMBS [`@Samuel3865`](https://raycast.com/Samuel3865) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nmbs-planner) `api@^1.48.4`
@@ -1621,7 +1622,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Toothpick](https://raycast.com/VladCuciureanu/toothpick)** - Manage Bluetooth connections in Raycast. [`@VladCuciureanu`](https://raycast.com/VladCuciureanu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toothpick) `api@^1.90.0`
 - **[Translate and Send Webpage to Reader](https://raycast.com/jasonjiong/translate-send-webpage-to-reader)** - Fetch the content of the active webpage, translate using Raycast AI, and save to Reader Later. visite https://readwise.io/access_token to get readwise token [`@jasonjiong`](https://raycast.com/jasonjiong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/translate-send-webpage-to-reader) `api@^1.88.3` `utils@^1.17.0`
 - **[Translate.ge](https://raycast.com/giokaxo/raycast-translate-ge)** - Raycast plugin for translating georgian words to english [`@giokaxo`](https://raycast.com/giokaxo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-translate-ge) `api@^1.66.0` `utils@^1.4.8`
-- **[Trek](https://raycast.com/opti21/trek)** - View Basecamp Projects and Manage Todos [`@opti21`](https://raycast.com/opti21) [`code`](https://github.com/raycast/extensions/tree/main/extensions/trek) `api@^1.84.10` `utils@^1.17.0`
+- **[Trek](https://raycast.com/opti21/trek)** - View Basecamp Projects and Manage Todos [`@opti21`](https://raycast.com/opti21) [`code`](https://github.com/raycast/extensions/tree/main/extensions/trek) `api@^1.93.2` `utils@^1.19.1`
 - **[Turso](https://raycast.com/spioune/turso)** - Manage your Turso databases with Raycast [`@spioune`](https://raycast.com/spioune) [`code`](https://github.com/raycast/extensions/tree/main/extensions/turso) `api@^1.68.1` `utils@^1.12.5`
 - **[Tuya Smart](https://raycast.com/andresmorelos/tuya-smart)** - Home automation with Tuya Smart [`@andresmorelos`](https://raycast.com/andresmorelos) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tuya-smart) `api@^1.47.3` `utils@^1.4.16`
 - **[Twenty](https://raycast.com/NabhagMotivaras/twenty)** - Create Object Record Instantly [`@NabhagMotivaras`](https://raycast.com/NabhagMotivaras) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twenty) `api@^1.68.1` `utils@^1.12.5`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/e6f9e0ad58dc1066_update-time.svg)
+![Last update](/icons/cb3dbd34ec6cd0f0_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1975** packages in **15** categories, **19** packages use Swift
-- **1276** authors, **765** contributors (of which **574** are only contributors, not authors)
+- **1978** packages in **15** categories, **19** packages use Swift
+- **1279** authors, **768** contributors (of which **577** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (54)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (191)
   - [xmok](https://raycast.com/xmok) (102)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (59)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (60)
   - [j3lte](https://raycast.com/j3lte) (39)
   - [xilopaint](https://raycast.com/xilopaint) (30)
   - [stelo](https://raycast.com/stelo) (25)
@@ -379,6 +379,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Transfer.sh Uploader](https://raycast.com/PandaDEV/transfer-sh_upload)** - Upload a file directly to a transfer.sh instance [`@PandaDEV`](https://raycast.com/PandaDEV) [`code`](https://github.com/raycast/extensions/tree/main/extensions/transfer-sh_upload) `api@^1.66.2`
 - **[Turkish Identification Number Generator](https://raycast.com/denizyoldas/tc-no-generator)** - Generate Turkish Identification Number and copy to clipboard [`@denizyoldas`](https://raycast.com/denizyoldas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tc-no-generator) `api@^1.40.3`
 - **[Type Snob](https://raycast.com/sawyerh/type-snob)** - Copy correct typographic characters, like dashes, quote marks, and other special characters. [`@sawyerh`](https://raycast.com/sawyerh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/type-snob) `api@^1.48.9`
+- **[Ultrahuman](https://raycast.com/joshmillgate/ultrahuman)** - View your Ultrahuman Ring data [`@joshmillgate`](https://raycast.com/joshmillgate) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ultrahuman) `api@^1.67.1` `utils@^1.19.1`
 - **[United Nations](https://raycast.com/litomore/united-nations)** - Peace, dignity and equality on a healthy planet. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/united-nations) `api@^1.93.0` `utils@^1.18.1`
 - **[Unix Timestamp](https://raycast.com/destiner/unix-timestamp)** - Convert between unix timestamp and human readable form date [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp) `api@^1.28.0`
 - **[Upcoming Holidays](https://raycast.com/rodrigouroz/upcoming-holidays)** - Show upcoming holidays for a country [`@rodrigouroz`](https://raycast.com/rodrigouroz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/upcoming-holidays) `api@^1.35.2`
@@ -658,7 +659,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mux.com](https://raycast.com/adam_engebretson/raycast-mux)** - Interact with your Mux.com assets [`@adam_engebretson`](https://raycast.com/adam_engebretson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-mux) `api@^1.93.0` `utils@^1.19.0`
 - **[MyIdlers](https://raycast.com/xmok/myidlers)** - View Summary and details of your idlers [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/my-idlers) `api@^1.91.0` `utils@^1.18.1`
 - **[Neon](https://raycast.com/xmok/neon)** - Manage Neon Projects and API Keys [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neon) `api@^1.91.0` `utils@^1.18.1`
-- **[Netlify](https://raycast.com/destiner/netlify)** - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/netlify) `api@^1.90.0` `utils@^1.18.1`
+- **[Netlify](https://raycast.com/destiner/netlify)** - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/netlify) `api@^1.93.0` `utils@^1.19.1`
 - **[Network Speed](https://raycast.com/koinzhang/network-speed)** - Quickly check your internet connection speed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/network-speed) `api@^1.77.0`
 - **[New Relic](https://raycast.com/cirne/new-relic)** - Search Applications, Dashboard, Alerts, and more in New Relic [`@cirne`](https://raycast.com/cirne) [`code`](https://github.com/raycast/extensions/tree/main/extensions/new-relic) `api@^1.48.3` `utils@^1.4.8`
 - **[Next Run](https://raycast.com/jonathangiardino/next-run)** - Spin up a Next.js project from Raycast [`@jonathangiardino`](https://raycast.com/jonathangiardino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/next-run) `api@^1.47.3` `utils@^1.4.16`
@@ -913,6 +914,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Beancount Meta](https://raycast.com/iwfan/beancount-meta)** - The more effecient Beancount Bookkeeping way [`@iwfan`](https://raycast.com/iwfan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) `api@^1.45.2` `utils@^1.4.8`
 - **[BONK Price](https://raycast.com/AnishDe12020/bonk-price)** - Shows the price of the BONK token on your macOS menu bar [`@AnishDe12020`](https://raycast.com/AnishDe12020) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bonk-price) `api@^1.45.2` `utils@^1.4.8`
 - **[CardPointers](https://raycast.com/emcro/cardpointers)** - Search for any credit card details or Amex/Chase offer from the CardPointers database. [`@emcro`](https://raycast.com/emcro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cardpointers) `api@^1.51.3` `utils@^1.6.1`
+- **[Coin Caster](https://raycast.com/chase_manning/coin-caster)** - Get the price for any crypto asset in Raycast [`@chase_manning`](https://raycast.com/chase_manning) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) `api@^1.92.0` `utils@^1.17.0`
 - **[Coingecko](https://raycast.com/destiner/coingecko)** - Get crypto data from Coingecko (price, ticker, ranking) [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coingecko) `api@^1.51.1`
 - **[Coinpaprika](https://raycast.com/gumbleliks/coinpaprika)** - Cryptocurrency Prices & Statistics [`@gumbleliks`](https://raycast.com/gumbleliks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) `api@^1.32.1`
 - **[Crypto Price](https://raycast.com/gutenye/crypto-price)** - Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar [`@gutenye`](https://raycast.com/gutenye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) `api@^1.67.1` `utils@^1.12.4`
@@ -943,6 +945,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Recurly](https://raycast.com/bgnfu7re/recurly)** - A smallish client for the Recurly API [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/recurly) `api@^1.38.0`
 - **[Risk Reward Calculator](https://raycast.com/demirtarik/risk-reward-calculator)** - This extension helps traders to calculate their position size based on entry, stop-loss, take-profit prices and the amount they risk. [`@demirtarik`](https://raycast.com/demirtarik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/risk-reward-calculator) `api@^1.51.0`
 - **[Rollup.wtf](https://raycast.com/Osprey/rollup-wtf)** - Raycast Version of Rollup.wtf [`@Osprey`](https://raycast.com/Osprey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rollup-wtf) `api@^1.84.3` `utils@^1.17.0`
+- **[Solana Wallets Generation](https://raycast.com/uladkaminski/solana-wallets-generation)** - Introducing the Solana Wallet Generator, a powerful Raycast extension designed for developers and cryptocurrency enthusiasts seeking to efficiently create multiple Solana wallets. This tool streamlines the wallet generation process, allowing users to produce thousands of wallets swiftly and securely. [`@uladkaminski`](https://raycast.com/uladkaminski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) `api@^1.91.2` `utils@^1.17.0`
 - **[Splitwise](https://raycast.com/ilian/splitwise)** - View the balances and add expenses to Splitwise [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) `api@^1.47.2` `utils@^1.4.16`
 - **[Stock Tracker](https://raycast.com/hmarr/stock-tracker)** - Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. [`@hmarr`](https://raycast.com/hmarr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) `api@^1.47.3`
 - **[Summation - Sum Calculator](https://raycast.com/monvelasquez/summation)** - Calculate the sum of a list of numbers in the selected text or clipboard. [`@monvelasquez`](https://raycast.com/monvelasquez) [`code`](https://github.com/raycast/extensions/tree/main/extensions/summation) `api@^1.49.1`

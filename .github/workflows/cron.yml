@@ -16,11 +16,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Clone Raycast Extensions
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           chmod +x ./clone_raycast_sparse.sh
-          ./clone_raycast_sparse.sh
+          ./clone_raycast_sparse.sh --repo https://github.com/raycast/extensions.git
 
       - uses: denoland/setup-deno@v2
         with:

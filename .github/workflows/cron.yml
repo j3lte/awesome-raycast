@@ -15,13 +15,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Note; We do a full checkout of the repo, because we need to find swift packages
-      - name: Checkout Raycast
-        uses: actions/checkout@v4
-        with:
-          repository: raycast/extensions
-          path: repo
-          fetch-depth: 1
+      - name: Clone Raycast Extensions
+        run: |
+          chmod +x ./clone_raycast_sparse.sh
+          ./clone_raycast_sparse.sh
 
       - uses: denoland/setup-deno@v2
         with:

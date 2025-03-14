@@ -62,17 +62,16 @@ cd "$DEST_DIR"
 # (This is redundant with --sparse, but included for safety)
 git sparse-checkout init --cone
 
-# Set sparse-checkout to include only all package.json files
-echo "Setting up sparse-checkout to include only package.json files..."
-git sparse-checkout set '**/package.json' --skip-checks
+# Set sparse-checkout to include package.json and .swift files
+echo "Setting up sparse-checkout to include package.json and .swift files..."
+git sparse-checkout set '**/package.json' '**/*.swift' --skip-checks
 
 # ls-files
 echo "Listing the checked-out files..."
-git ls-files '**/package.json' > checked_out_files.txt
+git ls-files '**/package.json' '**/*.swift' > checked_out_files.txt
 
 git sparse-checkout set $(cat checked_out_files.txt) --skip-checks
 
 echo "======= NOTE ======="
-echo "The repository has been cloned with only the package.json files."
-echo "This means not the whole script will work, because it can't find swift packages."
+echo "The repository has been cloned with package.json and Swift files."
 echo "===================="

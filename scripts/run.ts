@@ -273,6 +273,13 @@ await generateIcons([{
     message: format(new Date(), "yyyy-MM-dd HH:mm:ss"),
     color: "blue",
   },
+}, {
+  fileName: `ai.svg`,
+  format: {
+    label: "AI",
+    message: "Yes",
+    color: "green",
+  },
 }], true);
 
 await Deno.writeTextFile(README_FILE, stageFinal);

@@ -15,6 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # Note; We do a full checkout of the repo, because we need to find swift packages
       - name: Checkout Raycast
         uses: actions/checkout@v4
         with:
@@ -22,10 +23,9 @@ jobs:
           path: repo
           fetch-depth: 1
 
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
+      - uses: denoland/setup-deno@v2
         with:
-          deno-version: v1.46.x
+          deno-version: v2.2.3
 
       - name: Generate Readme
         run: deno task run

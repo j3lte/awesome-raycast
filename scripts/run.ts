@@ -22,6 +22,8 @@ type Package = {
   contributors?: string[];
   dependencies: Record<string, string>;
   categories: string[];
+  ai: Record<string, unknown>;
+  tools?: Array<{ name: string }>;
 };
 
 type PackageWithVersion = Package & {
@@ -37,6 +39,8 @@ type DataObject = {
   api: string | null;
   utils: string | null;
   swift?: boolean;
+  hasAi: boolean;
+  hasTools: boolean;
 };
 
 type Data = Record<string, DataObject>;
@@ -168,10 +172,19 @@ sortedCategories.forEach((category, i) => {
         contributors: pkg.contributors || [],
         api: pkg.raycast,
         utils: pkg.utils,
+        hasAi: false,
+        hasTools: false,
       };
       if (swiftPackages.has(pkg.name)) {
         d.swift = true;
       }
+      if (pkg.ai && Object.keys(pkg.ai).length > 0) {
+        d.hasAi = true;
+      }
+      if (pkg.tools && pkg.tools.length > 0) {
+        d.hasTools = true;
+      }
+
       data[pkg.name] = d;
       const line = [
         `- **[${pkg.title}](https://raycast.com/${pkg.author}/${pkg.name})**`,
@@ -181,7 +194,9 @@ sortedCategories.forEach((category, i) => {
         `\`api@${pkg.raycast}\``,
         pkg.utils ? `\`utils@${pkg.utils}\`` : "",
         swiftPackages.has(pkg.name) ? "`swift`" : "",
-      ].filter(Boolean).join(" ").trim();
+        d.hasAi ? "`ai`" : "",
+        d.hasTools ? "`ai-tools`" : "",
+      ].filter((s) => s && s.length > 0).join(" ").trim();
       output += `${line}\n`;
     });
   }

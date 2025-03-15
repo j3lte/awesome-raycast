@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/483f015bfe8712e7_update-time.svg)
+![Last update](/icons/140657e70bc59c82_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1990** packages in **15** categories, **19** packages use Swift
-- **1281** authors, **772** contributors (of which **581** are only contributors, not authors)
+- **1993** packages in **15** categories, **19** packages use Swift
+- **1284** authors, **773** contributors (of which **582** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (191)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (192)
   - [xmok](https://raycast.com/xmok) (104)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (61)
   - [j3lte](https://raycast.com/j3lte) (39)
@@ -677,7 +677,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[NPM Registry Manager](https://raycast.com/lihzsky/raycast-nrm)** - Change the NPM registry address [`@lihzsky`](https://raycast.com/lihzsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) `api@^1.70.3`
 - **[NuGet](https://raycast.com/lbergantin/nuget)** - Simple extension to search for NuGet packages and copy command to install them to clipboard [`@lbergantin`](https://raycast.com/lbergantin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuget) `api@^1.36.1`
 - **[NuGet Package Explorer](https://raycast.com/gaoyang/nuget-package-explorer)** - Local NuGet package explorer [`@gaoyang`](https://raycast.com/gaoyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) `api@^1.71.4`
-- **[Nuxt UI](https://raycast.com/HugoRCD/nuxt-ui)** - Supercharge your Nuxt UI workflow [`@HugoRCD`](https://raycast.com/HugoRCD) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuxt-ui) `api@^1.93.0` `ai-tools`
+- **[Nuxt UI](https://raycast.com/HugoRCD/nuxt-ui)** - Supercharge your Nuxt UI workflow [`@HugoRCD`](https://raycast.com/HugoRCD) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuxt) `api@^1.93.0` `ai-tools`
 - **[Oh My Zsh Git Alias](https://raycast.com/yufeikang/oh-my-zsh-git-alias)** - Quick search git alias. [`@yufeikang`](https://raycast.com/yufeikang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) `api@^1.58.0`
 - **[Oh My Zsh Plugins](https://raycast.com/k8scat/ohmyzsh-plugins)** - Oh My Zsh Plugins [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins) `api@^1.40.1` `utils@^1.4.8`
 - **[OK JSON](https://raycast.com/anybox/ok-json)** - Control OK JSON with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ok-json) `api@^1.63.0`
@@ -1311,6 +1311,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ArXiv Search](https://raycast.com/koayon/arxiv)** - Search the arXiv for papers and find citations. For Researchers, Students and Scholars in Computer Science, Mathematics, Physics, Quantitative Biology, Quantitative Finance, Statistics, Electrical Engineering and Systems Science, and Economics. [`@koayon`](https://raycast.com/koayon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arxiv) `api@^1.52.1` `utils@^1.4.8`
 - **[Asana](https://raycast.com/thomaslombart/asana)** - Create, access, and modify tasks. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asana) `api@^1.53.4` `utils@^1.12.3`
 - **[Ask Dust](https://raycast.com/albandum/dust-tt)** - Query dust.tt AI agents [`@albandum`](https://raycast.com/albandum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dust-tt) `api@^1.70.3` `utils@^1.18.0`
+- **[Ask Notis](https://raycast.com/mindtheflo/notis)** - Capture, organize, and find anything for you in your Notion workspace. [`@mindtheflo`](https://raycast.com/mindtheflo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/notis) `api@^1.93.2` `utils@^1.17.0`
 - **[Audio Writer](https://raycast.com/pradeepb28/audio-writer)** - Transcribe it, refine it and structure it for you ✨ [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/audio-writer) `api@^1.68.0`
 - **[Bamboo Search (Self Hosted)](https://raycast.com/axp-dev/bamboo-self-hosted)** - The extension allow you to quickly access projects, deploys and plans in Bamboo [`@axp-dev`](https://raycast.com/axp-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bamboo-search-self-hosted) `api@^1.26.1`
 - **[Battery Health](https://raycast.com/o1y/battery-health)** - Shows live information about the battery in your Mac! [`@o1y`](https://raycast.com/o1y) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-health) `api@^1.36.1`
@@ -1346,6 +1347,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Confluence](https://raycast.com/tbrown/confluence)** - Quickly navigate, create and search Confluence through Raycast. [`@tbrown`](https://raycast.com/tbrown) [`code`](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) `api@^1.91.0` `utils@^1.18.1`
 - **[Contexts](https://raycast.com/marcmagn1/contexts)** - Contexts lets you manage and access large text repositories for AI interactions. Create, edit, and organize contextual information about companies, products, or documentation that can be referenced during AI conversations. Seamlessly handle extensive context without cluttering system instructions, allowing for more efficient and focused AI interactions. [`@marcmagn1`](https://raycast.com/marcmagn1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/contexts) `api@^1.90.0` `utils@^1.17.0` `ai` `ai-tools`
 - **[Control D](https://raycast.com/http.james/control-d)** - Quickly view and make changes to your Control D profiles, devices, and more from Raycast. [`@http.james`](https://raycast.com/http.james) [`code`](https://github.com/raycast/extensions/tree/main/extensions/control-d) `api@^1.49.0`
+- **[CopyMoveTo](https://raycast.com/Mehdi_Hp/copymoveto)** - Save time moving files between folders. Define destinations once, use quick commands to copy or move files effortlessly [`@Mehdi_Hp`](https://raycast.com/Mehdi_Hp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copymoveto) `api@^1.90.0` `utils@^1.17.0`
 - **[CopyQ Clipboard Manager](https://raycast.com/andrewcincotta/copyq-clipboard-manager)** - Lists CopyQ clipboard entries and allows user to paste them. [`@andrewcincotta`](https://raycast.com/andrewcincotta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copyq-clipboard-manager) `api@^1.60.1`
 - **[Corcel AI](https://raycast.com/corcel.io/corcel)** - Use AI Chat and Image Generation [`@corcel.io`](https://raycast.com/corcel.io) [`code`](https://github.com/raycast/extensions/tree/main/extensions/corcel) `api@^1.70.3` `utils@^1.14.0`
 - **[Cosmic Bookmarks](https://raycast.com/kemiljk/cosmic-bookmarks)** - Read, visit and save Bookmarks to and from Cosmic CMS [`@kemiljk`](https://raycast.com/kemiljk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cosmic-bookmarks) `api@^1.52.1` `utils@^1.7.0`
@@ -1474,6 +1476,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Memo](https://raycast.com/mt40/memo)** - All your bookmarks and notes in 1 Notion [`@mt40`](https://raycast.com/mt40) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memo) `api@^1.39.3`
 - **[Memorable Password Generator](https://raycast.com/gandli/memorable-generate-password)** - Generate a set of passwords that are easy to remember and use· [`@gandli`](https://raycast.com/gandli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memorable-generate-password) `api@^1.51.1`
 - **[Memory](https://raycast.com/EvanZhouDev/memory)** - Knowledge Graph Memory for Raycast AI [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memory) `api@^1.91.2` `utils@^1.17.0` `ai` `ai-tools`
+- **[Mermaid to Image](https://raycast.com/chihkang/mermaid-to-image)** - Convert Mermaid diagrams to images [`@chihkang`](https://raycast.com/chihkang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) `api@^1.93.2` `utils@^1.17.0`
 - **[Mikrus](https://raycast.com/tkowalski29/mikrus)** - Integration with mikr.us [`@tkowalski29`](https://raycast.com/tkowalski29) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mikrus) `api@^1.76.0` `utils@^1.16.0`
 - **[MindNode](https://raycast.com/thuggyduck/mindnode)** - Create Mindmap Quickly using Raycast [`@thuggyduck`](https://raycast.com/thuggyduck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mindnode) `api@^1.62.0`
 - **[Minecraft Color Codes](https://raycast.com/lafkpages/minecraft-color-codes)** - View and copy Minecraft chat color codes. [`@lafkpages`](https://raycast.com/lafkpages) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) `api@^1.72.1` `utils@^1.16.3`

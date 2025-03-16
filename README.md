@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/140657e70bc59c82_update-time.svg)
+![Last update](/icons/69d999588c76ae54_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1993** packages in **15** categories, **19** packages use Swift
-- **1284** authors, **773** contributors (of which **582** are only contributors, not authors)
+- **1994** packages in **15** categories, **19** packages use Swift
+- **1285** authors, **777** contributors (of which **586** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -276,7 +276,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Tscheck.In](https://raycast.com/dnnsmnstrr/tscheck-in)** - Check-in questions for your team session [`@dnnsmnstrr`](https://raycast.com/dnnsmnstrr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tscheck-in) `api@^1.85.1` `utils@^1.17.0`
 - **[UTM Campaign Builder](https://raycast.com/vimtor/utm-campaign-builder)** - Create a campaign URL with UTM attributes [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) `api@^1.79.0` `utils@^1.17.0`
 - **[Video Call Reactions](https://raycast.com/yazanzaid00/video-call-reactions)** - This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. [`@yazanzaid00`](https://raycast.com/yazanzaid00) [`code`](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) `api@^1.75.2` `utils@^1.15.0`
-- **[WeChat](https://raycast.com/raffeyang/wechat)** - A Raycast extension for WeChat to quickly search your contacts and chat [`@raffeyang`](https://raycast.com/raffeyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wechat) `api@^1.39.3` `utils@^1.4.1`
+- **[WeChat](https://raycast.com/raffeyang/wechat)** - A Raycast extension for WeChat to quickly search your contacts and chat [`@raffeyang`](https://raycast.com/raffeyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wechat) `api@^1.93.2` `utils@^1.19.1`
 - **[Zoom](https://raycast.com/thomaslombart/zoom)** - Start, schedule and join Zoom meetings. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zoom) `api@^1.53.3` `utils@^1.18.1` `ai` `ai-tools`
 - **[Zoom Meeting Control](https://raycast.com/prashantv/zoom-meeting-control)** - Control current Zoom meeting [`@prashantv`](https://raycast.com/prashantv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) `api@^1.59.0` `utils@^1.10.0`
 
@@ -768,6 +768,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[SimpleBackups](https://raycast.com/islamessam/simplebackups)** - View and manage your backups from SimpleBackups.com [`@islamessam`](https://raycast.com/islamessam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) `api@^1.39.3` `utils@^1.4.8`
 - **[SimpleTexOCR](https://raycast.com/Arthals/simpletexocr)** - A LaTeX OCR by Simpletex [`@Arthals`](https://raycast.com/Arthals) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) `api@^1.59.0` `utils@^1.10.0`
 - **[Simulator Control](https://raycast.com/noppefoxwolf/simulator-control)** - Control Apple Simulator devices [`@noppefoxwolf`](https://raycast.com/noppefoxwolf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simctl) `api@^1.79.0` `utils@^1.17.0`
+- **[Simulator Manager](https://raycast.com/pauloedurezende/simulator-manager)** - Manage iOS simulators and Android emulators with ease. Boot, shutdown, and open simulators directly from Raycast. [`@pauloedurezende`](https://raycast.com/pauloedurezende) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simulator-manager) `api@^1.93.1` `utils@^1.17.0`
 - **[Slack Templated Message](https://raycast.com/koh-sh/slack-templated-message)** - Send messages to Slack channels using customizable templates. [`@koh-sh`](https://raycast.com/koh-sh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slack-templated-message) `api@^1.92.1` `utils@^1.17.0`
 - **[Slugify](https://raycast.com/unreadablename/slugify)** - A quick way to slugify text [`@unreadablename`](https://raycast.com/unreadablename) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slugify) `api@^1.79.0`
 - **[Smallweb](https://raycast.com/pomdtr/smallweb)** - Search your smallweb instance [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/smallweb) `api@^1.82.4` `utils@^1.17.0`

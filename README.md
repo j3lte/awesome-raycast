@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/69d999588c76ae54_update-time.svg)
+![Last update](/icons/9c82c60dae241fb0_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **1994** packages in **15** categories, **19** packages use Swift
+- **1996** packages in **15** categories, **19** packages use Swift
 - **1285** authors, **777** contributors (of which **586** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
@@ -902,6 +902,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Supabase Documentation](https://raycast.com/Isaiah-Hamilton/supabase-docs)** - Quickly search Supabase documentation and open it in the browser [`@Isaiah-Hamilton`](https://raycast.com/Isaiah-Hamilton) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supabase-docs) `api@^1.42.0`
 - **[Tailwind CSS](https://raycast.com/vimtor/tailwindcss)** - Utilities to work with Tailwind CSS [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tailwindcss) `api@^1.57.2`
 - **[Textlint AWS Service Name](https://raycast.com/bun913/raycast-textlint-rule-aws-service-name)** - Check AWS services name typo [`@bun913`](https://raycast.com/bun913) [`code`](https://github.com/raycast/extensions/tree/main/extensions/textlint-rule-aws-service-name) `api@^1.49.3`
+- **[Vue Router Docs](https://raycast.com/jeffnawroth/vue-router-docs)** - Quickly search Vue Router docs from Raycast [`@jeffnawroth`](https://raycast.com/jeffnawroth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vue-router-docs) `api@^1.93.2` `utils@^1.17.0`
 - **[Vuetify Docs](https://raycast.com/jeffnawroth/vuetify-docs)** - Search all Vuetify components and open the official documentation directly from Raycast. [`@jeffnawroth`](https://raycast.com/jeffnawroth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vuetify-docs) `api@^1.93.2` `utils@^1.17.0`
 - **[WCAG](https://raycast.com/fgeierst/wcag)** - Search the Web Content Accessibility Guidelines (WCAG) 2.2 [`@fgeierst`](https://raycast.com/fgeierst) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wcag) `api@^1.69.0`
 - **[WordPress Docs](https://raycast.com/tillkruss/wordpress-docs)** - Search the WordPress code reference. [`@tillkruss`](https://raycast.com/tillkruss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordpress-docs) `api@^1.51.1` `utils@^1.6.1`
@@ -1467,6 +1468,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MAMP Utility](https://raycast.com/SuoweiHu/mamp-utility)** - Search and organize your MAMP hosted website. [`@SuoweiHu`](https://raycast.com/SuoweiHu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mamp-utility) `api@^1.74.0` `utils@github:raycast/utils`
 - **[Manage Monorepo Projects/Workspaces](https://raycast.com/tung-dang/monorepo-manager)** - A Raycast extension helps to manage monorepo projects/workspaces in your machine. It also list all packages in each monorepo project/workspace [`@tung-dang`](https://raycast.com/tung-dang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monorepo-manager) `api@^1.46.1`
 - **[Markdown Blog Manager](https://raycast.com/pyronaur/markdown-blog)** - Create, browse and edit your file based Markdown blog. [`@pyronaur`](https://raycast.com/pyronaur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-blog-manager) `api@^1.42.2` `utils@^1.4.10`
+- **[Markdown Navigator](https://raycast.com/chihkang/markdown-navigator)** - Efficiently manage and navigate your Markdown files. [`@chihkang`](https://raycast.com/chihkang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-navigator) `api@^1.93.2` `utils@^1.17.0`
 - **[Markdown Slides](https://raycast.com/dnnsmnstrr/markdown-slides)** - Preview and manage markdown presentations [`@dnnsmnstrr`](https://raycast.com/dnnsmnstrr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-slides) `api@^1.84.2` `utils@^1.18.0`
 - **[Markdown Table to Excel](https://raycast.com/wu.eth/md-to-excel)** - Convert md format table to Excel compatible table. [`@wu.eth`](https://raycast.com/wu.eth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/md-to-excel) `api@^1.49.3` `utils@^1.5.2`
 - **[Markdown to Plain Text](https://raycast.com/skyline-123/markdown-to-plain-text)** - Convert Markdown-formatted text to plain text format for quick viewing and editing. [`@skyline-123`](https://raycast.com/skyline-123) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-plain-text) `api@^1.49.3`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/f409cc70cc5df398_update-time.svg)
+![Last update](/icons/9f03cb247cafd42a_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2000** packages in **15** categories, **19** packages use Swift
-- **1287** authors, **779** contributors (of which **588** are only contributors, not authors)
+- **2000** packages in **15** categories, **20** packages use Swift
+- **1287** authors, **778** contributors (of which **587** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (192)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (193)
   - [xmok](https://raycast.com/xmok) (104)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (61)
   - [j3lte](https://raycast.com/j3lte) (39)
@@ -795,7 +795,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Swift Evolution](https://raycast.com/BProg/swift-evolution)** - Search and see details for the Swift language proposals from swift evolution web page https://apple.github.io/swift-evolution/ [`@BProg`](https://raycast.com/BProg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swift-evolution) `api@^1.74.0` `utils@^1.10.1`
 - **[Swift Package Index](https://raycast.com/maximkrouk/swift-package-index)** - Search for Swift Packages via https://swiftpackageindex.com [`@maximkrouk`](https://raycast.com/maximkrouk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swift-package-index) `api@^1.38.0`
 - **[Swift REPL](https://raycast.com/nakajima/swift-repl)** - Run lil swift snippets [`@nakajima`](https://raycast.com/nakajima) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swift-repl) `api@^1.72.1` `utils@^1.15.0`
-- **[System Information](https://raycast.com/Visual-Studio-Coder/system-information)** - Quick access to your system information so you never have to open System Settings. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/system-information) `api@^1.57.2`
+- **[System Information](https://raycast.com/Visual-Studio-Coder/system-information)** - Quick access to your system information so you never have to open System Settings. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/system-information) `api@^1.57.2` `swift`
 - **[Tailscale](https://raycast.com/samlinville/tailscale)** - List devices in your Tailnet and copy the IPv4, IPv6, or MagicDNS address to your clipboard. [`@samlinville`](https://raycast.com/samlinville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tailscale) `api@^1.77.3`
 - **[Tailwind CSS Colorpicker](https://raycast.com/magicjaqk/tw-colorpicker)** - Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. [`@magicjaqk`](https://raycast.com/magicjaqk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) `api@^1.79.0`
 - **[Tailwind Size Conversion](https://raycast.com/kemiljk/tailwind-size-conversion)** - Converts pixels to Tailwind class values and vice versa [`@kemiljk`](https://raycast.com/kemiljk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/px-to-tailwind) `api@^1.52.1` `utils@^1.7.0`

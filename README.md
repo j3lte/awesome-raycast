@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/9f03cb247cafd42a_update-time.svg)
+![Last update](/icons/becc3b1d1f4021f8_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2000** packages in **15** categories, **20** packages use Swift
-- **1287** authors, **778** contributors (of which **587** are only contributors, not authors)
+- **2004** packages in **15** categories, **20** packages use Swift
+- **1290** authors, **780** contributors (of which **589** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -266,7 +266,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Quick Phone Call](https://raycast.com/karbassi/quick-call)** - Make a phone call with the default telephone app. [`@karbassi`](https://raycast.com/karbassi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-call) `api@^1.57.1`
 - **[Resend](https://raycast.com/xmok/resend)** - Manage API Keys and Domains, and Send Emails using Resend [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/resend) `api@^1.93.0` `utils@^1.18.0` `ai` `ai-tools`
 - **[Rocket.Chat](https://raycast.com/alex-w0/rocket-chat)** - Search for teams, channels, users and change your presence status. [`@alex-w0`](https://raycast.com/alex-w0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rocket-chat) `api@^1.61.2`
-- **[Say - Text to Speech](https://raycast.com/litomore/say)** - Use the macOS built-in TTS (Spoken Content) to say the text you provide. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/say) `api@^1.93.2` `utils@^1.19.1`
+- **[Say - Text to Speech](https://raycast.com/litomore/say)** - Use the macOS built-in TTS (Spoken Content) to say the text you provide. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/say) `api@^1.94.0` `utils@^1.19.1`
 - **[Shroud.email](https://raycast.com/xmok/shroud-email)** - View Domains and Create or View Aliases in Shroud.email instance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shroud-email) `api@^1.52.1` `utils@^1.7.0`
 - **[Slack](https://raycast.com/mommertf/slack)** - Search for chats, see unread messages, snooze notifications, and set your presence status. [`@mommertf`](https://raycast.com/mommertf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slack) `api@^1.87.0` `utils@^1.18.0` `ai` `ai-tools`
 - **[Slack Status](https://raycast.com/petr/slack-status)** - Quickly change your Slack status [`@petr`](https://raycast.com/petr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slack-status) `api@^1.60.0` `utils@^1.14.1`
@@ -303,6 +303,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Clarify](https://raycast.com/akramarev/clarify)** - Interact with Clarify CRM directly from your command bar [`@akramarev`](https://raycast.com/akramarev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clarify) `api@^1.78.1` `utils@^1.16.2`
 - **[CNPJ Lookup](https://raycast.com/xilopaint/cnpj-lookup)** - Instantly access Brazilian CNPJ information [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cnpj-lookup) `api@^1.67.1` `utils@^1.12.4`
 - **[Cocktail DB](https://raycast.com/xmok/cocktail-db)** - Search Drinks by Name or Ingredient via TheCocktailDB [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cocktail-db) `api@^1.79.0` `utils@^1.17.0`
+- **[Datahub Utility](https://raycast.com/nickrotondo/datahub)** - Search and explore datasets in your DataHub data catalog [`@nickrotondo`](https://raycast.com/nickrotondo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/datahub) `api@^1.93.2` `utils@^1.17.0`
 - **[DAWA - Danish Address Web API](https://raycast.com/SimonJ/denmarks-address-web-api)** - Get information about addresses in Denmark by searching through the Danish Address Web API with the adgangsadresseid as value. [`@SimonJ`](https://raycast.com/SimonJ) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dawa) `api@^1.44.0` `utils@^1.4.11`
 - **[dbt Cloud](https://raycast.com/zsombor-flds/dbtcloud)** - Helps you get information about your dbt Cloud jobs [`@zsombor-flds`](https://raycast.com/zsombor-flds) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dbtCloud) `api@^1.31.0`
 - **[DeepL API Usage](https://raycast.com/jaredliu233/deepl-api-usage)** - Manage your DeepL API usage with ease. [`@jaredliu233`](https://raycast.com/jaredliu233) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deepl-api-usage) `api@^1.64.4` `utils@^1.10.1`
@@ -1086,6 +1087,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[UpLabs](https://raycast.com/gebeto/uplabs)** - List UpLabs Inspirations [`@gebeto`](https://raycast.com/gebeto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uplabs) `api@^1.42.0` `utils@^1.4.10`
 - **[Urban Dictionary Word of the Day](https://raycast.com/r0hin/raycast-urbandictionary-word-of-the-day)** - UrbanDictionary's Word of the Day [`@r0hin`](https://raycast.com/r0hin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-urbandictionary-word-of-the-day) `api@^1.58.1`
 - **[Useless Facts](https://raycast.com/xmok/useless-facts)** - Get useless, but true facts [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/useless-facts) `api@^1.68.1` `utils@^1.12.5`
+- **[Virtual Pet](https://raycast.com/timoransky/virtual-pet)** - Take care of your virtual pet! [`@timoransky`](https://raycast.com/timoransky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/virtual-pet) `api@^1.55.2` `utils@^1.19.1`
 - **[WCA](https://raycast.com/EvanZhouDev/raycast-wca)** - Shows you the WCA profile for a name or WCA ID [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-wca) `api@^1.56.1` `utils@^1.9.0`
 - **[Wemo](https://raycast.com/iamnatch/raycast-wemo)** - Control your Wemo devices from Raycast [`@iamnatch`](https://raycast.com/iamnatch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) `api@^1.47.3`
 - **[Wordle](https://raycast.com/chrisalxlng/wordle)** - Play Wordle locally once a day. [`@chrisalxlng`](https://raycast.com/chrisalxlng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordle) `api@^1.47.3`
@@ -1613,6 +1615,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[SnapAsk](https://raycast.com/renzo/snapask)** - Get instant AI answers for your questions. [`@renzo`](https://raycast.com/renzo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/snapask) `api@^1.82.4` `utils@^1.16.3`
 - **[Solidtime](https://raycast.com/cupcakearmy/solidtime)** - Manage your clients, projects and time entries for Solidtime [`@cupcakearmy`](https://raycast.com/cupcakearmy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solidtime) `api@^1.91.2` `utils@^1.17.0`
 - **[Spaces](https://raycast.com/pradeepb28/spaces)** - Declutter and organize your workspace in 1-click [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spaces) `api@^1.36.1`
+- **[Speech to Text](https://raycast.com/facundo_prieto/speech-to-text)** - A simple extension that allows Speech to Text using your own Groq API. [`@facundo_prieto`](https://raycast.com/facundo_prieto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/speech-to-text) `api@^1.93.0` `utils@^1.19.0`
 - **[Spell](https://raycast.com/Gorzog/spell)** - Struggling to spell a word? With this extension, even with typos, you can type the word and receive a list of matching suggestions using the OneLook API. [`@Gorzog`](https://raycast.com/Gorzog) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spell) `api@^1.69.0` `utils@^1.4.8`
 - **[Split Video Scenes](https://raycast.com/xmorse/split-video-scenes)** - Select a video file and split it into scenes [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/split-video-scenes) `api@^1.80.0` `utils@^1.16.3`
 - **[Splix](https://raycast.com/splix.app/splix)** - Raycast interface for Splix (https://splix.app) to supercharge your productivity. [`@splix.app`](https://raycast.com/splix.app) [`code`](https://github.com/raycast/extensions/tree/main/extensions/splix) `api@^1.65.0` `utils@^1.10.1`
@@ -1751,6 +1754,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Dot Underscore Files Cleaner](https://raycast.com/danulqua/dot-underscore-files-cleaner)** - Delete ._ files in the selected folder and its subfolders. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dot-underscore-files-cleaner) `api@^1.57.2`
 - **[Emoji Search](https://raycast.com/FezVrasta/emoji)** - Finds emojis and inserts or copies them. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/emoji) `api@^1.77.0`
 - **[Empty Screenshot Folder](https://raycast.com/chanceaclark/empty-screenshots)** - Empties your screenshot folder within a configurable time period. [`@chanceaclark`](https://raycast.com/chanceaclark) [`code`](https://github.com/raycast/extensions/tree/main/extensions/empty-screenshots) `api@^1.38.3`
+- **[Folder Cleaner](https://raycast.com/StereoPT/folder-cleaner)** - Organize files in a folder by moving them to designated locations based on file extensions [`@StereoPT`](https://raycast.com/StereoPT) [`code`](https://github.com/raycast/extensions/tree/main/extensions/folder-cleaner) `api@^1.93.2` `utils@^1.19.1`
 - **[Hellonext Wallpapers](https://raycast.com/karthik/hellonext-wallpapers)** - Download and set Hellonext's exclusive wallpapers. [`@karthik`](https://raycast.com/karthik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hellonext-wallpapers) `api@^1.33.0`
 - **[Hide All Apps](https://raycast.com/peduarte/hide-all-apps)** - This extension hides all Applications—including Finder—leaving you with only the Desktop. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hide-all-apps) `api@^1.53.3`
 - **[HotCorner](https://raycast.com/mmmarcus/hotcorner)** - macOS Hot Corners quick settings [`@mmmarcus`](https://raycast.com/mmmarcus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hotcorner) `api@^1.64.5`

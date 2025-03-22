@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/749cf2ffea028193_update-time.svg)
+![Last update](/icons/bd4ae39385948c13_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2007** packages in **15** categories, **20** packages use Swift
-- **1292** authors, **781** contributors (of which **590** are only contributors, not authors)
+- **2009** packages in **15** categories, **20** packages use Swift
+- **1294** authors, **783** contributors (of which **591** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -72,7 +72,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Adhan Time](https://raycast.com/mzaien/adhan-time)** - This extension helps you to search prayer time for the user location [`@mzaien`](https://raycast.com/mzaien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) `api@^1.46.0` `utils@^1.4.16`
 - **[Anybox](https://raycast.com/anybox/anybox)** - Control Anybox with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anybox) `api@^1.71.4`
 - **[Anytype](https://raycast.com/jmetrikat/anytype)** - Create, browse and search in Anytype - right at your fingertips, anywhere on your Mac. [`@jmetrikat`](https://raycast.com/jmetrikat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anytype) `api@^1.86.0` `utils@^1.17.0`
-- **[Apple Mail](https://raycast.com/yug2005/mail)** - Extension for Apple Mail. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mail) `api@^1.80.0` `utils@^1.16.3`
+- **[Apple Mail](https://raycast.com/yug2005/mail)** - Extension for Apple Mail. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mail) `api@^1.94.0` `utils@^1.19.1` `ai-tools`
 - **[Apple Maps Search](https://raycast.com/djpowers/apple-maps-search)** - Quickly search Apple Maps or find directions. [`@djpowers`](https://raycast.com/djpowers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search) `api@^1.47.0`
 - **[Auto Quit App](https://raycast.com/koinzhang/auto-quit-app)** - Automatically quit the application after all windows are closed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) `api@^1.83.1` `utils@^1.17.0`
 - **[Baidu OCR](https://raycast.com/Humber/baidu-ocr)** - Use Baidu OCR API to recognize text. [`@Humber`](https://raycast.com/Humber) [`code`](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) `api@^1.51.1`
@@ -464,6 +464,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 - **[.NET API Browser](https://raycast.com/vcsjones/dotnet-api-browser)** - Quickly search the .NET API catalog. [`@vcsjones`](https://raycast.com/vcsjones) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotnet-api-browser) `api@^1.47.3` `utils@^1.4.8`
 - **[1 LOC - JavaScript Utilities in Single Line of Code](https://raycast.com/kud/1loc)** - Browse JavaScript Utilities from 1loc.dev [`@kud`](https://raycast.com/kud) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1loc) `api@^1.79.0` `utils@^1.18.1`
+- **[Aave Contract Search](https://raycast.com/smbdy/aave-search)** - Quickly search and access official Aave ecosystem smart contract addresses across multiple networks [`@smbdy`](https://raycast.com/smbdy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aave-search) `api@^1.93.2` `utils@^1.17.0`
 - **[AI Code Namer](https://raycast.com/HunterJi/ai-code-namer)** - AI Code Namer is a Raycast extension that leverages AI to help developers generate clear, descriptive, and context-appropriate names for various code elements such as variables, functions, classes, and files. [`@HunterJi`](https://raycast.com/HunterJi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-code-namer) `api@^1.81.2` `utils@^1.16.3`
 - **[AI Git Assistant](https://raycast.com/popalay/ai-git-assistant)** - Your personal AI assistant for Git commit operations such as generating commit messages and PR descriptions [`@popalay`](https://raycast.com/popalay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-git-assistant) `api@^1.70.0` `utils@^1.13.5`
 - **[Aiven](https://raycast.com/xmok/aiven)** - Manage Aiven Projects and Services [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aiven) `api@^1.91.0` `utils@^1.18.1`
@@ -1754,6 +1755,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Brightness Control](https://raycast.com/cali/brightness-control)** - Quickly controls the brightness levels of your display [`@cali`](https://raycast.com/cali) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) `api@^1.38.2`
 - **[Connect Pritunl Vpn Tunnel](https://raycast.com/maksym_prokopov/pritunl)** - Connects to VPN using Pritunl client [`@maksym_prokopov`](https://raycast.com/maksym_prokopov) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pritunl) `api@^1.64.5`
 - **[Display Modes](https://raycast.com/agustin.prats/display-modes)** - Manage displays modes (resolution, refresh rate...). [`@agustin.prats`](https://raycast.com/agustin.prats) [`code`](https://github.com/raycast/extensions/tree/main/extensions/display-modes) `api@^1.59.0` `utils@^1.4.7` `swift`
+- **[Doorstopper](https://raycast.com/roele/doorstopper)** - Prevent your MacBook from going to sleep when you close the lid [`@roele`](https://raycast.com/roele) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doorstopper) `api@^1.94.0` `utils@^1.17.0`
 - **[Dot Underscore Files Cleaner](https://raycast.com/danulqua/dot-underscore-files-cleaner)** - Delete ._ files in the selected folder and its subfolders. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dot-underscore-files-cleaner) `api@^1.57.2`
 - **[Emoji Search](https://raycast.com/FezVrasta/emoji)** - Finds emojis and inserts or copies them. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/emoji) `api@^1.77.0`
 - **[Empty Screenshot Folder](https://raycast.com/chanceaclark/empty-screenshots)** - Empties your screenshot folder within a configurable time period. [`@chanceaclark`](https://raycast.com/chanceaclark) [`code`](https://github.com/raycast/extensions/tree/main/extensions/empty-screenshots) `api@^1.38.3`

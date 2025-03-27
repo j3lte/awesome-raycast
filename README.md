@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a9dfe004e11b565c_update-time.svg)
+![Last update](/icons/e4ce1505c3cc9874_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2016** packages in **15** categories, **20** packages use Swift
-- **1299** authors, **785** contributors (of which **593** are only contributors, not authors)
+- **2018** packages in **15** categories, **20** packages use Swift
+- **1301** authors, **785** contributors (of which **593** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -719,6 +719,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ping](https://raycast.com/stevensd2m/ping)** - Pings a domain to see if it is alive [`@stevensd2m`](https://raycast.com/stevensd2m) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ping) `api@^1.57.2` `utils@^1.9.1`
 - **[Pipe Commands](https://raycast.com/pomdtr/pipe-commands)** - Pipe your selection or clipboard to custom scripts defined in any language. [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pipe-commands) `api@^1.69.3`
 - **[Pixels to Viewport Width or Height](https://raycast.com/Atiipik/convert-px-to-vw-vh)** - Fast conversion of pixels to vw or vh depending on the size of your viewport. [`@Atiipik`](https://raycast.com/Atiipik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert-px-to-vw-vh) `api@^1.51.1` `utils@^1.6.1`
+- **[Pkg Swap](https://raycast.com/neversitdull/pkg-swap)** - Quickly convert and paste copied npm commands to your preferred package manager [`@neversitdull`](https://raycast.com/neversitdull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pkg-swap) `api@^1.93.2` `utils@^1.17.0`
 - **[Ploi](https://raycast.com/ploi-deploy/ploi)** - View and manage your ploi.io servers and sites [`@ploi-deploy`](https://raycast.com/ploi-deploy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ploi) `api@^1.77.0` `utils@^1.16.1`
 - **[PM2](https://raycast.com/litomore/pm2)** - Advanced, production process manager for Node.js. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pm2) `api@^1.94.0` `utils@^1.19.1`
 - **[PocketBase](https://raycast.com/xmok/pocketbase)** - Manage PocketBase [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pocketbase) `api@^1.89.1` `utils@^1.18.1`
@@ -829,7 +830,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Virtualizor Enduser](https://raycast.com/xmok/virtualizor-enduser)** - Manage Virtualizor Enduser instance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/virtualizor-enduser) `api@^1.79.0` `utils@^1.17.0`
 - **[Vultr](https://raycast.com/xmok/vultr)** - Manage Users, View Account Information and Billing History [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vultr) `api@^1.84.2` `utils@^1.18.0`
 - **[Warp](https://raycast.com/joetannenbaum/warp)** - Open Warp tabs/windows and launch configurations. [`@joetannenbaum`](https://raycast.com/joetannenbaum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/warp) `api@^1.79.0` `utils@^1.4.8`
-- **[Web Audit](https://raycast.com/floriandwt/web-audit)** - Find SEO related data of any given webpage. [`@floriandwt`](https://raycast.com/floriandwt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web-audit) `api@^1.47.3`
+- **[Web Audit](https://raycast.com/flornkm/web-audit)** - Find SEO related data of any given webpage. [`@flornkm`](https://raycast.com/flornkm) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web-audit) `api@^1.94.0`
 - **[Web Converter](https://raycast.com/nielsvanrijn/web-converter)** - Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl and hsla and the shows closest Tailwind CSS color. [`@nielsvanrijn`](https://raycast.com/nielsvanrijn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert) `api@^1.53.2`
 - **[Websocket Debugging](https://raycast.com/RhysLees/websocket-debugging)** - Allows you to debug Pusher [`@RhysLees`](https://raycast.com/RhysLees) [`code`](https://github.com/raycast/extensions/tree/main/extensions/websocket-debugging) `api@^1.45.2` `utils@^1.4.16`
 - **[Wifi Password Reveal](https://raycast.com/loishy/wifi-password-reveal)** - Reveal any saved WIFI Password on macOS [`@loishy`](https://raycast.com/loishy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal) `api@^1.49.3`
@@ -1379,7 +1380,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Deduplicator](https://raycast.com/HerbertLu/deduplicator)** - A text tool for de-duplicating text content. [`@HerbertLu`](https://raycast.com/HerbertLu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deduplicator) `api@^1.44.0`
 - **[Deep Research](https://raycast.com/EvanZhouDev/research)** - Iterative Deep Research powered by Raycast AI Extensions. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deep-research) `api@^1.91.2` `utils@^1.17.0` `ai` `ai-tools`
 - **[Deepseek Quick Actions](https://raycast.com/ViGeng/deepseeker)** - Performs one-shot actions with DeepSeek and more [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deepseeker) `api@^1.50.0`
-- **[Delivery Tracker](https://raycast.com/halprin/delivery-tracker)** - Tracks deliveries, packages, and parcels. [`@halprin`](https://raycast.com/halprin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/delivery-tracker) `api@^1.91.1` `utils@^1.18.1`
+- **[Delivery Tracker](https://raycast.com/halprin/delivery-tracker)** - Tracks deliveries, packages, and parcels. [`@halprin`](https://raycast.com/halprin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/delivery-tracker) `api@^1.94.0` `utils@^1.19.1`
 - **[Descript to YouTube Chapters](https://raycast.com/peduarte/descript-to-youtube-chapters)** - Convert Descript's transcript file into YouTube Chapters [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/descript-to-youtube-chapters) `api@^1.47.0`
 - **[DEVONthink](https://raycast.com/bgnfu7re/devonthink)** - Search through DEVONthink [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/devonthink) `api@^1.39.2`
 - **[DEX Screener](https://raycast.com/wp-lai/dex-screener)** - Search token pair in dexscreener.com [`@wp-lai`](https://raycast.com/wp-lai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dex-screener) `api@^1.31.0`
@@ -1393,7 +1394,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Dub](https://raycast.com/quuu/dub)** - Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Raycast. [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dub) `api@^1.61.2` `utils@^1.16.0`
 - **[DuckDuckGo Email](https://raycast.com/Hugo-Persson/duckduckgo-email)** - A simple extension that generate DuckDuckGo email alias [`@Hugo-Persson`](https://raycast.com/Hugo-Persson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) `api@^1.69.0`
 - **[Eagle](https://raycast.com/Yukai/eagle)** - Eagle Extension for Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/eagle) `api@^1.33.1`
-- **[Easy OCR](https://raycast.com/Rafo94/easy-ocr)** - Use Tesseract or Google Cloud Vision OCR to extract text from screenshot [`@Rafo94`](https://raycast.com/Rafo94) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) `api@^1.56.1` `utils@^1.10.0`
+- **[Easy OCR](https://raycast.com/Rafo94/easy-ocr)** - Use Tesseract OCR to extract text from screenshot [`@Rafo94`](https://raycast.com/Rafo94) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) `api@^1.56.1` `utils@^1.10.0`
 - **[ElevenLabs TTS](https://raycast.com/lachie_james/elevenlabs-tts)** - Convert selected text to lifelike speech using ElevenLabs' premium AI voices [`@lachie_james`](https://raycast.com/lachie_james) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elevenlabs-tts) `api@1.84.12` `utils@1.18.0`
 - **[Emojify](https://raycast.com/ViGeng/emojify)** - Improve your text with emojis properly within the context [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/emojify) `api@^1.93.2` `utils@^1.17.0`
 - **[Ensk.is](https://raycast.com/jokull/ensk-is)** - Search the Ensk.is English to Icelandic dictionary [`@jokull`](https://raycast.com/jokull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ensk-is) `api@^1.36.0`
@@ -1491,6 +1492,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MBTA Tracker](https://raycast.com/djpowers/mbta-tracker)** - View departure times for saved stops along MBTA routes [`@djpowers`](https://raycast.com/djpowers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mbta-tracker) `api@^1.49.3` `utils@^1.4.8`
 - **[Media Converter](https://raycast.com/leandro.maia/media-converter)** - This extension converts video, image, and audio files using ffmpeg [`@leandro.maia`](https://raycast.com/leandro.maia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/media-converter) `api@^1.89.1` `utils@^1.17.0` `ai` `ai-tools`
 - **[Mem](https://raycast.com/brianfakhoury/mem)** - Access Mem functionality through Raycast using the Mem API. The Mem API is still growing and is currently very limited. [`@brianfakhoury`](https://raycast.com/brianfakhoury) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mem) `api@^1.45.2` `utils@^1.4.14`
+- **[Mem0](https://raycast.com/dev_khant/mem0)** - Mem0 is an intelligent memory layer enabling personalized, adaptive, and continuously improving interactions by remembering user preferences and context. [`@dev_khant`](https://raycast.com/dev_khant) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mem0) `api@^1.93.2` `utils@^1.17.0`
 - **[Memo](https://raycast.com/mt40/memo)** - All your bookmarks and notes in 1 Notion [`@mt40`](https://raycast.com/mt40) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memo) `api@^1.39.3`
 - **[Memorable Password Generator](https://raycast.com/gandli/memorable-generate-password)** - Generate a set of passwords that are easy to remember and use· [`@gandli`](https://raycast.com/gandli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memorable-generate-password) `api@^1.51.1`
 - **[Memory](https://raycast.com/EvanZhouDev/memory)** - Knowledge Graph Memory for Raycast AI [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memory) `api@^1.91.2` `utils@^1.17.0` `ai` `ai-tools`

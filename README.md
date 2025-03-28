@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/e4ce1505c3cc9874_update-time.svg)
+![Last update](/icons/89cd490be53d3124_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2018** packages in **15** categories, **20** packages use Swift
-- **1301** authors, **785** contributors (of which **593** are only contributors, not authors)
+- **2020** packages in **15** categories, **20** packages use Swift
+- **1303** authors, **786** contributors (of which **594** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -485,7 +485,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Asset Catalog Extractor](https://raycast.com/chrismessina/asset-catalog-extractor)** - Quickly extract Asset Catalog files (.car) using Asset Catalog Tinkerer [`@chrismessina`](https://raycast.com/chrismessina) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asset-catalog-extractor) `api@^1.79.1`
 - **[AsyncAPI](https://raycast.com/smoya/asyncapi)** - AsyncAPI extension for Raycast brings some AsyncAPI tools to you. [`@smoya`](https://raycast.com/smoya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asyncapi) `api@^1.30.1`
 - **[AT Protocol Utilities](https://raycast.com/ftrstk/atproto-utilities)** - Utility commands for atproto development. [`@ftrstk`](https://raycast.com/ftrstk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/atproto-utilities) `api@^1.69.0` `utils@^1.16.2`
-- **[Azure DevOps Repositories Search](https://raycast.com/willem_van_lent/ado-search)** - Search trough Azure DevOps git repositories and find open Pull Requests [`@willem_van_lent`](https://raycast.com/willem_van_lent) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ado-search) `api@^1.70.3` `utils@^1.13.6`
+- **[Azure DevOps Repositories Search](https://raycast.com/willem_van_lent/ado-search)** - Search through Azure DevOps git repositories and find open Pull Requests [`@willem_van_lent`](https://raycast.com/willem_van_lent) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ado-search) `api@^1.70.3` `utils@^1.13.6`
 - **[Bech32 Converter](https://raycast.com/zygimantas_magelinskas/bech32-converter)** - Converts Cosmos Bech32 addresses to a desired prefix [`@zygimantas_magelinskas`](https://raycast.com/zygimantas_magelinskas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bech32-converter) `api@^1.69.0`
 - **[Bento Email](https://raycast.com/zeromana/bento)** - Interact with Bento (bentonow.com) to add subscribers, view broadcasts, reports, and other utility features. [`@zeromana`](https://raycast.com/zeromana) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bento) `api@^1.84.3`
 - **[Beszel](https://raycast.com/wyattjoh/beszel-extension)** - Monitor and configure your systems managed by Beszel. [`@wyattjoh`](https://raycast.com/wyattjoh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/beszel-extension) `api@^1.89.0` `utils@^1.17.0`
@@ -879,7 +879,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ghost - Docs Search](https://raycast.com/ryan_feigenbaum/ghost-docs)** - Search Ghost help center, developer docs, tutorials, changelog, and publisher resources [`@ryan_feigenbaum`](https://raycast.com/ryan_feigenbaum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ghost-docs) `api@^1.62.1` `utils@^1.4.8`
 - **[Git Commands](https://raycast.com/manumorante/git-commands)** - Quickly use and learn Git commands and Oh My Zsh alias. [`@manumorante`](https://raycast.com/manumorante) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-commands) `api@^1.75.2` `utils@^1.15.0`
 - **[GitHub CLI Manual](https://raycast.com/demartini/github-cli-manual)** - Raycast extension to search GitHub CLI Manual. [`@demartini`](https://raycast.com/demartini) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-cli-manual) `api@^1.44.0`
-- **[Gleam Packages](https://raycast.com/ryanmiville/gleam-packages)** - search for Gleam packages [`@ryanmiville`](https://raycast.com/ryanmiville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gleam-packages) `api@^1.84.3` `utils@^1.17.0`
+- **[Gleam Packages](https://raycast.com/ryanmiville/gleam-packages)** - search for Gleam packages [`@ryanmiville`](https://raycast.com/ryanmiville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gleam-packages) `api@^1.94.0` `utils@^1.17.0`
 - **[Guitar Chords](https://raycast.com/GastroGeek/guitar-chords)** - Lookup chord diagrams for guitar [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) `api@^1.39.0`
 - **[HTTP MIME Types](https://raycast.com/Envl/http-mime)** - Search MIME types for HTTP Content-Type [`@Envl`](https://raycast.com/Envl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/http-mime) `api@^1.59.0` `utils@^1.10.0`
 - **[Mandarin Chinese Dictionary](https://raycast.com/CofCat/mandarin-chinese-dictionary)** - Mandarin Chinese Dictionary [`@CofCat`](https://raycast.com/CofCat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mandarin-chinese-dictionary) `api@^1.77.0` `utils@^1.16.1`
@@ -949,6 +949,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mempool](https://raycast.com/dillionverma/mempool)** - Get current bitcoin mempool information [`@dillionverma`](https://raycast.com/dillionverma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mempool) `api@^1.79.0` `utils@^1.18.1`
 - **[Mercury](https://raycast.com/atkinsmatt101/mercury)** - Quickly see your Mercury accounts and transactions directly in Raycast [`@atkinsmatt101`](https://raycast.com/atkinsmatt101) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mercury) `api@^1.81.2` `utils@^1.16.3` `ai` `ai-tools`
 - **[Midas](https://raycast.com/sunosuporno/midas)** - Midas is an AI Agent that manages on-chain trading, voting and more for you. [`@sunosuporno`](https://raycast.com/sunosuporno) [`code`](https://github.com/raycast/extensions/tree/main/extensions/midas) `api@^1.91.2` `utils@^1.17.0`
+- **[Moneybird](https://raycast.com/janyk/moneybird)** - Quickly add new time entries to your Moneybird administration [`@janyk`](https://raycast.com/janyk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moneybird) `api@^1.94.0` `utils@^1.17.0`
 - **[MoneyLover](https://raycast.com/lachero/moneylover)** - MoneyLover is a personal finance app that helps you manage your money, budget, and track your spending. [`@lachero`](https://raycast.com/lachero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moneylover) `api@^1.79.0` `utils@^1.16.3`
 - **[monobank](https://raycast.com/danulqua/monobank)** - View currency rates and all your accounts in monobank. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monobank) `api@^1.57.1` `utils@^1.9.0`
 - **[Monse - Banking In Raycast](https://raycast.com/Falcon/monse)** - Connect your bank account and see latest incomes, expenses, and details. [`@Falcon`](https://raycast.com/Falcon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monse) `api@^1.38.3` `utils@^1.4.8`
@@ -1316,6 +1317,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Airtable](https://raycast.com/marks/raycast-airtable-extension)** - List your Airtable bases and follow deep links to specific tables, views, or your base's API docs. [`@marks`](https://raycast.com/marks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airtable) `api@^1.84.7` `utils@^1.18.0`
 - **[Alice AI - Your ChatGPT Actions Companion](https://raycast.com/quiknull/alice-ai)** - Alice helps with your daily tasks by providing quick access to OpenAI's ChatGPT API. Use Alice to generate text, code, and more with just a few keystrokes. [`@quiknull`](https://raycast.com/quiknull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alice-ai) `api@^1.69.0` `utils@^1.14.0`
 - **[Anki](https://raycast.com/anton-suprun/anki)** - Anki extension for Raycast [`@anton-suprun`](https://raycast.com/anton-suprun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anki) `api@^1.87.4` `utils@^1.17.0`
+- **[Antinote](https://raycast.com/sc0/antinote)** - Extension to control Antinote app. Create new notes, search notes and pin/unpin Antinote with Raycast. [`@sc0`](https://raycast.com/sc0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/antinote) `api@^1.93.1` `utils@^1.17.0`
 - **[App Creator](https://raycast.com/EvanZhouDev/app)** - Allow AI to make simple HTML apps [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/app-creator) `api@^1.87.4` `utils@^1.17.0` `ai` `ai-tools`
 - **[Apple Books](https://raycast.com/vimtor/apple-books)** - Search Apple Books from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-books) `api@^1.47.3` `utils@^1.5.2`
 - **[Apple Intelligence](https://raycast.com/EvanZhouDev/raycast-apple-intelligence)** - Use Apple Intelligence from the comfort of Raycast. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-apple-intelligence) `api@^1.84.9` `utils@^1.18.0`

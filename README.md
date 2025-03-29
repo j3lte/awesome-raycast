@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/89cd490be53d3124_update-time.svg)
+![Last update](/icons/37b45bd398d05ce6_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2020** packages in **15** categories, **20** packages use Swift
-- **1303** authors, **786** contributors (of which **594** are only contributors, not authors)
+- **2021** packages in **15** categories, **20** packages use Swift
+- **1304** authors, **788** contributors (of which **595** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -113,6 +113,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Easy Dictionary](https://raycast.com/isfeng/easydict)** - Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation. [`@isfeng`](https://raycast.com/isfeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easydict) `api@^1.68.0` `swift`
 - **[Espanso](https://raycast.com/kud/espanso)** - The Raycast version of Espanso Search Bar [`@kud`](https://raycast.com/kud) [`code`](https://github.com/raycast/extensions/tree/main/extensions/espanso) `api@^1.61.1` `utils@^1.10.0`
 - **[Esse Actions](https://raycast.com/bert/esse-actions)** - Uses the Esse app, which must already be installed, to perform operations on the passed text [`@bert`](https://raycast.com/bert) [`code`](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) `api@^1.41.1`
+- **[Fabric](https://raycast.com/naktinis/fabric)** - Search and create items on Fabric. [`@naktinis`](https://raycast.com/naktinis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fabric) `api@^1.92.1` `utils@^1.17.0`
 - **[Fantastical](https://raycast.com/devahschaefers/fantastical)** - Create Fantastical events and reminders using Fantastical's natural language processing. [`@devahschaefers`](https://raycast.com/devahschaefers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fantastical) `api@^1.81.0` `utils@^1.16.4`
 - **[Fathom Analytics Stats](https://raycast.com/yannglt/fathom-analytics-stats)** - A Raycast extension to browse your website analytics coming from Fathom. [`@yannglt`](https://raycast.com/yannglt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fathom-analytics-stats) `api@^1.64.4` `utils@^1.10.1`
 - **[Feedbin](https://raycast.com/third774/feedbin)** - Feedbin reader in Raycast [`@third774`](https://raycast.com/third774) [`code`](https://github.com/raycast/extensions/tree/main/extensions/feedbin) `api@^1.63.0` `utils@^1.10.1`

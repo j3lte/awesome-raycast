@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/fd5909ff1b35ffbb_update-time.svg)
+![Last update](/icons/3982e774bd37e7de_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2027** packages in **15** categories, **20** packages use Swift
-- **1308** authors, **789** contributors (of which **595** are only contributors, not authors)
+- **2028** packages in **15** categories, **20** packages use Swift
+- **1308** authors, **786** contributors (of which **592** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -345,6 +345,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Just Delete Me](https://raycast.com/andreaselia/just-delete-me)** - A directory of direct links to delete your account from web services. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) `api@^1.78.0` `utils@^1.16.2`
 - **[JWT Decoder](https://raycast.com/gdsmith/jwt-decoder)** - Decode Your JSON Web Tokens – extract the header and data information from a JWT [`@gdsmith`](https://raycast.com/gdsmith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jwt-decoder) `api@^1.94.0`
 - **[Laby.net](https://raycast.com/niklaswa/laby-net)** - Search and view Minecraft user profiles and textures like skins and capes with data from laby.net. [`@niklaswa`](https://raycast.com/niklaswa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laby-net) `api@^1.84.2`
+- **[Lavinprognoser](https://raycast.com/samuelkraft/lavinprognoser)** - Swedish Avalanche forecast from Naturvårdsverket [`@samuelkraft`](https://raycast.com/samuelkraft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lavinprognoser) `api@^1.92.0` `utils@^1.17.0` `ai` `ai-tools`
 - **[Lightshot Gallery](https://raycast.com/feyli/lightshot-gallery)** - Easily access your Lightshot gallery [`@feyli`](https://raycast.com/feyli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lightshot-gallery) `api@^1.48.4`
 - **[List Randomizer](https://raycast.com/quuu/list-randomizer)** - Randomizes a list of items [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/list-randomizer) `api@^1.56.1`
 - **[Liveblocks](https://raycast.com/andreaselia/liveblocks)** - Exposes the Liveblocks API via a pleasant and easy to use UI. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/liveblocks) `api@^1.77.1`
@@ -1443,7 +1444,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Groq](https://raycast.com/ilian/groq)** - Use the powerful models via Groq from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/groq) `api@^1.68.1`
 - **[Growthbook](https://raycast.com/farisaziz12/growthbook)** - View Growthbook feature flags [`@farisaziz12`](https://raycast.com/farisaziz12) [`code`](https://github.com/raycast/extensions/tree/main/extensions/growthbook) `api@^1.57.2` `utils@^1.9.1`
 - **[Guerrilla Mail](https://raycast.com/krsntn/guerrilla-mail)** - Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API [`@krsntn`](https://raycast.com/krsntn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) `api@^1.69.3` `utils@^1.13.2`
-- **[HackMD](https://raycast.com/Yukai/hackmd)** - HackMD Raycast extension [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hackmd) `api@^1.38.2` `utils@^1.0.7`
+- **[HackMD](https://raycast.com/Yukai/hackmd)** - HackMD Raycast extension [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hackmd) `api@^1.93.0` `utils@^1.0.7` `ai` `ai-tools`
 - **[Harpoon](https://raycast.com/brian_wang/harpoon)** - Tag frequently used applications and quickly switch between them. Inspired by The Primeagen's Harpoon plugin. [`@brian_wang`](https://raycast.com/brian_wang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/harpoon) `api@^1.55.0` `utils@^1.8.0`
 - **[Harvest](https://raycast.com/eluce2/harvest)** - Access Harvest Time Entries [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/harvest) `api@^1.68.0` `utils@^1.3.1`
 - **[Hide Files](https://raycast.com/koinzhang/hide-files)** - Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hide-files) `api@^1.75.1`

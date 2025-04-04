@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/17597840ca34faa1_update-time.svg)
+![Last update](/icons/596a9c3b026639fe_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **2033** packages in **15** categories, **21** packages use Swift
-- **1312** authors, **787** contributors (of which **593** are only contributors, not authors)
+- **1312** authors, **788** contributors (of which **594** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -206,7 +206,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Stellate (formerly GraphCDN)](https://raycast.com/mathieudutour/graphcdn)** - List your Stellate organizations and their services [`@mathieudutour`](https://raycast.com/mathieudutour) [`code`](https://github.com/raycast/extensions/tree/main/extensions/graphcdn) `api@^1.79.0` `utils@^1.16.3`
 - **[Stickies](https://raycast.com/koinzhang/stickies)** - Search and show macOS's built-in Stickies via Raycast [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stickies) `api@^1.78.0` `utils@^1.16.1`
 - **[Stretchly](https://raycast.com/u-ran/stretchly)** - Fastest way to skip to breaks. [`@u-ran`](https://raycast.com/u-ran) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stretchly) `api@^1.39.3`
-- **[Supernotes](https://raycast.com/acnebs/supernotes)** - Interact with the Supernotes platform in Raycast. [`@acnebs`](https://raycast.com/acnebs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supernotes) `api@^1.81.2`
+- **[Supernotes](https://raycast.com/connebs/supernotes)** - Interact with the Supernotes platform in Raycast. [`@connebs`](https://raycast.com/connebs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supernotes) `api@^1.93.0` `ai` `ai-tools`
 - **[Surfed](https://raycast.com/HOsy/surfed)** - Search Collections, Tags, URLs and Browsing History [`@HOsy`](https://raycast.com/HOsy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surfed) `api@^1.77.3`
 - **[Tana](https://raycast.com/cheslip/tana)** - Write notes in Raycast, and capture them in Tana. [`@cheslip`](https://raycast.com/cheslip) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tana) `api@^1.65.1` `utils@^1.10.1`
 - **[TempMail](https://raycast.com/Joshlucpoll/tempmail)** - Temporary email mailbox using the mail.gw API [`@Joshlucpoll`](https://raycast.com/Joshlucpoll) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tempmail) `api@^1.63.0` `utils@^1.10.1`

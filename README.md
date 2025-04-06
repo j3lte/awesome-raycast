@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/3156582be13ff38f_update-time.svg)
+![Last update](/icons/3bb866ea5a973eb6_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2038** packages in **15** categories, **21** packages use Swift
-- **1316** authors, **792** contributors (of which **597** are only contributors, not authors)
+- **2039** packages in **15** categories, **21** packages use Swift
+- **1316** authors, **794** contributors (of which **599** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -224,7 +224,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Vivaldi](https://raycast.com/crisboarna/vivaldi)** - Search open tabs, bookmarks and history in Vivaldi. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) `api@^1.79.1` `utils@^1.4.13`
 - **[VivaPB](https://raycast.com/Codrkoaz/vivapb)** - Browse the web in privacy with the Vivaldi Browser. [`@Codrkoaz`](https://raycast.com/Codrkoaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivapb) `api@^1.64.4` `utils@^1.11.1`
 - **[WebDAV Uploader](https://raycast.com/sevem/webdav-uploader)** - File uploader compatible with WebDAV [`@sevem`](https://raycast.com/sevem) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webdav-uploader) `api@^1.93.1` `utils@^1.17.0`
-- **[WhatsApp](https://raycast.com/vimtor/whatsapp)** - Open WhatsApp chats [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) `api@^1.79.0` `utils@^1.17.0`
+- **[WhatsApp](https://raycast.com/vimtor/whatsapp)** - Open WhatsApp chats [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whatsapp) `api@^1.93.0` `utils@^1.19.0` `ai` `ai-tools`
 - **[WhiteBIT Exchange](https://raycast.com/marco-whitebit/whitebit)** - WhiteBIT exchange Raycast extension [`@marco-whitebit`](https://raycast.com/marco-whitebit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whitebit) `api@^1.56.1` `utils@^1.9.1`
 - **[WHOOP](https://raycast.com/josha1len/whoop)** - Your WHOOP data, now at your fingertips. Monitor your recovery, sleep, strain, workouts and more! Favourite the Overview command for quick access to your WHOOP data. [`@josha1len`](https://raycast.com/josha1len) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whoop) `api@^1.84.3` `utils@^1.10.1`
 - **[Wireguard](https://raycast.com/sbugzhu/wireguard)** - Control Wireguard connections. [`@sbugzhu`](https://raycast.com/sbugzhu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wireguard) `api@^1.79.0` `utils@^1.18.1`
@@ -1399,7 +1399,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Dock](https://raycast.com/pradeepb28/dock)** - Change the dock's position to the left, right, or bottom edge of the screen. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock) `api@^1.32.1`
 - **[Downloads Manager](https://raycast.com/thomas/downloads-manager)** - Search and organize your downloads [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) `api@^1.53.3`
 - **[Dropshare](https://raycast.com/tjosten/dropshare)** - Create screen captures and upload files with Dropshare [`@tjosten`](https://raycast.com/tjosten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropshare) `api@^1.68.0`
-- **[Dub](https://raycast.com/quuu/dub)** - Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Raycast. [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dub) `api@^1.61.2` `utils@^1.16.0`
+- **[Dub](https://raycast.com/quuu/dub)** - Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Raycast. [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dub) `api@^1.94.0` `utils@^1.16.0` `ai` `ai-tools`
 - **[DuckDuckGo Email](https://raycast.com/Hugo-Persson/duckduckgo-email)** - A simple extension that generate DuckDuckGo email alias [`@Hugo-Persson`](https://raycast.com/Hugo-Persson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) `api@^1.69.0`
 - **[Eagle](https://raycast.com/Yukai/eagle)** - Eagle Extension for Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/eagle) `api@^1.33.1`
 - **[Easy OCR](https://raycast.com/Rafo94/easy-ocr)** - Use Tesseract OCR to extract text from screenshot [`@Rafo94`](https://raycast.com/Rafo94) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-ocr) `api@^1.56.1` `utils@^1.10.0`
@@ -1843,6 +1843,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Browser Bookmarks](https://raycast.com/thomaslombart/browser-bookmarks)** - Integrate bookmarks from Chrome, Brave, Edge, Firefox, Safari, Arc, Vivaldi, Zen or Whale. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/browser-bookmarks) `api@^1.64.0` `utils@^1.10.0`
 - **[BuiltByBit](https://raycast.com/YourMCGeek/builtbybit)** - Streamlined access to BuiltByBit, with a focus on productivity and quality of life enhancements. [`@YourMCGeek`](https://raycast.com/YourMCGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/builtbybit) `api@^1.94.3` `utils@^1.19.1`
 - **[Capture Fullpage of Website](https://raycast.com/Coun1er/capture-fullpage-of-website)** - This extension allows you to quickly make a screenshot of the entire page of the site and save it to your desktop just by writing the address of the site. [`@Coun1er`](https://raycast.com/Coun1er) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capture-fullpage-of-website) `api@^1.76.0`
+- **[Caschys Blog](https://raycast.com/Olli0103/caschys-blog)** - The official Raycast extension for the German tech blog Caschys Blog (www.stadt-bremerhaven.de) [`@Olli0103`](https://raycast.com/Olli0103) [`code`](https://github.com/raycast/extensions/tree/main/extensions/caschys-blog) `api@^1.93.1` `utils@^1.19.1` `ai` `ai-tools`
 - **[CCF Conference](https://raycast.com/ViGeng/ccfddl)** - Look up CS conference details and DDLs [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ccfddl) `api@^1.93.0` `utils@^1.17.0`
 - **[Codeforces](https://raycast.com/harsh_varshney/codeforces-extension)** - Gives details about latest contests and details about any handle [`@harsh_varshney`](https://raycast.com/harsh_varshney) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codeforces-extension) `api@^1.64.5` `utils@^1.10.1`
 - **[Collected Notes](https://raycast.com/txemaleon/collected-notes)** - Manage your Collected Notes blog [`@txemaleon`](https://raycast.com/txemaleon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/collected-notes) `api@^1.64.4` `utils@^1.10.1`

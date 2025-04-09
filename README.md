@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/2b9bf4d74140bc88_update-time.svg)
+![Last update](/icons/2cd7d4f7114ae307_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **2042** packages in **15** categories, **21** packages use Swift
-- **1320** authors, **797** contributors (of which **601** are only contributors, not authors)
+- **1320** authors, **798** contributors (of which **602** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (55)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -97,7 +97,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ColorSlurp](https://raycast.com/Jordan-Ellis/colorslurp)** - Pick colors and convert them to different formats with ColorSlurp. [`@Jordan-Ellis`](https://raycast.com/Jordan-Ellis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) `api@^1.38.3` `utils@^1.4.16`
 - **[Compress PDF](https://raycast.com/felixhaeberle/compress-pdf)** - Compress PDF files [`@felixhaeberle`](https://raycast.com/felixhaeberle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/compress-pdf) `api@^1.79.0`
 - **[CompressX](https://raycast.com/hieudinh/compressx)** - Compress files easily, with up to 90% file size reduction [`@hieudinh`](https://raycast.com/hieudinh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/compressx) `api@^1.79.0`
-- **[Contentful](https://raycast.com/ewgenius/contentful)** - Browse and search Contentful content and assets library [`@ewgenius`](https://raycast.com/ewgenius) [`code`](https://github.com/raycast/extensions/tree/main/extensions/contentful) `api@^1.84.3` `utils@^1.18.0`
+- **[Contentful](https://raycast.com/ewgenius/contentful)** - Browse and search Contentful content and assets library [`@ewgenius`](https://raycast.com/ewgenius) [`code`](https://github.com/raycast/extensions/tree/main/extensions/contentful) `api@^1.94.0` `utils@^1.19.1`
 - **[Convert CSV to Excel](https://raycast.com/VictoRD11/csv-to-excel)** - Convert CSV table to Excel compatible table. [`@VictoRD11`](https://raycast.com/VictoRD11) [`code`](https://github.com/raycast/extensions/tree/main/extensions/csv-to-excel) `api@^1.53.0`
 - **[Coolify](https://raycast.com/xmok/coolify)** - View Servers, Resources, Teams and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coolify) `api@^1.91.0` `utils@^1.18.0`
 - **[cPanel](https://raycast.com/xmok/cpanel)** - View Domains, DNS Zones, Email Accounts, Databases, Files and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpanel) `api@^1.91.0` `utils@^1.18.1`
@@ -673,7 +673,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MUI Documentation](https://raycast.com/kgrhartlage/mui-documentation)** - Search the online MUI documentation. [`@kgrhartlage`](https://raycast.com/kgrhartlage) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mui-documentation) `api@^1.55.2` `utils@^1.9.0`
 - **[MultiForce](https://raycast.com/brian_j_decoder22/multi-force)** - Allows a Salesforce Developer to access and authenticate orgs availabe via the SF command line tools. [`@brian_j_decoder22`](https://raycast.com/brian_j_decoder22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multi-force) `api@^1.67.1` `utils@^1.12.5`
 - **[Mux.com](https://raycast.com/adam_engebretson/raycast-mux)** - Interact with your Mux.com assets [`@adam_engebretson`](https://raycast.com/adam_engebretson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-mux) `api@^1.93.0` `utils@^1.19.0`
-- **[MyIdlers](https://raycast.com/xmok/myidlers)** - View Summary and details of your idlers [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/my-idlers) `api@^1.91.0` `utils@^1.18.1`
+- **[MyIdlers](https://raycast.com/xmok/myidlers)** - View Summary and details of your idlers [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/my-idlers) `api@^1.94.0` `utils@^1.19.1`
 - **[Namecheap](https://raycast.com/xmok/namecheap)** - View your Namecheap Domains and their DNS [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/namecheap) `api@^1.86.1` `utils@^1.17.0`
 - **[Neon](https://raycast.com/xmok/neon)** - Manage Neon Projects and API Keys [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neon) `api@^1.91.0` `utils@^1.18.1`
 - **[Netlify](https://raycast.com/destiner/netlify)** - Search your Netlify sites, deploys, domains, team members, audit log, and official documentation. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/netlify) `api@^1.93.0` `utils@^1.19.1` `ai` `ai-tools`
@@ -802,7 +802,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Strftime Cheatsheet](https://raycast.com/antonengelhardt/strftime-cheatsheet)** - Search strftime codes, meanings and examples [`@antonengelhardt`](https://raycast.com/antonengelhardt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/strftime-cheatsheet) `api@^1.83.1` `utils@^1.17.0`
 - **[Stripe](https://raycast.com/pradeepb28/stripe)** - Quick Stripe dashboard functionality and quick link access [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stripe) `api@^1.38.2` `utils@^1.0.7`
 - **[SVGA Player](https://raycast.com/liaoyuan_ju/svga-player)** - Play SVGA animations with ease [`@liaoyuan_ju`](https://raycast.com/liaoyuan_ju) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svga-player) `api@^1.87.5` `utils@^1.17.0` `swift`
-- **[SVGO](https://raycast.com/kaichi/raycast-svgo)** - Optimize SVG vector graphics files. [`@kaichi`](https://raycast.com/kaichi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svgo) `api@^1.51.3`
+- **[SVGO](https://raycast.com/kaichi/raycast-svgo)** - Optimize SVG vector graphics files. [`@kaichi`](https://raycast.com/kaichi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svgo) `api@^1.94.3`
 - **[SVGR](https://raycast.com/rickMcGavin/svgr)** - Paste in SVG code. Get a react component. [`@rickMcGavin`](https://raycast.com/rickMcGavin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svgr) `api@^1.35.0`
 - **[Swift Command](https://raycast.com/aaron_lin/swift-command)** - Efficiently manage and access Linux command snippets for faster execution [`@aaron_lin`](https://raycast.com/aaron_lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swift-command) `api@^1.82.4` `utils@^1.16.3`
 - **[Swift Evolution](https://raycast.com/BProg/swift-evolution)** - Search and see details for the Swift language proposals from swift evolution web page https://apple.github.io/swift-evolution/ [`@BProg`](https://raycast.com/BProg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swift-evolution) `api@^1.74.0` `utils@^1.10.1`
@@ -1581,7 +1581,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[QOTP](https://raycast.com/ariesly15/qotp)** - QOTP is a simple tool to generate OTP code [`@ariesly15`](https://raycast.com/ariesly15) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qotp) `api@^1.49.3` `utils@^1.5.2`
 - **[Query ChatGPT](https://raycast.com/cyxn/query-chatgpt)** - Opens ChatGPT in your browser and executes your query in it [`@cyxn`](https://raycast.com/cyxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/query-chatgpt) `api@^1.66.2` `utils@^1.11.1`
 - **[Quick Calendar](https://raycast.com/fuksman/calendar)** - View calendar month-by-month [`@fuksman`](https://raycast.com/fuksman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/calendar) `api@^1.65.0`
-- **[Quick Notes](https://raycast.com/biknandy/quick-notes)** - Create simple markdown notes in Raycast. No integrations required! [`@biknandy`](https://raycast.com/biknandy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) `api@^1.68.1` `utils@^1.12.5`
+- **[Quick Notes](https://raycast.com/biknandy/quick-notes)** - Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! [`@biknandy`](https://raycast.com/biknandy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) `api@^1.94.3` `utils@^1.19.1`
 - **[Quick Web](https://raycast.com/ShawYoungTang/quick-web)** - Quick Web is a configurable URL autocompletion tool [`@ShawYoungTang`](https://raycast.com/ShawYoungTang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-web) `api@^1.49.1`
 - **[QuickTime Recording](https://raycast.com/pradeepb28/quicktime)** - Start screen recording, movie recording and sound recording instantly. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicktime) `api@^1.79.0` `utils@^1.17.0`
 - **[Rabbit Hole](https://raycast.com/Rob/rabbit-hole)** - Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) `api@^1.76.0` `utils@^1.12.0`
@@ -1745,7 +1745,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Aegis Authenticator](https://raycast.com/bfayers/aegis)** - Search, sync and use your Aegis 2FA database with Raycast [`@bfayers`](https://raycast.com/bfayers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aegis) `api@^1.77.1` `utils@^1.16.1`
 - **[Apple-Like Password](https://raycast.com/breadone/keychain-password-gen)** - Copies a generated Apple Keychain-Like password directly to the clipboard in one step [`@breadone`](https://raycast.com/breadone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keychain-password-gen) `api@^1.48.8`
 - **[Authy - Twilio App](https://raycast.com/guga4ka/authy)** - Search, sync and use your Twilio’s Authy 2fa tokens with Raycast [`@guga4ka`](https://raycast.com/guga4ka) [`code`](https://github.com/raycast/extensions/tree/main/extensions/authy) `api@^1.77.1` `utils@^1.16.1`
-- **[Bitwarden Vault](https://raycast.com/jomifepe/bitwarden)** - Access your Bitwarden vault directly from Raycast [`@jomifepe`](https://raycast.com/jomifepe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) `api@^1.83.2` `utils@^1.17.0`
+- **[Bitwarden Vault](https://raycast.com/jomifepe/bitwarden)** - Access your Bitwarden vault directly from Raycast [`@jomifepe`](https://raycast.com/jomifepe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitwarden) `api@^1.83.2` `utils@^1.19.1`
 - **[cryptgeon](https://raycast.com/cupcakearmy/cryptgeon)** - Create and share encrypted notes [`@cupcakearmy`](https://raycast.com/cupcakearmy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cryptgeon) `api@^1.81.2` `utils@^1.16.5`
 - **[Dashlane](https://raycast.com/dpnick/dashlane)** - Access your Dashlane vault directly from Raycast [`@dpnick`](https://raycast.com/dpnick) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dashlane) `api@^1.41.1`
 - **[Dashlane Vault](https://raycast.com/tm.wrnr/dashlane-vault)** - Access Dashlane Vault. Requires installing the Dashlane CLI. [`@tm.wrnr`](https://raycast.com/tm.wrnr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dashlane-vault) `api@^1.90.0` `utils@^1.18.1`

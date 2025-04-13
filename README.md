@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/f6c042c15282b2da_update-time.svg)
+![Last update](/icons/a4bca7680d58fa53_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2053** packages in **15** categories, **21** packages use Swift
-- **1327** authors, **806** contributors (of which **608** are only contributors, not authors)
+- **2054** packages in **15** categories, **21** packages use Swift
+- **1328** authors, **807** contributors (of which **609** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (56)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -719,6 +719,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Passphrase Generator](https://raycast.com/omBratteng/passphrase-generator)** - Generates a set of random passwords using different generators. [`@omBratteng`](https://raycast.com/omBratteng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/passphrase-generator) `api@^1.37.0`
 - **[Paste as Plain Text](https://raycast.com/koinzhang/paste-as-plain-text)** - Paste text from the clipboard as any format. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paste-as-plain-text) `api@^1.86.1`
 - **[Pastefy](https://raycast.com/julian_gojani/pastefy)** - Use Pastefy in Raycast to create and list pastes [`@julian_gojani`](https://raycast.com/julian_gojani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pastefy) `api@^1.82.5` `utils@^1.16.3`
+- **[Paystack](https://raycast.com/dominuskelvin/paystack)** - Manage your Paystack account effortlessly in Raycast—check balances, search transactions, generate links, issue refunds, and track revenue—all from your keyboard. [`@dominuskelvin`](https://raycast.com/dominuskelvin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paystack) `api@^1.94.2` `utils@^1.17.0`
 - **[PDB Explorer](https://raycast.com/matthias_grass/pdb-explorer)** - Search and explore protein structures from the Protein Data Bank (PDB). View detailed information about proteins, chains, and ligands. [`@matthias_grass`](https://raycast.com/matthias_grass) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pdb-explorer) `api@^1.88.4` `utils@^1.6.1`
 - **[Perplexity](https://raycast.com/third774/perplexity)** - Query Perplexity from within Raycast [`@third774`](https://raycast.com/third774) [`code`](https://github.com/raycast/extensions/tree/main/extensions/perplexity) `api@^1.60.1` `utils@^1.10.1`
 - **[Photoroom Image Editing](https://raycast.com/ubuntudroid/photoroom-image-editing)** - Official Photoroom Raycast extension. Resize images, remove and change the background, add shadows and much more! [`@ubuntudroid`](https://raycast.com/ubuntudroid) [`code`](https://github.com/raycast/extensions/tree/main/extensions/photoroom-image-editing) `api@^1.71.4` `utils@^1.15.0`

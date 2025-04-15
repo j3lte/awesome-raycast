@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a4bca7680d58fa53_update-time.svg)
+![Last update](/icons/214d919999931aea_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2054** packages in **15** categories, **21** packages use Swift
-- **1328** authors, **807** contributors (of which **609** are only contributors, not authors)
+- **2056** packages in **15** categories, **21** packages use Swift
+- **1329** authors, **812** contributors (of which **614** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (56)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -49,9 +49,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (196)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (197)
   - [xmok](https://raycast.com/xmok) (105)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (63)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (64)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
   - [stelo](https://raycast.com/stelo) (25)
@@ -797,7 +797,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[SolusVM 1 Client](https://raycast.com/xmok/solusvm-1-client)** - Fetch Information and Manage SolusVM 1 Virtual Server [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solusvm-1-client) `api@^1.62.2`
 - **[Sourcegraph](https://raycast.com/bobheadxi/sourcegraph)** - Search your code and public repositories with Sourcegraph. [`@bobheadxi`](https://raycast.com/bobheadxi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sourcegraph) `api@^1.86.1` `utils@^1.18.1`
 - **[Sourcetree](https://raycast.com/i906/sourcetree)** - Search and open Sourcetree repositories [`@i906`](https://raycast.com/i906) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sourcetree) `api@^1.38.2` `utils@^1.0.6`
-- **[Spaceship](https://raycast.com/xmok/spaceship)** - Easily manage your Spaceship products [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spaceship) `api@^1.89.1` `utils@^1.17.0`
+- **[Spaceship](https://raycast.com/xmok/spaceship)** - Easily manage your Spaceship products [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spaceship) `api@^1.94.0` `utils@^1.19.1`
 - **[Spiceblow - Sql Database Management](https://raycast.com/xmorse/spiceblow-database)** - Search, update, insert and delete rows in your Sql database, deeply integrated with AI [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spiceblow-database) `api@^1.81.0` `utils@^1.18.1`
 - **[Spike](https://raycast.com/damanpreet_singh/spike)** - Resolve incidents, check who is on-call, and add overrides from Raycast. [`@damanpreet_singh`](https://raycast.com/damanpreet_singh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spike) `api@^1.83.2` `utils@^1.17.0`
 - **[Spring Initializr](https://raycast.com/danvega/spring-initializr)** - Spring Initializr is a tool that simplifies the creation of Spring Boot projects. [`@danvega`](https://raycast.com/danvega) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spring-initializr) `api@^1.88.3` `utils@^1.17.0`
@@ -1216,7 +1216,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ars Technica](https://raycast.com/edwin-dd-ong/ars-technica)** - Get the latest Ars Technica stories. [`@edwin-dd-ong`](https://raycast.com/edwin-dd-ong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ars-technica) `api@^1.65.0` `utils@^1.10.1`
 - **[Associated Press](https://raycast.com/Dammmien/associated-press)** - Bringing you breaking news from the Associated Press and hundreds of trusted local sources, AP News is your trusted source for real-time news coverage anytime and anywhere. [`@Dammmien`](https://raycast.com/Dammmien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/associated-press) `api@^1.71.0`
 - **[BBC News Headlines](https://raycast.com/gerardkeane/bbc-news-headlines)** - Read the latest BBC News headlines [`@gerardkeane`](https://raycast.com/gerardkeane) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) `api@^1.86.1` `utils@^1.17.0`
-- **[CricketCast](https://raycast.com/sampoder/cricketcast)** - Check the cricket score and news through Raycast! [`@sampoder`](https://raycast.com/sampoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cricketcast) `api@^1.79.0` `utils@^1.16.3`
+- **[CricketCast](https://raycast.com/sampoder/cricketcast)** - Check the cricket score and news through Raycast! [`@sampoder`](https://raycast.com/sampoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cricketcast) `api@^1.95.0` `utils@^1.19.1`
 - **[Department of Government Efficiency Tracker](https://raycast.com/Osprey/doge-tracker)** - Track DOGE cost-saving initiatives and their progress via www.doge-tracker.com/ [`@Osprey`](https://raycast.com/Osprey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doge-tracker) `api@^1.59.0`
 - **[DR News](https://raycast.com/kenanbendz/dr-news)** - Showcases news updates from DR, Denmark's premier broadcaster, categorized by various topics. [`@kenanbendz`](https://raycast.com/kenanbendz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dr-news) `api@^1.59.0` `utils@^1.10.0`
 - **[early.tools news](https://raycast.com/julianpaul/early-tools-news)** - Long-form updates from 80+ of the greatest entrepreneurs on the web. [`@julianpaul`](https://raycast.com/julianpaul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/early-tools-news) `api@^1.88.4` `utils@^1.17.0`
@@ -1225,6 +1225,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Fotmob](https://raycast.com/iamlas/fotmob)** - Football match schedule, result, table [`@iamlas`](https://raycast.com/iamlas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fotmob) `api@^1.76.0` `utils@^1.16.0`
 - **[Habr News](https://raycast.com/khlebobul/habr-media)** - Best News From Habr [`@khlebobul`](https://raycast.com/khlebobul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/habr-media) `api@^1.55.2` `utils@^1.8.0`
 - **[Hacker News](https://raycast.com/thomas/hacker-news)** - Read the latest stories of Hacker News. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) `api@^1.94.0` `utils@^1.19.1` `ai` `ai-tools`
+- **[Hacker News Top Stories](https://raycast.com/KevinBatdorf/hacker-news-top-stories)** - A menubar extension to view top stories on Hacker News based on a configurable points threshold. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories) `api@^1.94.3` `utils@^1.19.1`
 - **[Hatena Bookmark](https://raycast.com/inamuu/hatena-bookmark)** - Read the hotentry of hatena bookmark. [`@inamuu`](https://raycast.com/inamuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hatena-bookmark) `api@^1.38.1`
 - **[Headlines](https://raycast.com/Aayush9029/headlines)** - Super breif news extension. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/headlines) `api@^1.44.0` `utils@^1.4.11`
 - **[ifanr](https://raycast.com/madcodelife/ifanr)** - Read the latest news from ifanr [`@madcodelife`](https://raycast.com/madcodelife) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ifanr) `api@^1.48.9` `utils@^1.5.2`
@@ -1287,6 +1288,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mood Tracker](https://raycast.com/vyacheslav/mood)** - Track your mood, view glanceable charts and get insights with Raycast AI [`@vyacheslav`](https://raycast.com/vyacheslav) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mood) `api@^1.93.0` `utils@^1.18.1` `ai` `ai-tools`
 - **[Moon Phrase](https://raycast.com/bucketfish/moon-phrase)** - Show details about the current moon phase, or put it in your menu bar. [`@bucketfish`](https://raycast.com/bucketfish) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moon-phrase) `api@^1.45.3`
 - **[Nepali Date Converter](https://raycast.com/beedhan/nepali-date-converter)** - It converts current, provided date to Nepali date [`@beedhan`](https://raycast.com/beedhan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nepali-date-converter) `api@^1.84.2` `utils@^1.17.0`
+- **[Netherlands Railways Train Search](https://raycast.com/flaticols/ns-nl-search)** - With the Raycast extension for Netherlands Railways, you can easily find train schedules, routes, and real-time updates for the Dutch railway system. This extension simplifies the process of planning your journey by providing quick access to essential information directly from your Raycast interface. Whether you're commuting or traveling, stay informed with the latest train updates and ensure a smooth trip with just a few clicks. [`@flaticols`](https://raycast.com/flaticols) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ns-nl-search) `api@^1.74.1` `utils@^1.15.0`
 - **[NMBS Planner](https://raycast.com/Samuel3865/nmbs-planner)** - Plan your trainrides with NMBS [`@Samuel3865`](https://raycast.com/Samuel3865) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nmbs-planner) `api@^1.48.4`
 - **[OpenAI Speak](https://raycast.com/jian_chao_man/openai-speak)** - Uses the OpenAI TTS API to speak the selected text. [`@jian_chao_man`](https://raycast.com/jian_chao_man) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openai-speak) `api@^1.63.0`
 - **[Paste from Apple Books](https://raycast.com/winann/paste-from-apple-books)** - When copy and paste from Apple Books into other App, it always comes with citations 'Excerpt from...' with quotation marks around the copy text. This Extension can make it clean. But you also need notice: 'This material may be protected by copyright.' [`@winann`](https://raycast.com/winann) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paste-from-apple-books) `api@^1.66.2`
@@ -1689,7 +1691,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[TinyIMG](https://raycast.com/wuyax/tinyimg)** - Compress your images on your own device, with no data sent to our servers. [`@wuyax`](https://raycast.com/wuyax) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tinyimg) `api@^1.94.0` `utils@^1.17.0`
 - **[TL;DR (Too Long; Didn't Read)](https://raycast.com/chessjoe/tl-dr-ai-summary-tool)** - Let AI help you read articles from url. [`@chessjoe`](https://raycast.com/chessjoe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tl-dr-ai-summary-tool) `api@^1.65.0`
 - **[Tny](https://raycast.com/stayallive/tny)** - Shorten links with Tny by Chief Tools. [`@stayallive`](https://raycast.com/stayallive) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tny) `api@^1.66.2` `utils@^1.12.5`
-- **[Todoist](https://raycast.com/thomaslombart/todoist)** - Check your Todoist tasks and quickly create new ones [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/todoist) `api@^1.78.1` `utils@^1.18.1` `ai` `ai-tools`
+- **[Todoist](https://raycast.com/thomaslombart/todoist)** - Check your Todoist tasks and quickly create new ones [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/todoist) `api@^1.95.0` `utils@^1.19.1` `ai` `ai-tools`
 - **[Toggle Fn](https://raycast.com/elonwoo/toggle-fn)** - Toggle the "Use all F1, F2, etc. keys as standard function keys" option in macOS System Preferences. [`@elonwoo`](https://raycast.com/elonwoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toggle-fn) `api@^1.80.0` `utils@^1.16.3`
 - **[Tomito Controls](https://raycast.com/elyse/tomito-controls)** - Control the Tomito app, a Pomodoro timer for macOS [`@elyse`](https://raycast.com/elyse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tomito-controls) `api@^1.65.0` `utils@^1.10.1`
 - **[Toothpick](https://raycast.com/VladCuciureanu/toothpick)** - Manage Bluetooth connections in Raycast. [`@VladCuciureanu`](https://raycast.com/VladCuciureanu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toothpick) `api@^1.90.0` `ai` `ai-tools`
@@ -2001,7 +2003,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Color Hunt](https://raycast.com/Lemon/color-hunt)** - Color Palettes for Designers and Artists [`@Lemon`](https://raycast.com/Lemon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-hunt) `api@^1.73.2` `utils@^1.15.0`
 - **[Commit Message Formatter](https://raycast.com/zrr1999/commit-message-formatter)** - Generate and format your commit message according to the selected text with LLM [`@zrr1999`](https://raycast.com/zrr1999) [`code`](https://github.com/raycast/extensions/tree/main/extensions/commit-message-formatter) `api@^1.82.0` `utils@^1.17.0`
 - **[CommitLint](https://raycast.com/lardissone/commitlint)** - Generate commitlint message. Based on commitlint.io tool. [`@lardissone`](https://raycast.com/lardissone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/commitlint) `api@^1.25.6`
-- **[Connect to VPN](https://raycast.com/rasmusbe/connect-to-vpn)** - Connect to/disconnect from VPN [`@rasmusbe`](https://raycast.com/rasmusbe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) `api@^1.77.1`
+- **[Connect to VPN](https://raycast.com/rasmusbe/connect-to-vpn)** - Connect to/disconnect from VPN [`@rasmusbe`](https://raycast.com/rasmusbe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/connect-to-vpn) `api@^1.94.0`
 - **[Console Dev](https://raycast.com/fedevitaledev/consoledev)** - An extension to discover the best tools and beta releases for developers (via console.dev) [`@fedevitaledev`](https://raycast.com/fedevitaledev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/consoledev) `api@^1.25.0`
 - **[Conventional Comments](https://raycast.com/krzysztofzuraw/conventional-comments)** - Paste conventional comment into your foremost application [`@krzysztofzuraw`](https://raycast.com/krzysztofzuraw) [`code`](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) `api@^1.25.0`
 - **[Convert Color](https://raycast.com/yf_zhang/covert-color)** - hsl, rgb, hexadecimal, convert to each other [`@yf_zhang`](https://raycast.com/yf_zhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/covert-color) `api@^1.67.1`

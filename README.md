@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/214d919999931aea_update-time.svg)
+![Last update](/icons/00d23d9d8f8dd488_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,12 +38,12 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2056** packages in **15** categories, **21** packages use Swift
-- **1329** authors, **812** contributors (of which **614** are only contributors, not authors)
+- **2058** packages in **15** categories, **21** packages use Swift
+- **1330** authors, **814** contributors (of which **616** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (56)
   - [koinzhang](https://raycast.com/koinzhang) (50)
-  - [EvanZhouDev](https://raycast.com/EvanZhouDev) (17)
+  - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (17)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [thomas](https://raycast.com/thomas) (16)
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (197)
   - [xmok](https://raycast.com/xmok) (105)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (64)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (65)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
   - [stelo](https://raycast.com/stelo) (25)
@@ -433,7 +433,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Icons8](https://raycast.com/yug2005/icons8)** - Search and download icons using Icons8 large library. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/icons8) `api@^1.45.1`
 - **[ImageOptim](https://raycast.com/marckohlbrugge/imageoptim)** - Compress images with ImageOptim [`@marckohlbrugge`](https://raycast.com/marckohlbrugge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imageoptim) `api@^1.82.5` `utils@^1.16.3`
 - **[LaTeX to Image](https://raycast.com/Noamko/quick-latex)** - Converts LaTeX text to image. Copy the image to the Clipboard. [`@Noamko`](https://raycast.com/Noamko) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-latex) `api@^1.35.2`
-- **[Lucide Icons Search](https://raycast.com/Sn0wye/lucide-icons)** - Search the Lucide icon set [`@Sn0wye`](https://raycast.com/Sn0wye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) `api@^1.82.5` `utils@^1.17.0`
+- **[Lucide Icons Search](https://raycast.com/Sn0wye/lucide-icons)** - Search the Lucide icon set [`@Sn0wye`](https://raycast.com/Sn0wye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lucide-icons) `api@^1.94.0` `utils@^1.17.0`
 - **[Material Icons](https://raycast.com/creasty/material-icons)** - Search and preview Material Icons [`@creasty`](https://raycast.com/creasty) [`code`](https://github.com/raycast/extensions/tree/main/extensions/material-icons) `api@^1.59.0` `utils@^1.10.0`
 - **[MynaUI Icons](https://raycast.com/praveenjuge/mynaui-icons)** - Search and Copy MynaUI Icons. [`@praveenjuge`](https://raycast.com/praveenjuge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mynaui-icons) `api@^1.83.2`
 - **[Noun Project](https://raycast.com/Rob/noun-project)** - Search for and download SVG and PNG icons from the Noun Project [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/noun-project) `api@^1.83.0` `utils@^1.17.0`
@@ -511,6 +511,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Can I Use](https://raycast.com/thomaslombart/can-i-use)** - Can I Use provides up-to-date browser support for front-end web technologies on desktop and mobile web browsers. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/can-i-use) `api@^1.71.1`
 - **[Carbon Screenshot for Raycast](https://raycast.com/adelowo/carbon-code-screenshot-for-raycast)** - Uses the carbon.now.sh to create beautiful screenshot you can share online or with your team [`@adelowo`](https://raycast.com/adelowo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/carbon-raycast) `api@^1.45.1`
 - **[Catppuccin](https://raycast.com/dvhsh/catppuccin)** - Quickly view the Catppuccin color palette, userstyles, ports, and documentation. [`@dvhsh`](https://raycast.com/dvhsh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) `api@^1.81.2` `utils@^1.16.3`
+- **[Cerebras](https://raycast.com/EvanZhouDev/cerebras)** - Bring Instant AI Inference to Raycast [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cerebras) `api@^1.88.4` `utils@^1.18.1`
 - **[Change Case](https://raycast.com/erics118/change-case)** - Transform a string between camelCase, snake_case, CONSTANT_CASE, and more [`@erics118`](https://raycast.com/erics118) [`code`](https://github.com/raycast/extensions/tree/main/extensions/change-case) `api@^1.75.2`
 - **[changedetection.io](https://raycast.com/xmok/changedetection-io)** - Website Change Detection For Clever People [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) `api@^1.85.2` `utils@^1.17.0`
 - **[Charged: Starknet Shortcuts](https://raycast.com/apoorv/charged)** - Shorcuts for common web3 tasks [`@apoorv`](https://raycast.com/apoorv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/charged) `api@^1.51.1`
@@ -1300,6 +1301,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Search LaraJobs](https://raycast.com/Treblle/larajobs-search)** - Search jobs on Larajobs [`@Treblle`](https://raycast.com/Treblle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/larajobs-search) `api@^1.56.3` `utils@^1.9.0`
 - **[SmartThings Connector](https://raycast.com/IngoJ/smartthings-connector)** - Integration with SmartThings to manage lights, scenes, and location modes. [`@IngoJ`](https://raycast.com/IngoJ) [`code`](https://github.com/raycast/extensions/tree/main/extensions/smartthings-connector) `api@^1.76.0`
 - **[SncfTrainTimes](https://raycast.com/Pierrad/sncftraintimes)** - Fetch train times for SNCF train lines [`@Pierrad`](https://raycast.com/Pierrad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sncftraintimes) `api@^1.51.1` `utils@^1.6.1`
+- **[Steam Player Counts](https://raycast.com/okgloor/steam-player-counts)** - Check active player counts for the top popular Steam games [`@okgloor`](https://raycast.com/okgloor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/steam-player-counts) `api@^1.94.3`
 - **[Stockholm Public Transport](https://raycast.com/ericostholmm/stockholm-public-transport)** - Departures for public transport in Stockholm [`@ericostholmm`](https://raycast.com/ericostholmm) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stockholm-public-transport) `api@^1.91.2` `utils@^1.18.1`
 - **[Stoic Quotes](https://raycast.com/rrajath/stoicquotes)** - Gives a random quote from one of the stoic philosophers - Marcus Aurelius, Seneca or Epictetus [`@rrajath`](https://raycast.com/rrajath) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stoicquotes) `api@^1.46.0` `utils@^1.4.16`
 - **[Swap Commas & Dots](https://raycast.com/brunopicinin/swap-commas-dots)** - Swap commas and dots in selected text. [`@brunopicinin`](https://raycast.com/brunopicinin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swap-commas-dots) `api@^1.93.0` `utils@^1.17.0`
@@ -1496,7 +1498,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Laravel Tips](https://raycast.com/Godruoyi/laravel-tips)** - Get or search laravel tips in Raycast [`@Godruoyi`](https://raycast.com/Godruoyi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laravel-tips) `api@^1.53.1` `utils@^1.7.1`
 - **[LastPass Credentials Search](https://raycast.com/alex-popov-tech/lastpass)** - Search, view, and copy credentials from LastPass [`@alex-popov-tech`](https://raycast.com/alex-popov-tech) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lastpass) `api@^1.47.1` `utils@^1.4.16`
 - **[Lift Calculator](https://raycast.com/marianbreitmeyer/lift-calculator)** - Calculate various lifting numbers including 1RM, warmup sets, and training volumes. [`@marianbreitmeyer`](https://raycast.com/marianbreitmeyer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lift-calculator) `api@^1.70.2` `utils@^1.13.5`
-- **[Linear](https://raycast.com/thomaslombart/linear)** - Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linear) `api@^1.87.0` `utils@^1.17.0` `ai` `ai-tools`
+- **[Linear](https://raycast.com/thomaslombart/linear)** - Bring Linear to every corner of your Mac. Create, search, and modify your issues. Stay on top of your notifications in the menu bar. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linear) `api@^1.95.0` `utils@^1.19.1` `ai` `ai-tools`
 - **[Link Bundles](https://raycast.com/toni_birka/link-bundles)** - Efficiently manage and launch groups of links in specific Chrome profiles. [`@toni_birka`](https://raycast.com/toni_birka) [`code`](https://github.com/raycast/extensions/tree/main/extensions/link-bundles) `api@^1.85.2` `utils@^1.17.0`
 - **[Link Lock - Password Locked Links](https://raycast.com/EvanZhouDev/raycast-link-lock)** - Using shrtcode, protect any link with a password! [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-link-lock) `api@^1.57.0` `utils@^1.9.0`
 - **[Linkwarden](https://raycast.com/leodbrs/linkwarden)** - Manage your Linkwarden bookmarks directly from Raycast. You can add new bookmarks and search through your existing ones effortlessly. [`@leodbrs`](https://raycast.com/leodbrs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/linkwarden) `api@^1.79.0` `utils@^1.17.0`
@@ -1767,7 +1769,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Exivo](https://raycast.com/Michi-2124/exivo)** - Use dormakaba exivo api to unlock doors. [`@Michi-2124`](https://raycast.com/Michi-2124) [`code`](https://github.com/raycast/extensions/tree/main/extensions/exivo) `api@^1.93.2` `utils@^1.17.0`
 - **[Greip](https://raycast.com/ghadeer/greip)** - Use endpoint from greip.io directly from Raycast [`@ghadeer`](https://raycast.com/ghadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/greip) `api@^1.43.2` `utils@^1.4.11`
 - **[KeePassXC](https://raycast.com/pabroux/keepassxc)** - Access a KeePass database through KeePassXC. [`@pabroux`](https://raycast.com/pabroux) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) `api@^1.94.3` `utils@^1.19.1`
-- **[Link Cleaner](https://raycast.com/MisakiCoca/link-cleaner)** - Remove tracking parameters from the URL link in clipboard. [`@MisakiCoca`](https://raycast.com/MisakiCoca) [`code`](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) `api@^1.79.0`
+- **[Link Cleaner](https://raycast.com/MisakiCoca/link-cleaner)** - Remove tracking parameters from URL links. [`@MisakiCoca`](https://raycast.com/MisakiCoca) [`code`](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) `api@^1.94.3`
 - **[Mozilla VPN Connect](https://raycast.com/natew/mozilla-vpn)** - Interact with the Mozilla VPN from Raycast. [`@natew`](https://raycast.com/natew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) `api@^1.71.4`
 - **[Okta Search](https://raycast.com/damian_zachwieja/oktasearch)** - Serach Okta users and groups by name. [`@damian_zachwieja`](https://raycast.com/damian_zachwieja) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oktasearch) `api@^1.55.2`
 - **[One Time Password](https://raycast.com/lachero/one-time-password)** - Generate time-based one-time passwords [`@lachero`](https://raycast.com/lachero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) `api@^1.49.3` `utils@^1.5.2`

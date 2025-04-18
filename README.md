@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/4d706ad5b5fe6a14_update-time.svg)
+![Last update](/icons/caf2ac3454f76f37_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2063** packages in **15** categories, **21** packages use Swift
-- **1335** authors, **816** contributors (of which **618** are only contributors, not authors)
+- **2064** packages in **15** categories, **21** packages use Swift
+- **1336** authors, **816** contributors (of which **618** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (56)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -1159,6 +1159,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Jellyfin](https://raycast.com/d2a/jellyfin)** - Find Movies and Shows on your Jellyfin Instance [`@d2a`](https://raycast.com/d2a) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jellyfin) `api@^1.55.2` `utils@^1.8.0`
 - **[JustWatch Search](https://raycast.com/rishabswift/search-justwatch)** - Quickly find where a movie or tv show is streaming. [`@rishabswift`](https://raycast.com/rishabswift) [`code`](https://github.com/raycast/extensions/tree/main/extensions/justwatch-search) `api@^1.84.2` `utils@^1.18.0`
 - **[Letterboxd](https://raycast.com/rafael_garcia/letterboxd)** - Search for movies on Letterboxd [`@rafael_garcia`](https://raycast.com/rafael_garcia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/letterboxd) `api@^1.66.1` `utils@^1.11.1`
+- **[Lyric Fever Control](https://raycast.com/michael_qiu/lyric-fever-control)** - Control Lyric Fever from Raycast. [`@michael_qiu`](https://raycast.com/michael_qiu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lyric-fever-control) `api@^1.95.0` `utils@^1.17.0`
 - **[Lyrics](https://raycast.com/andrewjazbec/lyrics)** - Search for lyrics to the current playing song [`@andrewjazbec`](https://raycast.com/andrewjazbec) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lyrics) `api@^1.45.2`
 - **[Matter](https://raycast.com/zan/matter)** - View your saved for later articles in your Matter account. [`@zan`](https://raycast.com/zan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/matter) `api@^1.79.0` `utils@^1.18.0`
 - **[Meta Music](https://raycast.com/teziovsky/meta-music)** - Manage the ID3 tags of audio files directly in Raycast! [`@teziovsky`](https://raycast.com/teziovsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/meta-music) `api@^1.68.1` `utils@^1.12.5`
@@ -1358,7 +1359,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bed Time Calculator](https://raycast.com/khlebobul/bed-time-calculator)** - This is a simple extension for Raycast that will help you calculate the best time to sleep or wake up. [`@khlebobul`](https://raycast.com/khlebobul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bed-time-calculator) `api@^1.75.2`
 - **[Beeminder](https://raycast.com/vivgui/beeminder)** - Manage your Beeminder goals from Raycast [`@vivgui`](https://raycast.com/vivgui) [`code`](https://github.com/raycast/extensions/tree/main/extensions/beeminder) `api@^1.76.0` `utils@^1.15.0`
 - **[Better Deal](https://raycast.com/juxtdesigncc/better-deal)** - Calculates unit costs and tracks purchasing history to help you find the best deals. [`@juxtdesigncc`](https://raycast.com/juxtdesigncc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/better-deal) `api@^1.67.1`
-- **[BetterDisplay](https://raycast.com/pascal_burkhard/betterdisplay)** - Manage displays using BetterDisplay [`@pascal_burkhard`](https://raycast.com/pascal_burkhard) [`code`](https://github.com/raycast/extensions/tree/main/extensions/betterdisplay) `api@^1.93.0` `utils@^1.17.0`
+- **[BetterDisplay](https://raycast.com/pascal_burkhard/betterdisplay)** - Manage displays using BetterDisplay [`@pascal_burkhard`](https://raycast.com/pascal_burkhard) [`code`](https://github.com/raycast/extensions/tree/main/extensions/betterdisplay) `api@^1.93.1` `utils@^1.17.0` `ai` `ai-tools`
 - **[BibiGPT AI Summarize Audio and Video](https://raycast.com/skyline-123/bibigpt-summarize-audiovideo-with-ai)** - Simplify media summarization with the BibiGPT-Summarize-AudioVideo-with-AI plugin for Raycast. Effortlessly create summaries via BibiGPT API, enhancing efficiency and understanding of complex media. Ideal for professionals and enthusiasts seeking to optimize time and deepen media comprehension. [`@skyline-123`](https://raycast.com/skyline-123) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bibigpt-summarize-audiovideo-with-ai) `api@^1.66.2` `utils@^1.12.0`
 - **[Bibmanager](https://raycast.com/aaronschneider/bibmanager)** - Search Bibmanager Database from Raycast [`@aaronschneider`](https://raycast.com/aaronschneider) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bibmanager) `api@^1.39.0`
 - **[Blockchain Gas Tracker](https://raycast.com/Vonernue/blockchain-gas-tracker)** - Track and caculate blockchain gas fees right in your Raycast! [`@Vonernue`](https://raycast.com/Vonernue) [`code`](https://github.com/raycast/extensions/tree/main/extensions/blockchain-gas-tracker) `api@^1.49.3` `utils@^1.5.2`
@@ -1726,7 +1727,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Vim Bro - Search Vim Commands](https://raycast.com/ajaypremshankar/vim-bro)** - Search Vim commands [`@ajaypremshankar`](https://raycast.com/ajaypremshankar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vim-bro) `api@^1.30.3`
 - **[VMware VCenter](https://raycast.com/massimiliano_pasquini/vmware-vcenter)** - Manage VMware vCenter [`@massimiliano_pasquini`](https://raycast.com/massimiliano_pasquini) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vmware-vcenter) `api@^1.56.0` `utils@^1.10.1`
 - **[Vocabulary.com](https://raycast.com/datadeer/vocab)** - Retrieve Word definitions from vocab.com [`@datadeer`](https://raycast.com/datadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vocab-search) `api@^1.47.3`
-- **[Wakatime](https://raycast.com/iammola/wakatime)** - Show your Wakatime Activity Stats, Projects and Leaderboards [`@iammola`](https://raycast.com/iammola) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wakatime) `api@^1.47.3` `utils@^1.4.18`
+- **[Wakatime](https://raycast.com/iammola/wakatime)** - Show your Wakatime Activity Stats, Projects and Leaderboards [`@iammola`](https://raycast.com/iammola) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wakatime) `api@^1.96.0` `utils@^1.19.1`
 - **[Waktu Solat](https://raycast.com/msms/waktu-solat)** - Check Malaysia Prayer Time (JAKIM) [`@msms`](https://raycast.com/msms) [`code`](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat) `api@^1.65.1` `utils@^1.10.1`
 - **[Web Dictionaries](https://raycast.com/DrChai/dictionary)** - Search any word with multiple online dictionaries or translation engines in one place—lightweight, zero dependencies. [`@DrChai`](https://raycast.com/DrChai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dictionary) `api@^1.48.8` `utils@^1.5.2`
 - **[Webflow](https://raycast.com/peeks/webflow-sites)** - Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. [`@peeks`](https://raycast.com/peeks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) `api@^1.79.0` `utils@^1.17.0`

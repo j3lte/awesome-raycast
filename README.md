@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/b4baddcd3ca62b40_update-time.svg)
+![Last update](/icons/e849ad5f52fcbf82_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2071** packages in **15** categories, **21** packages use Swift
-- **1339** authors, **820** contributors (of which **621** are only contributors, not authors)
+- **2073** packages in **15** categories, **21** packages use Swift
+- **1341** authors, **818** contributors (of which **619** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (57)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (202)
   - [xmok](https://raycast.com/xmok) (106)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (65)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (66)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
   - [stelo](https://raycast.com/stelo) (25)
@@ -65,7 +65,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
-- **[(Basic) Bookmarks](https://raycast.com/rauno/bmrks)** - Companion bookmarking utility for bmrks.com [`@rauno`](https://raycast.com/rauno) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bmrks) `api@^1.67.1` `utils@^1.12.5`
+- **[(Basic) Bookmarks](https://raycast.com/rauno/bmrks)** - Companion bookmarking utility for bmrks.com [`@rauno`](https://raycast.com/rauno) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bmrks) `api@^1.95.0` `utils@^1.19.1`
 - **[0x0](https://raycast.com/pseudobun/0x0)** - Upload files to https://0x0.st. [`@pseudobun`](https://raycast.com/pseudobun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/0x0) `api@^1.60.1` `utils@^1.10.0`
 - **[2FA Directory](https://raycast.com/andreaselia/2fa-directory)** - View a list of 2FA enabled sites. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) `api@^1.78.0` `utils@^1.16.2`
 - **[Ableton Live](https://raycast.com/dch09/ableton-live)** - Search and open recent Ableton Live Projects [`@dch09`](https://raycast.com/dch09) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) `api@^1.48.5` `utils@^1.4.18`
@@ -380,7 +380,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ratio Calculator](https://raycast.com/justiniscoding/ratio-calculator)** - A calculator for quickly calculating ratios/proportions. Replace multiple values on one side with variables such as x or y. Example syntax: "1:2 = x:4" outputs "x = 2" [`@justiniscoding`](https://raycast.com/justiniscoding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ratio-calculator) `api@^1.59.0`
 - **[Remember This](https://raycast.com/Ek217/remember-this)** - Remember This is an app designed to help you stay motivated and focused on completing your work by its due date. Simply enter any information, such as tasks, notes, or reminders, and set a due date. After the due date passes, the app automatically forgets the information, creating a sense of urgency to complete the task before it's lost forever. This unique feature inspires you to work efficiently and stay on top of your deadlines. With Remember This, you can say goodbye to forgotten tasks and missed deadlines, and hello to increased productivity. [`@Ek217`](https://raycast.com/Ek217) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remember-this) `api@^1.54.0`
 - **[Running Page](https://raycast.com/Lemon/running-page)** - running_page project extension [`@Lemon`](https://raycast.com/Lemon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/running-page) `api@^1.72.1` `utils@^1.15.0`
-- **[Search Svelte Docs](https://raycast.com/paolo_ricciuti/svelte-docs)** - Search the svelte docs directly in Raycast [`@paolo_ricciuti`](https://raycast.com/paolo_ricciuti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) `api@^1.64.4` `utils@^1.10.1` `ai` `ai-tools`
+- **[Search Svelte Docs](https://raycast.com/paolo_ricciuti/svelte-docs)** - Search the svelte docs directly in Raycast [`@paolo_ricciuti`](https://raycast.com/paolo_ricciuti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svelte-docs) `api@^1.64.4` `utils@^1.10.1` `ai-tools`
 - **[SEC Filings Search](https://raycast.com/chewhx/sec-filings-search)** - An extension to search company SEC Filings and open in browser. Currently only 8-K and 10-K forms. [`@chewhx`](https://raycast.com/chewhx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sec-filings-search) `api@^1.68.1` `utils@^1.12.5`
 - **[Solana Nodes](https://raycast.com/jstnw10/solana_nodes)** - Browse Solana Validator Stats from Stakewiz [`@jstnw10`](https://raycast.com/jstnw10) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nodes) `api@^1.69.0` `utils@^1.4.8`
 - **[Stock Lookup](https://raycast.com/jones-sam/stock-lookup)** - Retrieves stock information from the alphavantage API. Get a free API Key from https://www.alphavantage.co/support/#api-key, or a paid one from https://www.alphavantage.co/premium/ [`@jones-sam`](https://raycast.com/jones-sam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stock-lookup) `api@^1.35.0`
@@ -420,7 +420,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Avatar](https://raycast.com/koinzhang/avatar)** - An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/avatar) `api@^1.72.1`
 - **[Brand Icons - simpleicons.org](https://raycast.com/litomore/simple-icons)** - Browse, Search, and Copy 3200+ popular brand icons from Simple Icons. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) `api@^1.93.0` `utils@^1.18.1`
 - **[Canva](https://raycast.com/xmok/canva)** - View Designs and Open in Browser [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/canva) `api@^1.94.0` `utils@^1.19.1`
-- **[Color Casket](https://raycast.com/slava.razum/color-casket)** - Handy Color Utilities [`@slava.razum`](https://raycast.com/slava.razum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-casket) `api@^1.42.0`
+- **[Color Casket](https://raycast.com/slavarazum/color-casket)** - Handy Color Utilities [`@slavarazum`](https://raycast.com/slavarazum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-casket) `api@^1.42.0`
 - **[Color Palette Picker](https://raycast.com/juliusmarminge/palette-picker)** - A simple color picker for Tailwind CSS and Radix UI color palettes. [`@juliusmarminge`](https://raycast.com/juliusmarminge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/palette-picker) `api@^1.47.3`
 - **[Color Picker](https://raycast.com/thomas/color-picker)** - Pick and organize colors, everywhere on your Mac [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-picker) `api@^1.83.2` `utils@^1.17.0` `swift`
 - **[Color Shades](https://raycast.com/qeude/color-shades)** - Generate color shades from a base color and manage your generated color shades palettes. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-shades) `api@^1.55.0` `utils@^1.8.0`
@@ -832,6 +832,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[TinyPNG](https://raycast.com/kawamataryo/tinypng)** - Compress the selected images in Finder with TinyPNG. [`@kawamataryo`](https://raycast.com/kawamataryo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tinypng) `api@^1.83.1`
 - **[Tmux Cheatsheet](https://raycast.com/alikhatibak/tmux-cheatsheet)** - Provides easy acess to tmux cheatsheet documentation for when you forget a command, or are just learning. [`@alikhatibak`](https://raycast.com/alikhatibak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tmux-cheatsheet) `api@^1.90.0` `utils@^1.17.0`
 - **[Tmux Sessioner](https://raycast.com/louishuyng/tmux-sessioner)** - Quick Tmux Session Switcher [`@louishuyng`](https://raycast.com/louishuyng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tmux-sessioner) `api@^1.88.4` `utils@^1.18.1`
+- **[TON Address](https://raycast.com/drankou/ton-address)** - Convert TON blockchain addresses between different formats and resolve .ton domain names [`@drankou`](https://raycast.com/drankou) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ton-address) `api@^1.96.0` `utils@^1.19.1`
 - **[ToolBox](https://raycast.com/Kang/toolbox)** - Collection of scripts that process data [`@Kang`](https://raycast.com/Kang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toolbox) `api@^1.30.3`
 - **[Transform](https://raycast.com/Idered/transform)** - Transform text/code using a variety of methods [`@Idered`](https://raycast.com/Idered) [`code`](https://github.com/raycast/extensions/tree/main/extensions/transform) `api@^1.40.1`
 - **[Transmit](https://raycast.com/kennonb/transmit)** - Displays a list of servers bookmarked in Transmit for quick connecting. [`@kennonb`](https://raycast.com/kennonb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/transmit) `api@^1.79.0` `utils@^1.18.1`
@@ -1235,7 +1236,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Fotmob](https://raycast.com/iamlas/fotmob)** - Football match schedule, result, table [`@iamlas`](https://raycast.com/iamlas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fotmob) `api@^1.76.0` `utils@^1.16.0`
 - **[Habr News](https://raycast.com/khlebobul/habr-media)** - Best News From Habr [`@khlebobul`](https://raycast.com/khlebobul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/habr-media) `api@^1.55.2` `utils@^1.8.0`
 - **[Hacker News](https://raycast.com/thomas/hacker-news)** - Read the latest stories of Hacker News. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) `api@^1.94.0` `utils@^1.19.1` `ai` `ai-tools`
-- **[Hacker News Top Stories](https://raycast.com/KevinBatdorf/hacker-news-top-stories)** - A menubar extension to view top stories on Hacker News based on a configurable points threshold. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories) `api@^1.94.3` `utils@^1.19.1`
+- **[Hacker News Top Stories](https://raycast.com/KevinBatdorf/hacker-news-top-stories)** - A menubar extension to view top stories on Hacker News based on a configurable points threshold. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories) `api@^1.96.0` `utils@^1.19.1`
 - **[Hatena Bookmark](https://raycast.com/inamuu/hatena-bookmark)** - Read the hotentry of hatena bookmark. [`@inamuu`](https://raycast.com/inamuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hatena-bookmark) `api@^1.38.1`
 - **[Headlines](https://raycast.com/Aayush9029/headlines)** - Super breif news extension. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/headlines) `api@^1.44.0` `utils@^1.4.11`
 - **[ifanr](https://raycast.com/madcodelife/ifanr)** - Read the latest news from ifanr [`@madcodelife`](https://raycast.com/madcodelife) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ifanr) `api@^1.48.9` `utils@^1.5.2`
@@ -1516,6 +1517,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Logitech Litra](https://raycast.com/timrogers/logitech-litra)** - Manage USB-connected Logitech Litra Glow, Litra Beam and Litra Beam LX lights from Raycast [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/logitech-litra) `api@^1.71.4`
 - **[Lunatask](https://raycast.com/posthardcode/lunatask)** - Unofficial extension for Lunatask. Create tasks from Raycast. [`@posthardcode`](https://raycast.com/posthardcode) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lunatask) `api@^1.52.1` `utils@^1.7.0`
 - **[Mac App Store Search](https://raycast.com/say4n/mac-app-store-search)** - Search for apps in the Mac App Store from Raycast! [`@say4n`](https://raycast.com/say4n) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mac-app-store-search) `api@^1.69.0` `utils@^1.4.8`
+- **[Magic Home](https://raycast.com/bruno_caruso/magic-home)** - Interacts with Magic Home compatible devices [`@bruno_caruso`](https://raycast.com/bruno_caruso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/magic-home) `api@^1.93.0` `utils@^1.17.0`
 - **[Make with Notion 2024](https://raycast.com/alexs/make-with-notion-2024)** - Quickly check the schedule for Make with Notion, in your local timezone. [`@alexs`](https://raycast.com/alexs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/make-with-notion-2024) `api@^1.84.3` `utils@^1.17.0`
 - **[MAMP Utility](https://raycast.com/SuoweiHu/mamp-utility)** - Search and organize your MAMP hosted website. [`@SuoweiHu`](https://raycast.com/SuoweiHu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mamp-utility) `api@^1.74.0` `utils@github:raycast/utils`
 - **[Manage Monorepo Projects/Workspaces](https://raycast.com/tung-dang/monorepo-manager)** - A Raycast extension helps to manage monorepo projects/workspaces in your machine. It also list all packages in each monorepo project/workspace [`@tung-dang`](https://raycast.com/tung-dang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monorepo-manager) `api@^1.46.1`

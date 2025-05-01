@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/9ac833a4af27d261_update-time.svg)
+![Last update](/icons/587cc41a74cfecae_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2084** packages in **15** categories, **21** packages use Swift
-- **1350** authors, **820** contributors (of which **618** are only contributors, not authors)
+- **2085** packages in **15** categories, **21** packages use Swift
+- **1350** authors, **821** contributors (of which **619** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (57)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -1121,7 +1121,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Tiny Tycho](https://raycast.com/orangebyte/tiny-tycho)** - Cute and Goofy Tycho Stickers for Mac [`@orangebyte`](https://raycast.com/orangebyte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tiny-tycho) `api@^1.81.2`
 - **[Truth or Dare](https://raycast.com/coding/truth-or-dare)** - Get a random Truth or Dare, Would You Rather, Never Have I Ever, or Paranoia question! Powered by https://truthordarebot.xyz [`@coding`](https://raycast.com/coding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/truth-or-dare) `api@^1.37.1`
 - **[Type the Alphabet](https://raycast.com/Visual-Studio-Coder/type-the-alphabet)** - "Type the Alphabet" is a typing game that measures how long it takes you to type the entire alphabet. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/type-the-alphabet) `api@^1.56.3`
-- **[Ugly Face](https://raycast.com/Lemon/ugly-face)** - Generate ugly face [`@Lemon`](https://raycast.com/Lemon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ugly-face) `api@^1.73.2` `utils@^1.15.0`
+- **[Ugly Face](https://raycast.com/Lemon/ugly-face)** - Generate ugly face [`@Lemon`](https://raycast.com/Lemon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ugly-face) `api@^1.96.3` `utils@^1.19.1`
 - **[UpLabs](https://raycast.com/gebeto/uplabs)** - List UpLabs Inspirations [`@gebeto`](https://raycast.com/gebeto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uplabs) `api@^1.42.0` `utils@^1.4.10`
 - **[Urban Dictionary Word of the Day](https://raycast.com/r0hin/raycast-urbandictionary-word-of-the-day)** - UrbanDictionary's Word of the Day [`@r0hin`](https://raycast.com/r0hin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-urbandictionary-word-of-the-day) `api@^1.58.1`
 - **[Useless Facts](https://raycast.com/xmok/useless-facts)** - Get useless, but true facts [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/useless-facts) `api@^1.68.1` `utils@^1.12.5`
@@ -1196,7 +1196,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Prowlarr](https://raycast.com/elcaten/prowlarr)** - Search and add to download clients with Prowlarr [`@elcaten`](https://raycast.com/elcaten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) `api@^1.81.2` `utils@^1.16.4`
 - **[QQ Music Controls](https://raycast.com/jwickers/qq-music-controls)** - Control the QQ Music app for macOS with your keyboard. [`@jwickers`](https://raycast.com/jwickers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) `api@^1.28.0`
 - **[Rain Radars](https://raycast.com/danieldbird/rain-radars)** - Search for available rain radars for a location. [`@danieldbird`](https://raycast.com/danieldbird) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rain-radars) `api@^1.36.0`
-- **[Raycast Wallpaper](https://raycast.com/koinzhang/raycast-wallpaper)** - Get and set Raycast official wallpapers. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) `api@^1.83.1` `utils@^1.17.0`
+- **[Raycast Wallpaper](https://raycast.com/koinzhang/raycast-wallpaper)** - Get and set Raycast official wallpapers. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) `api@^1.96.3` `utils@^1.19.1`
 - **[Real-Debrid Manager](https://raycast.com/Yamen/real-debrid-manager)** - Real-Debrid client for Raycast  NOT AN OFFICIAL CLIENT [`@Yamen`](https://raycast.com/Yamen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager) `api@^1.55.0` `utils@^1.8.0`
 - **[Replicate](https://raycast.com/KevinBatdorf/replicate)** - Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/replicate) `api@^1.42.2` `utils@^1.4.10`
 - **[SauceNAO - Reverse Image Search](https://raycast.com/BrandonGiesing/saucenao)** - Reverse image search using SauceNAO APIs. [`@BrandonGiesing`](https://raycast.com/BrandonGiesing) [`code`](https://github.com/raycast/extensions/tree/main/extensions/saucenao) `api@^1.84.3` `utils@^1.17.0`
@@ -1480,6 +1480,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Google Tasks](https://raycast.com/elliotdes/google-tasks)** - Manage Google Tasks from Raycast. [`@elliotdes`](https://raycast.com/elliotdes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-tasks) `api@^1.39.3` `utils@^1.4.11`
 - **[Google Workspace](https://raycast.com/thomaslombart/google-workspace)** - Access Google Drive files. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) `api@^1.62.0` `utils@^1.18.1` `ai` `ai-tools`
 - **[Gopass](https://raycast.com/bake/gopass)** - Search and copy passwords from gopass password manager [`@bake`](https://raycast.com/bake) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gopass) `api@^1.36.0` `utils@^1.18.1`
+- **[Granola](https://raycast.com/Rob/granola)** - Create, manage, and review notes in Granola [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/granola) `api@^1.93.1` `utils@^1.19.1` `ai` `ai-tools`
 - **[Groq](https://raycast.com/ilian/groq)** - Use the powerful models via Groq from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/groq) `api@^1.68.1`
 - **[Growthbook](https://raycast.com/farisaziz12/growthbook)** - View Growthbook feature flags [`@farisaziz12`](https://raycast.com/farisaziz12) [`code`](https://github.com/raycast/extensions/tree/main/extensions/growthbook) `api@^1.57.2` `utils@^1.9.1`
 - **[Guerrilla Mail](https://raycast.com/krsntn/guerrilla-mail)** - Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API [`@krsntn`](https://raycast.com/krsntn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) `api@^1.69.3` `utils@^1.13.2`

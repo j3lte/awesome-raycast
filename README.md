@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/587cc41a74cfecae_update-time.svg)
+![Last update](/icons/aa2fe46b069a48fb_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2085** packages in **15** categories, **21** packages use Swift
-- **1350** authors, **821** contributors (of which **619** are only contributors, not authors)
+- **2087** packages in **15** categories, **21** packages use Swift
+- **1351** authors, **821** contributors (of which **619** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (57)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -77,6 +77,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Auto Quit App](https://raycast.com/koinzhang/auto-quit-app)** - Automatically quit the application after all windows are closed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) `api@^1.83.1` `utils@^1.17.0`
 - **[Awesome Mac](https://raycast.com/ViGeng/awesome-mac)** - Search Awesome Mac Things [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/awesome-mac) `api@^1.94.0` `utils@^1.19.1`
 - **[Baidu OCR](https://raycast.com/Humber/baidu-ocr)** - Use Baidu OCR API to recognize text. [`@Humber`](https://raycast.com/Humber) [`code`](https://github.com/raycast/extensions/tree/main/extensions/baidu-ocr) `api@^1.51.1`
+- **[BarCuts Companion](https://raycast.com/czottmann/barcuts-companion)** - The official companion extension for BarCuts, the contextual macOS Shortcuts workflows launcher (https://actions.work/barcuts). [`@czottmann`](https://raycast.com/czottmann) [`code`](https://github.com/raycast/extensions/tree/main/extensions/barcuts-companion) `api@^1.95.0` `utils@^1.17.0`
 - **[Bark](https://raycast.com/koinzhang/bark)** - Send messages to Bark via Raycast [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bark) `api@^1.77.0`
 - **[Bartender](https://raycast.com/kmusick/bartender)** - Interact with Bartender and menu bar icon apps [`@kmusick`](https://raycast.com/kmusick) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bartender) `api@^1.93.2` `utils@^1.17.0` `ai` `ai-tools`
 - **[BetterTouchTool](https://raycast.com/dnnsmnstrr/bettertouchtool)** - Run BTT actions from Raycast [`@dnnsmnstrr`](https://raycast.com/dnnsmnstrr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bettertouchtool) `api@^1.72.0` `utils@^1.14.1`
@@ -291,6 +292,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[UTM Campaign Builder](https://raycast.com/vimtor/utm-campaign-builder)** - Create a campaign URL with UTM attributes [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-campaign-builder) `api@^1.79.0` `utils@^1.17.0`
 - **[Video Call Reactions](https://raycast.com/yazanzaid00/video-call-reactions)** - This extension triggers video call reactions such as hearts, thumbs up/down, balloons, rain, confetti, fireworks, and lasers on macOS. [`@yazanzaid00`](https://raycast.com/yazanzaid00) [`code`](https://github.com/raycast/extensions/tree/main/extensions/video-call-reactions) `api@^1.75.2` `utils@^1.15.0`
 - **[WeChat](https://raycast.com/raffeyang/wechat)** - A Raycast extension for WeChat to quickly search your contacts and chat [`@raffeyang`](https://raycast.com/raffeyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wechat) `api@^1.93.2` `utils@^1.19.1`
+- **[Zero](https://raycast.com/jlokos/zero)** - 0.email extension for Raycast [`@jlokos`](https://raycast.com/jlokos) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zero) `api@^1.93.2` `utils@^1.17.0` `ai-tools`
 - **[Zoom](https://raycast.com/thomaslombart/zoom)** - Start, schedule and join Zoom meetings. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zoom) `api@^1.53.3` `utils@^1.18.1` `ai` `ai-tools`
 - **[Zoom Meeting Control](https://raycast.com/prashantv/zoom-meeting-control)** - Control current Zoom meeting [`@prashantv`](https://raycast.com/prashantv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zoom-control) `api@^1.59.0` `utils@^1.10.0`
 
@@ -566,7 +568,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Disk Utility](https://raycast.com/stelo/diskutil)** - Create, list and delete Apple File System (APFS) disk volumes [`@stelo`](https://raycast.com/stelo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/diskutil) `api@^1.81.2` `utils@^1.16.5`
 - **[Diskutil](https://raycast.com/Globolo/diskutil-mac)** - View your disks and volumes An implementation of the macOS 'diskutil' command with quicker access to features, providing a better overview and a much more userfriendly interface [`@Globolo`](https://raycast.com/Globolo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/diskutil-mac) `api@^1.51.0` `utils@^1.18.1`
 - **[Dock Tinker](https://raycast.com/koinzhang/dock-tinker)** - Custom hidden preferences of Dock. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) `api@^1.83.1`
-- **[Doppler Share Secrets](https://raycast.com/thomas/doppler-share-secrets)** - Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) `api@^1.94.0` `utils@^1.19.1`
+- **[Doppler Share Secrets](https://raycast.com/thomas/doppler-share-secrets)** - Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) `api@^1.95.0` `utils@^1.19.1`
 - **[DOTween Eases](https://raycast.com/metakirby5/dotween-eases)** - Preview DOTween easing options through GIFs. [`@metakirby5`](https://raycast.com/metakirby5) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotween-eases) `api@^1.37.0`
 - **[Drupal Toolbox](https://raycast.com/emircanerkul/drupal-toolbox)** - Valuable tools and shortcuts for your Drupal Websites [`@emircanerkul`](https://raycast.com/emircanerkul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox) `api@1.44.0` `utils@^1.4.11`
 - **[Drupal.org](https://raycast.com/hussainweb/drupal-org)** - Get information from drupal.org [`@hussainweb`](https://raycast.com/hussainweb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drupal-org) `api@^1.72.0`
@@ -964,7 +966,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Defichain Dobby](https://raycast.com/adrian-schnell/defichain-dobby)** - Show your current Defichain vaults, setup in https://defichain-dobby.com/ [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/defichain-dobby) `api@^1.32.1`
 - **[DefiScan.live](https://raycast.com/adrian-schnell/defiscan)** - Search on defiscan.live [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/defiscan) `api@^1.87.5` `utils@^1.18.1`
 - **[Dolar Hoy Argentina](https://raycast.com/Gusta/dolar-hoy)** - US Dollars conversion to Argentine Pesos [`@Gusta`](https://raycast.com/Gusta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dolar-hoy) `api@^1.68.1` `utils@^1.12.5`
-- **[DolarCripto AR](https://raycast.com/manuel_de_la_torre/dolar-cripto-ar)** - DolarCripto AR es una extensión para Raycast que te permite visualizar en tiempo real las cotizaciones de los diferentes dólares en Argentina (CCL, MEP y Blue) y de criptomonedas populares (ETH, BTC) directamente en la barra de menú de tu Mac. [`@manuel_de_la_torre`](https://raycast.com/manuel_de_la_torre) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dolar-cripto-ar) `api@^1.75.1` `utils@^1.4.8`
+- **[DolarCripto AR](https://raycast.com/manuel_de_la_torre/dolar-cripto-ar)** - DolarCripto AR es una extensión para Raycast que te permite visualizar en tiempo real las cotizaciones de los diferentes dólares en Argentina (CCL, MEP y Blue) y de criptomonedas populares (ETH, BTC) directamente en la barra de menú de tu Mac. [`@manuel_de_la_torre`](https://raycast.com/manuel_de_la_torre) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dolar-cripto-ar) `api@^1.97.0` `utils@^1.17.0`
 - **[Dollar Blue](https://raycast.com/agus/dollar-blue)** - Gives you the exchange rate of the "Parallel" US Dollar against Argentine Peso [`@agus`](https://raycast.com/agus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dollar-blue) `api@^1.47.3` `utils@^1.4.18`
 - **[Fake Financial Data](https://raycast.com/andre-rd-rodrigues/fake-financial-data)** - Generate fake financial data [`@andre-rd-rodrigues`](https://raycast.com/andre-rd-rodrigues) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fake-financial-data) `api@^1.51.1`
 - **[Finary](https://raycast.com/jetaix/finary)** - Fastest way to explore your Finary Portfolio & Investments. [`@jetaix`](https://raycast.com/jetaix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/finary) `api@^1.45.1`

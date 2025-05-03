@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/aa2fe46b069a48fb_update-time.svg)
+![Last update](/icons/afe31a1ecc05de8c_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2087** packages in **15** categories, **21** packages use Swift
-- **1351** authors, **821** contributors (of which **619** are only contributors, not authors)
+- **2089** packages in **15** categories, **21** packages use Swift
+- **1353** authors, **822** contributors (of which **620** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (57)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [thomas](https://raycast.com/thomas) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (202)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (203)
   - [xmok](https://raycast.com/xmok) (106)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (67)
   - [j3lte](https://raycast.com/j3lte) (40)
@@ -219,6 +219,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Terminal Shop](https://raycast.com/thdxr/terminaldotshop)** - The finest coffee for the finest people. [`@thdxr`](https://raycast.com/thdxr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/terminaldotshop) `api@^1.92.1` `utils@^1.17.0`
 - **[Text Differ](https://raycast.com/ErikFisher/text-differ)** - Opens Text Differ from selected files [`@ErikFisher`](https://raycast.com/ErikFisher) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-differ) `api@^1.63.0`
 - **[Text Replacements](https://raycast.com/thomaslombart/text-replacements)** - Import macOS's text replacements to Raycast snippets. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-replacements) `api@^1.72.1` `utils@^1.14.0`
+- **[Thock](https://raycast.com/shail_antani/thock)** - Control Thock with Raycast [`@shail_antani`](https://raycast.com/shail_antani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/thock) `api@^1.94.2` `utils@^1.17.0`
 - **[Threads Video Downloader](https://raycast.com/ridemountainpig/threads-video-downloader)** - Download videos from Threads with ease [`@ridemountainpig`](https://raycast.com/ridemountainpig) [`code`](https://github.com/raycast/extensions/tree/main/extensions/threads-video-downloader) `api@^1.84.3` `utils@^1.17.0`
 - **[Tim](https://raycast.com/tm.wrnr/tim)** - Manage your timers for Tim from Raycast [`@tm.wrnr`](https://raycast.com/tm.wrnr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tim) `api@^1.84.3` `utils@^1.18.0`
 - **[Todo List](https://raycast.com/maggie/todo-list)** - Manage your todo list quickly by adding items and marking items as completed. [`@maggie`](https://raycast.com/maggie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/todo-list) `api@^1.52.1` `utils@^1.1.0`
@@ -1699,6 +1700,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Synonyms](https://raycast.com/xmorse/synonyms)** - Find synonyms for words and translate if necessary [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/synonyms) `api@^1.87.5` `utils@^1.18.1`
 - **[System Monitor](https://raycast.com/hossammourad/raycast-system-monitor)** - Show information and usage related to CPU, memory, power and network [`@hossammourad`](https://raycast.com/hossammourad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/system-monitor) `api@^1.70.3` `utils@^1.13.6`
 - **[T3 Chat](https://raycast.com/Lermatroid/t3-chat)** - Query T3 Chat directly from Raycast [`@Lermatroid`](https://raycast.com/Lermatroid) [`code`](https://github.com/raycast/extensions/tree/main/extensions/t3-chat) `api@^1.91.1`
+- **[Tana Paste](https://raycast.com/3mdistal/tana-paste)** - Converts text between Markdown and Tana Paste formats. [`@3mdistal`](https://raycast.com/3mdistal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tana-paste) `api@^1.94.3` `utils@^1.17.0`
 - **[Tapo Smart Devices](https://raycast.com/timrogers/raycast-tapo-smart-devices)** - Manage Tapo smart home device, for example plugs and lightbulbs, with just a few keystrokes [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tapo-smart-devices) `api@^1.38.3`
 - **[TaskLink](https://raycast.com/jrodalo/tasklink)** - Converts issue tracker Ids into clickable links [`@jrodalo`](https://raycast.com/jrodalo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tasklink) `api@^1.67.1`
 - **[Taskplane](https://raycast.com/albingroen/taskplane)** - Manage your tasks for Taskplane right in Raycast [`@albingroen`](https://raycast.com/albingroen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/taskplane) `api@^1.37.1`

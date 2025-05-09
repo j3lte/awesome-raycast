@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/9aa350677b89c87d_update-time.svg)
+![Last update](/icons/ec58218deac3da03_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,15 +38,15 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2095** packages in **15** categories, **22** packages use Swift
-- **1356** authors, **827** contributors (of which **623** are only contributors, not authors)
+- **2097** packages in **15** categories, **22** packages use Swift
+- **1357** authors, **827** contributors (of which **623** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (58)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (17)
+  - [thomas](https://raycast.com/thomas) (17)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
-  - [thomas](https://raycast.com/thomas) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (203)
@@ -352,6 +352,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ipapi.is](https://raycast.com/xmok/ipapi-is)** - Lookup IP or ASN via ipapi.is [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) `api@^1.79.0` `utils@^1.18.0`
 - **[Jalali Date Convertor](https://raycast.com/amin_saedi/jalali-date-convertor)** - Converts Shamsi (Jalali) calendar dates to/from Gregorian calendar [`@amin_saedi`](https://raycast.com/amin_saedi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jalali-date-convertor) `api@^1.56.1`
 - **[James Webb Space Telescope](https://raycast.com/Infonautica/james-webb-space-telescope)** - List data from James Webb Space Telescope's observations, including images, csv, jsons and fits files. [`@Infonautica`](https://raycast.com/Infonautica) [`code`](https://github.com/raycast/extensions/tree/main/extensions/james-webb-space-telescope) `api@^1.89.0` `utils@^1.18.1`
+- **[Japanese Lorem Ipsum Generator](https://raycast.com/seita1996/lipsum)** - Generate Japanese / English dummy text [`@seita1996`](https://raycast.com/seita1996) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lipsum) `api@^1.97.0` `utils@^1.17.0`
 - **[Jotform](https://raycast.com/xmok/jotform)** - View Forms and their Submissions [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jotform) `api@^1.92.1` `utils@^1.17.0`
 - **[Jupiter Aggregator](https://raycast.com/stevedylandev/jup-agg)** - Lets you display the value of a token in the menu bar and lets you calculate the value of tokens [`@stevedylandev`](https://raycast.com/stevedylandev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jupiter-aggregator) `api@^1.47.2` `utils@^1.4.8`
 - **[Just Delete Me](https://raycast.com/andreaselia/just-delete-me)** - A directory of direct links to delete your account from web services. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/just-delete-me) `api@^1.78.0` `utils@^1.16.2`
@@ -2152,6 +2153,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Metaphor](https://raycast.com/QIanGua/metaphor)** - Search with Metaphor [`@QIanGua`](https://raycast.com/QIanGua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/metaphor) `api@^1.56.3` `utils@^1.4.16`
 - **[Microsoft Edge](https://raycast.com/KartikKumarSahoo/microsoft-edge)** - Search open tabs, bookmarks, collections and history in Microsoft Edge. [`@KartikKumarSahoo`](https://raycast.com/KartikKumarSahoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) `api@^1.86.0` `utils@^1.18.1`
 - **[MLDocs](https://raycast.com/reckoning-dev/mldocs)** - Raycast Commands for Searching Different ML APIs [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mldocs) `api@^1.26.1`
+- **[Model Context Protocol Registry](https://raycast.com/thomas/model-context-protocol-registry)** - Find and install MCP servers in Raycast and other MCP clients like Claude or Cursor. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry) `api@^1.98.0` `utils@^1.19.1`
 - **[Moji Dict Search](https://raycast.com/Kasper/moji)** - Search mojidict.com [`@Kasper`](https://raycast.com/Kasper) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moji) `api@^1.27.1`
 - **[Mullvad VPN](https://raycast.com/0x46616c6b/mullvad)** - Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. [`@0x46616c6b`](https://raycast.com/0x46616c6b) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mullvad) `api@^1.62.0` `utils@^1.10.1`
 - **[Multipass](https://raycast.com/davibe/multipass)** - Manage Multipass instances [`@davibe`](https://raycast.com/davibe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multipass) `api@^1.39.2`

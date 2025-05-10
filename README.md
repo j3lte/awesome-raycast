@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/ec58218deac3da03_update-time.svg)
+![Last update](/icons/933ad78721b8d9fc_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2097** packages in **15** categories, **22** packages use Swift
-- **1357** authors, **827** contributors (of which **623** are only contributors, not authors)
+- **2101** packages in **15** categories, **22** packages use Swift
+- **1361** authors, **827** contributors (of which **623** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (58)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -464,6 +464,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Random Color](https://raycast.com/srcrip/random-color)** - Pick a random color. [`@srcrip`](https://raycast.com/srcrip) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-color) `api@^1.64.4`
 - **[Re-mind](https://raycast.com/daniloc/re-mind)** - Re-mind is a curated collection of design-related links compiled by Danilo Campos. [`@daniloc`](https://raycast.com/daniloc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/re-mind) `api@^1.67.1` `utils@^1.12.4`
 - **[React Icons](https://raycast.com/yug2005/react-icons)** - Browse and search react icons. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/react-icons) `api@^1.45.2`
+- **[Selfh.st Icons](https://raycast.com/greirson/selfh-st-icons)** - Find and use self-hosted icons from selfh.st service [`@greirson`](https://raycast.com/greirson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/selfh-st-icons) `api@^1.97.0` `utils@^1.19.1`
 - **[Sip](https://raycast.com/jameslyons/sip)** - Access these Sip color management app features from Raycast: show color picker, open contrast checker, open settings, check contrast between two hex values, and add hex color to history. [`@jameslyons`](https://raycast.com/jameslyons) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sip) `api@^1.34.1`
 - **[SM.MS](https://raycast.com/koinzhang/sm-ms)** - SM.MS image hosting service to upload and share images. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sm-ms) `api@^1.71.4`
 - **[Specify](https://raycast.com/AllanM/specify)** - Search all your design tokens and assets, copy and paste them in your favorite tools: Notion pages, Pitch presentations, Slack discussions, etc. [`@AllanM`](https://raycast.com/AllanM) [`code`](https://github.com/raycast/extensions/tree/main/extensions/specify) `api@^1.52.0`
@@ -1427,6 +1428,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Curator Bio](https://raycast.com/Yukai/curator-bio)** - Control your curator.bio account from Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) `api@^1.44.0` `utils@^1.4.11`
 - **[cURL](https://raycast.com/jonathangiardino/curl)** - Keyboard-first HTTP client [`@jonathangiardino`](https://raycast.com/jonathangiardino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curl) `api@^1.55.2` `utils@^1.9.0` `ai` `ai-tools`
 - **[Cursor Directory](https://raycast.com/escwxyz/cursor-directory)** - Your cursor.directory in Raycast [`@escwxyz`](https://raycast.com/escwxyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) `api@^1.84.2` `utils@^1.18.0`
+- **[Daily Sites - Site Launcher](https://raycast.com/dubsdotla/daily-sites)** - Access frequently visited sites with ease. [`@dubsdotla`](https://raycast.com/dubsdotla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/daily-sites) `api@^1.97.0` `utils@^1.17.0`
 - **[Dash Off](https://raycast.com/peduarte/dash-off)** - The fastest way to dash off a quick email to yourself and others [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dash-off) `api@^1.65.0` `utils@^1.11.1`
 - **[Deduplicator](https://raycast.com/HerbertLu/deduplicator)** - A text tool for de-duplicating text content. [`@HerbertLu`](https://raycast.com/HerbertLu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deduplicator) `api@^1.44.0`
 - **[Deep Research](https://raycast.com/EvanZhouDev/research)** - Iterative Deep Research powered by Raycast AI Extensions. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deep-research) `api@^1.91.2` `utils@^1.17.0` `ai` `ai-tools`
@@ -1554,7 +1556,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Memo](https://raycast.com/mt40/memo)** - All your bookmarks and notes in 1 Notion [`@mt40`](https://raycast.com/mt40) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memo) `api@^1.39.3`
 - **[Memorable Password Generator](https://raycast.com/gandli/memorable-generate-password)** - Generate a set of passwords that are easy to remember and use· [`@gandli`](https://raycast.com/gandli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memorable-generate-password) `api@^1.51.1`
 - **[Memory](https://raycast.com/EvanZhouDev/memory)** - Knowledge Graph Memory for Raycast AI [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memory) `api@^1.91.2` `utils@^1.17.0` `ai` `ai-tools`
-- **[Mermaid to Image](https://raycast.com/chihkang/mermaid-to-image)** - Convert Mermaid diagrams to images [`@chihkang`](https://raycast.com/chihkang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) `api@^1.93.2` `utils@^1.17.0`
+- **[Mermaid to Image](https://raycast.com/chihkang/mermaid-to-image)** - Convert Mermaid diagrams to images [`@chihkang`](https://raycast.com/chihkang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mermaid-to-image) `api@^1.93.2` `utils@^1.17.0` `ai` `ai-tools`
 - **[Mikrus](https://raycast.com/tkowalski29/mikrus)** - Integration with mikr.us [`@tkowalski29`](https://raycast.com/tkowalski29) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mikrus) `api@^1.76.0` `utils@^1.16.0`
 - **[MindNode](https://raycast.com/thuggyduck/mindnode)** - Create Mindmap Quickly using Raycast [`@thuggyduck`](https://raycast.com/thuggyduck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mindnode) `api@^1.62.0`
 - **[Minecraft Color Codes](https://raycast.com/lafkpages/minecraft-color-codes)** - View and copy Minecraft chat color codes. [`@lafkpages`](https://raycast.com/lafkpages) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minecraft-color-codes) `api@^1.72.1` `utils@^1.16.3`
@@ -1670,6 +1672,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Screenshot](https://raycast.com/Aayush9029/screenshot)** - Capture your screen with macOS native tools [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screenshot) `api@^1.42.0`
 - **[Search Blockchain](https://raycast.com/gutenye/search-blockchain)** - Search Bitcoin (BTC), Cardano (ADA), EOS, Ethereum (ETH), Monero (XMR), NEO, Ontology (ONT), Polygon (DOT), Solana (SOL), Stellar (XLM), Tron (TRX), XRP and more cryptocurrency blockchain explorer [`@gutenye`](https://raycast.com/gutenye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) `api@^1.69.0`
 - **[Search ClojureDocs Documentation](https://raycast.com/danblancas/search-clojuredocs)** - Search and browse clojuredocs.org site. [`@danblancas`](https://raycast.com/danblancas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clojuredocs-search) `api@^1.39.3`
+- **[Search Domain](https://raycast.com/hasanakay/search-domain)** - Search domain names quickly with instant availability check [`@hasanakay`](https://raycast.com/hasanakay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-domain) `api@^1.59.0` `utils@^1.8.0`
 - **[Search HoudahSpot](https://raycast.com/felixthehat/houdahspot-search)** - Search with HoudahSpot [`@felixthehat`](https://raycast.com/felixthehat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/houdahspot-search) `api@^1.42.2`
 - **[Search MDN](https://raycast.com/krzysztofzuraw/search-mdn)** - Search MDN Web Docs [`@krzysztofzuraw`](https://raycast.com/krzysztofzuraw) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-mdn) `api@^1.76.0` `utils@^1.16.0`
 - **[Search Zotero](https://raycast.com/reckoning-dev/zotero)** - Search Zotero Database from Raycast [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zotero) `api@^1.62.1`
@@ -1782,6 +1785,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Zeitraum](https://raycast.com/tensor/zeitraum)** - Track time with tags to Zeitraum server [`@tensor`](https://raycast.com/tensor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zeitraum) `api@^1.51.1`
 - **[Zen Mode](https://raycast.com/pradeepb28/zen-mode)** - Hide Everything. Mute Everything. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) `api@^1.35.2`
 - **[Zendesk — Search Support Center](https://raycast.com/cpenned/zendesk)** - Search Zendesk support center for articles. [`@cpenned`](https://raycast.com/cpenned) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zendesk) `api@^1.79.0` `utils@^1.18.0`
+- **[Zoxide](https://raycast.com/mrpunkin/raycast-zoxide)** - Raycast integration with the zoxide command-line tool by Ajeet D'Souza. [`@mrpunkin`](https://raycast.com/mrpunkin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) `api@^1.97.0` `utils@^1.19.1`
 
 
 --------------------

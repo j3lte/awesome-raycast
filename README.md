@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/933ad78721b8d9fc_update-time.svg)
+![Last update](/icons/dfddff88bf62e16d_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2101** packages in **15** categories, **22** packages use Swift
-- **1361** authors, **827** contributors (of which **623** are only contributors, not authors)
+- **2103** packages in **15** categories, **22** packages use Swift
+- **1363** authors, **830** contributors (of which **626** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (58)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -1004,6 +1004,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Solana Wallets Generation](https://raycast.com/uladkaminski/solana-wallets-generation)** - Introducing the Solana Wallet Generator, a powerful Raycast extension designed for developers and cryptocurrency enthusiasts seeking to efficiently create multiple Solana wallets. This tool streamlines the wallet generation process, allowing users to produce thousands of wallets swiftly and securely. [`@uladkaminski`](https://raycast.com/uladkaminski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) `api@^1.91.2` `utils@^1.17.0`
 - **[Splitwise](https://raycast.com/ilian/splitwise)** - View the balances and add expenses to Splitwise [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) `api@^1.47.2` `utils@^1.4.16`
 - **[Stock Tracker](https://raycast.com/hmarr/stock-tracker)** - Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. [`@hmarr`](https://raycast.com/hmarr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) `api@^1.47.3`
+- **[Subwatch](https://raycast.com/nirgn/subwatch)** - Turn subscription chaos into financial harmony [`@nirgn`](https://raycast.com/nirgn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/subwatch) `api@^1.97.0` `utils@^1.17.0`
 - **[Summation - Sum Calculator](https://raycast.com/monvelasquez/summation)** - Calculate the sum of a list of numbers in the selected text or clipboard. [`@monvelasquez`](https://raycast.com/monvelasquez) [`code`](https://github.com/raycast/extensions/tree/main/extensions/summation) `api@^1.49.1`
 - **[Tip Calculator](https://raycast.com/Visual-Studio-Coder/tip-calculator)** - Calculate the total per person based on the Bill, Tip %, and Number of People. [`@Visual-Studio-Coder`](https://raycast.com/Visual-Studio-Coder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tip-calculator) `api@^1.57.1`
 - **[Toncoin (TON) Price](https://raycast.com/arthurn/toncoin-price)** - Keep an eye on Toncoin (TON) cryptocurrency price directly from your system menu bar [`@arthurn`](https://raycast.com/arthurn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toncoin-price) `api@^1.76.0` `utils@^1.4.8`
@@ -1174,7 +1175,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[hostloc](https://raycast.com/J3n5en/hostloc)** - You can quickly access the 20 latest posts of hostloc at the moment. Note: The hostloc home page can be reached by visiting https://www.hostloc.com/ through your browser. [`@J3n5en`](https://raycast.com/J3n5en) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hostloc) `api@^1.36.0`
 - **[I Don't Have Spotify](https://raycast.com/sjdonado/idonthavespotify)** - Effortlessly convert Spotify links to your preferred streaming service [`@sjdonado`](https://raycast.com/sjdonado) [`code`](https://github.com/raycast/extensions/tree/main/extensions/idonthavespotify) `api@^1.78.1` `utils@^1.16.2`
 - **[Image Host](https://raycast.com/efeclk/image-host)** - Host an image on imgBB [`@efeclk`](https://raycast.com/efeclk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-host) `api@^1.65.1` `utils@^1.11.1`
-- **[Image Modification](https://raycast.com/HelloImSteven/sips)** - Apply filters and transformations to various image formats, and convert between them. [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sips) `api@^1.92.1` `utils@^1.18.1` `ai` `ai-tools`
+- **[Image Modification](https://raycast.com/HelloImSteven/sips)** - Apply filters and transformations to various image formats, and convert between them. [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sips) `api@^1.98.2` `utils@^1.19.1` `ai` `ai-tools`
 - **[Image Wallet](https://raycast.com/ibll/image-wallet)** - Store and retrieve images quickly from Raycast! [`@ibll`](https://raycast.com/ibll) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-wallet) `api@^1.55.0` `utils@^1.5.2`
 - **[Imageflow](https://raycast.com/Godruoyi/image-flow)** - Image Flow is a powerful optimization tool for images and files, enabling you to process them efficiently with workflows. [`@Godruoyi`](https://raycast.com/Godruoyi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-flow) `api@^1.88.4` `utils@^1.17.0`
 - **[ImageKit Uploader](https://raycast.com/ludafa/imagekit-uploader)** - Upload Image to imagekit [`@ludafa`](https://raycast.com/ludafa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imagekit-uploader) `api@^1.64.5` `utils@^1.10.1`
@@ -1492,6 +1493,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Google Workspace](https://raycast.com/thomaslombart/google-workspace)** - Access Google Drive files. [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-workspace) `api@^1.62.0` `utils@^1.18.1` `ai` `ai-tools`
 - **[Gopass](https://raycast.com/bake/gopass)** - Search and copy passwords from gopass password manager [`@bake`](https://raycast.com/bake) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gopass) `api@^1.36.0` `utils@^1.18.1`
 - **[Granola](https://raycast.com/Rob/granola)** - Create, manage, and review notes in Granola [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/granola) `api@^1.93.1` `utils@^1.19.1` `ai-tools`
+- **[Grok AI](https://raycast.com/andrei_ciobotar/grok-ai)** - Queries Grok AI API [`@andrei_ciobotar`](https://raycast.com/andrei_ciobotar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/grok-ai) `api@^1.95.0` `utils@^1.17.0`
 - **[Groq](https://raycast.com/ilian/groq)** - Use the powerful models via Groq from the comfort of Raycast. [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/groq) `api@^1.68.1`
 - **[Growthbook](https://raycast.com/farisaziz12/growthbook)** - View Growthbook feature flags [`@farisaziz12`](https://raycast.com/farisaziz12) [`code`](https://github.com/raycast/extensions/tree/main/extensions/growthbook) `api@^1.57.2` `utils@^1.9.1`
 - **[Guerrilla Mail](https://raycast.com/krsntn/guerrilla-mail)** - Generate a disposable temporary email address and quickly access any received emails - powered by Guerrilla Mail API [`@krsntn`](https://raycast.com/krsntn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/guerrilla-mail) `api@^1.69.3` `utils@^1.13.2`
@@ -1717,7 +1719,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Team Time](https://raycast.com/david_nakhapetian/team-time)** - Allows you to see what time it is in different cities/countries [`@david_nakhapetian`](https://raycast.com/david_nakhapetian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/team-time) `api@^1.91.2` `utils@^1.18.1`
 - **[Teamup Rooms](https://raycast.com/drewwatkins11/teamup-rooms)** - Check for open rooms and book using Teamup [`@drewwatkins11`](https://raycast.com/drewwatkins11) [`code`](https://github.com/raycast/extensions/tree/main/extensions/teamup-rooms) `api@^1.36.0`
 - **[Texts](https://raycast.com/zavbala/texts)** - Use your messaging applications from Raycast with ease, open a conversation fast. [`@zavbala`](https://raycast.com/zavbala) [`code`](https://github.com/raycast/extensions/tree/main/extensions/texts) `api@^1.55.1`
-- **[TickTick](https://raycast.com/appest/ticktick)** - Check and search tasks in TickTick via Raycast [`@appest`](https://raycast.com/appest) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ticktick) `api@^1.36.0` `utils@^1.8.0`
+- **[TickTick](https://raycast.com/appest/ticktick)** - Check and search tasks in TickTick via Raycast [`@appest`](https://raycast.com/appest) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ticktick) `api@^1.93.1` `utils@^1.19.0` `ai` `ai-tools`
 - **[TidyRead - Streamline Your Daily Reading](https://raycast.com/jaredliu233/tidyread---streamline-your-daily-reading)** - An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. [`@jaredliu233`](https://raycast.com/jaredliu233) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) `api@^1.65.0` `utils@^1.10.1`
 - **[Time](https://raycast.com/g0d/time)** - Show the current time. [`@g0d`](https://raycast.com/g0d) [`code`](https://github.com/raycast/extensions/tree/main/extensions/time) `api@^1.67.1`
 - **[Time Logs](https://raycast.com/madebydamien/time-logs)** - Track, manage, and export time logs on tasks and projects. [`@madebydamien`](https://raycast.com/madebydamien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/time-logs) `api@^1.94.0` `utils@^1.19.1`

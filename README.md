@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/7b8e9d0e7e0a406c_update-time.svg)
+![Last update](/icons/9bce49417e6b1e28_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,13 +38,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2110** packages in **15** categories, **22** packages use Swift
-- **1367** authors, **835** contributors (of which **629** are only contributors, not authors)
+- **2112** packages in **15** categories, **22** packages use Swift
+- **1368** authors, **835** contributors (of which **629** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (58)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (17)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (18)
   - [thomas](https://raycast.com/thomas) (17)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
@@ -236,7 +236,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Window Sizer](https://raycast.com/the3ash/window-sizer)** - Resize application windows to pixel-perfect presets. [`@the3ash`](https://raycast.com/the3ash) [`code`](https://github.com/raycast/extensions/tree/main/extensions/window-sizer) `api@^1.96.0` `utils@^1.17.0` `swift`
 - **[Wireguard](https://raycast.com/sbugzhu/wireguard)** - Control Wireguard connections. [`@sbugzhu`](https://raycast.com/sbugzhu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wireguard) `api@^1.79.0` `utils@^1.18.1`
 - **[Xecutor](https://raycast.com/GastroGeek/xecutor)** - Create presets to launch multiple macOS applications and/or urls from within Raycast [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xecutor) `api@^1.39.3`
-- **[Zen Browser](https://raycast.com/Keyruu/zen-browser)** - Search and open tabs from bookmarks and history in Zen Browser. [`@Keyruu`](https://raycast.com/Keyruu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) `api@^1.59.0` `utils@^1.4.13`
+- **[Zen Browser](https://raycast.com/Keyruu/zen-browser)** - Search and open tabs from bookmarks and history in Zen Browser. [`@Keyruu`](https://raycast.com/Keyruu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) `api@^1.94.0` `utils@^1.19.1` `ai` `ai-tools`
 
 
 --------------------
@@ -1234,6 +1234,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Twitter/X Video Downloader](https://raycast.com/kaanrkaraman/twitter-video-downloader)** - Download videos from Twitter/X with ease [`@kaanrkaraman`](https://raycast.com/kaanrkaraman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitter-video-downloader) `api@^1.56.0`
 - **[Unogs](https://raycast.com/mohitkyadav/unogs)** - A Raycast extension for Unogs [`@mohitkyadav`](https://raycast.com/mohitkyadav) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unogs) `api@^1.33.2`
 - **[Valheim Wiki Search](https://raycast.com/constantin_prum/valheim-wiki)** - Search the Valheim Wiki, display a preview and open the full article in your browser. [`@constantin_prum`](https://raycast.com/constantin_prum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/valheim-wiki) `api@^1.69.3` `utils@^1.17.0`
+- **[Video Converter](https://raycast.com/grosst/video-converter)** - Converts video and audio to different formats [`@grosst`](https://raycast.com/grosst) [`code`](https://github.com/raycast/extensions/tree/main/extensions/video-converter) `api@^1.98.0` `utils@^1.19.1`
 - **[Wistia](https://raycast.com/darin/wistia)** - Search Wistia Medias and Projects [`@darin`](https://raycast.com/darin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wistia) `api@^1.79.0` `utils@^1.18.0`
 - **[xQc](https://raycast.com/Aayush9029/xqc)** - Search and Explore Vods for twitch.tv/xqc [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xqc) `api@^1.38.0`
 - **[Yandex Music](https://raycast.com/alexstrnik/yandex-music)** - Control the Yandex Music tab in browser with your keyboard. [`@alexstrnik`](https://raycast.com/alexstrnik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yandex-music) `api@^1.35.1`
@@ -1305,6 +1306,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Chords and Tabs](https://raycast.com/BossElijah/chords-and-tabs)** - Find chords and tabs for your favorite songs and musical pieces! [`@BossElijah`](https://raycast.com/BossElijah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chords-and-tabs) `api@^1.74.1`
 - **[Control Viscosity](https://raycast.com/dionisis_lialios/control-viscosity)** - Allows you to control Viscosity VPN client and connect to or disconnect from your VPN connections. [`@dionisis_lialios`](https://raycast.com/dionisis_lialios) [`code`](https://github.com/raycast/extensions/tree/main/extensions/control-viscosity) `api@^1.87.5` `utils@^1.17.0`
 - **[Custom Folder](https://raycast.com/phlo/custom-folder)** - Customize MacOS folder icons. [`@phlo`](https://raycast.com/phlo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/custom-folder) `api@^1.64.3` `utils@^1.16.5`
+- **[Danish Tax Calculator](https://raycast.com/pernielsentikaer/danish-tax-calculator)** - Calculate your payment after taxes [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/danish-tax-calculator) `api@^1.98.0` `utils@^1.19.1`
 - **[Element](https://raycast.com/Aayush9029/element)** - Show information about an element of the periodic table. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/element) `api@^1.93.0`
 - **[Elron Train Times](https://raycast.com/raimond/elron)** - Fetch train times for Elron train times [`@raimond`](https://raycast.com/raimond) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elron) `api@^1.44.0`
 - **[Finnish Dictionary](https://raycast.com/albertoxamin/finnish-dictionary)** - MacOS has a great dictionary, but it's not available for Finnish. This extension adds a Finnish dictionary at your fingertips. [`@albertoxamin`](https://raycast.com/albertoxamin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/finnish-dictionary) `api@^1.31.0`
@@ -2209,7 +2211,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Raindrop.io](https://raycast.com/lardissone/raindrop-io)** - Search your Raindrop.io bookmarks [`@lardissone`](https://raycast.com/lardissone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) `api@^1.79.1` `utils@^1.16.3`
 - **[Random Email](https://raycast.com/rkjaer/random-email)** - A quick way to create and copy a random email address [`@rkjaer`](https://raycast.com/rkjaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-email) `api@^1.25.6`
 - **[ray.so](https://raycast.com/garrett/ray-so)** - Create beautiful images of your code using ray.so [`@garrett`](https://raycast.com/garrett) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ray-so) `api@^1.72.0` `utils@^1.15.0`
-- **[Raycast Icons](https://raycast.com/petr/raycast-icons)** - Browse, copy and modify Raycast icons. [`@petr`](https://raycast.com/petr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) `api@1.83.1` `utils@^1.17.0`
+- **[Raycast Icons](https://raycast.com/petr/raycast-icons)** - Browse, copy and modify Raycast icons. [`@petr`](https://raycast.com/petr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) `api@1.98.4` `utils@^1.19.1`
 - **[Raytyping](https://raycast.com/louishuyng/raytyping)** - This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill [`@louishuyng`](https://raycast.com/louishuyng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raytyping) `api@^1.63.0`
 - **[Readwise to Tana](https://raycast.com/believer/readwise-to-tana)** - Copy Readwise highlights to Tana [`@believer`](https://raycast.com/believer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/readwise-to-tana) `api@^1.47.2` `utils@1.4.16`
 - **[Recents](https://raycast.com/GastroGeek/recents)** - Show Recently used files and folders in Raycast [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/recents) `api@^1.40.3`

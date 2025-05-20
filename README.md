@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/01c9de6b23150a03_update-time.svg)
+![Last update](/icons/850790b2178c3690_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,10 +38,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2116** packages in **15** categories, **22** packages use Swift
-- **1372** authors, **837** contributors (of which **630** are only contributors, not authors)
+- **2118** packages in **15** categories, **22** packages use Swift
+- **1373** authors, **838** contributors (of which **631** are only contributors, not authors)
 - Top **7** authors:
-  - [xmok](https://raycast.com/xmok) (58)
+  - [xmok](https://raycast.com/xmok) (59)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (18)
@@ -101,7 +101,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Contentful](https://raycast.com/ewgenius/contentful)** - Browse and search Contentful content and assets library [`@ewgenius`](https://raycast.com/ewgenius) [`code`](https://github.com/raycast/extensions/tree/main/extensions/contentful) `api@^1.94.0` `utils@^1.19.1`
 - **[Convert CSV to Excel](https://raycast.com/VictoRD11/csv-to-excel)** - Convert CSV table to Excel compatible table. [`@VictoRD11`](https://raycast.com/VictoRD11) [`code`](https://github.com/raycast/extensions/tree/main/extensions/csv-to-excel) `api@^1.53.0`
 - **[Coolify](https://raycast.com/xmok/coolify)** - View Servers, Resources, Teams and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coolify) `api@^1.91.0` `utils@^1.18.0`
-- **[cPanel](https://raycast.com/xmok/cpanel)** - View Domains, DNS Zones, Email Accounts, Databases, Files and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpanel) `api@^1.91.0` `utils@^1.18.1`
+- **[cPanel](https://raycast.com/xmok/cpanel)** - View Domains, DNS Zones, Email Accounts, Databases, Files and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpanel) `api@^1.94.0` `utils@^1.19.1`
 - **[Cursor](https://raycast.com/degouville/cursor-recent-projects)** - Control Cursor, Cursor & Codium directly from Raycast - Search and open recent projects, handle extensions and commands. [`@degouville`](https://raycast.com/degouville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor-recent-projects) `api@^1.83.1` `utils@^1.17.0`
 - **[Cursor Documentation](https://raycast.com/degouville/cursor)** - Search the Cursor Documentation right from Raycast [`@degouville`](https://raycast.com/degouville) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor) `api@^1.83.1` `utils@^1.17.0`
 - **[Daminik](https://raycast.com/xmok/daminik)** - Manage your Digital Assets [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/daminik) `api@^1.91.0` `utils@^1.18.1`
@@ -278,9 +278,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Purelymail](https://raycast.com/xmok/purelymail)** - Manage Purelymail - Domains, Users, Routing Rules and more [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/purelymail) `api@^1.79.0` `utils@^1.17.0`
 - **[Pushover](https://raycast.com/mattstone/pushover)** - Send a message via the Pushover API. [`@mattstone`](https://raycast.com/mattstone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pushover) `api@^1.90.0` `utils@^1.17.0`
 - **[Quick Phone Call](https://raycast.com/karbassi/quick-call)** - Make a phone call with the default telephone app. [`@karbassi`](https://raycast.com/karbassi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-call) `api@^1.57.1`
+- **[RAE Dictionary](https://raycast.com/sonirico/rae-dictionary-raycast)** - Query words in the Royal Spanish Academy dictionary directly from Raycast. Get definitions, conjugations, and expressions quickly without opening a browser. Using https://rae-api.com, unofficial API. [`@sonirico`](https://raycast.com/sonirico) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rae-dictionary-raycast) `api@^1.97.0` `utils@^1.17.0`
 - **[Resend](https://raycast.com/xmok/resend)** - Manage API Keys and Domains, and Send Emails using Resend [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/resend) `api@^1.93.0` `utils@^1.18.0` `ai` `ai-tools`
 - **[Rocket.Chat](https://raycast.com/alex-w0/rocket-chat)** - Search for teams, channels, users and change your presence status. [`@alex-w0`](https://raycast.com/alex-w0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rocket-chat) `api@^1.61.2`
-- **[Say - Text to Speech](https://raycast.com/litomore/say)** - Use the macOS built-in TTS (Spoken Content) to say the text you provide. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/say) `api@^1.94.0` `utils@^1.19.1`
+- **[Say - Text to Speech](https://raycast.com/litomore/say)** - Use the macOS built-in TTS (Spoken Content) to say the text you provide. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/say) `api@^1.98.5` `utils@^1.19.1`
 - **[Shroud.email](https://raycast.com/xmok/shroud-email)** - View Domains and Create or View Aliases in Shroud.email instance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shroud-email) `api@^1.52.1` `utils@^1.7.0`
 - **[Slack](https://raycast.com/mommertf/slack)** - Search for chats, see unread messages, snooze notifications, and set your presence status. [`@mommertf`](https://raycast.com/mommertf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slack) `api@^1.94.0` `utils@^1.18.0` `ai` `ai-tools`
 - **[Slack Status](https://raycast.com/petr/slack-status)** - Quickly change your Slack status [`@petr`](https://raycast.com/petr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slack-status) `api@^1.60.0` `utils@^1.14.1`
@@ -856,7 +857,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[TypeScript Documentation Search](https://raycast.com/chezhe/typescript-documentation-search)** - Search in TypeScript Documentation [`@chezhe`](https://raycast.com/chezhe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/typescript-documentation-search) `api@^1.31.0`
 - **[Typescript Mock Generator](https://raycast.com/comoser/typescript-mock-generator)** - Generate mock/fake data from your typescript interfaces easily [`@comoser`](https://raycast.com/comoser) [`code`](https://github.com/raycast/extensions/tree/main/extensions/typescript-mock-generator) `api@^1.50.0` `utils@^1.5.2`
 - **[ULID](https://raycast.com/entwine7250/ulid)** - some basic ulid tools [`@entwine7250`](https://raycast.com/entwine7250) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ulid) `api@^1.55.2`
-- **[Unkey](https://raycast.com/xmok/unkey)** - Create, Verify, Update and Revoke Keys through Unkey [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unkey) `api@^1.57.0` `utils@^1.9.0`
+- **[Unkey](https://raycast.com/xmok/unkey)** - Create, Verify, Update and Revoke Keys through Unkey [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unkey) `api@^1.95.0` `utils@^1.19.1`
 - **[Unleash Feature Toggle](https://raycast.com/firhan_ramadhan/unleash-feature-toggle)** - List all projects and feature toggles from Unleash [`@firhan_ramadhan`](https://raycast.com/firhan_ramadhan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unleash-feature-toggle) `api@^1.69.0` `utils@^1.13.4`
 - **[UploadThing](https://raycast.com/juliusmarminge/uploadthing)** - Upload files in a single click [`@juliusmarminge`](https://raycast.com/juliusmarminge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) `api@^1.79.0` `utils@^1.18.1`
 - **[URL Parse](https://raycast.com/Johnson/url-parse)** - URL parse tool for developer. [`@Johnson`](https://raycast.com/Johnson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/url-parse) `api@^1.67.1` `utils@^1.12.5`
@@ -973,6 +974,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Coin Caster](https://raycast.com/chase_manning/coin-caster)** - Get the price for any crypto asset in Raycast [`@chase_manning`](https://raycast.com/chase_manning) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) `api@^1.92.0` `utils@^1.17.0`
 - **[Coingecko](https://raycast.com/destiner/coingecko)** - Get crypto data from Coingecko (price, ticker, ranking) [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coingecko) `api@^1.51.1`
 - **[Coinpaprika](https://raycast.com/gumbleliks/coinpaprika)** - Cryptocurrency Prices & Statistics [`@gumbleliks`](https://raycast.com/gumbleliks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coinpaprika) `api@^1.32.1`
+- **[Creem](https://raycast.com/xmok/creem)** - Smooth payments for SaaS and Indie Hackers that don't break the bank [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/creem) `api@^1.98.4` `utils@^1.17.0`
 - **[Crypto Price](https://raycast.com/gutenye/crypto-price)** - Keep an eye on Bitcoin (BTC), Ethereum (ETH), and other cryptocurrency prices and more directly from your system menu bar [`@gutenye`](https://raycast.com/gutenye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/crypto-price) `api@^1.67.1` `utils@^1.12.4`
 - **[Defichain Dobby](https://raycast.com/adrian-schnell/defichain-dobby)** - Show your current Defichain vaults, setup in https://defichain-dobby.com/ [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/defichain-dobby) `api@^1.32.1`
 - **[DefiScan.live](https://raycast.com/adrian-schnell/defiscan)** - Search on defiscan.live [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/defiscan) `api@^1.87.5` `utils@^1.18.1`
@@ -1362,7 +1364,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
-- **[1bookmark](https://raycast.com/onebookmark/1bookmark)** - One Bookmark Solution for Teams and Personal Use. [`@onebookmark`](https://raycast.com/onebookmark) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1bookmark) `api@^1.93.1` `utils@^1.19.0`
+- **[1Bookmark](https://raycast.com/onebookmark/1bookmark)** - One Bookmark Solution for Teams and Personal Use. [`@onebookmark`](https://raycast.com/onebookmark) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1bookmark) `api@^1.93.1` `utils@^1.19.0`
 - **[2FA Code Finder](https://raycast.com/yuercl/imessage-2fa)** - View 2FA codes from iMessage and Email [`@yuercl`](https://raycast.com/yuercl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) `api@^1.75.1` `utils@^1.19.1`
 - **[Addy](https://raycast.com/http.james/anonaddy)** - Easily generate and manage your Addy email aliases directly from your keyboard. [`@http.james`](https://raycast.com/http.james) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anonaddy) `api@^1.94.0` `utils@^1.17.0`
 - **[Advanced Replace](https://raycast.com/rocksack/advanced-replace)** - Extract and replace text using custom regex. [`@rocksack`](https://raycast.com/rocksack) [`code`](https://github.com/raycast/extensions/tree/main/extensions/advanced-replace) `api@^1.88.4` `utils@^1.18.1`
@@ -2112,7 +2114,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[GitHub Stars](https://raycast.com/mrmartineau/search-github-stars)** - Display and filter your recent GitHub stars [`@mrmartineau`](https://raycast.com/mrmartineau) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-stars) `api@^1.62.0`
 - **[GitHub Status](https://raycast.com/FezVrasta/github-status)** - Quickly check why GitHub is down today [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-status) `api@^1.31.0`
 - **[GitLab Docs](https://raycast.com/saschaeggi/gitlab-docs)** - Raycast extension to search GitLab Docs, Handbook & Pajamas Design System. [`@saschaeggi`](https://raycast.com/saschaeggi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitlab-docs) `api@^1.36.1`
-- **[Gitmoji Search](https://raycast.com/ricoberger/gitmoji)** - Gitmoji is an emoji guide for your commit messages [`@ricoberger`](https://raycast.com/ricoberger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitmoji) `api@^1.42.0` `utils@^1.5.2`
+- **[Gitmoji Search](https://raycast.com/ricoberger/gitmoji)** - Gitmoji is an emoji guide for your commit messages [`@ricoberger`](https://raycast.com/ricoberger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitmoji) `api@^1.97.1` `utils@^1.19.1`
 - **[Glide](https://raycast.com/titouanv/glide)** - Extension to open Glide Apps [`@titouanv`](https://raycast.com/titouanv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/glide) `api@^1.84.7` `utils@^1.17.0`
 - **[Golden Ratio](https://raycast.com/yang_monch/golden-ratio)** - Gold ratio and silver ratio calculation tool [`@yang_monch`](https://raycast.com/yang_monch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) `api@^1.76.1`
 - **[Google Books](https://raycast.com/aparandeh/google-books)** - Search Books with Google Books [`@aparandeh`](https://raycast.com/aparandeh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-books) `api@^1.27.0`

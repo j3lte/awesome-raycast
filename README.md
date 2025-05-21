@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/850790b2178c3690_update-time.svg)
+![Last update](/icons/140ce1c25d71a187_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2118** packages in **15** categories, **22** packages use Swift
-- **1373** authors, **838** contributors (of which **631** are only contributors, not authors)
+- **2119** packages in **15** categories, **22** packages use Swift
+- **1374** authors, **840** contributors (of which **633** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (59)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -1436,7 +1436,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CSS.GG](https://raycast.com/astrit/css-gg)** - Open-source CSS, SVG and Figma UI Icons Available in SVG Sprite, styled-components, NPM & API [`@astrit`](https://raycast.com/astrit) [`code`](https://github.com/raycast/extensions/tree/main/extensions/css-gg) `api@^1.38.2` `utils@^1.8.0`
 - **[CTA - Chicago Transit Authority](https://raycast.com/jonathan_ochocki/cta)** - Track and view estimated times for buses and trains provided by the Chicago Transit Authority. [`@jonathan_ochocki`](https://raycast.com/jonathan_ochocki) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cta) `api@^1.87.5` `utils@^1.17.0`
 - **[Curator Bio](https://raycast.com/Yukai/curator-bio)** - Control your curator.bio account from Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curator-bio) `api@^1.44.0` `utils@^1.4.11`
-- **[cURL](https://raycast.com/jonathangiardino/curl)** - Keyboard-first HTTP client [`@jonathangiardino`](https://raycast.com/jonathangiardino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curl) `api@^1.55.2` `utils@^1.9.0` `ai` `ai-tools`
+- **[cURL](https://raycast.com/jonathangiardino/curl)** - Keyboard-first HTTP client [`@jonathangiardino`](https://raycast.com/jonathangiardino) [`code`](https://github.com/raycast/extensions/tree/main/extensions/curl) `api@^1.94.0` `utils@^1.19.1` `ai` `ai-tools`
 - **[Cursor Directory](https://raycast.com/escwxyz/cursor-directory)** - Your cursor.directory in Raycast [`@escwxyz`](https://raycast.com/escwxyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cursor-directory) `api@^1.84.2` `utils@^1.18.0`
 - **[Daily Sites - Site Launcher](https://raycast.com/dubsdotla/daily-sites)** - Access frequently visited sites with ease. [`@dubsdotla`](https://raycast.com/dubsdotla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/daily-sites) `api@^1.97.0` `utils@^1.17.0`
 - **[Dash Off](https://raycast.com/peduarte/dash-off)** - The fastest way to dash off a quick email to yourself and others [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dash-off) `api@^1.65.0` `utils@^1.11.1`
@@ -1764,6 +1764,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Universal Commands](https://raycast.com/cyxn/universal-commands)** - Runs configurable application shortcut depending on the frontmost application. [`@cyxn`](https://raycast.com/cyxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/universal-commands) `api@^1.72.1` `utils@^1.15.0`
 - **[Universal Inbox](https://raycast.com/dax42/universal-inbox)** - Manage your notifications in a single Universal Inbox [`@dax42`](https://raycast.com/dax42) [`code`](https://github.com/raycast/extensions/tree/main/extensions/universal-inbox) `api@^1.65.1` `utils@^1.10.1`
 - **[Universal Website Search](https://raycast.com/bert/any-website-search)** - Search any site on the web [`@bert`](https://raycast.com/bert) [`code`](https://github.com/raycast/extensions/tree/main/extensions/any-website-search) `api@^1.39.3` `utils@^1.4.8`
+- **[Untis](https://raycast.com/bengt/untis)** - Webuntis extension for Raycast. [`@bengt`](https://raycast.com/bengt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/untis) `api@^1.95.0` `utils@^1.17.0`
 - **[UpNote](https://raycast.com/ujjwal1998/upnote)** - Take notes through Raycast in UpNote. [`@ujjwal1998`](https://raycast.com/ujjwal1998) [`code`](https://github.com/raycast/extensions/tree/main/extensions/upnote) `api@^1.88.4` `utils@^1.17.0`
 - **[Vade Mecum](https://raycast.com/xilopaint/vade-mecum)** - Quickly access and navigate relevant Brazilian legislation [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vade-mecum) `api@^1.81.2` `utils@^1.16.4`
 - **[vAIb - Your AI Companion](https://raycast.com/vaibhav_sisodiya/vaib)** - Get quick answers to your quick questions with the power of AI with this free extension. [`@vaibhav_sisodiya`](https://raycast.com/vaibhav_sisodiya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vaib) `api@^1.64.4`

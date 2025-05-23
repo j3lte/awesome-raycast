@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/7d40255f110de703_update-time.svg)
+![Last update](/icons/0195ee30ba2f052e_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2123** packages in **15** categories, **22** packages use Swift
-- **1377** authors, **841** contributors (of which **634** are only contributors, not authors)
+- **2125** packages in **15** categories, **22** packages use Swift
+- **1379** authors, **842** contributors (of which **635** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (59)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (203)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (204)
   - [xmok](https://raycast.com/xmok) (107)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (67)
   - [j3lte](https://raycast.com/j3lte) (40)
@@ -148,6 +148,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Jq](https://raycast.com/vladimir-kotikov/raycast-jq)** - Run queries on Json data using jq [`@vladimir-kotikov`](https://raycast.com/vladimir-kotikov) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) `api@^1.84.3` `utils@^1.17.0`
 - **[Just Focus](https://raycast.com/koinzhang/just-focus)** - Control Just Focus via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/just-focus) `api@^1.79.1`
 - **[Kaleidoscope](https://raycast.com/anfalas/kaleidoscope)** - Opens Kaleidoscope from selected files [`@anfalas`](https://raycast.com/anfalas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) `api@^1.63.0`
+- **[Keka](https://raycast.com/aone/keka)** - Compress and extract files using Keka, the macOS file archiver [`@aone`](https://raycast.com/aone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keka) `api@^1.94.2` `utils@^1.17.0`
 - **[Klack](https://raycast.com/henrikruscon/klack)** - Control Klack for macOS with Raycast [`@henrikruscon`](https://raycast.com/henrikruscon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/klack) `api@^1.73.2`
 - **[Lark AppLink](https://raycast.com/chyroc/lark-applink)** - Open Lark AppLink [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) `api@^1.32.1`
 - **[LaunchDarkly](https://raycast.com/luarmr/launchdarkly)** - A Raycast extension integrating with LaunchDarkly [`@luarmr`](https://raycast.com/luarmr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly) `api@^1.88.4` `utils@^1.18.1`
@@ -1455,7 +1456,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Distraction Tracker](https://raycast.com/danieldeichfuss/distraction-tracker)** - Track your distractions and get indistractable. This extension is inspired by Nir Eyal's book indistractable. [`@danieldeichfuss`](https://raycast.com/danieldeichfuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/distraction-tracker) `api@^1.84.3` `utils@^1.17.0`
 - **[Do Not Disturb](https://raycast.com/yakitrak/do-not-disturb)** - Disable notifications on your Apple devices [`@yakitrak`](https://raycast.com/yakitrak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) `api@^1.86.0`
 - **[Dock](https://raycast.com/pradeepb28/dock)** - Change the dock's position to the left, right, or bottom edge of the screen. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock) `api@^1.32.1`
-- **[Downloads Manager](https://raycast.com/thomas/downloads-manager)** - Search and organize your downloads [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) `api@^1.53.3`
+- **[Downloads Manager](https://raycast.com/thomas/downloads-manager)** - Search and organize your downloads [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) `api@^1.94.0` `utils@^1.19.1`
 - **[Dropshare](https://raycast.com/tjosten/dropshare)** - Create screen captures and upload files with Dropshare [`@tjosten`](https://raycast.com/tjosten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropshare) `api@^1.68.0`
 - **[Dub](https://raycast.com/quuu/dub)** - Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Raycast. [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dub) `api@^1.94.0` `utils@^1.16.0` `ai` `ai-tools`
 - **[DuckDuckGo Email](https://raycast.com/Hugo-Persson/duckduckgo-email)** - A simple extension that generate DuckDuckGo email alias [`@Hugo-Persson`](https://raycast.com/Hugo-Persson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) `api@^1.69.0`
@@ -1677,6 +1678,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Roam Research](https://raycast.com/roamresearch/roam-research)** - Your Roam graphs at your fingertips! Quickly search, capture and navigate your Roam graphs. [`@roamresearch`](https://raycast.com/roamresearch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/roam-research) `api@^1.56.1` `utils@^1.4.11`
 - **[Roblox](https://raycast.com/iamEvan/roblox)** - Raycast Extension for finding games, users & more on Roblox [`@iamEvan`](https://raycast.com/iamEvan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/roblox) `api@^1.85.2` `utils@^1.17.0`
 - **[Rsync Commands](https://raycast.com/fahl/rsync-commands)** - Save your commonly used rsync commands in one place and run them with ease. [`@fahl`](https://raycast.com/fahl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) `api@^1.35.1`
+- **[Rubygem Documentation Browser](https://raycast.com/remo_fritzsche/open-gem-documentation)** - Search and open Rubygem Documentations in your Browser. [`@remo_fritzsche`](https://raycast.com/remo_fritzsche) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-gem-documentation) `api@^1.97.1` `utils@^1.19.1`
 - **[Safe Secret](https://raycast.com/melonamin/safe-secret)** - Safely share text over the web [`@melonamin`](https://raycast.com/melonamin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/safe-secret) `api@^1.70.2`
 - **[Sage HR](https://raycast.com/cyxn/sage-hr)** - Integration with Sage HR to get a searchable list on who is out today [`@cyxn`](https://raycast.com/cyxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sage-hr) `api@^1.64.4` `utils@^1.10.1`
 - **[SavvyCal](https://raycast.com/laurynas/savvycal)** - Interact with your SavvyCal links [`@laurynas`](https://raycast.com/laurynas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/savvycal) `api@^1.39.2` `utils@^1.4.8`

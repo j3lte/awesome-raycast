@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/0195ee30ba2f052e_update-time.svg)
+![Last update](/icons/04c2e81b0529db7b_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2125** packages in **15** categories, **22** packages use Swift
-- **1379** authors, **842** contributors (of which **635** are only contributors, not authors)
+- **2127** packages in **15** categories, **22** packages use Swift
+- **1381** authors, **844** contributors (of which **637** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (59)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (204)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (205)
   - [xmok](https://raycast.com/xmok) (107)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (67)
   - [j3lte](https://raycast.com/j3lte) (40)
@@ -188,7 +188,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pocket](https://raycast.com/vimtor/pocket)** - Manage Pocket bookmarks from Raycast [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pocket) `api@^1.79.0` `utils@^1.10.1`
 - **[PostHog](https://raycast.com/david_newell/posthog)** - Open the web app, search for projects, persons, feature flags, and cohorts. [`@david_newell`](https://raycast.com/david_newell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/posthog) `api@^1.54.1` `utils@^1.8.0`
 - **[Postman](https://raycast.com/tarikyildizci/postman)** - Send GET requests in your postman collections. [`@tarikyildizci`](https://raycast.com/tarikyildizci) [`code`](https://github.com/raycast/extensions/tree/main/extensions/postman) `api@^1.47.3` `utils@^1.4.16`
-- **[Prism Launcher](https://raycast.com/lockieluke3389/prism-launcher)** - Launch Prism Launcher instances straight from Raycast [`@lockieluke3389`](https://raycast.com/lockieluke3389) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) `api@^1.64.4`
+- **[Prism Launcher](https://raycast.com/lockieluke3389/prism-launcher)** - Launch Prism Launcher instances straight from Raycast [`@lockieluke3389`](https://raycast.com/lockieluke3389) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prism-launcher) `api@^1.98.0`
 - **[Pumble](https://raycast.com/ViGeng/pumble)** - Interact with Pumble within the ease of Raycast. [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pumble) `api@^1.94.2` `utils@^1.17.0`
 - **[PurpleAir](https://raycast.com/omarshahine/purpleair)** - Reads Air Quality Data from a PurpleAir Sensor [`@omarshahine`](https://raycast.com/omarshahine) [`code`](https://github.com/raycast/extensions/tree/main/extensions/purpleair) `api@^1.44.0` `utils@^1.4.11`
 - **[put.io](https://raycast.com/altaywtf/putio)** - Raycast extension for managing files, transfers, and history events in your put.io account. [`@altaywtf`](https://raycast.com/altaywtf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/putio) `api@^1.83.1` `utils@^1.17.0`
@@ -583,7 +583,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Drupal.org](https://raycast.com/hussainweb/drupal-org)** - Get information from drupal.org [`@hussainweb`](https://raycast.com/hussainweb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drupal-org) `api@^1.72.0`
 - **[Dynamic Font Size](https://raycast.com/nils_hoenson/dynamic-font-size)** - Create dynamic font sizes using the 'clamp' CSS function [`@nils_hoenson`](https://raycast.com/nils_hoenson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dynamic-font-size) `api@^1.60.1`
 - **[E2B Code Interpreter](https://raycast.com/mlejva/e2b)** - E2B is a tool that allows you to execute code in a secure sandbox withing a Jupyter-like notebook cell and return result [`@mlejva`](https://raycast.com/mlejva) [`code`](https://github.com/raycast/extensions/tree/main/extensions/e2b) `api@^1.91.2` `utils@^1.18.1` `ai` `ai-tools`
-- **[Easy New File](https://raycast.com/koinzhang/easy-new-file)** - Quickly create file in the open Finder window. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) `api@^1.77.1`
+- **[Easy New File](https://raycast.com/koinzhang/easy-new-file)** - Quickly create file in the open Finder window. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) `api@^1.99.2`
 - **[Easy Variable](https://raycast.com/keleus/easyvariable)** - Convert Any Language Text into an English Variable Name [`@keleus`](https://raycast.com/keleus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) `api@^1.91.1` `utils@^1.17.0`
 - **[Elixir](https://raycast.com/dinocosta/elixir)** - Navigate Elixir's documentation without leaving Raycast. [`@dinocosta`](https://raycast.com/dinocosta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elixir) `api@^1.86.1` `utils@^1.16.3`
 - **[Ember.js API Documentation](https://raycast.com/tdwesten/ember-api-documentation)** - Search Ember.js Api Documentation and open it in the browser [`@tdwesten`](https://raycast.com/tdwesten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ember-api-documentation) `api@^1.40.1` `utils@^1.4.8`
@@ -1216,6 +1216,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Prowlarr](https://raycast.com/elcaten/prowlarr)** - Search and add to download clients with Prowlarr [`@elcaten`](https://raycast.com/elcaten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) `api@^1.81.2` `utils@^1.16.4`
 - **[QQ Music Controls](https://raycast.com/jwickers/qq-music-controls)** - Control the QQ Music app for macOS with your keyboard. [`@jwickers`](https://raycast.com/jwickers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) `api@^1.28.0`
 - **[Rain Radars](https://raycast.com/danieldbird/rain-radars)** - Search for available rain radars for a location. [`@danieldbird`](https://raycast.com/danieldbird) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rain-radars) `api@^1.36.0`
+- **[RatingsDB](https://raycast.com/krod12/ratingsdb)** - Seamlessly search movie and tv show ratings and find where you can watch them! [`@krod12`](https://raycast.com/krod12) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ratingsdb) `api@^1.82.3` `utils@^1.16.3` `ai-tools`
 - **[Raycast Wallpaper](https://raycast.com/koinzhang/raycast-wallpaper)** - Get and set Raycast official wallpapers. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-wallpaper) `api@^1.96.3` `utils@^1.19.1`
 - **[Real-Debrid Manager](https://raycast.com/Yamen/real-debrid-manager)** - Real-Debrid client for Raycast  NOT AN OFFICIAL CLIENT [`@Yamen`](https://raycast.com/Yamen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/real-debrid-manager) `api@^1.55.0` `utils@^1.8.0`
 - **[Replicate](https://raycast.com/KevinBatdorf/replicate)** - Replicate is a tool for creating and sharing machine learning models. This extension allows you to create and view your predictions in Raycast. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/replicate) `api@^1.42.2` `utils@^1.4.10`
@@ -1541,6 +1542,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Key Value](https://raycast.com/NirLevy/key-value)** - Copy a key from the clipboard and paste a value from a JSON file [`@NirLevy`](https://raycast.com/NirLevy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/key-value) `api@^1.51.1` `utils@^1.7.0`
 - **[Keyboard Shortcut Sequences](https://raycast.com/HelloImSteven/keyboard-shortcut-sequences)** - Configure, save, and run sequences of keyboard shortcuts [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keyboard-shortcut-sequences) `api@^1.48.9` `utils@^1.5.2`
 - **[Kimai](https://raycast.com/marinsokol/kimai)** - Add new Kimai time log from Raycast [`@marinsokol`](https://raycast.com/marinsokol) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kimai) `api@^1.66.2` `utils@^1.12.2`
+- **[Kindle Paste](https://raycast.com/jasoncarey/kindle-paste)** - Removes the automatic Kindle citation from clipboard text and pastes the cleaned text [`@jasoncarey`](https://raycast.com/jasoncarey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paste-from-kindle) `api@^1.98.5` `utils@^1.17.0`
 - **[Kinopio Inbox](https://raycast.com/pirijan/kinopio-inbox)** - Add cards to your Kinopio inbox [`@pirijan`](https://raycast.com/pirijan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kinopio-inbox) `api@^1.45.2`
 - **[Knowwa](https://raycast.com/knowwa/knowwa)** - Generate and list documents in Knowwa directly from Raycast [`@knowwa`](https://raycast.com/knowwa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/knowwa) `api@^1.42.2` `utils@^1.4.10`
 - **[Korean Date Converter](https://raycast.com/youngkyo0504/korean-date-converter)** - Convert Korean date expressions to actual dates [`@youngkyo0504`](https://raycast.com/youngkyo0504) [`code`](https://github.com/raycast/extensions/tree/main/extensions/korean-date-converter) `api@^1.84.3` `utils@^1.17.0`
@@ -1851,7 +1853,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
-- **[App Cleaner](https://raycast.com/dziad/appcleaner)** - Uninstall applications with AppCleaner, Pearcleaner or TrashMe 3 [`@dziad`](https://raycast.com/dziad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) `api@^1.93.0` `utils@^1.19.0`
+- **[App Cleaner](https://raycast.com/dziad/appcleaner)** - Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller [`@dziad`](https://raycast.com/dziad) [`code`](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) `api@^1.94.0` `utils@^1.19.1`
 - **[App Keeper Manager](https://raycast.com/edith/app-keeper-manager)** - This extention offers users the ability to manage currently running applications, with options to choose which apps to keep open and which to close during cleanup. It's especially suited for users looking to optimize their work environment and increase productivity. Users can set apps to “Always Keep,” ensuring they aren't closed during cleanup operations. The extension also provides an intuitive interface to add or remove apps from the preset keep list and features a one-click function to close non-kept apps. [`@edith`](https://raycast.com/edith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/app-keeper-manager) `api@^1.69.0`
 - **[Battery Menu Bar](https://raycast.com/panrafal/battery-menubar)** - Battery capacity and power-draw information in the Menu Bar [`@panrafal`](https://raycast.com/panrafal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-menubar) `api@^1.56.1` `utils@^1.4.8`
 - **[Battery Optimizer](https://raycast.com/Qetesh/battery-optimizer)** - Keep the battery healthy by limiting the charging capacity. [`@Qetesh`](https://raycast.com/Qetesh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/battery-optimizer) `api@^1.74.0` `utils@^1.17.0`
@@ -2061,7 +2063,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CircleCI Workflows](https://raycast.com/qeude/circle-ci)** - This extension shows a list of your latest CircleCI workflows.  It requires a CircleCI API token which you can get on https://app.circleci.com/settings/user/tokens. . [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/circle-ci) `api@^1.25.0`
 - **[Clash](https://raycast.com/Go2SheeP/clash)** - Monitor your Clash with Raycast. Including Proxies, Connections, Rules and Logs data, and support backends switch. [`@Go2SheeP`](https://raycast.com/Go2SheeP) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clash) `api@^1.31.0`
 - **[Clear Clipboard](https://raycast.com/d3caf/clear-clipboard)** - Clears your clipboard so you don't accidentally paste things into work chat. [`@d3caf`](https://raycast.com/d3caf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clear-clipboard) `api@^1.29.1`
-- **[ClickUp - Tasks & Docs Explorer](https://raycast.com/aparandeh/manage-clickup-tasks)** - Browse ClickUp tasks and docs from Raycast [`@aparandeh`](https://raycast.com/aparandeh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clickup) `api@^1.90.0` `utils@^1.18.1` `ai` `ai-tools`
+- **[ClickUp - Tasks & Docs Explorer](https://raycast.com/aparandeh/manage-clickup-tasks)** - Browse ClickUp tasks and docs from Raycast [`@aparandeh`](https://raycast.com/aparandeh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clickup) `api@^1.94.0` `utils@^1.19.1` `ai` `ai-tools`
 - **[Clockify](https://raycast.com/isma/clockify)** - Control Clockify time tracking from Raycast [`@isma`](https://raycast.com/isma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clockify) `api@1.76.0`
 - **[Cloudflare WARP](https://raycast.com/anandubajith/cloudflare-warp)** - Manage Cloudflare WARP [`@anandubajith`](https://raycast.com/anandubajith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) `api@^1.62.1`
 - **[CodeGeex](https://raycast.com/MBearo/codegeex)** - CodeGeex AI code tools [`@MBearo`](https://raycast.com/MBearo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codegeex) `api@^1.48.8`

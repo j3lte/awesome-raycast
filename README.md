@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/04c2e81b0529db7b_update-time.svg)
+![Last update](/icons/be21c482c15646a2_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2127** packages in **15** categories, **22** packages use Swift
-- **1381** authors, **844** contributors (of which **637** are only contributors, not authors)
+- **2128** packages in **15** categories, **22** packages use Swift
+- **1382** authors, **844** contributors (of which **637** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (59)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -1001,6 +1001,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[NFT Search](https://raycast.com/Glaze/nft-search)** - Seraching NFT real-time floor price and info by NFT collection name [`@Glaze`](https://raycast.com/Glaze) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nft-search) `api@^1.35.2`
 - **[Pera Algorand Explorer](https://raycast.com/akgunberk/pera-explorer)** - Search any ASA or NFT in Algorand (ALGO) Blockchain [`@akgunberk`](https://raycast.com/akgunberk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pera-explorer) `api@^1.39.2` `utils@^1.3.1`
 - **[Polar](https://raycast.com/emilwidlund/polar)** - Manage all your Polar products, sales & analytics [`@emilwidlund`](https://raycast.com/emilwidlund) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polar) `api@^1.69.0` `utils@^1.18.1`
+- **[Position Size Calculator](https://raycast.com/akhilesh_dalvi/position-size-calculator)** - The Position Size Calculator is a Raycast extension designed to help traders quickly and accurately determine the appropriate position size for their trades. It considers your trading capital, risk tolerance, and various methods for defining stop loss and target levels. This ensures you manage risk effectively according to your trading plan. [`@akhilesh_dalvi`](https://raycast.com/akhilesh_dalvi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/position-size-calculator) `api@^1.97.1` `utils@^1.17.0`
 - **[Qonto](https://raycast.com/christoribeiro/qonto)** - Search, download and open your Qonto from Raycast [`@christoribeiro`](https://raycast.com/christoribeiro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qonto) `api@^1.48.9` `utils@^1.5.2`
 - **[QuickFile](https://raycast.com/danielroe/quickfile)** - Access your QuickFile account balances. [`@danielroe`](https://raycast.com/danielroe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quickfile) `api@^1.35.1`
 - **[Quikwallet](https://raycast.com/devsargam/quikwallet)** - View Solana wallet balances and prepare transactions [`@devsargam`](https://raycast.com/devsargam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quikwallet) `api@^1.98.0` `utils@^1.17.0`

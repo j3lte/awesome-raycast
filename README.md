@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/be21c482c15646a2_update-time.svg)
+![Last update](/icons/9ffd2f38f51ebee0_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2128** packages in **15** categories, **22** packages use Swift
-- **1382** authors, **844** contributors (of which **637** are only contributors, not authors)
+- **2129** packages in **15** categories, **22** packages use Swift
+- **1382** authors, **846** contributors (of which **639** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (59)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (205)
-  - [xmok](https://raycast.com/xmok) (107)
+  - [xmok](https://raycast.com/xmok) (108)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (67)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
@@ -345,6 +345,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Flight Tracker](https://raycast.com/cojmeister/trackflight)** - Track your flight with your flight number by using AeroData Box API directly in Raycast. [`@cojmeister`](https://raycast.com/cojmeister) [`code`](https://github.com/raycast/extensions/tree/main/extensions/trackflight) `api@^1.44.0`
 - **[Format JSON](https://raycast.com/destiner/json-format)** - Formats a JSON file with a selected indentation. If the JSON is stringified, it will be parsed before formatting. [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/json-format) `api@^1.81.2` `utils@^1.16.5`
 - **[Format SQL](https://raycast.com/tonngw/sql-format)** - Format a SQL cluase use standard SQL format [`@tonngw`](https://raycast.com/tonngw) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sql-format) `api@^1.81.2` `utils@^1.16.3`
+- **[Google Books](https://raycast.com/aparandeh/google-books)** - Search Books with Google Books [`@aparandeh`](https://raycast.com/aparandeh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-books) `api@^1.99.2` `utils@^1.19.1`
 - **[GraphCalc](https://raycast.com/conner_luzier/graphcalc)** - GraphCalc is a versatile graphing calculator extension that enables users to visualize mathematical expressions dynamically. With GraphCalc, you can effortlessly plot functions, equations, and data points directly within the Raycast interface. [`@conner_luzier`](https://raycast.com/conner_luzier) [`code`](https://github.com/raycast/extensions/tree/main/extensions/graphcalc) `api@^1.85.1` `utils@^1.18.0`
 - **[Groundhog Day](https://raycast.com/xmok/groundhog-day)** - Free, accurate, and portable data on prognosticating groundhogs and their yearly predictions [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/groundhog-day) `api@^1.78.0` `utils@^1.16.1`
 - **[Hashrate](https://raycast.com/xmok/hashrate-no)** - Crypto mining resources via Hashrate.no [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hashrate-no) `api@^1.77.3` `utils@^1.16.1`
@@ -2127,7 +2128,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Gitmoji Search](https://raycast.com/ricoberger/gitmoji)** - Gitmoji is an emoji guide for your commit messages [`@ricoberger`](https://raycast.com/ricoberger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitmoji) `api@^1.97.1` `utils@^1.19.1`
 - **[Glide](https://raycast.com/titouanv/glide)** - Extension to open Glide Apps [`@titouanv`](https://raycast.com/titouanv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/glide) `api@^1.84.7` `utils@^1.17.0`
 - **[Golden Ratio](https://raycast.com/yang_monch/golden-ratio)** - Gold ratio and silver ratio calculation tool [`@yang_monch`](https://raycast.com/yang_monch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/golden-ratio) `api@^1.76.1`
-- **[Google Books](https://raycast.com/aparandeh/google-books)** - Search Books with Google Books [`@aparandeh`](https://raycast.com/aparandeh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-books) `api@^1.27.0`
 - **[Google Calendar Epic Time Logger](https://raycast.com/aramikuto/time-logger)** - Helps you register your work to Google Calendar [`@aramikuto`](https://raycast.com/aramikuto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/time-logger) `api@^1.60.1`
 - **[Google Chrome](https://raycast.com/Codely/google-chrome)** - Search open tabs, bookmarks and history in Google Chrome. [`@Codely`](https://raycast.com/Codely) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-chrome) `api@^1.90.0` `utils@^1.18.1` `ai` `ai-tools`
 - **[Google Chrome Profiles](https://raycast.com/frouo/google-chrome-profiles)** - Search, open, manage your Google Chrome profiles / workspaces [`@frouo`](https://raycast.com/frouo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-chrome-profiles) `api@^1.59.0` `utils@^1.10.0`
@@ -2249,6 +2249,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Search OEIS](https://raycast.com/omennia/search-oeis)** - Search OEIS database [`@omennia`](https://raycast.com/omennia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-oeis) `api@^1.81.2` `utils@^1.16.3`
 - **[Search Rubygems](https://raycast.com/aleks/search-rubygems)** - A Raycast extension that enables you to quickly look up gem information from RubyGems.org. [`@aleks`](https://raycast.com/aleks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-rubygems) `api@^1.26.1`
 - **[Search with Algolia](https://raycast.com/valentindotxyz/search-with-algolia)** - This extension allows to search through an Algolia index directly from Raycast. [`@valentindotxyz`](https://raycast.com/valentindotxyz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/algolia) `api@^1.26.1`
+- **[Secret Browser Commands](https://raycast.com/chrismessina/secret-browser-commands)** - Access hidden Chromium browser features. [`@chrismessina`](https://raycast.com/chrismessina) [`code`](https://github.com/raycast/extensions/tree/main/extensions/secret-browser-commands) `api@^1.99.2` `utils@^1.17.0`
 - **[Semantic Scholar](https://raycast.com/blainerothrock/semantic-scholar)** - Search research papers on semantic scholar (semanticscholar.org) [`@blainerothrock`](https://raycast.com/blainerothrock) [`code`](https://github.com/raycast/extensions/tree/main/extensions/semantic-scholar) `api@^1.29.0`
 - **[Send to flomo](https://raycast.com/ahonn/send-to-flomo)** - Send your MEMOs to flomo [`@ahonn`](https://raycast.com/ahonn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/send-to-flomo) `api@^1.37.0`
 - **[Sentry](https://raycast.com/thomas/sentry)** - Stay on top of your Sentry issues [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sentry) `api@^1.70.3` `utils@^1.13.5`

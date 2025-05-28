@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/9ffd2f38f51ebee0_update-time.svg)
+![Last update](/icons/ab816a0be7b73972_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **2129** packages in **15** categories, **22** packages use Swift
-- **1382** authors, **846** contributors (of which **639** are only contributors, not authors)
+- **1382** authors, **848** contributors (of which **641** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (59)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (205)
-  - [xmok](https://raycast.com/xmok) (108)
+  - [xmok](https://raycast.com/xmok) (109)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (67)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
@@ -1458,7 +1458,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Discogs Database Search](https://raycast.com/vigosan/discogs)** - Search vinyl records in the Discogs database [`@vigosan`](https://raycast.com/vigosan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discogs) `api@^1.65.0` `utils@^1.10.1`
 - **[Distraction Tracker](https://raycast.com/danieldeichfuss/distraction-tracker)** - Track your distractions and get indistractable. This extension is inspired by Nir Eyal's book indistractable. [`@danieldeichfuss`](https://raycast.com/danieldeichfuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/distraction-tracker) `api@^1.84.3` `utils@^1.17.0`
 - **[Do Not Disturb](https://raycast.com/yakitrak/do-not-disturb)** - Disable notifications on your Apple devices [`@yakitrak`](https://raycast.com/yakitrak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) `api@^1.86.0`
-- **[Dock](https://raycast.com/pradeepb28/dock)** - Change the dock's position to the left, right, or bottom edge of the screen. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock) `api@^1.32.1`
 - **[Downloads Manager](https://raycast.com/thomas/downloads-manager)** - Search and organize your downloads [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) `api@^1.94.0` `utils@^1.19.1`
 - **[Dropshare](https://raycast.com/tjosten/dropshare)** - Create screen captures and upload files with Dropshare [`@tjosten`](https://raycast.com/tjosten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropshare) `api@^1.68.0`
 - **[Dub](https://raycast.com/quuu/dub)** - Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Raycast. [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dub) `api@^1.94.0` `utils@^1.16.0` `ai` `ai-tools`
@@ -1572,7 +1571,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Markdown to Plain Text](https://raycast.com/skyline-123/markdown-to-plain-text)** - Convert Markdown-formatted text to plain text format for quick viewing and editing. [`@skyline-123`](https://raycast.com/skyline-123) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-plain-text) `api@^1.49.3`
 - **[Markdown to Rich Text](https://raycast.com/ning_cao_cabeza/markdown-to-rich-text)** - Converts Markdown text from the clipboard to Rich text and pastes it. [`@ning_cao_cabeza`](https://raycast.com/ning_cao_cabeza) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-rich-text) `api@^1.77.3`
 - **[MBTA Tracker](https://raycast.com/djpowers/mbta-tracker)** - View departure times for saved stops along MBTA routes [`@djpowers`](https://raycast.com/djpowers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mbta-tracker) `api@^1.49.3` `utils@^1.4.8`
-- **[Media Converter](https://raycast.com/leandro.maia/media-converter)** - This extension converts video, image, and audio files using ffmpeg [`@leandro.maia`](https://raycast.com/leandro.maia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/media-converter) `api@^1.89.1` `utils@^1.17.0` `ai` `ai-tools`
+- **[Media Converter](https://raycast.com/leandro.maia/media-converter)** - This extension converts video, image, and audio files using FFmpeg [`@leandro.maia`](https://raycast.com/leandro.maia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/media-converter) `api@^1.94.0` `utils@^1.17.0` `ai` `ai-tools`
 - **[Mem](https://raycast.com/brianfakhoury/mem)** - Access Mem functionality through Raycast using the Mem API. The Mem API is still growing and is currently very limited. [`@brianfakhoury`](https://raycast.com/brianfakhoury) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mem) `api@^1.45.2` `utils@^1.4.14`
 - **[Mem0](https://raycast.com/dev_khant/mem0)** - Mem0 is an intelligent memory layer enabling personalized, adaptive, and continuously improving interactions by remembering user preferences and context. [`@dev_khant`](https://raycast.com/dev_khant) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mem0) `api@^1.93.2` `utils@^1.17.0`
 - **[Memo](https://raycast.com/mt40/memo)** - All your bookmarks and notes in 1 Notion [`@mt40`](https://raycast.com/mt40) [`code`](https://github.com/raycast/extensions/tree/main/extensions/memo) `api@^1.39.3`
@@ -1863,6 +1862,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Brightness Control](https://raycast.com/cali/brightness-control)** - Quickly controls the brightness levels of your display [`@cali`](https://raycast.com/cali) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brightness-control) `api@^1.38.2`
 - **[Connect Pritunl Vpn Tunnel](https://raycast.com/maksym_prokopov/pritunl)** - Connects to VPN using Pritunl client [`@maksym_prokopov`](https://raycast.com/maksym_prokopov) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pritunl) `api@^1.64.5`
 - **[Display Modes](https://raycast.com/agustin.prats/display-modes)** - Manage displays modes (resolution, refresh rate...). [`@agustin.prats`](https://raycast.com/agustin.prats) [`code`](https://github.com/raycast/extensions/tree/main/extensions/display-modes) `api@^1.59.0` `utils@^1.4.7` `swift`
+- **[Dock](https://raycast.com/pradeepb28/dock)** - Change the dock's position to the left, right, or bottom edge of the screen. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock) `api@^1.94.0` `utils@^1.19.1`
 - **[Doorstopper](https://raycast.com/roele/doorstopper)** - Prevent your MacBook from going to sleep when you close the lid [`@roele`](https://raycast.com/roele) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doorstopper) `api@^1.94.0` `utils@^1.17.0`
 - **[Dot Underscore Files Cleaner](https://raycast.com/danulqua/dot-underscore-files-cleaner)** - Delete ._ files in the selected folder and its subfolders. [`@danulqua`](https://raycast.com/danulqua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dot-underscore-files-cleaner) `api@^1.57.2`
 - **[Emoji Search](https://raycast.com/FezVrasta/emoji)** - Finds emojis and inserts or copies them. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/emoji) `api@^1.77.0`
@@ -1888,7 +1888,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[PaperMatch](https://raycast.com/marlonr/papermatch)** - Toggle the system's appearance while updating the wallpaper for each appearance mode. [`@marlonr`](https://raycast.com/marlonr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/papermatch) `api@^1.46.1`
 - **[Pick Your Wallpaper](https://raycast.com/hugomarfani/pick-your-wallpaper)** - Lets you pick a wallpaper from a folder of finder. [`@hugomarfani`](https://raycast.com/hugomarfani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pick-your-wallpaper) `api@^1.74.0`
 - **[Power Management](https://raycast.com/sasivarnan/power-management)** - Change Power Management Settings of the system [`@sasivarnan`](https://raycast.com/sasivarnan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/power-management) `api@^1.67.1` `utils@^1.12.4`
-- **[Quit Applications](https://raycast.com/mackopes/quit-applications)** - Quit appplications directly from Raycast [`@mackopes`](https://raycast.com/mackopes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) `api@^1.65.1` `utils@^1.10.1`
+- **[Quit Applications](https://raycast.com/mackopes/quit-applications)** - Quit applications directly from Raycast [`@mackopes`](https://raycast.com/mackopes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) `api@^1.65.1` `utils@^1.10.1`
 - **[Refresh WiFi](https://raycast.com/natterstefan/refresh-wifi)** - Quickly turn your WiFi off and on again. [`@natterstefan`](https://raycast.com/natterstefan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/refresh-wifi) `api@^1.32.1`
 - **[Remove Background - Powered by Mac](https://raycast.com/xmorse/remove-background-powered-by-mac)** - Remove background from image with the Mac Vision API [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) `api@^1.79.0` `swift`
 - **[Setapp](https://raycast.com/lardissone/setapp)** - Search Setapp apps [`@lardissone`](https://raycast.com/lardissone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/setapp) `api@^1.54.1` `utils@^1.8.0`
@@ -2102,7 +2102,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[DropsTab](https://raycast.com/nikolayqwerty/dropstab)** - Get crypto coin data and navigate to official sites or X. Instantly view your wallets via blockchain explorers. [`@nikolayqwerty`](https://raycast.com/nikolayqwerty) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropstab) `api@^1.80.0`
 - **[Duck Facts](https://raycast.com/validate/duck-facts)** - Displays interesting facts about ducks. [`@validate`](https://raycast.com/validate) [`code`](https://github.com/raycast/extensions/tree/main/extensions/duck-facts) `api@^1.87.0` `ai` `ai-tools`
 - **[Easings](https://raycast.com/madebyankur/easings)** - Quickly find and grab your favorite easings. [`@madebyankur`](https://raycast.com/madebyankur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easings) `api@^1.67.1` `utils@^1.12.4`
-- **[Elgato Key Light](https://raycast.com/thomas/elgato-key-light)** - Control your Elgato Key Lights with ease [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) `api@^1.94.0` `utils@^1.19.1` `ai` `ai-tools`
+- **[Elgato Key Light](https://raycast.com/thomas/elgato-key-light)** - Control your Elgato Key Lights with ease [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elgato-key-light) `api@1.95.0` `utils@1.19.1` `ai-tools`
 - **[Elm Search](https://raycast.com/HenriqueBuss/elm-search)** - Search Elm packages by name, type, author or module [`@HenriqueBuss`](https://raycast.com/HenriqueBuss) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elm-search) `api@^1.27.0`
 - **[ENS Name Lookup](https://raycast.com/Yukai/ens-name-lookup)** - Lookup ENS name or address [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) `api@^1.36.0`
 - **[Envato Sales, Purchases and Search](https://raycast.com/astroon/envato)** - Tracking New Sales For Envato Author, View Purchases and Search Catalog [`@astroon`](https://raycast.com/astroon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/envato) `api@^1.84.8` `utils@^1.18.0`

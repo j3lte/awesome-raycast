@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/ab816a0be7b73972_update-time.svg)
+![Last update](/icons/6b29aa281886c2fb_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2129** packages in **15** categories, **22** packages use Swift
-- **1382** authors, **848** contributors (of which **641** are only contributors, not authors)
+- **2130** packages in **15** categories, **22** packages use Swift
+- **1382** authors, **851** contributors (of which **644** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (59)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -67,7 +67,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 - **[(Basic) Bookmarks](https://raycast.com/rauno/bmrks)** - Companion bookmarking utility for bmrks.com [`@rauno`](https://raycast.com/rauno) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bmrks) `api@^1.67.1` `utils@^1.12.5`
 - **[0x0](https://raycast.com/pseudobun/0x0)** - Upload files to https://0x0.st. [`@pseudobun`](https://raycast.com/pseudobun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/0x0) `api@^1.60.1` `utils@^1.10.0`
-- **[2FA Directory](https://raycast.com/andreaselia/2fa-directory)** - View a list of 2FA enabled sites. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) `api@^1.78.0` `utils@^1.16.2`
+- **[2FA Directory](https://raycast.com/andreaselia/2fa-directory)** - View a list of 2FA enabled sites. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) `api@^1.99.2` `utils@^1.19.1`
 - **[Ableton Live](https://raycast.com/dch09/ableton-live)** - Search and open recent Ableton Live Projects [`@dch09`](https://raycast.com/dch09) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) `api@^1.48.5` `utils@^1.4.18`
 - **[Adhan Time](https://raycast.com/mzaien/adhan-time)** - This extension helps you to search prayer time for the user location [`@mzaien`](https://raycast.com/mzaien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) `api@^1.46.0` `utils@^1.4.16`
 - **[Anybox](https://raycast.com/anybox/anybox)** - Control Anybox with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anybox) `api@^1.71.4`
@@ -1480,12 +1480,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Find Website](https://raycast.com/nahuel_andreoli/find-website)** - Quickly find the website you are looking for. [`@nahuel_andreoli`](https://raycast.com/nahuel_andreoli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/find-website) `api@^1.88.4` `utils@^1.17.0`
 - **[Finder File Actions](https://raycast.com/pa1ar/finder-file-actions)** - Perform actions (move, copy) on selected Finder files [`@pa1ar`](https://raycast.com/pa1ar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/finder-file-actions) `api@^1.79.0` `utils@^1.3.3`
 - **[Finder Utilities](https://raycast.com/edrf/finderutils)** - Utilities for finder [`@edrf`](https://raycast.com/edrf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/finderutils) `api@^1.48.5`
+- **[Fisher](https://raycast.com/matheuschein/fisher)** - Manage Fisher plugins for Fish Shell directly from Raycast [`@matheuschein`](https://raycast.com/matheuschein) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fisher) `api@^1.98.4` `utils@^1.17.0`
 - **[Fix Language](https://raycast.com/tin5451/fix-language)** - Switch the language input source of the text when you type and forget to change the language. [`@tin5451`](https://raycast.com/tin5451) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fix-language) `api@^1.69.0` `utils@^1.17.0`
 - **[Fix Link Embeds](https://raycast.com/eggsy/fix-link-embeds)** - Fix Instagram, Twitter, Reddit and TikTok embeds by using proxy services (e.g. ddinstagram, fxtwitter). [`@eggsy`](https://raycast.com/eggsy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fix-link-embeds) `api@^1.48.7`
 - **[Flypy Code Query](https://raycast.com/absir1949/flypy)** - Query Flypy(Xiaohe Double-Pin) Code [`@absir1949`](https://raycast.com/absir1949) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flypy-code-query) `api@^1.33.0`
 - **[Focus Anchor](https://raycast.com/ashleyhindle/focus-anchor)** - Anchor your focus on the most important thing [`@ashleyhindle`](https://raycast.com/ashleyhindle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/focus-anchor) `api@^1.49.3`
 - **[FocusTask](https://raycast.com/vojto/focustask)** - Manage and search for tasks in FocusTask [`@vojto`](https://raycast.com/vojto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/focustask) `api@^1.39.2` `utils@^1.3.3`
-- **[Folder Search](https://raycast.com/GastroGeek/folder-search)** - Search for folders on your Mac [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/folder-search) `api@^1.96.3` `utils@^1.19.1`
+- **[Folder Search](https://raycast.com/GastroGeek/folder-search)** - Search for folders on your Mac [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/folder-search) `api@^1.99.3` `utils@^1.19.1`
 - **[Fork Repositories](https://raycast.com/sxn/fork-repositories)** - Search and open Fork repositories [`@sxn`](https://raycast.com/sxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fork-repositories) `api@1.53.4` `utils@1.8.0`
 - **[Frill](https://raycast.com/xmok/frill)** - Capture, organize, and announce product feedback in one place [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/frill) `api@^1.76.0` `utils@^1.15.0`
 - **[ftrack](https://raycast.com/lucaas/ftrack)** - Interacting with ftrack [`@lucaas`](https://raycast.com/lucaas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ftrack) `api@^1.50.0` `utils@^1.5.2`

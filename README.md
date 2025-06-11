@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/004ce2648813b2e3_update-time.svg)
+![Last update](/icons/914d51cdad52dc05_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2145** packages in **15** categories, **22** packages use Swift
-- **1391** authors, **856** contributors (of which **647** are only contributors, not authors)
+- **2150** packages in **15** categories, **22** packages use Swift
+- **1395** authors, **857** contributors (of which **648** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (61)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (206)
-  - [xmok](https://raycast.com/xmok) (109)
+  - [xmok](https://raycast.com/xmok) (111)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (67)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
@@ -132,7 +132,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Hetzner](https://raycast.com/alex-w0/hetzner)** - Provides different actions via the Hetzner API [`@alex-w0`](https://raycast.com/alex-w0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hetzner) `api@^1.62.0`
 - **[HideMail - Email Relay Service](https://raycast.com/Flatroy/hide-mail)** - Hide Your Real Email Address and Protect Your Identity and Privacy. Create a different identity for each website to hide your real e-mail address. Never receive unwanted emails again! The first 15 mailboxes are free. [`@Flatroy`](https://raycast.com/Flatroy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hide-mail) `api@^1.79.0` `utils@^1.18.0`
 - **[Hookmark Search](https://raycast.com/QIanGua/search-hookmark)** - Hookmark Search UI in Raycast [`@QIanGua`](https://raycast.com/QIanGua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-hookmark) `api@^1.45.0` `utils@^1.4.16`
-- **[HubSpot](https://raycast.com/harisvsulaiman/hubspot)** - Search Hubspot Contacts, Companies and Deals [`@harisvsulaiman`](https://raycast.com/harisvsulaiman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hubspot) `api@^1.79.1` `utils@^1.16.2`
+- **[HubSpot](https://raycast.com/harisvsulaiman/hubspot)** - Search Hubspot Contacts, Companies and Deals [`@harisvsulaiman`](https://raycast.com/harisvsulaiman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hubspot) `api@^1.99.4` `utils@^1.19.1`
 - **[Hue](https://raycast.com/pindab0ter/hue)** - Quickly and easily control Philips Hue lights [`@pindab0ter`](https://raycast.com/pindab0ter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hue) `api@^1.65.0` `utils@^1.10.1`
 - **[Hue Palette](https://raycast.com/ridemountainpig/hue-palette)** - Painting Your World In Vibrant Hues [`@ridemountainpig`](https://raycast.com/ridemountainpig) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hue-palette) `api@^1.83.2` `utils@^1.17.0`
 - **[iHosts](https://raycast.com/JinShi/ihosts)** - Manage your system hosts [`@JinShi`](https://raycast.com/JinShi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ihosts) `api@^1.44.0`
@@ -325,6 +325,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Clarify](https://raycast.com/clarifyhq/clarify)** - Interact with Clarify CRM directly from your command bar [`@clarifyhq`](https://raycast.com/clarifyhq) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clarify) `api@^1.78.1` `utils@^1.16.2`
 - **[CNPJ Lookup](https://raycast.com/xilopaint/cnpj-lookup)** - Instantly access Brazilian CNPJ information [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cnpj-lookup) `api@^1.67.1` `utils@^1.12.4`
 - **[Cocktail DB](https://raycast.com/xmok/cocktail-db)** - Search Drinks by Name or Ingredient via TheCocktailDB [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cocktail-db) `api@^1.79.0` `utils@^1.17.0`
+- **[Copee](https://raycast.com/gianpiero_spinelli/copee)** - Copies text as txt file. [`@gianpiero_spinelli`](https://raycast.com/gianpiero_spinelli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copee) `api@^1.99.3` `utils@^1.17.0`
 - **[Datahub Utility](https://raycast.com/nickrotondo/datahub)** - Search and explore datasets in your DataHub data catalog [`@nickrotondo`](https://raycast.com/nickrotondo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/datahub) `api@^1.93.2` `utils@^1.17.0`
 - **[DAWA - Danish Address Web API](https://raycast.com/SimonJ/denmarks-address-web-api)** - Get information about addresses in Denmark by searching through the Danish Address Web API with the adgangsadresseid as value. [`@SimonJ`](https://raycast.com/SimonJ) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dawa) `api@^1.44.0` `utils@^1.4.11`
 - **[dbt Cloud](https://raycast.com/zsombor-flds/dbtcloud)** - Helps you get information about your dbt Cloud jobs [`@zsombor-flds`](https://raycast.com/zsombor-flds) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dbtCloud) `api@^1.31.0`
@@ -776,6 +777,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Prusa Printer Control](https://raycast.com/chad_walters/prusa)** - Monitor and control your Prusa 3D printer directly from Raycast. View temperatures, manage files, and control prints with keyboard shortcuts. Supports Prusa XL, MK4, MINI+, and MK3S+ (via PrusaLink). [`@chad_walters`](https://raycast.com/chad_walters) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prusa) `api@^1.92.1` `utils@^1.17.0`
 - **[Python](https://raycast.com/ahmedivy/python)** - Search Python Packages on PyPi [`@ahmedivy`](https://raycast.com/ahmedivy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/python) `api@^1.91.2` `utils@^1.18.1`
 - **[Quick Access](https://raycast.com/koinzhang/quick-access)** - Quick access, drag and drop the files or folders pinned in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-access) `api@^1.79.1` `utils@^1.16.2`
+- **[Quick Git](https://raycast.com/joshdales/quick-git)** - Quickly run git commands through Raycast [`@joshdales`](https://raycast.com/joshdales) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-git) `api@^1.99.0` `utils@^1.17.0`
 - **[QuickSnip](https://raycast.com/anders_morille/quicksnip)** - An open-source project that categorizes handy code snippets across various programming languages. [`@anders_morille`](https://raycast.com/anders_morille) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicksnip) `api@^1.88.4` `utils@^1.17.0`
 - **[Quicktype](https://raycast.com/Aayush9029/quicktype)** - Generate Models and Serializers from JSON [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicktype) `api@^1.31.0`
 - **[Radicle](https://raycast.com/sebastinez_rhizoma/radicle)** - Interact with your Radicle storage. [`@sebastinez_rhizoma`](https://raycast.com/sebastinez_rhizoma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/radicle) `api@^1.64.4` `utils@^1.10.1`
@@ -1380,6 +1382,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[2FA Code Finder](https://raycast.com/yuercl/imessage-2fa)** - View 2FA codes from iMessage and Email [`@yuercl`](https://raycast.com/yuercl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) `api@^1.75.1` `utils@^1.19.1`
 - **[Addy](https://raycast.com/http.james/anonaddy)** - Easily generate and manage your Addy email aliases directly from your keyboard. [`@http.james`](https://raycast.com/http.james) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anonaddy) `api@^1.94.0` `utils@^1.17.0`
 - **[Advanced Replace](https://raycast.com/rocksack/advanced-replace)** - Extract and replace text using custom regex. [`@rocksack`](https://raycast.com/rocksack) [`code`](https://github.com/raycast/extensions/tree/main/extensions/advanced-replace) `api@^1.88.4` `utils@^1.18.1`
+- **[Advanced Speech to Text](https://raycast.com/inakitajes/advanced-speech-to-text)** - Convert speech to text using OpenAI's latest models including GPT-4o-transcribe [`@inakitajes`](https://raycast.com/inakitajes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/advanced-speech-to-text) `api@^1.77.0` `utils@^1.19.0`
 - **[Aerospace Tiling Window Manager](https://raycast.com/limonkufu/aerospace)** - Aerospace Tiling Window Manager Extension for Raycast [`@limonkufu`](https://raycast.com/limonkufu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aerospace) `api@^1.69.2` `utils@^1.15.0`
 - **[AI Text to Calendar](https://raycast.com/izm51/ai-text-to-calendar)** - Convert selected text to Google Calendar event with OpenAI [`@izm51`](https://raycast.com/izm51) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-text-to-calendar) `api@^1.86.1` `utils@^1.17.0`
 - **[Airplane](https://raycast.com/pradeepb28/airplane)** - Just like on iPhone, turn off the wireless features on your macOS anytime. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airplane) `api@^1.35.2`
@@ -1430,6 +1433,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Clipboard Formatter](https://raycast.com/joshtemple/clipboard-formatter)** - Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. [`@joshtemple`](https://raycast.com/joshtemple) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) `api@^1.51.1`
 - **[Clipboard Utilities](https://raycast.com/csharp/clipboard-utilities)** - A bunch of utilities for actions that require multiple items in the clipboard history [`@csharp`](https://raycast.com/csharp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-utilities) `api@^1.76.0`
 - **[ClipMenu](https://raycast.com/Envl/clipmenu)** - Show Current Clipboard Content on Menu Bar [`@Envl`](https://raycast.com/Envl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipmenu) `api@^1.62.1` `utils@^1.4.8`
+- **[Clipsign](https://raycast.com/gdcho/clipsign)** - A lightweight Raycast extension for creating, saving, and instantly copying your e‑signature. [`@gdcho`](https://raycast.com/gdcho) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipsign) `api@^1.99.2` `utils@^1.17.0`
 - **[Close All Open Apps](https://raycast.com/guide/close-apps)** - Script that closes all open apps [`@guide`](https://raycast.com/guide) [`code`](https://github.com/raycast/extensions/tree/main/extensions/close-apps) `api@^1.87.4` `utils@^1.17.0`
 - **[Close Finder](https://raycast.com/qeude/close-finder)** - Utils to close Finder from Raycast. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/close-finder) `api@^1.64.4` `utils@^1.10.1`
 - **[Coda Bookmarks Search](https://raycast.com/allienx/coda-bookmarks-search)** - Quickly find and open your bookmarked URLs stored in a coda table. [`@allienx`](https://raycast.com/allienx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coda-bookmarks-search) `api@1.36.0`
@@ -1689,6 +1693,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[RescueTime](https://raycast.com/TuorTheBlessed/rescuetime-focus-session-trigger)** - Commands to get the most out of RescueTime. Start and stop Focus Sessions, get your daily highlights, goals, alerts, log offline time, and more. [`@TuorTheBlessed`](https://raycast.com/TuorTheBlessed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rescuetime-focus-session-trigger) `api@^1.62.1` `utils@1.10.1`
 - **[Restart System Processes](https://raycast.com/muzhen_gaming/restart-system-processes)** - Restart system processes such as Finder, Dock, Menu Bar, Audio and more! [`@muzhen_gaming`](https://raycast.com/muzhen_gaming) [`code`](https://github.com/raycast/extensions/tree/main/extensions/restart-system-processes) `api@^1.80.0`
 - **[Retrac](https://raycast.com/adi_amar/retrac)** - Retrac is an inventory management tool for business owners. This extension allows you to create and retrieve your items directly inside Raycast. [`@adi_amar`](https://raycast.com/adi_amar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/retrac) `api@^1.61.2` `utils@^1.16.0`
+- **[Rize.io Sessions](https://raycast.com/sdquinn/rize-io-sessions)** - Raycast extension for managing Rize.io sessions (start, stop, extend). [`@sdquinn`](https://raycast.com/sdquinn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rize-io-sessions) `api@^1.94.0` `utils@^1.19.1`
 - **[Roam Research](https://raycast.com/roamresearch/roam-research)** - Your Roam graphs at your fingertips! Quickly search, capture and navigate your Roam graphs. [`@roamresearch`](https://raycast.com/roamresearch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/roam-research) `api@^1.56.1` `utils@^1.4.11`
 - **[Roblox](https://raycast.com/iamEvan/roblox)** - Raycast Extension for finding games, users & more on Roblox [`@iamEvan`](https://raycast.com/iamEvan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/roblox) `api@^1.85.2` `utils@^1.17.0`
 - **[Rsync Commands](https://raycast.com/fahl/rsync-commands)** - Save your commonly used rsync commands in one place and run them with ease. [`@fahl`](https://raycast.com/fahl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rsync-commands) `api@^1.35.1`
@@ -2094,7 +2099,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Conventional Comments](https://raycast.com/krzysztofzuraw/conventional-comments)** - Paste conventional comment into your foremost application [`@krzysztofzuraw`](https://raycast.com/krzysztofzuraw) [`code`](https://github.com/raycast/extensions/tree/main/extensions/conventional-comments) `api@^1.25.0`
 - **[Convert Color](https://raycast.com/yf_zhang/covert-color)** - hsl, rgb, hexadecimal, convert to each other [`@yf_zhang`](https://raycast.com/yf_zhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/covert-color) `api@^1.67.1`
 - **[Copy GCP Icons](https://raycast.com/pomdtr/copy-gcp-icons)** - Copy Product Icons from Google Cloud Platform to Clipboard. [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copy-gcp-icons) `api@^1.25.3`
-- **[Country Lookup](https://raycast.com/pernielsentikaer/country-lookup)** - Quickly lookup countries and get informational data [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) `api@^1.76.1` `utils@^1.16.0`
+- **[Country Lookup](https://raycast.com/pernielsentikaer/country-lookup)** - Quickly lookup countries and get informational data [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/country-lookup) `api@^1.99.4` `utils@^1.19.1`
 - **[CPF/CNPJ Generator](https://raycast.com/gstvds/cpf-cnpj-generator)** - Generate CPF (Cadastro de Pessoa Físca) number or CNPJ (Cadastro Nacional de Pessoa Jurídica) number data for developers [`@gstvds`](https://raycast.com/gstvds) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cpf-cnpj-generator) `api@^1.28.0`
 - **[crates.io Search](https://raycast.com/matt/cratecast)** - Explore crates.io [`@matt`](https://raycast.com/matt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cratecast) `api@^1.52.1`
 - **[Currency Exchange](https://raycast.com/xeric/currency-exchange)** - Simple Currency Exchange, uses Exchange Rate API as the data source [`@xeric`](https://raycast.com/xeric) [`code`](https://github.com/raycast/extensions/tree/main/extensions/currency-exchange) `api@^1.49.2`

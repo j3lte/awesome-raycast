@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/496edfe3643b9923_update-time.svg)
+![Last update](/icons/705e32fd5e4f2e12_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,10 +38,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2152** packages in **15** categories, **22** packages use Swift
-- **1397** authors, **859** contributors (of which **648** are only contributors, not authors)
+- **2155** packages in **15** categories, **22** packages use Swift
+- **1399** authors, **859** contributors (of which **648** are only contributors, not authors)
 - Top **7** authors:
-  - [xmok](https://raycast.com/xmok) (61)
+  - [xmok](https://raycast.com/xmok) (62)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (19)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (206)
-  - [xmok](https://raycast.com/xmok) (112)
+  - [xmok](https://raycast.com/xmok) (113)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (68)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
@@ -446,7 +446,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Flaticon — Search Icons](https://raycast.com/bgnfu7re/flaticon)** - Search icons on Flaticon [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flaticon) `api@^1.43.2` `utils@^1.4.10`
 - **[Font Awesome](https://raycast.com/dutzi/font-awesome)** - Search Font Awesome icons [`@dutzi`](https://raycast.com/dutzi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fontawesome) `api@^1.74.0` `utils@^1.4.8`
 - **[Font Search](https://raycast.com/tnixc/font-search)** - Search locally installed fonts, as displayed in font book. [`@tnixc`](https://raycast.com/tnixc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/font-search) `api@^1.83.1` `utils@^1.17.0`
-- **[Geist Ui Components](https://raycast.com/RahulatRaycast/geist-ui-components)** - This extension provides links to components in Geist UI Documentation [`@RahulatRaycast`](https://raycast.com/RahulatRaycast) [`code`](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) `api@^1.38.2`
+- **[Geist UI Components & Hooks](https://raycast.com/RahulatRaycast/geist-ui-components)** - This extension provides links to components & hooks in Geist UI Documentation [`@RahulatRaycast`](https://raycast.com/RahulatRaycast) [`code`](https://github.com/raycast/extensions/tree/main/extensions/geist-ui-components) `api@^1.100.1`
 - **[Google Fonts](https://raycast.com/GastroGeek/google-fonts)** - Search and use fonts from Google Fonts [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/google-fonts) `api@^1.38.2`
 - **[Iconify — Search Icons](https://raycast.com/destiner/iconify)** - Search icons via Iconify [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iconify) `api@^1.93.0` `utils@^1.18.0`
 - **[IconPark](https://raycast.com/koinzhang/iconpark)** - IconPark gives access to more than 2000 high-quality icons without API key and network. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iconpark) `api@^1.78.0` `utils@^1.16.1`
@@ -661,7 +661,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Hypersonic](https://raycast.com/reboot.studio/hypersonic)** - Fastest Notion to-do app ever [`@reboot.studio`](https://raycast.com/reboot.studio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) `api@1.48.5` `utils@1.5.2`
 - **[Image Base64 Converter](https://raycast.com/vitorlostada/image-base64)** - Convert between base64 strings and images easily [`@vitorlostada`](https://raycast.com/vitorlostada) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-base64) `api@^1.85.2` `utils@^1.17.0`
 - **[Image Diff Checker](https://raycast.com/yasuhiroyamamoto/image-diff-checker)** - Image Diff Checker compares two images and highlights the differences. It supports file formats such as JPEG, JPG, PNG, and GIF. [`@yasuhiroyamamoto`](https://raycast.com/yasuhiroyamamoto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-diff-checker) `api@^1.92.1` `utils@^1.17.0`
-- **[Incident.io](https://raycast.com/nkl/incident-io)** - Gets the incidents from Incident.io [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/incident-io) `api@^1.75.2`
+- **[Incident.io](https://raycast.com/nkl/incident-io)** - Gets the incidents from Incident.io [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/incident-io) `api@^1.75.2` `utils@^1.19.1`
 - **[iOS Human Interface Guidelines](https://raycast.com/eliperkins/raycast-ios-hig)** - Shows you the iOS HIG's info for quick reference [`@eliperkins`](https://raycast.com/eliperkins) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) `api@^1.40.3`
 - **[IP Geolocation](https://raycast.com/koinzhang/ip-geolocation)** - Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) `api@^1.80.0` `utils@^1.16.3`
 - **[IP Tools](https://raycast.com/meguoe/ip-tools)** - This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) [`@meguoe`](https://raycast.com/meguoe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) `api@^1.64.3` `utils@^1.10.1`
@@ -1431,6 +1431,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Clip Swap](https://raycast.com/joshfarrant/clip-swap)** - Swap clipboard contents with selected text [`@joshfarrant`](https://raycast.com/joshfarrant) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clip-swap) `api@^1.91.2` `utils@^1.17.0`
 - **[Clipboard Editor](https://raycast.com/pomdtr/clipboard-editor)** - Edit your clipboard text [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-editor) `api@^1.39.3` `utils@^1.4.1`
 - **[Clipboard Formatter](https://raycast.com/joshtemple/clipboard-formatter)** - Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. [`@joshtemple`](https://raycast.com/joshtemple) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) `api@^1.51.1`
+- **[Clipboard Sequential Paste](https://raycast.com/Joren-Thijs/clipboard-sequential-paste)** - Copy a list to your clipboard and paste items one by one. [`@Joren-Thijs`](https://raycast.com/Joren-Thijs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-sequential-paste) `api@^1.99.4` `utils@^1.17.0`
 - **[Clipboard Utilities](https://raycast.com/csharp/clipboard-utilities)** - A bunch of utilities for actions that require multiple items in the clipboard history [`@csharp`](https://raycast.com/csharp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-utilities) `api@^1.76.0`
 - **[ClipMenu](https://raycast.com/Envl/clipmenu)** - Show Current Clipboard Content on Menu Bar [`@Envl`](https://raycast.com/Envl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipmenu) `api@^1.62.1` `utils@^1.4.8`
 - **[Clipsign](https://raycast.com/gdcho/clipsign)** - A lightweight Raycast extension for creating, saving, and instantly copying your e‑signature. [`@gdcho`](https://raycast.com/gdcho) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipsign) `api@^1.99.2` `utils@^1.17.0`
@@ -1851,7 +1852,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Greip](https://raycast.com/ghadeer/greip)** - Use endpoint from greip.io directly from Raycast [`@ghadeer`](https://raycast.com/ghadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/greip) `api@^1.43.2` `utils@^1.4.11`
 - **[KeePassXC](https://raycast.com/pabroux/keepassxc)** - Access a KeePass database through KeePassXC. [`@pabroux`](https://raycast.com/pabroux) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) `api@^1.94.3` `utils@^1.19.1`
 - **[Link Cleaner](https://raycast.com/MisakiCoca/link-cleaner)** - Remove tracking parameters from URL links. [`@MisakiCoca`](https://raycast.com/MisakiCoca) [`code`](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) `api@^1.94.3`
-- **[Mozilla VPN Connect](https://raycast.com/natew/mozilla-vpn)** - Interact with the Mozilla VPN from Raycast. [`@natew`](https://raycast.com/natew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) `api@^1.71.4`
+- **[Mozilla VPN Connect](https://raycast.com/natew/mozilla-vpn)** - Interact with the Mozilla VPN from Raycast. [`@natew`](https://raycast.com/natew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) `api@^1.99.4`
 - **[Okta Search](https://raycast.com/damian_zachwieja/oktasearch)** - Serach Okta users and groups by name. [`@damian_zachwieja`](https://raycast.com/damian_zachwieja) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oktasearch) `api@^1.55.2`
 - **[One Time Password](https://raycast.com/lachero/one-time-password)** - Generate time-based one-time passwords [`@lachero`](https://raycast.com/lachero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-time-password) `api@^1.49.3` `utils@^1.5.2`
 - **[OpenVPN](https://raycast.com/benekuehn/openvpn)** - This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. [`@benekuehn`](https://raycast.com/benekuehn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openvpn) `api@^1.80.0` `utils@^1.16.3`
@@ -2118,6 +2119,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Display Placer](https://raycast.com/eluce2/displayplacer)** - Manage favorite display configurations [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) `api@^1.33.0`
 - **[Docker](https://raycast.com/priithaamer/docker)** - Manage Docker with Raycast [`@priithaamer`](https://raycast.com/priithaamer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/docker) `api@^1.89.1`
 - **[Docker Hub](https://raycast.com/k8scat/dockerhub)** - Docker Hub extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) `api@^1.39.3`
+- **[Dokploy](https://raycast.com/xmok/dokploy)** - Deploy Anywhere with Total Freedom and Ease. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dokploy) `api@^1.99.2` `utils@^1.19.1`
 - **[Domainr](https://raycast.com/fedevitaledev/domainr)** - Search domains availability with Domainr [`@fedevitaledev`](https://raycast.com/fedevitaledev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/domainr) `api@^1.25.1`
 - **[DropsTab](https://raycast.com/nikolayqwerty/dropstab)** - Get crypto coin data and navigate to official sites or X. Instantly view your wallets via blockchain explorers. [`@nikolayqwerty`](https://raycast.com/nikolayqwerty) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropstab) `api@^1.80.0`
 - **[Duck Facts](https://raycast.com/validate/duck-facts)** - Displays interesting facts about ducks. [`@validate`](https://raycast.com/validate) [`code`](https://github.com/raycast/extensions/tree/main/extensions/duck-facts) `api@^1.87.0` `ai` `ai-tools`
@@ -2221,6 +2223,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Notion Page Search](https://raycast.com/reckoning-dev/search-notion)** - Search Notion pages and open visited ones faster. No admin access required. [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-notion) `api@^1.25.0`
 - **[One Thing](https://raycast.com/pernielsentikaer/one-thing)** - Put a thing in your Menu Bar. [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-thing) `api@^1.79.0` `ai` `ai-tools`
 - **[ONES](https://raycast.com/k8scat/ones)** - Raycast Extension for ONES [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ones) `api@^1.39.3`
+- **[Open Docker](https://raycast.com/k4lok/open-docker)** - A reliable fix to open the Docker Desktop dashboard, especially when it's already running but the window is hidden. [`@k4lok`](https://raycast.com/k4lok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-docker) `api@^1.99.4` `utils@^1.17.0`
 - **[OpenStreetMap Search](https://raycast.com/crisboarna/openstreetmap-search)** - Quickly open OpenStreetMaps directions, for example from your current location to your home. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openstreetmap-search) `api@^1.44.0`
 - **[OpenWeatherMap](https://raycast.com/tonka3000/openweathermap)** - Get Weather via https://openweathermap.com [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openweathermap) `api@^1.34.1`
 - **[Opsgenie](https://raycast.com/ricoberger/opsgenie)** - Manage Opsgenie alerts and incidents. [`@ricoberger`](https://raycast.com/ricoberger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/opsgenie) `api@^1.79.0` `utils@^1.17.0`

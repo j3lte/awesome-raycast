@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/3736f7952464f1df_update-time.svg)
+![Last update](/icons/8f8fe06c0319e5a6_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2160** packages in **15** categories, **22** packages use Swift
-- **1403** authors, **860** contributors (of which **649** are only contributors, not authors)
+- **2163** packages in **15** categories, **22** packages use Swift
+- **1405** authors, **861** contributors (of which **650** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (63)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -557,6 +557,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Conventional Commits](https://raycast.com/niemtec/conventional-commits)** - Provides a list of conventional commits prefixes and descriptions that can be inserted into your active window as well as example of how messages should be structured [`@niemtec`](https://raycast.com/niemtec) [`code`](https://github.com/raycast/extensions/tree/main/extensions/conventional-commits) `api@^1.57.1`
 - **[Convert TypeScript to JavaScript](https://raycast.com/bengry/convert-typescript-to-javascript)** - Remove type information from TypeScript code to make it compatible with JavaScript REPLs and other applications [`@bengry`](https://raycast.com/bengry) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert-typescript-to-javascript) `api@^1.54.1`
 - **[Cookie String](https://raycast.com/NicolasMontone/cookie-string-parser)** - Parses your cookie string [`@NicolasMontone`](https://raycast.com/NicolasMontone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cookie-string-parser) `api@^1.67.1`
+- **[Coordinate Converter](https://raycast.com/kylinwowo/geoconverter)** - Convert coordinates between geodetic and projected coordinate systems [`@kylinwowo`](https://raycast.com/kylinwowo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/geoconverter) `api@^1.99.4` `utils@^1.17.0`
 - **[Copilot Workspace](https://raycast.com/cole/copilot-workspace)** - Take an idea from anywhere and turn it into code with Copilot Workspace [`@cole`](https://raycast.com/cole) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copilot-workspace) `api@^1.69.0` `utils@^1.14.0`
 - **[Copy Path](https://raycast.com/koinzhang/copy-path)** - Copy the path of the open folder, selected file or the URL of the current browser tab. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copy-path) `api@^1.84.6` `utils@^1.18.0`
 - **[Copy Text Files](https://raycast.com/netcookies/copy-text-files)** - Copy text files in current finder [`@netcookies`](https://raycast.com/netcookies) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copy-text-files) `api@^1.86.1` `utils@^1.17.0`
@@ -1344,6 +1345,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Nepali Date Converter](https://raycast.com/beedhan/nepali-date-converter)** - It converts current, provided date to Nepali date [`@beedhan`](https://raycast.com/beedhan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nepali-date-converter) `api@^1.84.2` `utils@^1.17.0`
 - **[Netherlands Railways Train Search](https://raycast.com/flaticols/ns-nl-search)** - With the Raycast extension for Netherlands Railways, you can easily find train schedules, routes, and real-time updates for the Dutch railway system. This extension simplifies the process of planning your journey by providing quick access to essential information directly from your Raycast interface. Whether you're commuting or traveling, stay informed with the latest train updates and ensure a smooth trip with just a few clicks. [`@flaticols`](https://raycast.com/flaticols) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ns-nl-search) `api@^1.74.1` `utils@^1.15.0`
 - **[NMBS Planner](https://raycast.com/Samuel3865/nmbs-planner)** - Plan your trainrides with NMBS [`@Samuel3865`](https://raycast.com/Samuel3865) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nmbs-planner) `api@^1.48.4`
+- **[NYC Train Tracker - Realtime Train Departures](https://raycast.com/kcole93/nyc-train-tracker)** - Look up train departures and service alerts for MTA, LIRR and MNR. [`@kcole93`](https://raycast.com/kcole93) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nyc-train-tracker) `api@^1.94.4` `utils@^1.17.0`
 - **[OpenAI Speak](https://raycast.com/jian_chao_man/openai-speak)** - Uses the OpenAI TTS API to speak the selected text. [`@jian_chao_man`](https://raycast.com/jian_chao_man) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openai-speak) `api@^1.63.0`
 - **[Paste from Apple Books](https://raycast.com/winann/paste-from-apple-books)** - When copy and paste from Apple Books into other App, it always comes with citations 'Excerpt from...' with quotation marks around the copy text. This Extension can make it clean. But you also need notice: 'This material may be protected by copyright.' [`@winann`](https://raycast.com/winann) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paste-from-apple-books) `api@^1.66.2`
 - **[Recent Excel - Show Recent Excel Files](https://raycast.com/aradbm/recent-excel)** - Shows recent excel files [`@aradbm`](https://raycast.com/aradbm) [`code`](https://github.com/raycast/extensions/tree/main/extensions/recent-excel) `api@^1.75.2`
@@ -2242,6 +2244,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pipedrive Search](https://raycast.com/ahp/pipedrive)** - Search Pipedrive deals, people and organizations [`@ahp`](https://raycast.com/ahp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pipedrive) `api@^1.89.0`
 - **[Podcasts](https://raycast.com/ron-myers/podcasts)** - Control the Podcasts app for macOS with your keyboard. [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/podcasts) `api@^1.29.1`
 - **[Polished](https://raycast.com/lekoarts/polished)** - Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. [`@lekoarts`](https://raycast.com/lekoarts) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polished) `api@^1.26.1`
+- **[Popcorn - Explore Stremio Streams](https://raycast.com/martipops/popcorn)** - A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. IINA is highly recommended for macOS users. [`@martipops`](https://raycast.com/martipops) [`code`](https://github.com/raycast/extensions/tree/main/extensions/popcorn) `api@^1.96.1` `utils@^1.17.0`
 - **[Product Hunt](https://raycast.com/ragnor/producthunt)** - View today's featured products on Product Hunt. [`@ragnor`](https://raycast.com/ragnor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/producthunt) `api@^1.94.0` `utils@^1.19.1` `ai` `ai-tools`
 - **[Productboard](https://raycast.com/honzatmn/productboard)** - Add and view notes in Productboard quickly. Supports markdown. [`@honzatmn`](https://raycast.com/honzatmn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/productboard) `api@^1.77.0` `utils@^1.16.1`
 - **[pub.dev](https://raycast.com/prasadsunny1/pub-dev)** - Search pub.dev for Dart and Flutter packages and copy the install commands [`@prasadsunny1`](https://raycast.com/prasadsunny1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flutter-pub-dev-search) `api@^1.48.9`

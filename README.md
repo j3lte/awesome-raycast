@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/016eaf126e9b0dc0_update-time.svg)
+![Last update](/icons/d5c6f5ec67f94ad1_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **2170** packages in **15** categories, **22** packages use Swift
-- **1408** authors, **863** contributors (of which **652** are only contributors, not authors)
+- **1407** authors, **864** contributors (of which **653** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (63)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -54,7 +54,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [ridemountainpig](https://raycast.com/ridemountainpig) (68)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
-  - [litomore](https://raycast.com/litomore) (26)
+  - [litomore](https://raycast.com/litomore) (27)
   - [stelo](https://raycast.com/stelo) (25)
 
 <!-- END STATISTICS -->
@@ -540,7 +540,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ChatGo](https://raycast.com/DDDDesign/chatgo)** - A chatGPT AI Tool [`@DDDDesign`](https://raycast.com/DDDDesign) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgo) `api@^1.54.1` `utils@^1.8.0`
 - **[Cheetah](https://raycast.com/ronglecat/cheetah)** - Search for a local Git project and open it with the specified application. [`@ronglecat`](https://raycast.com/ronglecat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cheetah) `api@^1.42.2` `utils@^1.4.8`
 - **[Choose a License](https://raycast.com/sandypockets/choose-a-license)** - Read, copy, and paste Markdown licenses from choosealicense.com [`@sandypockets`](https://raycast.com/sandypockets) [`code`](https://github.com/raycast/extensions/tree/main/extensions/choose-a-license) `api@^1.32.1`
-- **[CIDR Conversion](https://raycast.com/Yansong/cidr)** - CIDR to IPv4 Conversion [`@Yansong`](https://raycast.com/Yansong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cidr) `api@^1.47.3`
+- **[CIDR Conversion](https://raycast.com/Gnosnay/cidr)** - CIDR to IPv4 Conversion [`@Gnosnay`](https://raycast.com/Gnosnay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cidr) `api@^1.47.3`
 - **[Claude Code Usage (ccusage)](https://raycast.com/nyatinte/ccusage)** - Monitor Claude Code usage with real-time tracking [`@nyatinte`](https://raycast.com/nyatinte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ccusage) `api@^1.99.4` `utils@^1.17.0`
 - **[Cloud CLI Login Statuses](https://raycast.com/adam_vyborny/cloud-cli-login-statuses)** - Check if you are logged in AWS, Google Cloud and Azure CLIs [`@adam_vyborny`](https://raycast.com/adam_vyborny) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloud-cli-login-statuses) `api@^1.94.3` `utils@^1.17.0`
 - **[Cloudflare](https://raycast.com/destiner/cloudflare)** - Search and view your Cloudflare sites, pages, domains, and more [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) `api@^1.94.0` `utils@^1.19.1`
@@ -672,7 +672,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Jira2Git](https://raycast.com/ipiranhaa/jira2git)** - The tool for making Jira and Git work together smoothly as silk for a better development experience. [`@ipiranhaa`](https://raycast.com/ipiranhaa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jira2git) `api@^1.42.1`
 - **[JSR](https://raycast.com/j3lte/jsr)** - Search through JSR, the Open Source Package Registry for Javascript/Typescript [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jsr) `api@^1.86.1` `utils@^1.18.1`
 - **[jsrepo](https://raycast.com/ieedan/jsrepo)** - Interact with jsrepo registries all without leaving Raycast. [`@ieedan`](https://raycast.com/ieedan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jsrepo) `api@^1.94.3` `utils@^1.17.0`
-- **[JustColorPicker](https://raycast.com/woods_w/justcolorpicker-raycast)** - Just a color picker [`@woods_w`](https://raycast.com/woods_w) [`code`](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) `api@^1.82.5` `utils@^1.16.3`
+- **[JustColorPicker](https://raycast.com/ZooHero/justcolorpicker-raycast)** - Just a color picker [`@ZooHero`](https://raycast.com/ZooHero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/justcolorpicker-raycast) `api@^1.82.5` `utils@^1.16.3`
 - **[Kill Node Modules](https://raycast.com/NicolasMontone/kill-node-modules)** - Remove selected node_modules [`@NicolasMontone`](https://raycast.com/NicolasMontone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) `api@^1.81.2` `utils@^1.16.3`
 - **[kubens](https://raycast.com/ChrisKohler/kubens)** - Switch between Kubernetes namespaces [`@ChrisKohler`](https://raycast.com/ChrisKohler) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kubens) `api@^1.43.2`
 - **[Kubernetes](https://raycast.com/justin0u0/kubernetes)** - Kubernetes Client in Raycast [`@justin0u0`](https://raycast.com/justin0u0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kubernetes) `api@^1.88.0` `utils@^1.17.0`
@@ -1447,7 +1447,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Coda Bookmarks Search](https://raycast.com/allienx/coda-bookmarks-search)** - Quickly find and open your bookmarked URLs stored in a coda table. [`@allienx`](https://raycast.com/allienx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coda-bookmarks-search) `api@1.36.0`
 - **[Common Directory](https://raycast.com/koinzhang/common-directory)** - Quickly open or show common directory in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/common-directory) `api@^1.43.2`
 - **[Comodoro](https://raycast.com/jns/comodoro)** - Control Comodoro, a Pomodor timer [`@jns`](https://raycast.com/jns) [`code`](https://github.com/raycast/extensions/tree/main/extensions/comodoro) `api@^1.88.4` `utils@^1.18.1`
-- **[Confluence](https://raycast.com/tbrown/confluence)** - Quickly navigate, create and search Confluence through Raycast. [`@tbrown`](https://raycast.com/tbrown) [`code`](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) `api@^1.91.0` `utils@^1.18.1`
+- **[Confluence](https://raycast.com/tbrown/confluence)** - Quickly navigate, create and search Confluence through Raycast. [`@tbrown`](https://raycast.com/tbrown) [`code`](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) `api@^1.100.2` `utils@^2.0.0`
 - **[Contexts](https://raycast.com/marcmagn1/contexts)** - Contexts lets you manage and access large text repositories for AI interactions. Create, edit, and organize contextual information about companies, products, or documentation that can be referenced during AI conversations. Seamlessly handle extensive context without cluttering system instructions, allowing for more efficient and focused AI interactions. [`@marcmagn1`](https://raycast.com/marcmagn1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/contexts) `api@^1.90.0` `utils@^1.17.0` `ai` `ai-tools`
 - **[Control D](https://raycast.com/http.james/control-d)** - Quickly view and make changes to your Control D profiles, devices, and more from Raycast. [`@http.james`](https://raycast.com/http.james) [`code`](https://github.com/raycast/extensions/tree/main/extensions/control-d) `api@^1.49.0`
 - **[CopyMoveTo](https://raycast.com/Mehdi_Hp/copymoveto)** - Save time moving files between folders. Define destinations once, use quick commands to copy or move files effortlessly [`@Mehdi_Hp`](https://raycast.com/Mehdi_Hp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/copymoveto) `api@^1.90.0` `utils@^1.17.0`

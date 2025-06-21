@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/d5c6f5ec67f94ad1_update-time.svg)
+![Last update](/icons/56f226ec6e3a84a2_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2170** packages in **15** categories, **22** packages use Swift
-- **1407** authors, **864** contributors (of which **653** are only contributors, not authors)
+- **2171** packages in **15** categories, **22** packages use Swift
+- **1408** authors, **864** contributors (of which **653** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (63)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -434,7 +434,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Apple Devices](https://raycast.com/madza/apple-devices)** - Quickly look up Apple Devices and control Simulators [`@madza`](https://raycast.com/madza) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-devices) `api@^1.52.1` `utils@^1.7.0`
 - **[Aspect Raytio](https://raycast.com/ickas/aspect-raytio)** - Calculate easily the aspect ratio for different sizes based on a width or height. [`@ickas`](https://raycast.com/ickas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio) `api@^1.65.1` `utils@^1.10.1`
 - **[Avatar](https://raycast.com/koinzhang/avatar)** - An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/avatar) `api@^1.72.1`
-- **[Brand Icons - simpleicons.org](https://raycast.com/litomore/simple-icons)** - Browse, Search, and Copy 3200+ popular brand icons from Simple Icons. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) `api@^1.99.3` `utils@^1.19.1`
+- **[Brand Icons - simpleicons.org](https://raycast.com/litomore/simple-icons)** - Browse, Search, and Copy 3300+ popular brand icons from Simple Icons. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) `api@^1.100.2` `utils@^2.0.1`
 - **[Canva](https://raycast.com/xmok/canva)** - View Designs and Open in Browser [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/canva) `api@^1.94.0` `utils@^1.19.1`
 - **[Color Casket](https://raycast.com/slavarazum/color-casket)** - Handy Color Utilities [`@slavarazum`](https://raycast.com/slavarazum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-casket) `api@^1.42.0`
 - **[Color Palette Picker](https://raycast.com/juliusmarminge/palette-picker)** - A simple color picker for Tailwind CSS and Radix UI color palettes. [`@juliusmarminge`](https://raycast.com/juliusmarminge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/palette-picker) `api@^1.47.3`
@@ -676,6 +676,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Kill Node Modules](https://raycast.com/NicolasMontone/kill-node-modules)** - Remove selected node_modules [`@NicolasMontone`](https://raycast.com/NicolasMontone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kill-node-modules) `api@^1.81.2` `utils@^1.16.3`
 - **[kubens](https://raycast.com/ChrisKohler/kubens)** - Switch between Kubernetes namespaces [`@ChrisKohler`](https://raycast.com/ChrisKohler) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kubens) `api@^1.43.2`
 - **[Kubernetes](https://raycast.com/justin0u0/kubernetes)** - Kubernetes Client in Raycast [`@justin0u0`](https://raycast.com/justin0u0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kubernetes) `api@^1.88.0` `utils@^1.17.0`
+- **[Kusto Reference](https://raycast.com/olafhartong/kusto-reference)** - Look up KQL commands [`@olafhartong`](https://raycast.com/olafhartong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kusto-reference) `api@^1.89.0` `utils@^1.17.0`
 - **[Laravel Herd](https://raycast.com/diana_scharf/laravel-herd)** - Provides quick access to Laravel Herd features and settings. [`@diana_scharf`](https://raycast.com/diana_scharf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laravel-herd) `api@^1.93.2` `utils@^1.17.0`
 - **[Laravel Shift for Docker](https://raycast.com/denniseilander/laravel-shift)** - Run any of the Shifts for Laravel, Lumen, PHP, Django, and Tailwind completely locally using Raycast. [`@denniseilander`](https://raycast.com/denniseilander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laravel-shift) `api@^1.48.8` `utils@^1.5.2`
 - **[Laravel Valet](https://raycast.com/denniseilander/laravel-valet)** - Search and open local Valet sites [`@denniseilander`](https://raycast.com/denniseilander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laravel-valet) `api@^1.50.4` `utils@^1.5.2`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/b7aa7ca4fa3a4273_update-time.svg)
+![Last update](/icons/e48431c67f76fde8_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2177** packages in **15** categories, **22** packages use Swift
-- **1412** authors, **868** contributors (of which **657** are only contributors, not authors)
+- **2182** packages in **15** categories, **22** packages use Swift
+- **1416** authors, **868** contributors (of which **657** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (64)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (206)
   - [xmok](https://raycast.com/xmok) (114)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (69)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (70)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
   - [litomore](https://raycast.com/litomore) (27)
@@ -629,8 +629,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Git Co-Authors](https://raycast.com/nickradford/git-co-authors)** - Manage and copy co-authors for git commits [`@nickradford`](https://raycast.com/nickradford) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-co-authors) `api@^1.51.0` `utils@^1.7.0`
 - **[Git Profile](https://raycast.com/tuki0918/git-profile)** - This extension is for managing Git user profiles. [`@tuki0918`](https://raycast.com/tuki0918) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-profile) `api@^1.91.1` `utils@^1.17.0`
 - **[Git Repos](https://raycast.com/moored/git-repos)** - Quickly access your local git repositories and open them in your favorite editor or any app [`@moored`](https://raycast.com/moored) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-repos) `api@^1.59.0` `utils@^1.5.2`
-- **[Git Worktrees](https://raycast.com/canac/worktrees)** - View, add, and remove git worktrees. [`@canac`](https://raycast.com/canac) [`code`](https://github.com/raycast/extensions/tree/main/extensions/worktrees) `api@^1.64.5` `utils@^1.10.1`
 - **[Git Worktrees](https://raycast.com/philstainer/git-worktrees)** - Efficiently managing Git worktrees with actions for cloning, listing, adding, renaming and removing worktrees within projects [`@philstainer`](https://raycast.com/philstainer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-worktrees) `api@^1.94.3` `utils@^1.19.1`
+- **[Git Worktrees](https://raycast.com/canac/worktrees)** - View, add, and remove git worktrees. [`@canac`](https://raycast.com/canac) [`code`](https://github.com/raycast/extensions/tree/main/extensions/worktrees) `api@^1.64.5` `utils@^1.10.1`
 - **[Gitee](https://raycast.com/koinzhang/gitee)** - Work with issues, search repositories and stay on top of notifications. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitee) `api@^1.44.0`
 - **[GitHub](https://raycast.com/thomaslombart/github)** - Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github) `api@^1.87.0` `utils@^1.16.0` `ai` `ai-tools`
 - **[GitHub Codespaces](https://raycast.com/michael.wang/github-codespaces)** - Manage and launch codespaces [`@michael.wang`](https://raycast.com/michael.wang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-codespaces) `api@^1.39.3` `utils@^1.4.8`
@@ -663,6 +663,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[HTTP.cat Status Codes](https://raycast.com/lucasmezencio/http-dot-cat)** - Quickly look up HTTP.cat 🐈‍⬛🐈 status codes with funny cats [`@lucasmezencio`](https://raycast.com/lucasmezencio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/http.cat) `api@^1.59.0` `utils@^1.10.0`
 - **[Hugging Face](https://raycast.com/crisboarna/hugging-face)** - Search and explore the Hugging Face platform [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hugging-face) `api@^1.72.1` `utils@^1.15.0`
 - **[Hypersonic](https://raycast.com/reboot.studio/hypersonic)** - Fastest Notion to-do app ever [`@reboot.studio`](https://raycast.com/reboot.studio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hypersonic) `api@1.48.5` `utils@1.5.2`
+- **[Ideate](https://raycast.com/B9O2/ideate)** - Create a project folder, initialize it, and open with your IDE. [`@B9O2`](https://raycast.com/B9O2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ideate) `api@^1.100.0` `utils@^1.19.1`
 - **[Image Base64 Converter](https://raycast.com/vitorlostada/image-base64)** - Convert between base64 strings and images easily [`@vitorlostada`](https://raycast.com/vitorlostada) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-base64) `api@^1.85.2` `utils@^1.17.0`
 - **[Image Diff Checker](https://raycast.com/yasuhiroyamamoto/image-diff-checker)** - Image Diff Checker compares two images and highlights the differences. It supports file formats such as JPEG, JPG, PNG, and GIF. [`@yasuhiroyamamoto`](https://raycast.com/yasuhiroyamamoto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-diff-checker) `api@^1.92.1` `utils@^1.17.0`
 - **[Incident.io](https://raycast.com/nkl/incident-io)** - Gets the incidents from Incident.io [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/incident-io) `api@^1.75.2` `utils@^1.19.1`
@@ -1446,6 +1447,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Clipboard Formatter](https://raycast.com/joshtemple/clipboard-formatter)** - Removes formatting and html from the text stored in the clipboard, returning the unformatted text to the clipboard. [`@joshtemple`](https://raycast.com/joshtemple) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-formatter) `api@^1.51.1`
 - **[Clipboard Sequential Paste](https://raycast.com/Joren-Thijs/clipboard-sequential-paste)** - Copy a list to your clipboard and paste items one by one. [`@Joren-Thijs`](https://raycast.com/Joren-Thijs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-sequential-paste) `api@^1.99.4` `utils@^1.17.0`
 - **[Clipboard Utilities](https://raycast.com/csharp/clipboard-utilities)** - A bunch of utilities for actions that require multiple items in the clipboard history [`@csharp`](https://raycast.com/csharp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipboard-utilities) `api@^1.76.0`
+- **[Clipmate AI](https://raycast.com/shvmmshr/clipmate)** - Save links to your Clipmate account [`@shvmmshr`](https://raycast.com/shvmmshr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipmate) `api@^1.90.0` `utils@^1.17.0`
 - **[ClipMenu](https://raycast.com/Envl/clipmenu)** - Show Current Clipboard Content on Menu Bar [`@Envl`](https://raycast.com/Envl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipmenu) `api@^1.62.1` `utils@^1.4.8`
 - **[Clipsign](https://raycast.com/gdcho/clipsign)** - A lightweight Raycast extension for creating, saving, and instantly copying your e‑signature. [`@gdcho`](https://raycast.com/gdcho) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipsign) `api@^1.99.2` `utils@^1.17.0`
 - **[Close All Open Apps](https://raycast.com/guide/close-apps)** - Script that closes all open apps [`@guide`](https://raycast.com/guide) [`code`](https://github.com/raycast/extensions/tree/main/extensions/close-apps) `api@^1.87.4` `utils@^1.17.0`
@@ -1486,6 +1488,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Do Not Disturb](https://raycast.com/yakitrak/do-not-disturb)** - Disable notifications on your Apple devices [`@yakitrak`](https://raycast.com/yakitrak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/do-not-disturb) `api@^1.86.0`
 - **[Downloads Manager](https://raycast.com/thomas/downloads-manager)** - Search and organize your downloads [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/downloads-manager) `api@^1.94.0` `utils@^1.19.1`
 - **[Dropshare](https://raycast.com/tjosten/dropshare)** - Create screen captures and upload files with Dropshare [`@tjosten`](https://raycast.com/tjosten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropshare) `api@^1.68.0`
+- **[Duan: Shorten and Manage Links](https://raycast.com/insv23/duan-raycast-extension)** - Shorten and manage links with your own domain, powered by Cloudflare Workers and D1 database. [`@insv23`](https://raycast.com/insv23) [`code`](https://github.com/raycast/extensions/tree/main/extensions/duan-raycast-extension) `api@^1.96.3` `utils@^1.17.0`
 - **[Dub](https://raycast.com/quuu/dub)** - Dub is the open-source link management platform for modern marketing teams. This extension allows you to shorten and retrieve your Dub links directly inside Raycast. [`@quuu`](https://raycast.com/quuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dub) `api@^1.94.0` `utils@^1.16.0` `ai` `ai-tools`
 - **[DuckDuckGo Email](https://raycast.com/Hugo-Persson/duckduckgo-email)** - A simple extension that generate DuckDuckGo email alias [`@Hugo-Persson`](https://raycast.com/Hugo-Persson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/duckduckgo-email) `api@^1.69.0`
 - **[Eagle](https://raycast.com/Yukai/eagle)** - Eagle Extension for Raycast [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/eagle) `api@^1.33.1`
@@ -1698,6 +1701,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Reclaim](https://raycast.com/lightbody/reclaim-ai)** - AI scheduling for Google & Outlook Calendar – quickly create Tasks, join meetings, share Scheduling Links, & manage your calendar [`@lightbody`](https://raycast.com/lightbody) [`code`](https://github.com/raycast/extensions/tree/main/extensions/reclaim-ai) `api@^1.93.2` `utils@^1.19.1`
 - **[Rectangle](https://raycast.com/crickford/rectangle)** - Integration with Rectangle [`@crickford`](https://raycast.com/crickford) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rectangle) `api@^1.88.4`
 - **[Redmine](https://raycast.com/jwickers/redmine)** - Integrate with the Redmine issue system (https://www.redmine.org/) [`@jwickers`](https://raycast.com/jwickers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/redmine) `api@^1.32.1`
+- **[Regex Batch Renamer](https://raycast.com/tarikkavaz/regex-batch-renamer)** - Create and manage multiple regex-based file/folder renaming jobs with batch processing [`@tarikkavaz`](https://raycast.com/tarikkavaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/regex-batch-renamer) `api@^1.99.2` `utils@^1.17.0`
 - **[Regular Expressions Search](https://raycast.com/musienkoyuriy/search-regexp)** - Quickly find the most common JS regular expressions. [`@musienkoyuriy`](https://raycast.com/musienkoyuriy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-regexp) `api@^1.44.0`
 - **[Remember the Date](https://raycast.com/pernielsentikaer/remember-the-date)** - Creates and shows the most important date which should be remembered. [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remember-the-date) `api@^1.58.0` `utils@^1.14.0`
 - **[Rename Images with AI](https://raycast.com/husnainfareed/rename-images-with-ai)** - AI-powered images and screenshots renaming extension that intelligently names files based on their content [`@husnainfareed`](https://raycast.com/husnainfareed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rename-images-with-ai) `api@^1.93.2` `utils@^1.17.0`
@@ -1872,6 +1876,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[OpenVPN](https://raycast.com/benekuehn/openvpn)** - This extension allows you to connect and disconnect from an OpenVPN using applescript to control OpenVPN client. [`@benekuehn`](https://raycast.com/benekuehn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openvpn) `api@^1.80.0` `utils@^1.16.3`
 - **[Pass](https://raycast.com/capipo/pass)** - An extension to handle the standard unix password manager in a convenient way using Raycast [`@capipo`](https://raycast.com/capipo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pass) `api@^1.70.2`
 - **[Password Store](https://raycast.com/afok/password-store)** - A Raycast Extension for managing passwordstore.org passwords [`@afok`](https://raycast.com/afok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-store) `api@^1.69.0` `utils@^1.15.0`
+- **[Password.link](https://raycast.com/taylor_drayson/password-link)** - Create and manage encrypted one-time secrets with client-side encryption using password.link [`@taylor_drayson`](https://raycast.com/taylor_drayson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-link) `api@^1.100.3` `utils@^1.17.0`
 - **[Private Internet Access Controls](https://raycast.com/yakitrak/pia-controls)** - Private Internet Access VPN Controls [`@yakitrak`](https://raycast.com/yakitrak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pia-controls) `api@^1.62.1` `utils@^1.10.1`
 - **[Privileges](https://raycast.com/ph00lt0/privileges)** - Grant and revoke admin permission with SAP Privileges (https://github.com/SAP/macOS-enterprise-privileges). Not affiliated with SAP. [`@ph00lt0`](https://raycast.com/ph00lt0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/privileges) `api@^1.54.1`
 - **[Public Bug Bounty and Vulnerability Disclosure Programs](https://raycast.com/securibee/public-bug-bounty-and-vulnerability-disclosure-programs)** - Search a community curated list of public bug bounty and vulnerability disclosure programs. [`@securibee`](https://raycast.com/securibee) [`code`](https://github.com/raycast/extensions/tree/main/extensions/public-bug-bounty-and-vulnerability-disclosure-programs) `api@^1.69.0` `utils@^1.13.3`

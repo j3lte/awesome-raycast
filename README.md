@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/e48431c67f76fde8_update-time.svg)
+![Last update](/icons/a6b612c5f362393f_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2182** packages in **15** categories, **22** packages use Swift
-- **1416** authors, **868** contributors (of which **657** are only contributors, not authors)
+- **2186** packages in **15** categories, **22** packages use Swift
+- **1417** authors, **870** contributors (of which **659** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (64)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (206)
-  - [xmok](https://raycast.com/xmok) (114)
+  - [xmok](https://raycast.com/xmok) (115)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (70)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
@@ -94,7 +94,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Cider](https://raycast.com/feyli/cider)** - Interact with Cider through Raycast [`@feyli`](https://raycast.com/feyli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cider) `api@^1.60.1` `utils@^1.9.0`
 - **[CleanShot X](https://raycast.com/Aayush9029/cleanshotx)** - Capture and record your screen! [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cleanshotx) `api@^1.73.3`
 - **[CLIPPyX](https://raycast.com/0ssamaak0/clippyx)** - CLIPPyX provides an OS-wide image search that supports semantic search in both image content and text on images [`@0ssamaak0`](https://raycast.com/0ssamaak0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clippyx) `api@^1.80.0` `utils@^1.16.3`
-- **[Cobalt](https://raycast.com/aelew/cobalt)** - Download videos and audio from popular social media platforms with ease. [`@aelew`](https://raycast.com/aelew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cobalt) `api@^1.86.0` `utils@^1.18.0`
+- **[Cobalt](https://raycast.com/aelew/cobalt)** - Download videos and audio from popular social media platforms with ease. [`@aelew`](https://raycast.com/aelew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cobalt) `api@^1.100.3` `utils@^2.0.1`
 - **[ColorSlurp](https://raycast.com/Jordan-Ellis/colorslurp)** - Pick colors and convert them to different formats with ColorSlurp. [`@Jordan-Ellis`](https://raycast.com/Jordan-Ellis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/colorslurp) `api@^1.38.3` `utils@^1.4.16`
 - **[Compress PDF](https://raycast.com/felixhaeberle/compress-pdf)** - Compress PDF files [`@felixhaeberle`](https://raycast.com/felixhaeberle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/compress-pdf) `api@^1.79.0`
 - **[Compresto](https://raycast.com/hieudinh/compressx)** - Compress files easily, with up to 90% file size reduction [`@hieudinh`](https://raycast.com/hieudinh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/compressx) `api@^1.100.2`
@@ -825,7 +825,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Shell Buddy](https://raycast.com/jebraat/shell-buddy)** - Converts natural language prompts to shell commands with AI [`@jebraat`](https://raycast.com/jebraat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-buddy) `api@^1.39.3`
 - **[Shell History](https://raycast.com/koinzhang/shell-history)** - Search shell command history from zsh, bash, and fish. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shell-history) `api@^1.96.3` `utils@^1.19.1`
 - **[Shopify Theme Resources](https://raycast.com/trpage_dev/shopify-theme-resources)** - Quickly reference and search Shopify theme resources, like input settings, fonts, and more for Shopify theme development. [`@trpage_dev`](https://raycast.com/trpage_dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shopify-theme-resources) `api@^1.88.4` `utils@^1.17.0`
-- **[Short.io](https://raycast.com/koinzhang/short-io)** - Shorten and search links with your own domain via Short.io [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/short-io) `api@^1.86.1` `utils@^1.18.1`
+- **[Short.io](https://raycast.com/koinzhang/short-io)** - Shorten and search links with your own domain via Short.io [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/short-io) `api@^1.94.0` `utils@^2.0.1`
 - **[Simple Http](https://raycast.com/roele/simple-http)** - A simplistic local Http server [`@roele`](https://raycast.com/roele) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-http) `api@^1.94.0` `utils@^1.17.0`
 - **[SimpleBackups](https://raycast.com/islamessam/simplebackups)** - View and manage your backups from SimpleBackups.com [`@islamessam`](https://raycast.com/islamessam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplebackups) `api@^1.39.3` `utils@^1.4.8`
 - **[SimpleTexOCR](https://raycast.com/Arthals/simpletexocr)** - A LaTeX OCR by Simpletex [`@Arthals`](https://raycast.com/Arthals) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simpletexocr) `api@^1.59.0` `utils@^1.10.0`
@@ -1868,6 +1868,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ente Auth](https://raycast.com/chkpwd/ente-auth)** - Get TOTP Codes from Ente Auth [`@chkpwd`](https://raycast.com/chkpwd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ente-auth) `api@^1.81.2` `utils@^1.16.3`
 - **[Exivo](https://raycast.com/Michi-2124/exivo)** - Use dormakaba exivo api to unlock doors. [`@Michi-2124`](https://raycast.com/Michi-2124) [`code`](https://github.com/raycast/extensions/tree/main/extensions/exivo) `api@^1.93.2` `utils@^1.17.0`
 - **[Greip](https://raycast.com/ghadeer/greip)** - Use endpoint from greip.io directly from Raycast [`@ghadeer`](https://raycast.com/ghadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/greip) `api@^1.43.2` `utils@^1.4.11`
+- **[Image Shield](https://raycast.com/tuki0918/image-shield)** - Protect images with advanced encryption and fragmentation. [`@tuki0918`](https://raycast.com/tuki0918) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-shield) `api@^1.99.3` `utils@^1.17.0`
 - **[KeePassXC](https://raycast.com/pabroux/keepassxc)** - Access a KeePass database through KeePassXC. [`@pabroux`](https://raycast.com/pabroux) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) `api@^1.94.3` `utils@^1.19.1`
 - **[Link Cleaner](https://raycast.com/MisakiCoca/link-cleaner)** - Remove tracking parameters from URL links. [`@MisakiCoca`](https://raycast.com/MisakiCoca) [`code`](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) `api@^1.94.3`
 - **[Mozilla VPN Connect](https://raycast.com/natew/mozilla-vpn)** - Interact with the Mozilla VPN from Raycast. [`@natew`](https://raycast.com/natew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) `api@^1.99.4` `utils@^2.0.0`
@@ -1930,6 +1931,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Quit Applications](https://raycast.com/mackopes/quit-applications)** - Quit applications directly from Raycast [`@mackopes`](https://raycast.com/mackopes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quit-applications) `api@^1.65.1` `utils@^1.10.1`
 - **[Refresh WiFi](https://raycast.com/natterstefan/refresh-wifi)** - Quickly turn your WiFi off and on again. [`@natterstefan`](https://raycast.com/natterstefan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/refresh-wifi) `api@^1.32.1`
 - **[Remove Background - Powered by Mac](https://raycast.com/xmorse/remove-background-powered-by-mac)** - Remove background from image with the Mac Vision API [`@xmorse`](https://raycast.com/xmorse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-background-powered-by-mac) `api@^1.79.0` `swift`
+- **[Sequoia Window Tiling](https://raycast.com/yazanzaid00/sequoia-tiling)** - Map macOS Sequoia tiling commands to Raycast actions with friendly shortcuts. [`@yazanzaid00`](https://raycast.com/yazanzaid00) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sequoia-tiling) `api@^1.100.2` `utils@^2.0.0`
 - **[Setapp](https://raycast.com/lardissone/setapp)** - Search Setapp apps [`@lardissone`](https://raycast.com/lardissone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/setapp) `api@^1.54.1` `utils@^1.8.0`
 - **[Shutdown Timer](https://raycast.com/whosmadeer/shutdown-timer)** - Schedule shutdowns and restarts on a timer [`@whosmadeer`](https://raycast.com/whosmadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shutdown-timer) `api@^1.99.4` `utils@^1.17.0`
 - **[Single Focus](https://raycast.com/Mmehdi06/single-focus)** - Closes all the open apps except the frontmost one [`@Mmehdi06`](https://raycast.com/Mmehdi06) [`code`](https://github.com/raycast/extensions/tree/main/extensions/single-focus) `api@^1.71.4` `utils@^1.10.1`
@@ -2308,6 +2310,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[SF Symbols Search](https://raycast.com/jffrykkn/sf-symbols-search)** - Search and copy SF Symbols [`@jffrykkn`](https://raycast.com/jffrykkn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sf-symbols-search) `api@^1.92.1`
 - **[Shopify Developer Changelog](https://raycast.com/sandypockets/shopify-developer-changelog)** - Most recent changes to Shopify's developer platform [`@sandypockets`](https://raycast.com/sandypockets) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shopify-developer-changelog) `api@^1.29.1`
 - **[Show Trends From Twitter](https://raycast.com/pradeepb28/twitter-trendscast)** - With these simple shortcuts, you can keep up with the latest trends from people you follow or any other trends on Twitter. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitter-trendscast) `api@^1.29.1`
+- **[Sidecar](https://raycast.com/philip_chen/sidecar)** - Quickly connect/disconnect iPad as a second display. [`@philip_chen`](https://raycast.com/philip_chen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sidecar) `api@^1.100.2` `utils@^1.17.0`
 - **[Simple Youdao Translate](https://raycast.com/xeric/simple-youdao)** - This is a Youdao translation extension with simple interaction [`@xeric`](https://raycast.com/xeric) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-youdao) `api@^1.35.0`
 - **[SimpRead](https://raycast.com/kenshin/simpread)** - Search and Open SimpRead Unreader [`@kenshin`](https://raycast.com/kenshin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simpread) `api@^1.25.0`
 - **[Single Disk Eject](https://raycast.com/johndturn/single-disk-eject)** - List and choose a single disk to eject. [`@johndturn`](https://raycast.com/johndturn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/single-disk-eject) `api@^1.25.4`
@@ -2331,6 +2334,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[The Blue Cloud](https://raycast.com/chyroc/the-blue-cloud)** - List, Search and Download Files using the Raycast Extension for Dropbox. [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-blue-cloud) `api@^1.91.0` `utils@^1.18.1`
 - **[The Noble Quran](https://raycast.com/BalliAsghar/the-noble-quran)** - Explore The Noble Quran [`@BalliAsghar`](https://raycast.com/BalliAsghar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-noble-quran) `api@^1.55.1` `utils@^1.8.0`
 - **[Things](https://raycast.com/loris/things)** - Search and manage your Things to-dos from Raycast [`@loris`](https://raycast.com/loris) [`code`](https://github.com/raycast/extensions/tree/main/extensions/things) `api@^1.79.1` `utils@^1.16.2` `ai` `ai-tools`
+- **[Tidal](https://raycast.com/Ek217/tidal)** - Control Tidal playback and view track info directly from Raycast with seamless integration. PLEASE NOTE 🚨: This extension may be VERY confusing to use if you have not read the documentation. It is highly recommended to do so before installing. (https://www.raycast.com/Ek217/tidal) [`@Ek217`](https://raycast.com/Ek217) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tidal) `api@^1.99.3` `utils@^1.17.0`
 - **[Timeular](https://raycast.com/bgnfu7re/raycast-timeular)** - Track time with Timeular [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/timeular) `api@^1.26.3`
 - **[Timezone Converter](https://raycast.com/joao.mainka/raycast-timezone-converter)** - Converts any time to any timezone [`@joao.mainka`](https://raycast.com/joao.mainka) [`code`](https://github.com/raycast/extensions/tree/main/extensions/timezone-converter) `api@^1.48.5` `utils@^1.4.16`
 - **[tldr](https://raycast.com/pomdtr/tldr)** - Search tldr Pages - Command Cheatsheet [`@pomdtr`](https://raycast.com/pomdtr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tldr) `api@^1.30.0`

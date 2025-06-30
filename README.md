@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a6b612c5f362393f_update-time.svg)
+![Last update](/icons/49d05041716600ab_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (206)
-  - [xmok](https://raycast.com/xmok) (115)
+  - [xmok](https://raycast.com/xmok) (116)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (70)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
@@ -621,7 +621,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Generate Nanoid](https://raycast.com/roelvan/nanoid)** - A tiny, secure, URL friendly, unique string ID generator for JavaScript [`@roelvan`](https://raycast.com/roelvan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nanoid) `api@^1.86.0`
 - **[Geoping](https://raycast.com/chiroyce/geoping)** - Pings servers around the globe [`@chiroyce`](https://raycast.com/chiroyce) [`code`](https://github.com/raycast/extensions/tree/main/extensions/geoping) `api@^1.89.1` `utils@^1.17.0`
 - **[Gerrit Code Review](https://raycast.com/vkhitrin/gerrit-code-review)** - Interact with Gerrit Code Review instances to query changes and projects [`@vkhitrin`](https://raycast.com/vkhitrin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gerrit-code-review) `api@^1.49.3` `utils@^1.5.2`
-- **[Get SSH Key](https://raycast.com/Theon/get-ssh-key)** - Get your local SSH key in a split of a second. [`@Theon`](https://raycast.com/Theon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) `api@^1.76.0` `utils@^1.15.0`
+- **[Get SSH Key](https://raycast.com/Theon/get-ssh-key)** - Get your local SSH key in a split of a second. [`@Theon`](https://raycast.com/Theon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-ssh-key) `api@^1.100.3` `utils@^2.0.1`
 - **[ghq](https://raycast.com/konojunya/ghq)** - Raycast Extension for ghq. [`@konojunya`](https://raycast.com/konojunya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ghq) `api@^1.67.1` `utils@^1.12.4`
 - **[Git Assistant](https://raycast.com/validate/git-assistant)** - Streamline your git workflow with AI-powered conventional commits and repository management. [`@validate`](https://raycast.com/validate) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-assistant) `api@^1.87.4` `utils@^1.17.0` `ai` `ai-tools`
 - **[Git Branch Name Generator](https://raycast.com/mbonner/git-branch-name-generator)** - Convert a string into a branch name [`@mbonner`](https://raycast.com/mbonner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-branch-name-generator) `api@^1.45.2` `utils@^1.4.15`

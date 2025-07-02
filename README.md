@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/0a7a80574587a44e_update-time.svg)
+![Last update](/icons/894fad3f00a5fd50_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2190** packages in **15** categories, **22** packages use Swift
-- **1421** authors, **873** contributors (of which **662** are only contributors, not authors)
+- **2192** packages in **15** categories, **22** packages use Swift
+- **1423** authors, **873** contributors (of which **662** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (64)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (206)
-  - [xmok](https://raycast.com/xmok) (118)
+  - [xmok](https://raycast.com/xmok) (119)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (70)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
@@ -586,7 +586,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Disk Utility](https://raycast.com/stelo/diskutil)** - Create, list and delete Apple File System (APFS) disk volumes [`@stelo`](https://raycast.com/stelo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/diskutil) `api@^1.81.2` `utils@^1.16.5`
 - **[Diskutil](https://raycast.com/Globolo/diskutil-mac)** - View your disks and volumes An implementation of the macOS 'diskutil' command with quicker access to features, providing a better overview and a much more userfriendly interface [`@Globolo`](https://raycast.com/Globolo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/diskutil-mac) `api@^1.51.0` `utils@^1.18.1`
 - **[Dock Tinker](https://raycast.com/koinzhang/dock-tinker)** - Custom hidden preferences of Dock. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dock-tinker) `api@^1.83.1`
-- **[Doppler Share Secrets](https://raycast.com/thomas/doppler-share-secrets)** - Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) `api@^1.95.0` `utils@^1.19.1`
+- **[Doppler Share Secrets](https://raycast.com/thomas/doppler-share-secrets)** - Share sensitive data (a "secret") and View Projects with their Configs, Environments, Secrets [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doppler-share-secrets) `api@^1.100.3` `utils@^2.0.1`
 - **[Dotmate](https://raycast.com/knealking/dotmate)** - Dotfile Manager for Raycast [`@knealking`](https://raycast.com/knealking) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotmate) `api@^1.99.4` `utils@^1.17.0`
 - **[DOTween Eases](https://raycast.com/metakirby5/dotween-eases)** - Preview DOTween easing options through GIFs. [`@metakirby5`](https://raycast.com/metakirby5) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotween-eases) `api@^1.37.0`
 - **[Drupal Toolbox](https://raycast.com/emircanerkul/drupal-toolbox)** - Valuable tools and shortcuts for your Drupal Websites [`@emircanerkul`](https://raycast.com/emircanerkul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drupal-toolbox) `api@1.44.0` `utils@^1.4.11`
@@ -1021,7 +1021,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Monzo](https://raycast.com/danpalmer/monzo)** - View your Monzo bank account balance and recent transactions. [`@danpalmer`](https://raycast.com/danpalmer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monzo) `api@^1.40.1` `utils@^1.4.8`
 - **[NFT Search](https://raycast.com/Glaze/nft-search)** - Seraching NFT real-time floor price and info by NFT collection name [`@Glaze`](https://raycast.com/Glaze) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nft-search) `api@^1.35.2`
 - **[Pera Algorand Explorer](https://raycast.com/akgunberk/pera-explorer)** - Search any ASA or NFT in Algorand (ALGO) Blockchain [`@akgunberk`](https://raycast.com/akgunberk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pera-explorer) `api@^1.39.2` `utils@^1.3.1`
-- **[Polar](https://raycast.com/emilwidlund/polar)** - Manage all your Polar products, sales & analytics [`@emilwidlund`](https://raycast.com/emilwidlund) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polar) `api@^1.69.0` `utils@^1.18.1`
+- **[Polar](https://raycast.com/emilwidlund/polar)** - Manage all your Polar products, sales & analytics [`@emilwidlund`](https://raycast.com/emilwidlund) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polar) `api@^1.94.0` `utils@^1.18.1`
 - **[Position Size Calculator](https://raycast.com/akhilesh_dalvi/position-size-calculator)** - The Position Size Calculator is a Raycast extension designed to help traders quickly and accurately determine the appropriate position size for their trades. It considers your trading capital, risk tolerance, and various methods for defining stop loss and target levels. This ensures you manage risk effectively according to your trading plan. [`@akhilesh_dalvi`](https://raycast.com/akhilesh_dalvi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/position-size-calculator) `api@^1.97.1` `utils@^1.17.0`
 - **[Qonto](https://raycast.com/christoribeiro/qonto)** - Search, download and open your Qonto from Raycast [`@christoribeiro`](https://raycast.com/christoribeiro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qonto) `api@^1.48.9` `utils@^1.5.2`
 - **[QuickFile](https://raycast.com/danielroe/quickfile)** - Access your QuickFile account balances. [`@danielroe`](https://raycast.com/danielroe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quickfile) `api@^1.35.1`
@@ -1689,6 +1689,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Query ChatGPT](https://raycast.com/cyxn/query-chatgpt)** - Opens ChatGPT in your browser and executes your query in it [`@cyxn`](https://raycast.com/cyxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/query-chatgpt) `api@^1.66.2` `utils@^1.11.1`
 - **[Quick Calendar](https://raycast.com/fuksman/calendar)** - View calendar month-by-month [`@fuksman`](https://raycast.com/fuksman) [`code`](https://github.com/raycast/extensions/tree/main/extensions/calendar) `api@^1.65.0`
 - **[Quick Notes](https://raycast.com/biknandy/quick-notes)** - Create simple markdown notes in Raycast and sync to a folder locally. No integrations required! [`@biknandy`](https://raycast.com/biknandy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-notes) `api@^1.94.3` `utils@^1.19.1`
+- **[Quick Quit](https://raycast.com/sriramHQ/quick-quit)** - A Raycast extension to instantly quit custom groups of applications. Create custom categories and quit them with a quicklink or a dedicated hotkey. [`@sriramHQ`](https://raycast.com/sriramHQ) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-quit) `api@^1.100.2` `utils@^2.0.0`
 - **[Quick Web](https://raycast.com/ShawYoungTang/quick-web)** - Quick Web is a configurable URL autocompletion tool [`@ShawYoungTang`](https://raycast.com/ShawYoungTang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-web) `api@^1.49.1`
 - **[QuickTime Recording](https://raycast.com/pradeepb28/quicktime)** - Start screen recording, movie recording and sound recording instantly. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicktime) `api@^1.79.0` `utils@^1.17.0`
 - **[Rabbit Hole](https://raycast.com/Rob/rabbit-hole)** - Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) `api@^1.76.0` `utils@^1.12.0`
@@ -2290,6 +2291,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Reddit Search](https://raycast.com/ewlcheng/reddit-search)** - Search Reddit, Subreddits, or within Subreddits and list the results in Raycast. [`@ewlcheng`](https://raycast.com/ewlcheng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/reddit-search) `api@^1.30.0`
 - **[Remove Background](https://raycast.com/maantje/remove-background)** - Removes the background from an image with remove.bg [`@maantje`](https://raycast.com/maantje) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-background) `api@^1.30.3`
 - **[Remove Window from Set](https://raycast.com/silv/remove-window-from-set)** - Try to click menu item "Remove Window from Set" from menu bar item "Window" with AppleScript. This menu item might be available when Stage Manager is enabled and the active Set has more than one Window. [`@silv`](https://raycast.com/silv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/remove-window-from-set) `api@^1.85.2` `utils@^1.17.0`
+- **[Resend Wallpaper](https://raycast.com/jopcmelo/resend-wallpaper)** - Get and set Resend official wallpapers. [`@jopcmelo`](https://raycast.com/jopcmelo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/resend-wallpaper) `api@^1.100.3` `utils@^1.17.0`
 - **[Rewardful](https://raycast.com/alexs/rewardful)** - Unofficial Rewardful extension [`@alexs`](https://raycast.com/alexs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rewardful) `api@^1.72.1` `utils@^1.14.1`
 - **[RICE Score](https://raycast.com/tonka3000/ricescore)** - Calculate RICE Score and output value or markdown table [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ricescore) `api@^1.33.0`
 - **[Roblox](https://raycast.com/TaylorRobinson/roblox-games)** - Searches for & launches Roblox places [`@TaylorRobinson`](https://raycast.com/TaylorRobinson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/roblox-games) `api@^1.27.1`

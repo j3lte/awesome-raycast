@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/894fad3f00a5fd50_update-time.svg)
+![Last update](/icons/ec416e468662050d_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2192** packages in **15** categories, **22** packages use Swift
-- **1423** authors, **873** contributors (of which **662** are only contributors, not authors)
+- **2195** packages in **15** categories, **22** packages use Swift
+- **1426** authors, **873** contributors (of which **662** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (64)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -536,6 +536,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Carbon Screenshot for Raycast](https://raycast.com/adelowo/carbon-code-screenshot-for-raycast)** - Uses the carbon.now.sh to create beautiful screenshot you can share online or with your team [`@adelowo`](https://raycast.com/adelowo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/carbon-raycast) `api@^1.45.1`
 - **[Catppuccin](https://raycast.com/dvhsh/catppuccin)** - Quickly view the Catppuccin color palette, userstyles, ports, and documentation. [`@dvhsh`](https://raycast.com/dvhsh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/catppuccin) `api@^1.81.2` `utils@^1.16.3`
 - **[Cerebras](https://raycast.com/EvanZhouDev/cerebras)** - Bring Instant AI Inference to Raycast [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cerebras) `api@^1.88.4` `utils@^1.18.1`
+- **[Certificate Viewer](https://raycast.com/gamerslouis/certificate-viewer)** - Quick download and decode certificates [`@gamerslouis`](https://raycast.com/gamerslouis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/certificate-viewer) `api@^1.100.3` `utils@^1.19.1`
 - **[Change Case](https://raycast.com/erics118/change-case)** - Transform a string between camelCase, snake_case, CONSTANT_CASE, and more [`@erics118`](https://raycast.com/erics118) [`code`](https://github.com/raycast/extensions/tree/main/extensions/change-case) `api@^1.75.2`
 - **[changedetection.io](https://raycast.com/xmok/changedetection-io)** - Website Change Detection For Clever People [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/changedetection-io) `api@^1.85.2` `utils@^1.17.0`
 - **[Charged: Starknet Shortcuts](https://raycast.com/apoorv/charged)** - Shorcuts for common web3 tasks [`@apoorv`](https://raycast.com/apoorv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/charged) `api@^1.51.1`
@@ -1040,7 +1041,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Toncoin (TON) Price](https://raycast.com/arthurn/toncoin-price)** - Keep an eye on Toncoin (TON) cryptocurrency price directly from your system menu bar [`@arthurn`](https://raycast.com/arthurn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toncoin-price) `api@^1.76.0` `utils@^1.4.8`
 - **[TradingView Controls](https://raycast.com/skaj/tradingview-controls)** - Controls TradingView from within Raycast [`@skaj`](https://raycast.com/skaj) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tradingview-controls) `api@^1.48.8`
 - **[Vortex](https://raycast.com/saunter/vortex)** - The fastest way to use bitcoin on macOS [`@saunter`](https://raycast.com/saunter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vortex) `api@^1.74.1` `utils@^1.18.1`
-- **[Wave](https://raycast.com/xmok/wave)** - Manage your Wave Businesses [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wave) `api@^1.94.0` `utils@^1.19.1`
+- **[Wave](https://raycast.com/xmok/wave)** - Manage your Wave Businesses [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wave) `api@^1.100.3` `utils@^2.0.1`
 - **[Wise Quotes](https://raycast.com/hugoliconv/wise-quotes)** - Effortlessly calculate international money transfers between USD and any target currency using the Wise API. Instantly generate quotes, access exchange rates, and estimated delivery times. [`@hugoliconv`](https://raycast.com/hugoliconv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wise-quotes) `api@^1.57.0` `utils@^1.9.0`
 - **[Yield Calculator](https://raycast.com/Decrypt/yield-calculator)** - Calculte your interests, APY / APR using our calculator. [`@Decrypt`](https://raycast.com/Decrypt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yield-calculator) `api@^1.83.1` `utils@^1.17.0`
 
@@ -1247,6 +1248,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Scrapbook](https://raycast.com/fakerr/scrapbook)** - View hackclub's scrapbook posts and users from raycast. [`@fakerr`](https://raycast.com/fakerr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scrapbook) `api@^1.79.0` `utils@^1.16.2`
 - **[setlist.fm](https://raycast.com/csigritz/setlist-fm)** - Look up setlists on setlist.fm [`@csigritz`](https://raycast.com/csigritz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/setlist-fm) `api@^1.96.3` `utils@^1.17.0` `ai-tools`
 - **[Slackmojis](https://raycast.com/timoransky/slackmojis)** - An unofficial directory of the best custom Slack emojis from slackmojis.com [`@timoransky`](https://raycast.com/timoransky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slackmojis) `api@^1.81.2` `utils@^1.16.3`
+- **[SomaFM](https://raycast.com/mwarger/somafm)** - Browse and play SomaFM internet radio stations with smart player detection, favorites, and now playing information [`@mwarger`](https://raycast.com/mwarger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/somafm) `api@^1.100.3` `utils@^1.17.0`
 - **[Sonarr](https://raycast.com/Aayush9029/sonarr)** - View your Sonarr upcoming shows. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sonarr) `api@^1.72.1` `utils@^1.14.1`
 - **[Spanish Tv Guide](https://raycast.com/doktor500/spanish-tv-guide)** - Browse the Spanish TV Guide [`@doktor500`](https://raycast.com/doktor500) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spanish-tv-guide) `api@^1.87.4`
 - **[Spoqify](https://raycast.com/truex/spoqify)** - Spoqify is an MIT-licensed dead-simple service that allows you to access Spotify playlists like an anonymous user [`@truex`](https://raycast.com/truex) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spoqify) `api@^1.84.6` `utils@^1.17.0`
@@ -1598,6 +1600,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Manage Monorepo Projects/Workspaces](https://raycast.com/tung-dang/monorepo-manager)** - A Raycast extension helps to manage monorepo projects/workspaces in your machine. It also list all packages in each monorepo project/workspace [`@tung-dang`](https://raycast.com/tung-dang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monorepo-manager) `api@^1.46.1`
 - **[Markdown Blog Manager](https://raycast.com/pyronaur/markdown-blog)** - Create, browse and edit your file based Markdown blog. [`@pyronaur`](https://raycast.com/pyronaur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-blog-manager) `api@^1.42.2` `utils@^1.4.10`
 - **[Markdown Navigator](https://raycast.com/chihkang/markdown-navigator)** - Efficiently manage and navigate your Markdown files. [`@chihkang`](https://raycast.com/chihkang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-navigator) `api@^1.93.2` `utils@^1.17.0`
+- **[Markdown Preview](https://raycast.com/xjo_nd/markdown-preview)** - A simple way to preview markdown content [`@xjo_nd`](https://raycast.com/xjo_nd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-preview) `api@^1.100.3` `utils@^1.17.0`
 - **[Markdown Slides](https://raycast.com/dnnsmnstrr/markdown-slides)** - Preview and manage markdown presentations [`@dnnsmnstrr`](https://raycast.com/dnnsmnstrr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-slides) `api@^1.84.2` `utils@^1.18.0`
 - **[Markdown Styler](https://raycast.com/qcrao/markdown-styler)** - Convert Markdown to styled HTML with inline CSS for content platforms [`@qcrao`](https://raycast.com/qcrao) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-styler) `api@^1.81.2` `utils@^1.17.0`
 - **[Markdown Table to Excel](https://raycast.com/wu.eth/md-to-excel)** - Convert md format table to Excel compatible table. [`@wu.eth`](https://raycast.com/wu.eth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/md-to-excel) `api@^1.49.3` `utils@^1.5.2`

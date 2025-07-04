@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/ec416e468662050d_update-time.svg)
+![Last update](/icons/9c71f4d5f0584803_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2195** packages in **15** categories, **22** packages use Swift
-- **1426** authors, **873** contributors (of which **662** are only contributors, not authors)
+- **2197** packages in **15** categories, **22** packages use Swift
+- **1429** authors, **876** contributors (of which **663** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (64)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -147,7 +147,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[iWork](https://raycast.com/HelloImSteven/iwork)** - Control Pages, Numbers, and Keynote [`@HelloImSteven`](https://raycast.com/HelloImSteven) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iwork) `api@^1.39.3`
 - **[Jq](https://raycast.com/vladimir-kotikov/raycast-jq)** - Run queries on Json data using jq [`@vladimir-kotikov`](https://raycast.com/vladimir-kotikov) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-jq) `api@^1.84.3` `utils@^1.17.0`
 - **[Just Focus](https://raycast.com/koinzhang/just-focus)** - Control Just Focus via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/just-focus) `api@^1.79.1`
-- **[Kaleidoscope](https://raycast.com/anfalas/kaleidoscope)** - Opens Kaleidoscope from selected files [`@anfalas`](https://raycast.com/anfalas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) `api@^1.63.0`
+- **[Kaleidoscope](https://raycast.com/flo_muc/kaleidoscope)** - Compare or open content from Raycast in Kaleidoscope. [`@flo_muc`](https://raycast.com/flo_muc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) `api@1.84.3`
 - **[Keka](https://raycast.com/aone/keka)** - Compress and extract files using Keka, the macOS file archiver [`@aone`](https://raycast.com/aone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keka) `api@^1.94.2` `utils@^1.17.0`
 - **[Klack](https://raycast.com/henrikruscon/klack)** - Control Klack for macOS with Raycast [`@henrikruscon`](https://raycast.com/henrikruscon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/klack) `api@^1.73.2`
 - **[Lark AppLink](https://raycast.com/chyroc/lark-applink)** - Open Lark AppLink [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) `api@^1.32.1`
@@ -1698,6 +1698,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Rabbit Hole](https://raycast.com/Rob/rabbit-hole)** - Discover and manage information your Rabbit r1 has saved in your rabbit hole journal. [`@Rob`](https://raycast.com/Rob) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rabbit-hole) `api@^1.76.0` `utils@^1.12.0`
 - **[Random US Phone Number](https://raycast.com/yug2005/random-us-phone-number)** - Generate a random US phone number. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-us-phone-number) `api@^1.45.2`
 - **[RapidCap](https://raycast.com/brittany_carusone/rapidcap)** - Quickly save information without context switching [`@brittany_carusone`](https://raycast.com/brittany_carusone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rapidcap) `api@^1.61.1` `utils@^1.10.1`
+- **[Ray Boop](https://raycast.com/nathan_schwermann/ray-boop)** - Port of Boop to Raycast. Run any Boop script on clipboard content. [`@nathan_schwermann`](https://raycast.com/nathan_schwermann) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ray-boop) `api@^1.100.3` `utils@^1.17.0`
 - **[Read AI - Text to Speech](https://raycast.com/JungHoonGhae/read-ai)** - Revolutionize your reading with OpenAI's TTS technology—bringing words to your ears, ideal for auditory learners and the visually impaired. [`@JungHoonGhae`](https://raycast.com/JungHoonGhae) [`code`](https://github.com/raycast/extensions/tree/main/extensions/read-ai) `api@^1.63.0`
 - **[Read Later](https://raycast.com/jimluo/later)** - Read your tabs later [`@jimluo`](https://raycast.com/jimluo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/later) `api@^1.76.0` `utils@^1.16.0`
 - **[Readeck](https://raycast.com/shichen437/readeck)** - This extension allows you to manage your Readeck bookmarks directly from Raycast. You can add new bookmarks and search through your existing ones effortlessly. [`@shichen437`](https://raycast.com/shichen437) [`code`](https://github.com/raycast/extensions/tree/main/extensions/readeck) `api@^1.68.1` `utils@^1.12.5`
@@ -1742,6 +1743,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Seedsnote](https://raycast.com/Ironben/seedsnote)** - A Seedsnote extension, capture your idea instantly. [`@Ironben`](https://raycast.com/Ironben) [`code`](https://github.com/raycast/extensions/tree/main/extensions/seedsnote) `api@^1.53.3`
 - **[Send to E-Reader](https://raycast.com/AlanHuang/send-to-e-reader)** - Send ebooks to Kobo/Kindle devices through https://send.djazz.se/ [`@AlanHuang`](https://raycast.com/AlanHuang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/send-to-e-reader) `api@^1.85.1` `utils@^1.17.0`
 - **[Send to Workflowy Inbox](https://raycast.com/cameron_pak/workflowy-inbox)** - Quickly add items to your Workflowy inbox. (This is an independent extension and is not created by Workflowy.) [`@cameron_pak`](https://raycast.com/cameron_pak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/workflowy-inbox) `api@^1.69.0` `utils@^1.12.5`
+- **[SendAI](https://raycast.com/kanishq_khandelwal/send-ai)** - Your shortcut to everything Solana. At your command bar. [`@kanishq_khandelwal`](https://raycast.com/kanishq_khandelwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/send-ai) `api@^1.94.2` `utils@^1.17.0` `ai` `ai-tools`
 - **[Sensible - Document Data Extraction](https://raycast.com/michaelschultz/sensible)** - Extract structured data from documents using Sensible.so [`@michaelschultz`](https://raycast.com/michaelschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sensible) `api@^1.61.2` `utils@^1.10.1`
 - **[SEO Lighthouse](https://raycast.com/guelug/seo-lighthouse)** - Lighthouse SEO Analyzer is a powerful Raycast extension that leverages Google Lighthouse to provide comprehensive SEO and performance audits for any website. Simply input a URL and choose your desired analysis mode, device type, and categories. Get detailed insights into page load speed, core web vitals, accessibility, best practices, and more. [`@guelug`](https://raycast.com/guelug) [`code`](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) `api@^1.84.3` `utils@^1.17.0`
 - **[Sequel Ace](https://raycast.com/nagauta/sequel-ace)** - search and connect databases in Sequel Ace [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sequel-ace) `api@^1.48.9`

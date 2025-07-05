@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/9c71f4d5f0584803_update-time.svg)
+![Last update](/icons/b8347244d72d3e58_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2197** packages in **15** categories, **22** packages use Swift
-- **1429** authors, **876** contributors (of which **663** are only contributors, not authors)
+- **2199** packages in **15** categories, **22** packages use Swift
+- **1430** authors, **876** contributors (of which **663** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (64)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -283,7 +283,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pushover](https://raycast.com/mattstone/pushover)** - Send a message via the Pushover API. [`@mattstone`](https://raycast.com/mattstone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pushover) `api@^1.90.0` `utils@^1.17.0`
 - **[Quick Phone Call](https://raycast.com/karbassi/quick-call)** - Make a phone call with the default telephone app. [`@karbassi`](https://raycast.com/karbassi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-call) `api@^1.57.1`
 - **[RAE Dictionary](https://raycast.com/sonirico/rae-dictionary-raycast)** - Query words in the Royal Spanish Academy dictionary directly from Raycast. Get definitions, conjugations, and expressions quickly without opening a browser. Using https://rae-api.com, unofficial API. [`@sonirico`](https://raycast.com/sonirico) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rae-dictionary-raycast) `api@^1.97.0` `utils@^1.17.0`
-- **[Resend](https://raycast.com/xmok/resend)** - Manage API Keys and Domains, and Send Emails using Resend [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/resend) `api@^1.93.0` `utils@^1.18.0` `ai` `ai-tools`
+- **[Resend](https://raycast.com/xmok/resend)** - Manage API Keys and Domains, and Send Emails using Resend [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/resend) `api@^1.100.3` `utils@^2.0.1` `ai` `ai-tools`
 - **[Rocket.Chat](https://raycast.com/alex-w0/rocket-chat)** - Search for teams, channels, users and change your presence status. [`@alex-w0`](https://raycast.com/alex-w0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rocket-chat) `api@^1.61.2`
 - **[Say - Text to Speech](https://raycast.com/litomore/say)** - Use the macOS built-in TTS (Spoken Content) to say the text you provide. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/say) `api@^1.98.5` `utils@^1.19.1`
 - **[Shroud.email](https://raycast.com/xmok/shroud-email)** - View Domains and Create or View Aliases in Shroud.email instance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shroud-email) `api@^1.52.1` `utils@^1.7.0`
@@ -1030,6 +1030,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Raynab — Manage Your Budgets](https://raycast.com/CodetaroMiura/raynab)** - View and manage your YNAB Budgets directly from Raycast [`@CodetaroMiura`](https://raycast.com/CodetaroMiura) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raynab) `api@^1.98.5` `utils@^1.18.1` `ai-tools`
 - **[Real Calc](https://raycast.com/xilopaint/real-calc)** - Update financial values based on various Brazilian price indices [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/real-calc) `api@^1.93.1` `utils@^1.19.0`
 - **[Recurly](https://raycast.com/bgnfu7re/recurly)** - A smallish client for the Recurly API [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`code`](https://github.com/raycast/extensions/tree/main/extensions/recurly) `api@^1.38.0`
+- **[Rewiser](https://raycast.com/rewiser_io/rewiser)** - Track and manage your Rewiser transactions directly from Raycast [`@rewiser_io`](https://raycast.com/rewiser_io) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rewiser) `api@^1.100.3` `utils@^1.19.1`
 - **[Risk Reward Calculator](https://raycast.com/demirtarik/risk-reward-calculator)** - This extension helps traders to calculate their position size based on entry, stop-loss, take-profit prices and the amount they risk. [`@demirtarik`](https://raycast.com/demirtarik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/risk-reward-calculator) `api@^1.51.0`
 - **[Rollup.wtf](https://raycast.com/Osprey/rollup-wtf)** - Raycast Version of Rollup.wtf [`@Osprey`](https://raycast.com/Osprey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rollup-wtf) `api@^1.84.3` `utils@^1.17.0`
 - **[Solana Wallets Generation](https://raycast.com/uladkaminski/solana-wallets-generation)** - Introducing the Solana Wallet Generator, a powerful Raycast extension designed for developers and cryptocurrency enthusiasts seeking to efficiently create multiple Solana wallets. This tool streamlines the wallet generation process, allowing users to produce thousands of wallets swiftly and securely. [`@uladkaminski`](https://raycast.com/uladkaminski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) `api@^1.91.2` `utils@^1.17.0`
@@ -1190,6 +1191,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Capture Raycast Metadata](https://raycast.com/koinzhang/capture-raycast-metadata)** - Capture a screenshot for Raycast extension's metadata. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/capture-raycast-metadata) `api@^1.78.1`
 - **[Center](https://raycast.com/enesozturk/center)** - Interact with NFTs in any blockchain, right in your command bar. [`@enesozturk`](https://raycast.com/enesozturk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/center) `api@1.50.2` `utils@^1.5.2`
 - **[Cloudinary](https://raycast.com/colbyfayock/cloudinary)** - Search assets and upload your clipboard to your Cloudinary account [`@colbyfayock`](https://raycast.com/colbyfayock) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudinary) `api@^1.79.0` `utils@^1.18.1`
+- **[ČSFD](https://raycast.com/adam_vyborny/csfd)** - Search for movies/tv shows and other in Czech-Slovak Movie Database [`@adam_vyborny`](https://raycast.com/adam_vyborny) [`code`](https://github.com/raycast/extensions/tree/main/extensions/csfd) `api@^1.94.3` `utils@^1.17.0` `ai` `ai-tools`
 - **[Danbooru](https://raycast.com/abel_roinsard/danbooru)** - Search the anime image board Danbooru! [`@abel_roinsard`](https://raycast.com/abel_roinsard) [`code`](https://github.com/raycast/extensions/tree/main/extensions/danbooru) `api@^1.84.3` `utils@^1.17.0`
 - **[Deutscher Wetterdienst](https://raycast.com/nicolai/deutscherwetterdienst)** - Shows current rain radar by the Deutscher Wetter Dienst [`@nicolai`](https://raycast.com/nicolai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deutscherwetterdienst) `api@^1.39.3`
 - **[DouTu](https://raycast.com/gaoyang/doutu)** - Easy retrieval of web emoji and GIF images while chatting. [`@gaoyang`](https://raycast.com/gaoyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doutu) `api@^1.72.1` `utils@^1.14.0`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/afc1b4d3b396668b_update-time.svg)
+![Last update](/icons/b0d1a4e74580ed1b_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2205** packages in **15** categories, **22** packages use Swift
-- **1434** authors, **882** contributors (of which **669** are only contributors, not authors)
+- **2208** packages in **15** categories, **22** packages use Swift
+- **1436** authors, **885** contributors (of which **671** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (65)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -54,7 +54,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [ridemountainpig](https://raycast.com/ridemountainpig) (70)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
-  - [litomore](https://raycast.com/litomore) (27)
+  - [litomore](https://raycast.com/litomore) (28)
   - [stelo](https://raycast.com/stelo) (25)
 
 <!-- END STATISTICS -->
@@ -71,7 +71,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ableton Live](https://raycast.com/dch09/ableton-live)** - Search and open recent Ableton Live Projects [`@dch09`](https://raycast.com/dch09) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) `api@^1.48.5` `utils@^1.4.18`
 - **[Adhan Time](https://raycast.com/mzaien/adhan-time)** - This extension helps you to search prayer time for the user location [`@mzaien`](https://raycast.com/mzaien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) `api@^1.46.0` `utils@^1.4.16`
 - **[Anybox](https://raycast.com/anybox/anybox)** - Control Anybox with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anybox) `api@^1.71.4`
-- **[Anytype](https://raycast.com/jmetrikat/anytype)** - Create, browse and search in Anytype - right at your fingertips, anywhere on your Mac. [`@jmetrikat`](https://raycast.com/jmetrikat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anytype) `api@^1.93.1` `utils@^1.17.0` `ai` `ai-tools`
+- **[Anytype](https://raycast.com/jmetrikat/anytype)** - Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. [`@jmetrikat`](https://raycast.com/jmetrikat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anytype) `api@^1.93.1` `utils@^1.17.0` `ai` `ai-tools`
 - **[Apple Mail](https://raycast.com/yug2005/mail)** - Extension for Apple Mail. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mail) `api@^1.94.0` `utils@^1.19.1` `ai-tools`
 - **[Apple Maps Search](https://raycast.com/djpowers/apple-maps-search)** - Quickly search Apple Maps or find directions. [`@djpowers`](https://raycast.com/djpowers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-maps-search) `api@^1.47.0`
 - **[Auto Quit App](https://raycast.com/koinzhang/auto-quit-app)** - Automatically quit the application after all windows are closed [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/auto-quit-app) `api@^1.83.1` `utils@^1.17.0`
@@ -111,7 +111,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[DevUtils](https://raycast.com/vietanhlehuu/devutils)** - Navigate DevUtils faster with this All-in-one Toolbox for Developers [`@vietanhlehuu`](https://raycast.com/vietanhlehuu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/devutils) `api@^1.44.0`
 - **[Drafts](https://raycast.com/FlohGro/drafts)** - integrate Raycast with Drafts app [`@FlohGro`](https://raycast.com/FlohGro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drafts) `api@^1.93.0` `utils@^1.19.1` `ai` `ai-tools`
 - **[Dropover](https://raycast.com/jag-k/dropover)** - Add selected files to Dropover [`@jag-k`](https://raycast.com/jag-k) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropover) `api@^1.50.5`
-- **[Easy Dictionary](https://raycast.com/isfeng/easydict)** - Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation. [`@isfeng`](https://raycast.com/isfeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easydict) `api@^1.68.0` `swift`
+- **[Easy Dictionary](https://raycast.com/isfeng/easydict)** - Easily look up words or translate text, support 48+ languages, support Linguee and Youdao dictionary, support OpenAI, DeepL, Google, Bing, Apple, Baidu, Tencent, Volcano, Youdao and Caiyun translation. [`@isfeng`](https://raycast.com/isfeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easydict) `api@^1.100.3` `swift`
 - **[Espanso](https://raycast.com/kud/espanso)** - The Raycast version of Espanso Search Bar [`@kud`](https://raycast.com/kud) [`code`](https://github.com/raycast/extensions/tree/main/extensions/espanso) `api@^1.61.1` `utils@^1.10.0`
 - **[Esse Actions](https://raycast.com/bert/esse-actions)** - Uses the Esse app, which must already be installed, to perform operations on the passed text [`@bert`](https://raycast.com/bert) [`code`](https://github.com/raycast/extensions/tree/main/extensions/esse-actions) `api@^1.41.1`
 - **[Fabric](https://raycast.com/naktinis/fabric)** - Quickly search and create in Fabric's intelligent workspace. [`@naktinis`](https://raycast.com/naktinis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fabric) `api@^1.92.1` `utils@^1.17.0`
@@ -240,6 +240,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Wireguard](https://raycast.com/sbugzhu/wireguard)** - Control Wireguard connections. [`@sbugzhu`](https://raycast.com/sbugzhu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wireguard) `api@^1.79.0` `utils@^1.18.1`
 - **[Xecutor](https://raycast.com/GastroGeek/xecutor)** - Create presets to launch multiple macOS applications and/or urls from within Raycast [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xecutor) `api@^1.39.3` `utils@^2.0.1`
 - **[Zen Browser](https://raycast.com/Keyruu/zen-browser)** - Search and open tabs from bookmarks and history in Zen Browser. [`@Keyruu`](https://raycast.com/Keyruu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) `api@^1.94.0` `utils@^1.19.1` `ai` `ai-tools`
+- **[Zipline](https://raycast.com/treyg/zipline)** - Manage your Zipline uploads - browse, upload, and share files [`@treyg`](https://raycast.com/treyg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zipline) `api@^1.94.0` `utils@^1.19.1`
 
 
 --------------------
@@ -790,6 +791,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Python](https://raycast.com/ahmedivy/python)** - Search Python Packages on PyPi [`@ahmedivy`](https://raycast.com/ahmedivy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/python) `api@^1.91.2` `utils@^1.18.1`
 - **[Quick Access](https://raycast.com/koinzhang/quick-access)** - Quick access, drag and drop the files or folders pinned in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-access) `api@^1.79.1` `utils@^1.16.2`
 - **[Quick Git](https://raycast.com/joshdales/quick-git)** - Quickly run git commands through Raycast [`@joshdales`](https://raycast.com/joshdales) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-git) `api@^1.100.0` `utils@^1.19.0`
+- **[Quick Jump](https://raycast.com/akadir/quick-jump)** - Quick access to your team's Git repositories, dashboards, databases, and internal tools. [`@akadir`](https://raycast.com/akadir) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quick-jump) `api@^1.99.4` `utils@^1.17.0`
 - **[QuickSnip](https://raycast.com/anders_morille/quicksnip)** - An open-source project that categorizes handy code snippets across various programming languages. [`@anders_morille`](https://raycast.com/anders_morille) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicksnip) `api@^1.88.4` `utils@^1.17.0`
 - **[Quicktype](https://raycast.com/Aayush9029/quicktype)** - Generate Models and Serializers from JSON [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quicktype) `api@^1.31.0`
 - **[Radicle](https://raycast.com/sebastinez_rhizoma/radicle)** - Interact with your Radicle storage. [`@sebastinez_rhizoma`](https://raycast.com/sebastinez_rhizoma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/radicle) `api@^1.100.3` `utils@^1.19.1`
@@ -1754,6 +1756,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Sequel Ace](https://raycast.com/nagauta/sequel-ace)** - search and connect databases in Sequel Ace [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sequel-ace) `api@^1.48.9`
 - **[ServiceNow](https://raycast.com/robertoalvarezalonso/servicenow)** - Search and explore content across your ServiceNow instances [`@robertoalvarezalonso`](https://raycast.com/robertoalvarezalonso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/servicenow) `api@^1.96.0` `utils@^1.19.1`
 - **[Shiori](https://raycast.com/namiwang/shiori)** - Interact with Shiori the bookmark manager [`@namiwang`](https://raycast.com/namiwang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shiori) `api@^1.65.1` `utils@^1.12.4`
+- **[Ship24 Package Tracker](https://raycast.com/Pr0tey/ship24-client)** - Track your packages and shipments with Ship24's powerful tracking service. Add parcels, monitor delivery status in real-time, and get detailed tracking history. Free plan includes 10 packages per month. Unofficial extension for Ship24.com with support for 1200+ carriers worldwide. [`@Pr0tey`](https://raycast.com/Pr0tey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ship24-client) `api@^1.100.3` `utils@^1.17.0`
 - **[Shortcut](https://raycast.com/Yukai/shortcut)** - Raycast extension for Shortcut [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shortcut) `api@^1.38.1` `utils@^1.0.6`
 - **[Shortcuts Search](https://raycast.com/solomkinmv/shortcuts-search)** - List, search and run shortcuts for different applications [`@solomkinmv`](https://raycast.com/solomkinmv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) `api@^1.63.0` `utils@^1.10.1`
 - **[Simple Reminder](https://raycast.com/comoser/simple-reminder)** - Set your reminders in natural language without the need to have any application installed. [`@comoser`](https://raycast.com/comoser) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder) `api@^1.73.3` `utils@^1.15.0`

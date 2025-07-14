@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/47a0b88f7f8ca347_update-time.svg)
+![Last update](/icons/7a83f6eed2f4275e_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -1181,7 +1181,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Wemo](https://raycast.com/iamnatch/raycast-wemo)** - Control your Wemo devices from Raycast [`@iamnatch`](https://raycast.com/iamnatch) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-wemo) `api@^1.47.3`
 - **[Wordle](https://raycast.com/chrisalxlng/wordle)** - Play Wordle locally once a day. [`@chrisalxlng`](https://raycast.com/chrisalxlng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wordle) `api@^1.47.3`
 - **[XKCD Comics](https://raycast.com/maggie/xkcd)** - Browse the xkcd comics and keep track of the ones you've read. [`@maggie`](https://raycast.com/maggie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xkcd) `api@^1.31.0`
-- **[Yu-Gi-Oh! Card Lookup](https://raycast.com/ApopeOS/yu-gi-oh-card-lookup)** - Find info on Yu-Gi-Oh TCG cards. [`@ApopeOS`](https://raycast.com/ApopeOS) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yu-gi-oh-card-lookup) `api@^1.91.2` `utils@^1.18.1`
+- **[Yu-Gi-Oh! Card Lookup](https://raycast.com/ApopeOS/yu-gi-oh-card-lookup)** - Find info on Yu-Gi-Oh TCG cards. [`@ApopeOS`](https://raycast.com/ApopeOS) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yu-gi-oh-card-lookup) `api@^1.91.2` `utils@^1.19.1`
 - **[Zalgo Text Generator](https://raycast.com/petermiles/zalgo-text)** - Translates given text to Zalgo text [`@petermiles`](https://raycast.com/petermiles) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zalgo-text) `api@^1.48.4` `utils@^1.5.2`
 
 
@@ -1741,7 +1741,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Screen Math](https://raycast.com/hcancelik/screen-math)** - Perform rapid calculations using numbers on your screen [`@hcancelik`](https://raycast.com/hcancelik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-math) `api@^1.56.0` `swift`
 - **[Screen Saver](https://raycast.com/koinzhang/screen-saver)** - Activate screen saver of your Mac. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-saver) `api@^1.78.1`
 - **[Screen Sharing Recents](https://raycast.com/bix/screen-sharing-recents)** - Adds shortcuts to recent screen sharing locations [`@bix`](https://raycast.com/bix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screen-sharing-recents) `api@^1.66.1`
-- **[ScreenOCR](https://raycast.com/huzef44/screenocr)** - Extract text from screen captures locally via OCR [`@huzef44`](https://raycast.com/huzef44) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screenocr) `api@^1.83.1` `utils@^1.17.0` `swift`
+- **[ScreenOCR](https://raycast.com/huzef44/screenocr)** - Extract text from screen captures locally via OCR [`@huzef44`](https://raycast.com/huzef44) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screenocr) `api@^1.100.3` `utils@^2.2.0` `swift`
 - **[Screenpipe](https://raycast.com/huzef44/screenpipe)** - Interact with Screenpipe [`@huzef44`](https://raycast.com/huzef44) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screenpipe) `api@^1.91.1` `utils@^1.17.0`
 - **[Screenshot](https://raycast.com/Aayush9029/screenshot)** - Capture your screen with macOS native tools [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/screenshot) `api@^1.42.0`
 - **[Search Blockchain](https://raycast.com/gutenye/search-blockchain)** - Search Bitcoin (BTC), Cardano (ADA), EOS, Ethereum (ETH), Monero (XMR), NEO, Ontology (ONT), Polygon (DOT), Solana (SOL), Stellar (XLM), Tron (TRX), XRP and more cryptocurrency blockchain explorer [`@gutenye`](https://raycast.com/gutenye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-blockchain) `api@^1.69.0`

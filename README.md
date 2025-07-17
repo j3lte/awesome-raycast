@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/c7d871d86177cf60_update-time.svg)
+![Last update](/icons/d4d408268982c76c_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **2216** packages in **15** categories, **23** packages use Swift
-- **1443** authors, **891** contributors (of which **677** are only contributors, not authors)
+- **1443** authors, **892** contributors (of which **678** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (65)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -54,7 +54,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [ridemountainpig](https://raycast.com/ridemountainpig) (71)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
-  - [litomore](https://raycast.com/litomore) (28)
+  - [litomore](https://raycast.com/litomore) (29)
   - [stelo](https://raycast.com/stelo) (25)
 
 <!-- END STATISTICS -->
@@ -422,7 +422,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Valorant Esports](https://raycast.com/vimtor/valorant-esports)** - Search Valorant esports schedules and standings. [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/valorant-esports) `api@^1.66.2` `utils@^1.12.0`
 - **[vatlayer](https://raycast.com/xmok/vatlayer)** - Validate VAT numbers, retrieve all or single EU VAT rates based on IP address or country code, convert prices in compliance with EU VAT rates and types, and more. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vatlayer) `api@^1.58.0` `utils@^1.4.8`
 - **[Workouts](https://raycast.com/samuelkraft/workouts)** - Stay on top of your workouts from Strava [`@samuelkraft`](https://raycast.com/samuelkraft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/workouts) `api@^1.71.0` `utils@^1.15.0` `ai` `ai-tools`
-- **[World Clock](https://raycast.com/koinzhang/world-clock)** - Query the current time of a region, ip or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/world-clock) `api@^1.96.3` `utils@^1.19.1`
+- **[World Clock](https://raycast.com/koinzhang/world-clock)** - Query the current time of a region, ip or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/world-clock) `api@^1.100.3` `utils@^2.2.0`
 - **[Zefix](https://raycast.com/cmdr/zefix)** - A Raycast extension that looks up companies in the Swiss national trade register [`@cmdr`](https://raycast.com/cmdr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zefix) `api@1.78.1` `utils@1.16.1`
 - **[Zipcodebase](https://raycast.com/xmok/zipcodebase)** - Lookup postal codes, calculate distances and much more with Zipcodebase. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zipcodebase) `api@^1.68.0` `utils@^1.10.1`
 
@@ -597,7 +597,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Drupal.org](https://raycast.com/hussainweb/drupal-org)** - Get information from drupal.org [`@hussainweb`](https://raycast.com/hussainweb) [`code`](https://github.com/raycast/extensions/tree/main/extensions/drupal-org) `api@^1.72.0`
 - **[Dynamic Font Size](https://raycast.com/nils_hoenson/dynamic-font-size)** - Create dynamic font sizes using the 'clamp' CSS function [`@nils_hoenson`](https://raycast.com/nils_hoenson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dynamic-font-size) `api@^1.60.1`
 - **[E2B Code Interpreter](https://raycast.com/mlejva/e2b)** - E2B is a tool that allows you to execute code in a secure sandbox withing a Jupyter-like notebook cell and return result [`@mlejva`](https://raycast.com/mlejva) [`code`](https://github.com/raycast/extensions/tree/main/extensions/e2b) `api@^1.91.2` `utils@^1.18.1` `ai` `ai-tools`
-- **[Easy New File](https://raycast.com/koinzhang/easy-new-file)** - Quickly create file in the open Finder window. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) `api@^1.100.2` `utils@^2.0.1`
+- **[Easy New File](https://raycast.com/koinzhang/easy-new-file)** - Quickly create file in the open Finder window. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easy-new-file) `api@^1.100.3` `utils@^2.2.0`
 - **[Easy Variable](https://raycast.com/keleus/easyvariable)** - Convert Any Language Text into an English Variable Name [`@keleus`](https://raycast.com/keleus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/easyvariable) `api@^1.91.1` `utils@^1.17.0`
 - **[Elixir](https://raycast.com/dinocosta/elixir)** - Navigate Elixir's documentation without leaving Raycast. [`@dinocosta`](https://raycast.com/dinocosta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elixir) `api@^1.86.1` `utils@^1.16.3`
 - **[Ember.js API Documentation](https://raycast.com/tdwesten/ember-api-documentation)** - Search Ember.js Api Documentation and open it in the browser [`@tdwesten`](https://raycast.com/tdwesten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ember-api-documentation) `api@^1.40.1` `utils@^1.4.8`
@@ -673,7 +673,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Image Diff Checker](https://raycast.com/yasuhiroyamamoto/image-diff-checker)** - Image Diff Checker compares two images and highlights the differences. It supports file formats such as JPEG, JPG, PNG, and GIF. [`@yasuhiroyamamoto`](https://raycast.com/yasuhiroyamamoto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-diff-checker) `api@^1.92.1` `utils@^1.17.0`
 - **[Incident.io](https://raycast.com/nkl/incident-io)** - Gets the incidents from Incident.io [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/incident-io) `api@^1.75.2` `utils@^1.19.1`
 - **[iOS Human Interface Guidelines](https://raycast.com/eliperkins/raycast-ios-hig)** - Shows you the iOS HIG's info for quick reference [`@eliperkins`](https://raycast.com/eliperkins) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) `api@^1.40.3`
-- **[IP Geolocation](https://raycast.com/koinzhang/ip-geolocation)** - Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) `api@^1.80.0` `utils@^1.16.3`
+- **[IP Geolocation](https://raycast.com/koinzhang/ip-geolocation)** - Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) `api@^1.100.3` `utils@^2.2.0`
 - **[IP Tools](https://raycast.com/meguoe/ip-tools)** - This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) [`@meguoe`](https://raycast.com/meguoe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) `api@^1.64.3` `utils@^1.10.1`
 - **[IPCheck](https://raycast.com/jason5ng32/ipcheck-ing)** - Show All Your IPs, from Local Network and Multiple Sources [`@jason5ng32`](https://raycast.com/jason5ng32) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ipcheck-ing) `api@^1.87.5` `utils@^1.17.0`
 - **[Jenkins](https://raycast.com/k8scat/jenkins)** - Manage your Jenkins directly from Raycast. [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jenkins) `api@^1.39.2`
@@ -897,7 +897,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Web Audit](https://raycast.com/flornkm/web-audit)** - Find SEO related data of any given webpage. [`@flornkm`](https://raycast.com/flornkm) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web-audit) `api@^1.94.0`
 - **[Web Converter](https://raycast.com/nielsvanrijn/web-converter)** - Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl and hsla and the shows closest Tailwind CSS color. [`@nielsvanrijn`](https://raycast.com/nielsvanrijn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert) `api@^1.53.2`
 - **[Websocket Debugging](https://raycast.com/RhysLees/websocket-debugging)** - Allows you to debug Pusher [`@RhysLees`](https://raycast.com/RhysLees) [`code`](https://github.com/raycast/extensions/tree/main/extensions/websocket-debugging) `api@^1.45.2` `utils@^1.4.16`
-- **[WeChat DevTool](https://raycast.com/tofrankie/wechat-devtool)** - Quickly open and manage WeChat Mini Program projects with multi-device support using the official CLI. [`@tofrankie`](https://raycast.com/tofrankie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool) `api@^1.100.3` `utils@^1.19.1`
+- **[WeChat DevTool](https://raycast.com/tofrankie/wechat-devtool)** - Quickly open WeChat Mini Program projects via official CLI. [`@tofrankie`](https://raycast.com/tofrankie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool) `api@^1.100.3` `utils@^1.19.1`
 - **[Wifi Password Reveal](https://raycast.com/louishuyng/wifi-password-reveal)** - Reveal any saved WIFI Password on macOS [`@louishuyng`](https://raycast.com/louishuyng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal) `api@^1.99.4`
 - **[Wifi Share QR-Code](https://raycast.com/abul_kalam_robin/wifi-share)** - Share any saved wifi qr code to other devices to join the network [`@abul_kalam_robin`](https://raycast.com/abul_kalam_robin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wifi-share) `api@^1.58.1`
 - **[Windmill](https://raycast.com/emiliobool/windmill)** - Windmill Extension to run workflows directly from Raycast [`@emiliobool`](https://raycast.com/emiliobool) [`code`](https://github.com/raycast/extensions/tree/main/extensions/windmill) `api@^1.79.0` `utils@^1.18.1`

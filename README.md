@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/d4d408268982c76c_update-time.svg)
+![Last update](/icons/87914aebbf89490f_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2216** packages in **15** categories, **23** packages use Swift
-- **1443** authors, **892** contributors (of which **678** are only contributors, not authors)
+- **2218** packages in **15** categories, **23** packages use Swift
+- **1445** authors, **892** contributors (of which **678** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (65)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -1466,6 +1466,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Clipsign](https://raycast.com/gdcho/clipsign)** - A lightweight Raycast extension for creating, saving, and instantly copying your e‑signature. [`@gdcho`](https://raycast.com/gdcho) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipsign) `api@^1.99.2` `utils@^1.17.0`
 - **[Close All Open Apps](https://raycast.com/guide/close-apps)** - Script that closes all open apps [`@guide`](https://raycast.com/guide) [`code`](https://github.com/raycast/extensions/tree/main/extensions/close-apps) `api@^1.87.4` `utils@^1.17.0`
 - **[Close Finder](https://raycast.com/qeude/close-finder)** - Utils to close Finder from Raycast. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/close-finder) `api@^1.64.4` `utils@^1.10.1`
+- **[Cloudflare Email Routing](https://raycast.com/erayack/cloudflare-email-routing)** - Create, list, edit, and delete Cloudflare email aliases directly from Raycast. [`@erayack`](https://raycast.com/erayack) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-email-routing) `api@^1.96.3` `utils@^1.17.0`
 - **[Coda Bookmarks Search](https://raycast.com/allienx/coda-bookmarks-search)** - Quickly find and open your bookmarked URLs stored in a coda table. [`@allienx`](https://raycast.com/allienx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coda-bookmarks-search) `api@1.36.0`
 - **[Common Directory](https://raycast.com/koinzhang/common-directory)** - Quickly open or show common directory in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/common-directory) `api@^1.43.2`
 - **[Comodoro](https://raycast.com/jns/comodoro)** - Control Comodoro, a Pomodor timer [`@jns`](https://raycast.com/jns) [`code`](https://github.com/raycast/extensions/tree/main/extensions/comodoro) `api@^1.88.4` `utils@^1.18.1`
@@ -1847,6 +1848,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[WebKit Developer Documentation](https://raycast.com/KevinBatdorf/webkit-developer-docs)** - Search and view WebKit docs [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webkit-developer-docs) `api@^1.50.2` `utils@^1.5.2`
 - **[Webpage to Markdown](https://raycast.com/treyg/webpage-to-markdown)** - Convert any webpage to markdown just by providing the url. [`@treyg`](https://raycast.com/treyg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webpage-to-markdown) `api@^1.84.3` `utils@^1.17.0` `ai` `ai-tools`
 - **[Website Blocker](https://raycast.com/gersomvg/website-blocker)** - Block websites by changing your hosts file automatically, directly from Raycast [`@gersomvg`](https://raycast.com/gersomvg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/website-blocker) `api@^1.65.1` `utils@^1.4.8`
+- **[WeRead Sync](https://raycast.com/owen_wang/weread-sync)** - Sync your highlights from WeRead to Readwise automatically [`@owen_wang`](https://raycast.com/owen_wang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/weread-sync) `api@^1.100.3` `utils@^1.17.0`
 - **[Whisper Dictation](https://raycast.com/finjo/whisper-dictation)** - A powerful dictation tool that uses Whisper for speech-to-text transcription, with AI-powered refinement options. [`@finjo`](https://raycast.com/finjo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/whisper-dictation) `api@^1.99.3`
 - **[Who Is off Today?](https://raycast.com/pejman_yaghmaie/who-is-off-today)** - See who is off today from remote.com [`@pejman_yaghmaie`](https://raycast.com/pejman_yaghmaie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/who-is-off-today) `api@^1.76.1`
 - **[WIP](https://raycast.com/marckohlbrugge/wip)** - Manage your WIP todos and projects from Raycast. [`@marckohlbrugge`](https://raycast.com/marckohlbrugge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wip) `api@^1.66.2`

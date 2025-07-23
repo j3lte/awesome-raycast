@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/87914aebbf89490f_update-time.svg)
+![Last update](/icons/a3d076b42f72abd6_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -2092,7 +2092,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[You.com Search](https://raycast.com/salman_mian/you-com-search)** - Search You.com directly from Raycast [`@salman_mian`](https://raycast.com/salman_mian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/you-com-search) `api@^1.71.3` `utils@^1.14.0`
 - **[YouTube Companion](https://raycast.com/sasivarnan/youtube-companion)** - Collection of scripts to improve YouTube browsing experience [`@sasivarnan`](https://raycast.com/sasivarnan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube-companion) `api@^1.33.2`
 - **[YouTube Search](https://raycast.com/muhammetakay/youtube-search)** - YouTube search with autosuggestions [`@muhammetakay`](https://raycast.com/muhammetakay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube-search) `api@^1.44.0`
-- **[Zerion](https://raycast.com/qdqd/zerion)** - Browse Zerion from Raycast [`@qdqd`](https://raycast.com/qdqd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zerion) `api@^1.94.2` `utils@^1.18.1` `ai` `ai-tools`
+- **[Zerion](https://raycast.com/imqdee/zerion)** - Browse Zerion from Raycast [`@imqdee`](https://raycast.com/imqdee) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zerion) `api@^1.94.2` `utils@^1.18.1` `ai` `ai-tools`
 
 
 --------------------

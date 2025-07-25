@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/a3d076b42f72abd6_update-time.svg)
+![Last update](/icons/7e78ec4cae2f2646_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **2218** packages in **15** categories, **23** packages use Swift
-- **1445** authors, **892** contributors (of which **678** are only contributors, not authors)
+- **1445** authors, **893** contributors (of which **679** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (65)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -54,7 +54,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [ridemountainpig](https://raycast.com/ridemountainpig) (71)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
-  - [litomore](https://raycast.com/litomore) (29)
+  - [litomore](https://raycast.com/litomore) (30)
   - [stelo](https://raycast.com/stelo) (25)
 
 <!-- END STATISTICS -->
@@ -271,7 +271,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MailerLite Stats](https://raycast.com/nkl/mailerlite-stats)** - MailerLite Stats Raycast extension [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailerlite-stats) `api@^1.87.2` `utils@^1.18.1`
 - **[MailerSend](https://raycast.com/xmok/mailersend)** - View Domains, Users, Templates in MailerSend Account [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailersend) `api@^1.100.3` `utils@^1.17.0`
 - **[Mailsy](https://raycast.com/BalliAsghar/mailsy)** - Quickly Generate Disposable Email Address and view received mails. [`@BalliAsghar`](https://raycast.com/BalliAsghar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mailsy) `api@^1.63.0`
-- **[Mastodon](https://raycast.com/SevicheCC/mastodon)** - Publish status from Raycast to Mastodon, and view your bookmarked status [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mastodon) `api@^1.64.4` `utils@^1.10.1`
+- **[Mastodon](https://raycast.com/SevicheCC/mastodon)** - Publish status from Raycast to Mastodon, and view your bookmarked status [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mastodon) `api@^1.100.3` `utils@^2.2.0`
 - **[Mastodon Search](https://raycast.com/daveverwer/mastodon-search)** - Search for People or Hashtags on Mastodon. [`@daveverwer`](https://raycast.com/daveverwer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mastodon-search) `api@^1.49.3` `utils@^1.5.2`
 - **[Mattermost](https://raycast.com/ernest0n/mattermost)** - Search for chats, see unread messages, and set your presence status. [`@ernest0n`](https://raycast.com/ernest0n) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mattermost) `api@^1.79.0` `utils@^1.18.0`
 - **[Migadu](https://raycast.com/xmok/migadu)** - Mailboxes, Identities, Aliases, Rewrites in Migadu [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/migadu) `api@^1.80.0` `utils@^1.16.3`
@@ -384,7 +384,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Minion Ipsum](https://raycast.com/vigosan/minion-ipsum)** - Generate Minion Ipsum like: Minions ipsum hahaha wiiiii gelatooo poopayee aaaaaah. [`@vigosan`](https://raycast.com/vigosan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/minion-ipsum) `api@^1.67.1`
 - **[NASA](https://raycast.com/mSarheed/nasa)** - View the Astronomy Picture of the Day, latest news, astronauts, spacecrafts, and upcoming launches from NASA and other space agencies. [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nasa) `api@^1.81.2` `utils@^1.17.0`
 - **[Nordic Energy Prices](https://raycast.com/mSarheed/nordic-energy-prices)** - Get today's energy prices in the Nordic countries (Denmark, Sweden, Norway, Finland) [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nordic-energy-prices) `api@^1.80.0` `utils@^1.16.3`
-- **[NUSMods](https://raycast.com/wxiaoyun/nusmods)** - Search and explore NUS courses with detailed module information, prerequisites, timetables, and exam schedules powered by NUSMods API [`@wxiaoyun`](https://raycast.com/wxiaoyun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nusmods) `api@^1.96.0` `utils@^1.17.0`
+- **[NUSMods](https://raycast.com/wxiaoyun/nusmods)** - Search and explore NUS courses with detailed module information, prerequisites, timetables, and exam schedules powered by NUSMods API [`@wxiaoyun`](https://raycast.com/wxiaoyun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nusmods) `api@^1.100.3` `utils@^1.17.0`
 - **[Octopus Energy](https://raycast.com/mike182uk/octopus-energy)** - Retrieve up-to-date Agile tariff prices for your region [`@mike182uk`](https://raycast.com/mike182uk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/octopus-energy) `api@1.70.3`
 - **[Open Targets](https://raycast.com/ireneisdoomed/open_targets)** - An (unofficial) entry point to the Open Targets ecosystem. [`@ireneisdoomed`](https://raycast.com/ireneisdoomed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-targets-raycast) `api@^1.46.1` `utils@^1.4.16`
 - **[OSS Browser](https://raycast.com/JinShi/oss-browser)** - Browse and manage Aliyun Object Storage Service [`@JinShi`](https://raycast.com/JinShi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oss-browser) `api@^1.44.0`
@@ -2042,7 +2042,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Myanimelist Search](https://raycast.com/luknl/myanimelist-search)** - Easily search, open and manage your animes on Myanimelist. [`@luknl`](https://raycast.com/luknl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/myanimelist-search) `api@^1.91.0` `utils@^1.4.8`
 - **[Namuwiki](https://raycast.com/123period/namuwiki)** - Search Korean documents in Namuwiki [`@123period`](https://raycast.com/123period) [`code`](https://github.com/raycast/extensions/tree/main/extensions/namuwiki) `api@^1.91.0` `utils@^1.17.0`
 - **[Naver Search](https://raycast.com/magneto/naver-search)** - Naver search extension for Raycast [`@magneto`](https://raycast.com/magneto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/naver-search) `api@^1.48.8`
-- **[NeoDB](https://raycast.com/SevicheCC/neodb)** - Search NeoDB items and view item details [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neodb) `api@^1.79.0` `utils@^1.18.0`
+- **[NeoDB](https://raycast.com/SevicheCC/neodb)** - Search NeoDB items and view item details [`@SevicheCC`](https://raycast.com/SevicheCC) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neodb) `api@^1.100.3` `utils@^2.2.0`
 - **[Norwegian Public Transport](https://raycast.com/rosvik/raycast-norwegian-public-transport)** - Real-time departures for Norwegian public transport. Data made available by Entur. [`@rosvik`](https://raycast.com/rosvik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/norwegian-public-transport) `api@^1.100.3` `utils@^2.0.1`
 - **[Nouns](https://raycast.com/peduarte/nouns)** - Explore the Nouns Ecosystem. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nouns) `api@^1.40.3` `utils@^1.4.8`
 - **[Oh Dear](https://raycast.com/andreaselia/ohdear)** - Manage your Oh Dear sites easy directly from Raycast [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ohdear) `api@^1.39.1` `utils@^1.4.8`

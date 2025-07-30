@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/7e78ec4cae2f2646_update-time.svg)
+![Last update](/icons/8af4fb47f0be9135_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,7 +39,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **2218** packages in **15** categories, **23** packages use Swift
-- **1445** authors, **893** contributors (of which **679** are only contributors, not authors)
+- **1445** authors, **894** contributors (of which **679** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (65)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -439,7 +439,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Apple Devices](https://raycast.com/madza/apple-devices)** - Quickly look up Apple Devices and control Simulators [`@madza`](https://raycast.com/madza) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-devices) `api@^1.52.1` `utils@^1.7.0`
 - **[Aspect Raytio](https://raycast.com/ickas/aspect-raytio)** - Calculate easily the aspect ratio for different sizes based on a width or height. [`@ickas`](https://raycast.com/ickas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio) `api@^1.65.1` `utils@^1.10.1`
 - **[Avatar](https://raycast.com/koinzhang/avatar)** - An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/avatar) `api@^1.72.1`
-- **[Brand Icons - simpleicons.org](https://raycast.com/litomore/simple-icons)** - Browse, Search, and Copy 3300+ popular brand icons from Simple Icons. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) `api@^1.100.3` `utils@^2.2.0`
+- **[Brand Icons - simpleicons.org](https://raycast.com/litomore/simple-icons)** - Browse, Search, and Copy 3300+ popular brand icons from Simple Icons. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) `api@^1.101.1` `utils@^2.2.0`
 - **[Canva](https://raycast.com/xmok/canva)** - View Designs and Open in Browser [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/canva) `api@^1.94.0` `utils@^1.19.1`
 - **[Color Casket](https://raycast.com/slavarazum/color-casket)** - Handy Color Utilities [`@slavarazum`](https://raycast.com/slavarazum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-casket) `api@^1.42.0`
 - **[Color Palette Picker](https://raycast.com/juliusmarminge/palette-picker)** - A simple color picker for Tailwind CSS and Radix UI color palettes. [`@juliusmarminge`](https://raycast.com/juliusmarminge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/palette-picker) `api@^1.47.3`
@@ -602,7 +602,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Elixir](https://raycast.com/dinocosta/elixir)** - Navigate Elixir's documentation without leaving Raycast. [`@dinocosta`](https://raycast.com/dinocosta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/elixir) `api@^1.86.1` `utils@^1.16.3`
 - **[Ember.js API Documentation](https://raycast.com/tdwesten/ember-api-documentation)** - Search Ember.js Api Documentation and open it in the browser [`@tdwesten`](https://raycast.com/tdwesten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ember-api-documentation) `api@^1.40.1` `utils@^1.4.8`
 - **[Encoding Tools](https://raycast.com/eth-p/encoding-tools)** - A toolbox for encoding, decoding, and hashing data in the clipboard. [`@eth-p`](https://raycast.com/eth-p) [`code`](https://github.com/raycast/extensions/tree/main/extensions/encoding-tools) `api@^1.32.1`
-- **[End of Life](https://raycast.com/csigritz/end-of-life)** - An extension to bring endoflife.date into Raycast. Get End-of-life (EOL) and support information for various products [`@csigritz`](https://raycast.com/csigritz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/end-of-life) `api@^1.69.0`
+- **[End of Life](https://raycast.com/csigritz/end-of-life)** - An extension to bring endoflife.date into Raycast. Get End-of-life (EOL) and support information for various products [`@csigritz`](https://raycast.com/csigritz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/end-of-life) `api@^1.101.1` `utils@^2.2.0`
 - **[Envoyer](https://raycast.com/thijsdewitt/envoyer)** - Search for envoyer projects, start new deploys and view recent deployments [`@thijsdewitt`](https://raycast.com/thijsdewitt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/envoyer) `api@^1.36.1`
 - **[Epoch to Timestamp](https://raycast.com/bgreenlee/epoch-to-timestamp)** - Quickly convert a Unix epoch, in seconds or milliseconds, to a human-readible timestamp. [`@bgreenlee`](https://raycast.com/bgreenlee) [`code`](https://github.com/raycast/extensions/tree/main/extensions/epoch-to-timestamp) `api@^1.47.3`
 - **[Evaluate Math Expression](https://raycast.com/Dervex/evaluate-math-expression)** - Reads current selection, evaluates the math expression, and shows it in a desired way [`@Dervex`](https://raycast.com/Dervex) [`code`](https://github.com/raycast/extensions/tree/main/extensions/evaluate-math-expression) `api@^1.91.2` `utils@^1.17.0`
@@ -928,7 +928,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Alpine.js](https://raycast.com/aurawindsurfing/alpinejs)** - Search Alpine.js documentation [`@aurawindsurfing`](https://raycast.com/aurawindsurfing) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alpinejs-doc-search) `api@^1.79.0` `utils@^1.16.4`
 - **[Axios Docs](https://raycast.com/denizyoldas/axios-docs)** - Quickly lookup Axios documentation [`@denizyoldas`](https://raycast.com/denizyoldas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/axios-docs) `api@^1.79.0`
 - **[Backstage](https://raycast.com/yukukotani/backstage)** - Shortcuts for Backstage [`@yukukotani`](https://raycast.com/yukukotani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/backstage) `api@^1.79.1` `utils@^1.16.2`
-- **[Badges - shields.io](https://raycast.com/litomore/badges)** - Concise, consistent, and legible badges. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/badges) `api@^1.88.4` `utils@^1.18.1`
+- **[Badges - shields.io](https://raycast.com/litomore/badges)** - Concise, consistent, and legible badges. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/badges) `api@^1.101.1` `utils@^2.2.0`
 - **[Braid Design System](https://raycast.com/felixhabib/braid)** - Search and use Braid Components and Iconography from Raycast [`@felixhabib`](https://raycast.com/felixhabib) [`code`](https://github.com/raycast/extensions/tree/main/extensions/braid) `api@^1.84.2` `utils@^1.18.0`
 - **[Cheatsheets](https://raycast.com/destiner/cheatsheets)** - Search and view programming cheatsheets [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) `api@^1.28.0`
 - **[Cilium Docs](https://raycast.com/dario_mader/cilium-docs)** - An extension for Raycast that let's you access Cilium Docs through Raycast. [`@dario_mader`](https://raycast.com/dario_mader) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cilium-docs) `api@^1.61.0` `utils@^1.10.0`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/1a7ec5f8fb666a4d_update-time.svg)
+![Last update](/icons/3cd9a9395a063f35_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2218** packages in **15** categories, **23** packages use Swift
+- **2219** packages in **15** categories, **23** packages use Swift
 - **1445** authors, **894** contributors (of which **679** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (65)
@@ -1864,7 +1864,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Year in Progress](https://raycast.com/thomas/year-in-progress)** - Stay motivated by see the progress of the year. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/year-in-progress) `api@^1.47.3` `utils@^1.4.8`
 - **[YOURLS Link Shortener](https://raycast.com/firhan_ramadhan/yourls)** - Create and view shortened links using YOURLS [`@firhan_ramadhan`](https://raycast.com/firhan_ramadhan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yourls) `api@^1.79.0` `utils@^1.18.0`
 - **[YouTube Shorts to Normal Video Page](https://raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs/youtube-shorts-to-normal-video-page)** - One click to convert YouTube shorts url to regular url [`@b6pzeusbc54tvhw5jgpyw8pwz2x6gs`](https://raycast.com/b6pzeusbc54tvhw5jgpyw8pwz2x6gs) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtube-shorts-to-normal-video-page) `api@^1.72.1` `utils@^1.14.1`
-- **[YouVersion Bible Suggest](https://raycast.com/caleb531/youversion-suggest)** - Allows you to search the YouVersion Bible quickly and easily [`@caleb531`](https://raycast.com/caleb531) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youversion-suggest) `api@^1.76.1`
+- **[YouVersion Bible Suggest](https://raycast.com/caleb531/youversion-suggest)** - Allows you to search the YouVersion Bible quickly and easily [`@caleb531`](https://raycast.com/caleb531) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youversion-suggest) `api@^1.102.2`
 - **[YubiKey Code](https://raycast.com/yoyoyeti/yubikey-code)** - Easily get a OTP from your YubiKey [`@yoyoyeti`](https://raycast.com/yoyoyeti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) `api@^1.95.0`
 - **[Zeitraum](https://raycast.com/tensor/zeitraum)** - Track time with tags to Zeitraum server [`@tensor`](https://raycast.com/tensor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zeitraum) `api@^1.51.1`
 - **[Zen Mode](https://raycast.com/pradeepb28/zen-mode)** - Hide Everything. Mute Everything. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) `api@^1.35.2`
@@ -2290,6 +2290,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Phind Search](https://raycast.com/Chuck/phind-search)** - Search anything with Phind [`@Chuck`](https://raycast.com/Chuck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phind-search) `api@^1.58.1` `utils@^1.10.0`
 - **[PHP Monitor](https://raycast.com/nicoverbruggen/php-monitor)** - Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by default in PHP Monitor.)   https://phpmon.app [`@nicoverbruggen`](https://raycast.com/nicoverbruggen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phpmon) `api@^1.27.1`
 - **[Pipedrive Search](https://raycast.com/ahp/pipedrive)** - Search Pipedrive deals, people and organizations [`@ahp`](https://raycast.com/ahp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pipedrive) `api@^1.89.0`
+- **[Planning Center](https://raycast.com/caleb531/planning-center)** - Quickly look up people in Planning Center and copy their contact info [`@caleb531`](https://raycast.com/caleb531) [`code`](https://github.com/raycast/extensions/tree/main/extensions/planning-center) `api@^1.102.2` `utils@^2.2.0`
 - **[Podcasts](https://raycast.com/ron-myers/podcasts)** - Control the Podcasts app for macOS with your keyboard. [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/podcasts) `api@^1.29.1`
 - **[Polished](https://raycast.com/lekoarts/polished)** - Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. [`@lekoarts`](https://raycast.com/lekoarts) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polished) `api@^1.26.1`
 - **[Popcorn - Explore Stremio Streams](https://raycast.com/martipops/popcorn)** - A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. IINA is highly recommended for macOS users. [`@martipops`](https://raycast.com/martipops) [`code`](https://github.com/raycast/extensions/tree/main/extensions/popcorn) `api@^1.96.1` `utils@^1.17.0`

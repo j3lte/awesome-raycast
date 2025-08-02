@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/3cd9a9395a063f35_update-time.svg)
+![Last update](/icons/eda0314a0f5973b2_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (206)
-  - [xmok](https://raycast.com/xmok) (122)
+  - [xmok](https://raycast.com/xmok) (123)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (71)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (31)
@@ -744,7 +744,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Open Graph](https://raycast.com/1weiho/open-graph)** - Preview Open Graph meta tags of a website [`@1weiho`](https://raycast.com/1weiho) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-graph) `api@^1.72.1`
 - **[Open in Android Studio](https://raycast.com/3llomi/open-in-android-studio)** - Open current Finder directory, selected folder in Android Studio, Add your favorite projects for quick access. [`@3llomi`](https://raycast.com/3llomi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-android-studio) `api@^1.58.0`
 - **[Open in Cursor](https://raycast.com/mjoosuf/open-in-cursor)** - Open current Finder directory, selected folder or file in Cursor. [`@mjoosuf`](https://raycast.com/mjoosuf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-cursor) `api@^1.39.1`
-- **[Open in JSON Hero](https://raycast.com/maverickdotdev/open-in-json-hero)** - Opens JSON in your pasteboard in JSON Hero [`@maverickdotdev`](https://raycast.com/maverickdotdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-json-hero) `api@^1.33.1`
+- **[Open in JSON Hero](https://raycast.com/maverickdotdev/open-in-json-hero)** - Opens JSON in your pasteboard in JSON Hero [`@maverickdotdev`](https://raycast.com/maverickdotdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-json-hero) `api@^1.101.1`
 - **[Open in Sublime Text](https://raycast.com/anfalas/open-in-sublime-text)** - Open current Finder directory, selected folder or file in Sublime Text. [`@anfalas`](https://raycast.com/anfalas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-sublime-text) `api@^1.39.1` `utils@^1.17.0`
 - **[Open in TextMate](https://raycast.com/fannarfreyr/open-in-textmate)** - Open selected Finder file or folder in TextMate [`@fannarfreyr`](https://raycast.com/fannarfreyr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-textmate) `api@^1.100.3` `utils@^1.17.0`
 - **[Open in Visual Studio Code](https://raycast.com/shubzkothekar/open-in-visual-studio-code)** - Open current Finder directory, selected folder or file in Visual Studio Code. [`@shubzkothekar`](https://raycast.com/shubzkothekar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-in-visual-studio-code) `api@^1.39.1`

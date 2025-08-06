@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/3aa020293ffc42b8_update-time.svg)
+![Last update](/icons/05cac2bf45ddfede_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2225** packages in **15** categories, **23** packages use Swift
-- **1446** authors, **902** contributors (of which **687** are only contributors, not authors)
+- **2227** packages in **15** categories, **23** packages use Swift
+- **1448** authors, **902** contributors (of which **687** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (66)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -561,6 +561,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CodeBlocks](https://raycast.com/isfeng/codeblocks)** - Set or modify the programming language in markdown code blocks in batch. [`@isfeng`](https://raycast.com/isfeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/CodeBlocks) `api@^1.37.1`
 - **[Codemagic](https://raycast.com/imgkl/codemagic)** - Trigger and view builds and artifacts right from Raycast [`@imgkl`](https://raycast.com/imgkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codemagic) `api@^1.83.1` `utils@^1.17.0`
 - **[CodeSnap](https://raycast.com/Mokkapps/codesnap)** - Creates a beautiful image of your code snippet [`@Mokkapps`](https://raycast.com/Mokkapps) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codesnap) `api@^1.39.3` `utils@^1.4.1`
+- **[Commit Issue Parser](https://raycast.com/julesjuul/commit-issue-parser)** - Easily parse issue URLs to generate commit names and descriptions for use with Git [`@julesjuul`](https://raycast.com/julesjuul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/commit-issue-parser) `api@^1.100.3` `utils@^1.17.0`
 - **[Commit Message Generator](https://raycast.com/rokartur/commit-message-generator)** - Must have extension for any developer! [`@rokartur`](https://raycast.com/rokartur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator) `api@^1.59.0`
 - **[Composerize](https://raycast.com/j3lte/composerize)** - Convert docker commands to docker-compose and vice versa [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/composerize) `api@^1.72.1` `utils@^1.14.1`
 - **[Conventional Commits](https://raycast.com/niemtec/conventional-commits)** - Provides a list of conventional commits prefixes and descriptions that can be inserted into your active window as well as example of how messages should be structured [`@niemtec`](https://raycast.com/niemtec) [`code`](https://github.com/raycast/extensions/tree/main/extensions/conventional-commits) `api@^1.57.1`
@@ -1031,6 +1032,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Monse - Banking In Raycast](https://raycast.com/Falcon/monse)** - Connect your bank account and see latest incomes, expenses, and details. [`@Falcon`](https://raycast.com/Falcon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monse) `api@^1.38.3` `utils@^1.4.8`
 - **[Monzo](https://raycast.com/danpalmer/monzo)** - View your Monzo bank account balance and recent transactions. [`@danpalmer`](https://raycast.com/danpalmer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/monzo) `api@^1.40.1` `utils@^1.4.8`
 - **[NFT Search](https://raycast.com/Glaze/nft-search)** - Seraching NFT real-time floor price and info by NFT collection name [`@Glaze`](https://raycast.com/Glaze) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nft-search) `api@^1.35.2`
+- **[Ozbargain Deals](https://raycast.com/55555/ozbargain-deals)** - Your lightning-fast portal to the latest and hottest deals from OzBargain. Browse new bargains, check their popularity score, and jump straight to the deal or discussion without leaving your keyboard. Essential for savvy shoppers in Australia! [`@55555`](https://raycast.com/55555) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ozbargain-deals) `api@^1.100.3` `utils@^1.17.0`
 - **[Pera Algorand Explorer](https://raycast.com/akgunberk/pera-explorer)** - Search any ASA or NFT in Algorand (ALGO) Blockchain [`@akgunberk`](https://raycast.com/akgunberk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pera-explorer) `api@^1.39.2` `utils@^1.3.1`
 - **[Polar](https://raycast.com/emilwidlund/polar)** - Manage all your Polar products, sales & analytics [`@emilwidlund`](https://raycast.com/emilwidlund) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polar) `api@^1.94.0` `utils@^1.18.1`
 - **[Position Size Calculator](https://raycast.com/akhilesh_dalvi/position-size-calculator)** - The Position Size Calculator is a Raycast extension designed to help traders quickly and accurately determine the appropriate position size for their trades. It considers your trading capital, risk tolerance, and various methods for defining stop loss and target levels. This ensures you manage risk effectively according to your trading plan. [`@akhilesh_dalvi`](https://raycast.com/akhilesh_dalvi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/position-size-calculator) `api@^1.97.1` `utils@^1.17.0`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/05cac2bf45ddfede_update-time.svg)
+![Last update](/icons/1de91932052ea079_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2227** packages in **15** categories, **23** packages use Swift
-- **1448** authors, **902** contributors (of which **687** are only contributors, not authors)
+- **2228** packages in **15** categories, **23** packages use Swift
+- **1448** authors, **903** contributors (of which **688** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (66)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -648,7 +648,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[GitHub Search](https://raycast.com/webpro/github-search)** - Open the GitHub Search web UI with pre-defined filters [`@webpro`](https://raycast.com/webpro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-search) `api@^1.89.1` `utils@^1.18.1`
 - **[GitHub Trending](https://raycast.com/mikqi/github-trending)** - Quick access to trending repositories on GitHub. [`@mikqi`](https://raycast.com/mikqi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-trending) `api@^1.49.3` `utils@^1.5.2`
 - **[Gitignore](https://raycast.com/daniel-stoneuk/gitignore)** - Quickly create a gitignore file for your project. [`@daniel-stoneuk`](https://raycast.com/daniel-stoneuk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitignore) `api@^1.30.1`
-- **[GitLab](https://raycast.com/tonka3000/gitlab)** - Create, search and modify issues, manage merge requests, projects and more. [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitlab) `api@^1.60.0` `utils@^1.0.6`
+- **[GitLab](https://raycast.com/tonka3000/gitlab)** - Create, search and modify issues, manage merge requests, projects and more. [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitlab) `api@^1.94.0` `utils@^1.0.6`
 - **[Gitpod](https://raycast.com/Henit-Palani/gitpod)** - A blazingly fast way to work with Gitpod [`@Henit-Palani`](https://raycast.com/Henit-Palani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitpod) `api@^1.57.1` `utils@^1.9.1`
 - **[Go Package Search](https://raycast.com/bstncartwright/go-package-search)** - Quickly search packages on https://pkg.go.dev [`@bstncartwright`](https://raycast.com/bstncartwright) [`code`](https://github.com/raycast/extensions/tree/main/extensions/go-package-search) `api@^1.40.1`
 - **[Google Cloud CLI](https://raycast.com/ojowwalker77/g-cloud)** - A lightweight Raycast extension for managing Google Cloud resources efficiently. Access and control your GCP projects, services, IAM, storage, and more—all without leaving Raycast. [`@ojowwalker77`](https://raycast.com/ojowwalker77) [`code`](https://github.com/raycast/extensions/tree/main/extensions/g-cloud) `api@^1.55.2` `utils@^1.9.0`
@@ -755,7 +755,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Open Link in Specific Browser](https://raycast.com/koinzhang/open-link-in-specific-browser)** - Open link or search text in specific browser. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-link-in-specific-browser) `api@^1.79.1` `utils@^1.16.2`
 - **[Open Path](https://raycast.com/koinzhang/open-path)** - Open path and link from selection or clipboard in Finder, browsers, terminal, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-path) `api@^1.89.0` `utils@^1.18.1`
 - **[OpenRouter Model Search](https://raycast.com/mutewinter/openrouter-model-search)** - Search OpenRouter's AI model catalog. [`@mutewinter`](https://raycast.com/mutewinter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) `api@^1.100.2` `utils@^2.0.0`
-- **[OpenStatus](https://raycast.com/thibaultleouay/openstatus)** - Manage your OpenStatus monitors, Incidents and status page [`@thibaultleouay`](https://raycast.com/thibaultleouay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openstatus) `api@^1.88.4` `utils@^1.18.1`
+- **[OpenStatus](https://raycast.com/thibaultleouay/openstatus)** - Manage your OpenStatus monitors, Incidents and status page [`@thibaultleouay`](https://raycast.com/thibaultleouay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openstatus) `api@^1.102.3` `utils@^2.2.0` `ai` `ai-tools`
 - **[Oracle Cloud](https://raycast.com/xmok/oci)** - Manage Oracle Cloud Infrastructure [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oci) `api@^1.100.3` `utils@^2.2.0`
 - **[OSINT Web Check](https://raycast.com/gksander/osint-web-check)** - Raycast extension to perform OSINT web check against a url [`@gksander`](https://raycast.com/gksander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) `api@^1.64.4`
 - **[OSS Insight](https://raycast.com/k8scat/ossinsight)** - OSS Insight extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ossinsight) `api@^1.40.1` `utils@^1.9.0`
@@ -1716,6 +1716,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Random US Phone Number](https://raycast.com/yug2005/random-us-phone-number)** - Generate a random US phone number. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-us-phone-number) `api@^1.45.2`
 - **[RapidCap](https://raycast.com/brittany_carusone/rapidcap)** - Quickly save information without context switching [`@brittany_carusone`](https://raycast.com/brittany_carusone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rapidcap) `api@^1.61.1` `utils@^1.10.1`
 - **[Ray Boop](https://raycast.com/nathan_schwermann/ray-boop)** - Port of Boop to Raycast. Run any Boop script on clipboard content. [`@nathan_schwermann`](https://raycast.com/nathan_schwermann) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ray-boop) `api@^1.100.3` `utils@^1.17.0`
+- **[Raycast Focus Stats](https://raycast.com/dinocosta/raycast-focus-stats)** - View Raycast's Focus session statistics. [`@dinocosta`](https://raycast.com/dinocosta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-focus-stats) `api@^1.97.1` `utils@^1.17.0`
 - **[Read AI - Text to Speech](https://raycast.com/JungHoonGhae/read-ai)** - Revolutionize your reading with OpenAI's TTS technology—bringing words to your ears, ideal for auditory learners and the visually impaired. [`@JungHoonGhae`](https://raycast.com/JungHoonGhae) [`code`](https://github.com/raycast/extensions/tree/main/extensions/read-ai) `api@^1.63.0`
 - **[Read Later](https://raycast.com/jimluo/later)** - Read your tabs later [`@jimluo`](https://raycast.com/jimluo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/later) `api@^1.76.0` `utils@^1.16.0`
 - **[Readeck](https://raycast.com/shichen437/readeck)** - This extension allows you to manage your Readeck bookmarks directly from Raycast. You can add new bookmarks and search through your existing ones effortlessly. [`@shichen437`](https://raycast.com/shichen437) [`code`](https://github.com/raycast/extensions/tree/main/extensions/readeck) `api@^1.68.1` `utils@^1.12.5`

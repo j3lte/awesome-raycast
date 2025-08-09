@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/1f7441c1c6e6fdd3_update-time.svg)
+![Last update](/icons/52a4b2389d085e93_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2233** packages in **15** categories, **23** packages use Swift
-- **1453** authors, **904** contributors (of which **688** are only contributors, not authors)
+- **2235** packages in **15** categories, **23** packages use Swift
+- **1455** authors, **904** contributors (of which **688** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (66)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -149,6 +149,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Just Focus](https://raycast.com/koinzhang/just-focus)** - Control Just Focus via Raycast. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/just-focus) `api@^1.79.1`
 - **[Kaleidoscope](https://raycast.com/flo_muc/kaleidoscope)** - Compare or open content from Raycast in Kaleidoscope. [`@flo_muc`](https://raycast.com/flo_muc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kaleidoscope) `api@1.84.3`
 - **[Keka](https://raycast.com/aone/keka)** - Compress and extract files using Keka, the macOS file archiver [`@aone`](https://raycast.com/aone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keka) `api@^1.94.2` `utils@^1.17.0`
+- **[Kiro](https://raycast.com/jyothish-ram/kiro)** - Control Kiro directly from Raycast - Search and open recent projects, handle extensions and commands. [`@jyothish-ram`](https://raycast.com/jyothish-ram) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kiro) `api@^1.83.1` `utils@^1.17.0`
 - **[Klack](https://raycast.com/henrikruscon/klack)** - Control Klack for macOS with Raycast [`@henrikruscon`](https://raycast.com/henrikruscon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/klack) `api@^1.73.2`
 - **[Lark AppLink](https://raycast.com/chyroc/lark-applink)** - Open Lark AppLink [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lark-applink) `api@^1.32.1`
 - **[LaunchDarkly](https://raycast.com/luarmr/launchdarkly)** - A Raycast extension integrating with LaunchDarkly [`@luarmr`](https://raycast.com/luarmr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/launchdarkly) `api@^1.88.4` `utils@^1.18.1`
@@ -637,8 +638,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Git Co-Authors](https://raycast.com/nickradford/git-co-authors)** - Manage and copy co-authors for git commits [`@nickradford`](https://raycast.com/nickradford) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-co-authors) `api@^1.51.0` `utils@^1.7.0`
 - **[Git Profile](https://raycast.com/tuki0918/git-profile)** - This extension is for managing Git user profiles. [`@tuki0918`](https://raycast.com/tuki0918) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-profile) `api@^1.91.1` `utils@^1.17.0`
 - **[Git Repos](https://raycast.com/moored/git-repos)** - Quickly access your local git repositories and open them in your favorite editor or any app [`@moored`](https://raycast.com/moored) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-repos) `api@^1.59.0` `utils@^1.5.2`
-- **[Git Worktrees](https://raycast.com/philstainer/git-worktrees)** - Efficiently managing Git worktrees with actions for cloning, listing, adding, renaming and removing worktrees within projects [`@philstainer`](https://raycast.com/philstainer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-worktrees) `api@^1.94.3` `utils@^1.19.1`
 - **[Git Worktrees](https://raycast.com/canac/worktrees)** - View, add, and remove git worktrees. [`@canac`](https://raycast.com/canac) [`code`](https://github.com/raycast/extensions/tree/main/extensions/worktrees) `api@^1.64.5` `utils@^1.10.1`
+- **[Git Worktrees](https://raycast.com/philstainer/git-worktrees)** - Efficiently managing Git worktrees with actions for cloning, listing, adding, renaming and removing worktrees within projects [`@philstainer`](https://raycast.com/philstainer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/git-worktrees) `api@^1.94.3` `utils@^1.19.1`
 - **[Gitee](https://raycast.com/koinzhang/gitee)** - Work with issues, search repositories and stay on top of notifications. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitee) `api@^1.44.0`
 - **[GitHub](https://raycast.com/thomaslombart/github)** - Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github) `api@^1.87.0` `utils@^1.16.0` `ai` `ai-tools`
 - **[GitHub Codespaces](https://raycast.com/michael.wang/github-codespaces)** - Manage and launch codespaces [`@michael.wang`](https://raycast.com/michael.wang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-codespaces) `api@^1.39.3` `utils@^1.4.8`
@@ -915,7 +916,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Xcodes](https://raycast.com/pacadil/xcodes)** - Manage several versions of Xcode [`@pacadil`](https://raycast.com/pacadil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xcodes) `api@^1.58.0` `utils@^1.9.1`
 - **[xid](https://raycast.com/rosszurowski/xid)** - Quickly create an xid from Raycast. [`@rosszurowski`](https://raycast.com/rosszurowski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xid) `api@^1.36.1`
 - **[Yabai](https://raycast.com/krzysztoff1/yabai)** - Control Yabai using Raycast. Requires yabai to be installed. [`@krzysztoff1`](https://raycast.com/krzysztoff1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yabai) `api@^1.64.4` `utils@^1.10.1`
-- **[YouTrack](https://raycast.com/tiulpin/youtrack)** - YouTrack 🔄 Raycast [`@tiulpin`](https://raycast.com/tiulpin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtrack) `api@^1.100.2` `ai-tools`
+- **[YouTrack](https://raycast.com/tiulpin/youtrack)** - YouTrack 🔄 Raycast [`@tiulpin`](https://raycast.com/tiulpin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youtrack) `api@^1.101.1` `ai-tools`
 - **[Zed](https://raycast.com/ewgenius/zed-recent-projects)** - Search and open recent projects from Zed [`@ewgenius`](https://raycast.com/ewgenius) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zed-recent-projects) `api@^1.93.2` `utils@^1.19.1`
 - **[Zoo - Ask AIs with Your Prompt Library](https://raycast.com/ViGeng/zoo)** - Interact with AIs with your own Github Gist prompt library with ease [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zoo) `api@^1.78.1` `utils@^1.16.2`
 - **[Zoxide Git Projects](https://raycast.com/theherk/zoxide-git-projects)** - Allows the user to select git repositories found by filtering a zoxide query, then open them in an application of choice. [`@theherk`](https://raycast.com/theherk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zoxide-git-projects) `api@^1.85.1` `utils@^1.17.0`
@@ -932,7 +933,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Alpine.js](https://raycast.com/aurawindsurfing/alpinejs)** - Search Alpine.js documentation [`@aurawindsurfing`](https://raycast.com/aurawindsurfing) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alpinejs-doc-search) `api@^1.79.0` `utils@^1.16.4`
 - **[Axios Docs](https://raycast.com/denizyoldas/axios-docs)** - Quickly lookup Axios documentation [`@denizyoldas`](https://raycast.com/denizyoldas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/axios-docs) `api@^1.79.0`
 - **[Backstage](https://raycast.com/yukukotani/backstage)** - Shortcuts for Backstage [`@yukukotani`](https://raycast.com/yukukotani) [`code`](https://github.com/raycast/extensions/tree/main/extensions/backstage) `api@^1.79.1` `utils@^1.16.2`
-- **[Badges - shields.io](https://raycast.com/litomore/badges)** - Concise, consistent, and legible badges. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/badges) `api@^1.101.1` `utils@^2.2.0`
+- **[Badges - shields.io](https://raycast.com/litomore/badges)** - Concise, consistent, and legible badges. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/badges) `api@^1.102.3` `utils@^2.2.0`
 - **[Braid Design System](https://raycast.com/felixhabib/braid)** - Search and use Braid Components and Iconography from Raycast [`@felixhabib`](https://raycast.com/felixhabib) [`code`](https://github.com/raycast/extensions/tree/main/extensions/braid) `api@^1.84.2` `utils@^1.18.0`
 - **[Cheatsheets](https://raycast.com/destiner/cheatsheets)** - Search and view programming cheatsheets [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cheatsheets) `api@^1.28.0`
 - **[Cilium Docs](https://raycast.com/dario_mader/cilium-docs)** - An extension for Raycast that let's you access Cilium Docs through Raycast. [`@dario_mader`](https://raycast.com/dario_mader) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cilium-docs) `api@^1.61.0` `utils@^1.10.0`
@@ -1989,7 +1990,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
-- **[@ Profile](https://raycast.com/chrismessina/at-profile)** - Quickly open profiles on social apps. [`@chrismessina`](https://raycast.com/chrismessina) [`code`](https://github.com/raycast/extensions/tree/main/extensions/at-profile) `api@^1.80.0` `utils@^1.19.1` `ai-tools`
+- **[@ Profile](https://raycast.com/chrismessina/at-profile)** - Quickly open profiles on social apps. [`@chrismessina`](https://raycast.com/chrismessina) [`code`](https://github.com/raycast/extensions/tree/main/extensions/at-profile) `api@^1.102.3` `utils@^1.19.1` `ai-tools`
 - **[Aimlab Tracker](https://raycast.com/Whitespace/aimlab)** - Track player profiles and leaderboards on Aimlab [`@Whitespace`](https://raycast.com/Whitespace) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aimlab) `api@^1.54.0` `utils@^1.1.0`
 - **[AList Downloder](https://raycast.com/SGGb0nd/alist-downloder)** - Mini AList downloader in Raycast [`@SGGb0nd`](https://raycast.com/SGGb0nd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alist-downloder) `api@^1.77.1`
 - **[Amazon Search](https://raycast.com/xilopaint/amazon-search)** - Amazon search with autosuggestions [`@xilopaint`](https://raycast.com/xilopaint) [`code`](https://github.com/raycast/extensions/tree/main/extensions/amazon-search) `api@^1.88.4` `utils@^1.18.1`
@@ -2179,6 +2180,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Display Placer](https://raycast.com/eluce2/displayplacer)** - Manage favorite display configurations [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/displayplacer) `api@^1.33.0`
 - **[Docker](https://raycast.com/priithaamer/docker)** - Manage Docker with Raycast [`@priithaamer`](https://raycast.com/priithaamer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/docker) `api@^1.89.1`
 - **[Docker Hub](https://raycast.com/k8scat/dockerhub)** - Docker Hub extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dockerhub) `api@^1.39.3`
+- **[DockLock Plus](https://raycast.com/IGHOR/docklock-plus)** - Control macOS Dock position and automation (requires DockLock Plus app) [`@IGHOR`](https://raycast.com/IGHOR) [`code`](https://github.com/raycast/extensions/tree/main/extensions/docklock-plus) `api@^1.100.3` `utils@^1.19.1`
 - **[Dokploy](https://raycast.com/xmok/dokploy)** - Deploy Anywhere with Total Freedom and Ease. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dokploy) `api@^1.101.1` `utils@^2.2.0`
 - **[Domainr](https://raycast.com/fedevitaledev/domainr)** - Search domains availability with Domainr [`@fedevitaledev`](https://raycast.com/fedevitaledev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/domainr) `api@^1.25.1`
 - **[DropsTab](https://raycast.com/nikolayqwerty/dropstab)** - Get crypto coin data and navigate to official sites or X. Instantly view your wallets via blockchain explorers. [`@nikolayqwerty`](https://raycast.com/nikolayqwerty) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dropstab) `api@^1.80.0`

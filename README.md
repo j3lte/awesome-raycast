@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/764be64164ab700c_update-time.svg)
+![Last update](/icons/ddc63cf40d98439d_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2243** packages in **15** categories, **23** packages use Swift
-- **1462** authors, **905** contributors (of which **689** are only contributors, not authors)
+- **2245** packages in **15** categories, **23** packages use Swift
+- **1463** authors, **905** contributors (of which **689** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (67)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -442,7 +442,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Apple Devices](https://raycast.com/madza/apple-devices)** - Quickly look up Apple Devices and control Simulators [`@madza`](https://raycast.com/madza) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-devices) `api@^1.52.1` `utils@^1.7.0`
 - **[Aspect Raytio](https://raycast.com/ickas/aspect-raytio)** - Calculate easily the aspect ratio for different sizes based on a width or height. [`@ickas`](https://raycast.com/ickas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aspect-raytio) `api@^1.65.1` `utils@^1.10.1`
 - **[Avatar](https://raycast.com/koinzhang/avatar)** - An avatar library for designers and developers. You can choose between simple identicons and lovely designed characters. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/avatar) `api@^1.72.1`
-- **[Brand Icons - simpleicons.org](https://raycast.com/litomore/simple-icons)** - Browse, Search, and Copy 3300+ popular brand icons from Simple Icons. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) `api@^1.101.1` `utils@^2.2.0`
+- **[Brand Icons - simpleicons.org](https://raycast.com/litomore/simple-icons)** - Browse, Search, and Copy 3300+ popular brand icons from Simple Icons. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-icons) `api@^1.102.3` `utils@^2.2.0`
 - **[Canva](https://raycast.com/xmok/canva)** - View Designs and Open in Browser [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/canva) `api@^1.94.0` `utils@^1.19.1`
 - **[Color Casket](https://raycast.com/slavarazum/color-casket)** - Handy Color Utilities [`@slavarazum`](https://raycast.com/slavarazum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/color-casket) `api@^1.42.0`
 - **[Color Palette Picker](https://raycast.com/juliusmarminge/palette-picker)** - A simple color picker for Tailwind CSS and Radix UI color palettes. [`@juliusmarminge`](https://raycast.com/juliusmarminge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/palette-picker) `api@^1.47.3`
@@ -783,7 +783,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pkg Swap](https://raycast.com/neversitdull/pkg-swap)** - Quickly convert and paste copied npm commands to your preferred package manager [`@neversitdull`](https://raycast.com/neversitdull) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pkg-swap) `api@^1.93.2` `utils@^1.17.0`
 - **[Ploi](https://raycast.com/ploi-deploy/ploi)** - View and manage your ploi.io servers and sites [`@ploi-deploy`](https://raycast.com/ploi-deploy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ploi) `api@^1.77.0` `utils@^1.16.1`
 - **[PM2](https://raycast.com/litomore/pm2)** - Advanced, production process manager for Node.js. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pm2) `api@^1.94.0` `utils@^1.19.1`
-- **[PocketBase](https://raycast.com/xmok/pocketbase)** - Manage PocketBase [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pocketbase) `api@^1.89.1` `utils@^1.18.1`
+- **[PocketBase](https://raycast.com/xmok/pocketbase)** - Manage PocketBase [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pocketbase) `api@^1.101.1` `utils@^2.2.0`
 - **[Popicons](https://raycast.com/lucaschultz/popicons)** - Browse and copy Popicons [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/popicons) `api@^1.76.0` `utils@^1.15.0`
 - **[Port Manager](https://raycast.com/lucaschultz/port-manager)** - Find open ports and close them [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/port-manager) `api@^1.57.0` `utils@^1.9.1`
 - **[Prettier Code](https://raycast.com/lin/prettier)** - Format code with Prettier [`@lin`](https://raycast.com/lin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prettier) `api@^1.79.0`
@@ -897,6 +897,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[URL Parse](https://raycast.com/Johnson/url-parse)** - URL parse tool for developer. [`@Johnson`](https://raycast.com/Johnson) [`code`](https://github.com/raycast/extensions/tree/main/extensions/url-parse) `api@^1.67.1` `utils@^1.12.5`
 - **[User-Agent Parser](https://raycast.com/third774/user-agent)** - Parses the User-Agent of the selected text [`@third774`](https://raycast.com/third774) [`code`](https://github.com/raycast/extensions/tree/main/extensions/user-agent) `api@^1.60.1`
 - **[UTM Virtual Machines](https://raycast.com/alaidriel/utm-virtual-machines)** - Launch and control virtual machines in UTM. [`@alaidriel`](https://raycast.com/alaidriel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) `api@^1.46.1`
+- **[v0 by Vercel](https://raycast.com/garrett/v0-by-vercel)** - Create, view and manage your v0 chats within Raycast [`@garrett`](https://raycast.com/garrett) [`code`](https://github.com/raycast/extensions/tree/main/extensions/v0-by-vercel) `api@^1.100.3` `utils@^1.17.0`
 - **[Verify Number](https://raycast.com/xmok/verify-number)** - Global Phone Number Validation & Lookup JSON API from APILayer [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/verify-number) `api@^1.63.0` `utils@^1.10.1`
 - **[Virtualizor Enduser](https://raycast.com/xmok/virtualizor-enduser)** - Manage Virtualizor Enduser instance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/virtualizor-enduser) `api@^1.79.0` `utils@^1.17.0`
 - **[Vultr](https://raycast.com/xmok/vultr)** - Manage Users, View Account Information and Billing History [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vultr) `api@^1.84.2` `utils@^1.18.0`
@@ -2249,7 +2250,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Karabiner Profile Switcher](https://raycast.com/lucaschultz/karabiner-profile-switcher)** - List Karabiner Elements profiles and switch between them [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/karabiner-profile-switcher) `api@^1.62.0`
 - **[Keyboard Layout Switcher](https://raycast.com/lucaschultz/input-switcher)** - Extension to switch keyboard layouts [`@lucaschultz`](https://raycast.com/lucaschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keyboard-layout-switcher) `api@^1.29.0`
 - **[Keyboard Maestro - List Macros](https://raycast.com/eluce2/list-keyboard-maestro-macros)** - List and quickly trigger Keyboard Maestro Macros, bringing the "Trigger Macro by Name" action directly into Raycast [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keyboard-maestro) `api@^1.79.0` `utils@^1.16.5`
-- **[Keygen](https://raycast.com/xmok/keygen)** - View Licenses and Policies [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keygen) `api@^1.100.3` `utils@^2.0.1`
+- **[Keygen](https://raycast.com/xmok/keygen)** - Manage Licenses, Policies, Products and Users [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keygen) `api@^1.102.3` `utils@^2.2.0`
 - **[Kill Process](https://raycast.com/rolandleth/kill-process)** - Terminate processes sorted by CPU or memory usage [`@rolandleth`](https://raycast.com/rolandleth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kill-process) `api@^1.90.0` `ai` `ai-tools`
 - **[Kinopoisk](https://raycast.com/mattisssa/kinopoisk)** - Search for movies using kinopoisk.ru [`@mattisssa`](https://raycast.com/mattisssa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) `api@^1.25.0`
 - **[Klu](https://raycast.com/abielzulio/klu-ai)** - Klu AI extension for Raycast [`@abielzulio`](https://raycast.com/abielzulio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/klu-ai) `api@^1.66.1` `utils@^1.11.1`
@@ -2423,6 +2424,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Where is my Cursor?](https://raycast.com/luciodaou/where-is-my-cursor)** - Visual aid to find cursor, specially useful when utilizing more than 1 monitor. [`@luciodaou`](https://raycast.com/luciodaou) [`code`](https://github.com/raycast/extensions/tree/main/extensions/where-is-my-cursor) `api@^1.102.3` `utils@^1.17.0`
 - **[Wolfram Alpha](https://raycast.com/mathieudutour/wolfram-alpha)** - Query Wolfram Alpha right from Raycast [`@mathieudutour`](https://raycast.com/mathieudutour) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wolfram-alpha) `api@^1.26.0`
 - **[Writersbrew](https://raycast.com/pradeepb28/writersbrew)** - Meet the AI assistant that accelerates your reading & writing 2x faster & better [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/writersbrew) `api@^1.45.1`
+- **[Yap](https://raycast.com/chaseonraycast/yap)** - Post on socials in a single click [`@chaseonraycast`](https://raycast.com/chaseonraycast) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yap) `api@^1.100.3` `utils@^1.17.0`
 - **[Yoink](https://raycast.com/koinzhang/yoink)** - Add selected or clipboard files to Yoink. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yoink) `api@^1.78.1`
 - **[Yomicast – Offline Japanese-English Dictionary](https://raycast.com/matchai/yomicast)** - Offline Japanese-English dictionary. Instant search for kanji, kana, and English terms. [`@matchai`](https://raycast.com/matchai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yomicast) `api@^1.99.2`
 - **[Youdao Translate](https://raycast.com/tiancheng92/youdao-translate)** - Translate text using Youdao [`@tiancheng92`](https://raycast.com/tiancheng92) [`code`](https://github.com/raycast/extensions/tree/main/extensions/youdao-translate) `api@^1.38.2`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/10f8370b0bbbc211_update-time.svg)
+![Last update](/icons/9ac4d79efbb51f1c_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2255** packages in **15** categories, **23** packages use Swift
+- **2256** packages in **15** categories, **23** packages use Swift
 - **1471** authors, **907** contributors (of which **689** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (67)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (210)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (211)
   - [xmok](https://raycast.com/xmok) (125)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (72)
   - [j3lte](https://raycast.com/j3lte) (40)
@@ -678,6 +678,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Image Base64 Converter](https://raycast.com/vitorlostada/image-base64)** - Convert between base64 strings and images easily [`@vitorlostada`](https://raycast.com/vitorlostada) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-base64) `api@^1.85.2` `utils@^1.17.0`
 - **[Image Diff Checker](https://raycast.com/yasuhiroyamamoto/image-diff-checker)** - Image Diff Checker compares two images and highlights the differences. It supports file formats such as JPEG, JPG, PNG, and GIF. [`@yasuhiroyamamoto`](https://raycast.com/yasuhiroyamamoto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-diff-checker) `api@^1.92.1` `utils@^1.17.0`
 - **[Incident.io](https://raycast.com/nkl/incident-io)** - Gets the incidents from Incident.io [`@nkl`](https://raycast.com/nkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/incident-io) `api@^1.75.2` `utils@^1.19.1`
+- **[Invisible Text Detector](https://raycast.com/garrett/invisible-text-detector)** - Remove all hidden Unicode characters in your text, usually injected by LLMs. [`@garrett`](https://raycast.com/garrett) [`code`](https://github.com/raycast/extensions/tree/main/extensions/invisible-text-detector) `api@^1.102.3` `utils@^1.17.0`
 - **[iOS Human Interface Guidelines](https://raycast.com/eliperkins/raycast-ios-hig)** - Shows you the iOS HIG's info for quick reference [`@eliperkins`](https://raycast.com/eliperkins) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ios-hig) `api@^1.40.3`
 - **[IP Geolocation](https://raycast.com/koinzhang/ip-geolocation)** - Show local and public IPv4/IPv6 address. Query geolocation for any IP address or domain. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-geolocation) `api@^1.100.3` `utils@^2.2.0`
 - **[IP Tools](https://raycast.com/meguoe/ip-tools)** - This is an extension plugin for converting, validating, and calculating IP subnets. (net, mask, netmask, ip2long, long2ip, cidr, ipv4, ipv6 & geoLocation) [`@meguoe`](https://raycast.com/meguoe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ip-tools) `api@^1.64.3` `utils@^1.10.1`

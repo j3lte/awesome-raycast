@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/e7bf1487d7d32d2a_update-time.svg)
+![Last update](/icons/49dc1c1a07d6e625_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2258** packages in **15** categories, **23** packages use Swift
-- **1473** authors, **907** contributors (of which **689** are only contributors, not authors)
+- **2260** packages in **15** categories, **23** packages use Swift
+- **1475** authors, **908** contributors (of which **690** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (67)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -1013,6 +1013,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Apple Stocks Search](https://raycast.com/hayden_barnes/apple-stocks-search)** - Apple Stocks Extension for Raycast with Autosuggestions [`@hayden_barnes`](https://raycast.com/hayden_barnes) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) `api@^1.84.2` `utils@^1.17.0`
 - **[Base Stats](https://raycast.com/Osprey/base-stats)** - View current gas price and stats for Base [`@Osprey`](https://raycast.com/Osprey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/base-stats) `api@^1.84.6` `utils@^1.17.0`
 - **[Beancount Meta](https://raycast.com/iwfan/beancount-meta)** - The more effecient Beancount Bookkeeping way [`@iwfan`](https://raycast.com/iwfan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/beancount-mate) `api@^1.45.2` `utils@^1.4.8`
+- **[Bitaxe Status](https://raycast.com/mark_sullivan/bitaxe-status)** - Display the status of one or more Bitaxes [`@mark_sullivan`](https://raycast.com/mark_sullivan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bitaxe) `api@^1.100.3` `utils@^1.17.0`
 - **[BONK Price](https://raycast.com/AnishDe12020/bonk-price)** - Shows the price of the BONK token on your macOS menu bar [`@AnishDe12020`](https://raycast.com/AnishDe12020) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bonk-price) `api@^1.45.2` `utils@^1.4.8`
 - **[CardPointers](https://raycast.com/emcro/cardpointers)** - Search for any credit card details or Amex/Chase offer from the CardPointers database. [`@emcro`](https://raycast.com/emcro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cardpointers) `api@^1.51.3` `utils@^1.6.1`
 - **[Coin Caster](https://raycast.com/chase_manning/coin-caster)** - Get the price for any crypto asset in Raycast [`@chase_manning`](https://raycast.com/chase_manning) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coin-caster) `api@^1.92.0` `utils@^1.17.0`
@@ -1666,7 +1667,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Neurooo Translate](https://raycast.com/depsimon/neurooo-translate)** - Smart translations with Neurooo. [`@depsimon`](https://raycast.com/depsimon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neurooo-translate) `api@^1.91.1`
 - **[Next.js Documentation](https://raycast.com/PrasadChinwal/nextjs-docs)** - Efficiently search Next.js documentation [`@PrasadChinwal`](https://raycast.com/PrasadChinwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) `api@^1.79.0` `utils@^1.16.2`
 - **[Night Light](https://raycast.com/devmoath/night-light)** - Manage Night Shift System Settings [`@devmoath`](https://raycast.com/devmoath) [`code`](https://github.com/raycast/extensions/tree/main/extensions/night-light) `api@^1.62.2`
-- **[Norwegian Unit Registry Search](https://raycast.com/kakaoduft/brreg)** - Search and retrieve information about Norwegian companies (Enhetsregisteret) [`@kakaoduft`](https://raycast.com/kakaoduft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brreg) `api@^1.90.0` `utils@^1.17.0`
 - **[NotePlan 3](https://raycast.com/shakedlokits/noteplan-3)** - Allows you to see your daily plan, search notes and launch straight into NotePlan. [`@shakedlokits`](https://raycast.com/shakedlokits) [`code`](https://github.com/raycast/extensions/tree/main/extensions/noteplan-3) `api@^1.32.1`
 - **[Notes in Google Docs](https://raycast.com/mohit_tater/note-in-google-doc)** - Effortlessly capture your ideas and store them instantly in Google Docs [`@mohit_tater`](https://raycast.com/mohit_tater) [`code`](https://github.com/raycast/extensions/tree/main/extensions/note-in-google-doc) `api@^1.63.0` `utils@^1.10.1`
 - **[Notion Researcher](https://raycast.com/raz_gaon/notion_researcher)** - An extension to supercharge your research workflow with Notion [`@raz_gaon`](https://raycast.com/raz_gaon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/notion_researcher) `api@^1.58.1` `utils@^1.10.0`
@@ -1821,6 +1821,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Team Time](https://raycast.com/david_nakhapetian/team-time)** - Allows you to see what time it is in different cities/countries [`@david_nakhapetian`](https://raycast.com/david_nakhapetian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/team-time) `api@^1.91.2` `utils@^1.18.1`
 - **[Teamup Rooms](https://raycast.com/drewwatkins11/teamup-rooms)** - Check for open rooms and book using Teamup [`@drewwatkins11`](https://raycast.com/drewwatkins11) [`code`](https://github.com/raycast/extensions/tree/main/extensions/teamup-rooms) `api@^1.36.0`
 - **[Texts](https://raycast.com/zavbala/texts)** - Use your messaging applications from Raycast with ease, open a conversation fast. [`@zavbala`](https://raycast.com/zavbala) [`code`](https://github.com/raycast/extensions/tree/main/extensions/texts) `api@^1.55.1`
+- **[The Brønnøysund Register Centre Search](https://raycast.com/kakaoduft/brreg)** - Search and retrieve information about Norwegian companies from the Central Coordinating Register for Legal Entities in Norway (Enhetsregisteret) [`@kakaoduft`](https://raycast.com/kakaoduft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/brreg) `api@^1.90.0` `utils@^1.17.0`
 - **[TickTick](https://raycast.com/appest/ticktick)** - Check and search tasks in TickTick via Raycast [`@appest`](https://raycast.com/appest) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ticktick) `api@^1.93.1` `utils@^1.19.0` `ai` `ai-tools`
 - **[TidyRead - Streamline Your Daily Reading](https://raycast.com/jaredliu233/tidyread---streamline-your-daily-reading)** - An AI-powered digest tool based on RSS feeds. Enhance controlled, efficient, and organized information intake. More at https://tidyread.info. [`@jaredliu233`](https://raycast.com/jaredliu233) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tidyread---streamline-your-daily-reading) `api@^1.65.0` `utils@^1.10.1`
 - **[Time](https://raycast.com/g0d/time)** - Show the current time. [`@g0d`](https://raycast.com/g0d) [`code`](https://github.com/raycast/extensions/tree/main/extensions/time) `api@^1.67.1`
@@ -2428,6 +2429,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[VirtualBox Power Switch](https://raycast.com/diogo_ferrer/virtualbox-power-switch)** - List your VirtualBox VMs, turn them on/off, or delete them. [`@diogo_ferrer`](https://raycast.com/diogo_ferrer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/virtualbox-power-switch) `api@^1.56.3` `utils@^1.9.0`
 - **[Visual Studio Code](https://raycast.com/thomas/visual-studio-code)** - Control VS Code and compatible editors directly from Raycast [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-recent-projects) `api@^1.79.0` `utils@^1.10.0`
 - **[Visual Studio Code - Project Manager](https://raycast.com/MarkusLanger/vscode-project-manager)** - Search and open projects from Visual Studio Code Project Manager [`@MarkusLanger`](https://raycast.com/MarkusLanger) [`code`](https://github.com/raycast/extensions/tree/main/extensions/visual-studio-code-project-manager) `api@^1.77.0` `utils@^1.16.1`
+- **[Vixai](https://raycast.com/vixaidev/vixai)** - Vixai extension for Raycast [`@vixaidev`](https://raycast.com/vixaidev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vixai) `api@^1.102.2` `utils@^1.17.0`
 - **[VLC](https://raycast.com/kud/vlc)** - Seamlessly control VLC Media Player from Raycast. Play, pause, skip tracks, adjust volume, seek, toggle fullscreen, and more—all from your keyboard. Requires VLC's HTTP interface enabled. [`@kud`](https://raycast.com/kud) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vlc) `api@^1.101.1` `utils@^1.17.0`
 - **[VueUse Functions](https://raycast.com/noopurphalak/vueuse-functions)** - Search VueUse functions [`@noopurphalak`](https://raycast.com/noopurphalak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vueuse-functions) `api@^1.29.1`
 - **[Weather](https://raycast.com/tonka3000/weather)** - Weather forecast via wttr.in [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/weather) `api@^1.66.0` `utils@^1.9.1`

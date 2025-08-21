@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/49dc1c1a07d6e625_update-time.svg)
+![Last update](/icons/966c447cb24b7fbb_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2260** packages in **15** categories, **23** packages use Swift
-- **1475** authors, **908** contributors (of which **690** are only contributors, not authors)
+- **2264** packages in **15** categories, **23** packages use Swift
+- **1478** authors, **908** contributors (of which **689** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (67)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (211)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (213)
   - [xmok](https://raycast.com/xmok) (127)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (72)
   - [j3lte](https://raycast.com/j3lte) (40)
@@ -262,6 +262,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Discord](https://raycast.com/Aayush9029/discord)** - Send message to a specific discord channel using webhook. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discord) `api@^1.32.1`
 - **[Discord Timestamps](https://raycast.com/theshadowdev/discord-timestamps)** - Generate a Discord timestamp [`@theshadowdev`](https://raycast.com/theshadowdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) `api@^1.48.8` `utils@^1.5.2`
 - **[Fast Chat With Phone Number in IM Apps](https://raycast.com/timonpeng/phonenumber-in-im)** - A Raycast extension enables faster chatting with a target phone number in IM apps like WhatsApp and Telegram, eliminating the need to add contacts beforehand. [`@timonpeng`](https://raycast.com/timonpeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phonenumber-in-im) `api@^1.61.2`
+- **[Forked Extensions](https://raycast.com/litomore/forked-extensions)** - Efficiently manage your forked Raycast extensions using Git sparse-checkout. Explore the full extension catalog, selectively checkout specific extensions, and remove extensions from your forked collection with ease. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) `api@^1.102.4`
 - **[Gather](https://raycast.com/yannglt/gather)** - Control Gather from Raycast [`@yannglt`](https://raycast.com/yannglt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gather) `api@^1.37.1`
 - **[Gmail](https://raycast.com/tonka3000/gmail)** - Raycast Extension to manage Gmail [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gmail) `api@^1.79.0` `utils@^1.10.0`
 - **[Grammarix](https://raycast.com/hakob_nersesian/grammari-x)** - Your Writing's Best Friend. In this extension, you can fix your grammar and paraphrase your sentences more effectively. If you have a Raycast Pro subscription, you don't need to provide openAI key. [`@hakob_nersesian`](https://raycast.com/hakob_nersesian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/grammari-x) `api@^1.67.1` `utils@^1.12.4`
@@ -759,6 +760,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Open Link in Specific Browser](https://raycast.com/koinzhang/open-link-in-specific-browser)** - Open link or search text in specific browser. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-link-in-specific-browser) `api@^1.79.1` `utils@^1.16.2`
 - **[Open Path](https://raycast.com/koinzhang/open-path)** - Open path and link from selection or clipboard in Finder, browsers, terminal, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/open-path) `api@^1.89.0` `utils@^1.18.1`
 - **[OpenRouter Model Search](https://raycast.com/mutewinter/openrouter-model-search)** - Search OpenRouter's AI model catalog. [`@mutewinter`](https://raycast.com/mutewinter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openrouter-model-search) `api@^1.100.2` `utils@^2.0.0`
+- **[OpenRouter Models Finder](https://raycast.com/jeejeeguan/openrouter-models-finder)** - Search and copy AI model IDs from OpenRouter to clipboard [`@jeejeeguan`](https://raycast.com/jeejeeguan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openrouter-models-finder) `api@^1.102.4` `utils@^1.17.0`
 - **[OpenStatus](https://raycast.com/thibaultleouay/openstatus)** - Manage your OpenStatus monitors, Incidents and status page [`@thibaultleouay`](https://raycast.com/thibaultleouay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openstatus) `api@^1.102.3` `utils@^2.2.0` `ai` `ai-tools`
 - **[Oracle Cloud](https://raycast.com/xmok/oci)** - Manage Oracle Cloud Infrastructure [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/oci) `api@^1.100.3` `utils@^2.2.0`
 - **[OSINT Web Check](https://raycast.com/gksander/osint-web-check)** - Raycast extension to perform OSINT web check against a url [`@gksander`](https://raycast.com/gksander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) `api@^1.64.4`
@@ -1168,6 +1170,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Quoterism](https://raycast.com/dmitry_fisenko/quoterism-raycast)** - Get access to the Web's largest collection of human inspiration [`@dmitry_fisenko`](https://raycast.com/dmitry_fisenko) [`code`](https://github.com/raycast/extensions/tree/main/extensions/quoterism) `api@^1.93.0` `utils@^1.19.0`
 - **[Random Fart](https://raycast.com/szy.fr/random-fart)** - Plays a random fart sound. An extension nobody asked for and nobody needed. [`@szy.fr`](https://raycast.com/szy.fr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-fart) `api@^1.69.0`
 - **[Random Text Picker](https://raycast.com/ezzylan/random-text-picker)** - Pick a random item from a list by entering multiple text inputs, ala Wheel of Names [`@ezzylan`](https://raycast.com/ezzylan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) `api@^1.55.2`
+- **[Ray Clicker](https://raycast.com/JonathanRReed/ray-clicker)** - Idle clicker game for Raycast with upgrades, prestige, and fun events. [`@JonathanRReed`](https://raycast.com/JonathanRReed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker) `api@^1.102.3` `utils@^1.17.0`
 - **[Raycast Arcade](https://raycast.com/EvanZhouDev/raycast-arcade)** - Play simple and fun ASCII games in Raycast! [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) `api@^1.56.0` `utils@^1.9.0`
 - **[Restore Photos](https://raycast.com/peduarte/restore-photos)** - Restore old photos using AI. Powered by https://restorephotos.io. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/restore-photo) `api@^1.46.0`
 - **[Rick and Morty](https://raycast.com/xmok/rick-and-morty)** - Access characters, images, locations and episodes from the television show "Rick and Morty" [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rick-and-morty) `api@^1.79.0` `utils@^1.16.3`
@@ -1898,6 +1901,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Zen Mode](https://raycast.com/pradeepb28/zen-mode)** - Hide Everything. Mute Everything. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) `api@^1.35.2`
 - **[Zendesk — Search Support Center](https://raycast.com/cpenned/zendesk)** - Search Zendesk support center for articles. [`@cpenned`](https://raycast.com/cpenned) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zendesk) `api@^1.79.0` `utils@^1.18.0`
 - **[Zoxide](https://raycast.com/mrpunkin/raycast-zoxide)** - Raycast integration with the zoxide command-line tool by Ajeet D'Souza. [`@mrpunkin`](https://raycast.com/mrpunkin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) `api@^1.97.0` `utils@^1.19.1`
+- **[Zsh Aliases](https://raycast.com/espenbye/zsh-aliases)** - Manage zsh aliases [`@espenbye`](https://raycast.com/espenbye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) `api@^1.102.4` `utils@^2.2.0` `ai` `ai-tools`
 
 
 --------------------

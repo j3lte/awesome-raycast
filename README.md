@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/71fa7818b6ac58a3_update-time.svg)
+![Last update](/icons/0d5216f2407072ab_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2282** packages in **15** categories, **23** packages use Swift
+- **2285** packages in **15** categories, **23** packages use Swift
 - **1488** authors, **912** contributors (of which **693** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (68)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (215)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (216)
   - [xmok](https://raycast.com/xmok) (128)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (72)
   - [j3lte](https://raycast.com/j3lte) (40)
@@ -647,6 +647,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Gitee](https://raycast.com/koinzhang/gitee)** - Work with issues, search repositories and stay on top of notifications. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitee) `api@^1.44.0`
 - **[GitHub](https://raycast.com/thomaslombart/github)** - Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github) `api@^1.87.0` `utils@^1.16.0` `ai` `ai-tools`
 - **[GitHub Codespaces](https://raycast.com/michael.wang/github-codespaces)** - Manage and launch codespaces [`@michael.wang`](https://raycast.com/michael.wang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-codespaces) `api@^1.39.3` `utils@^1.4.8`
+- **[GitHub Copilot](https://raycast.com/timrogers/github-copilot)** - Delegate tasks to GitHub Copilot coding agent and track progress from Raycast [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) `api@^1.102.5` `utils@^2.2.1`
 - **[GitHub Gist](https://raycast.com/koinzhang/github-gist)** - Create, search and display GitHub gists. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-gist) `api@^1.78.1` `utils@^1.16.2`
 - **[GitHub Profile](https://raycast.com/ViGeng/github-profile)** - View GitHub profiles directly in Raycast [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-profile) `api@^1.55.0` `utils@^1.9.0`
 - **[GitHub Repository Search](https://raycast.com/thomas/github-repository-search)** - Search repositories on GitHub and open previously visited ones faster. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) `api@^1.79.1` `utils@^1.16.3`
@@ -2242,6 +2243,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Focusflow - a Study Clock](https://raycast.com/Ek217/focus-flow)** - A Raycast extension to help you Focus on your studies and Flow with your team. Engage with your friends in some friendly competition. [`@Ek217`](https://raycast.com/Ek217) [`code`](https://github.com/raycast/extensions/tree/main/extensions/focus-flow) `api@^1.100.3` `utils@^1.17.0`
 - **[Footy Report](https://raycast.com/thuoe/footy-report)** - Raycast extension to find your essential football match day info and stats [`@thuoe`](https://raycast.com/thuoe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/footy-report) `api@^1.60.1` `utils@^1.10.0`
 - **[French Verb Conjugation](https://raycast.com/Joellee/french-verb-conjugation)** - Quickly conjugate french verbs on the fly [`@Joellee`](https://raycast.com/Joellee) [`code`](https://github.com/raycast/extensions/tree/main/extensions/french-verb-conjugation) `api@^1.50.0`
+- **[Fuelix](https://raycast.com/fernando_barrios/fuelix)** - Unofficial - Use Fuelix Platform from the comfort of Raycast [`@fernando_barrios`](https://raycast.com/fernando_barrios) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fuelix) `api@^1.102.5` `utils@^2.2.1`
 - **[FuelX](https://raycast.com/nazeeh21/fuelx)** - FUEL AI Agent in Raycast [`@nazeeh21`](https://raycast.com/nazeeh21) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fuelx) `api@^1.88.3` `utils@^1.17.0`
 - **[Geohash](https://raycast.com/alrico88/geohash-encode-decode)** - Encode coordinates as geohash, or decode a geohash and get useful info [`@alrico88`](https://raycast.com/alrico88) [`code`](https://github.com/raycast/extensions/tree/main/extensions/geohash-encode-decode) `api@^1.27.0`
 - **[Get Favicon](https://raycast.com/vimtor/get-favicon)** - Get favicon from website URL [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) `api@^1.93.0` `utils@^1.4.11`
@@ -2314,6 +2316,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Micro.blog](https://raycast.com/tynanpurdy/microblog)** - Post to Micro.blog and your connected crossposting accounts [`@tynanpurdy`](https://raycast.com/tynanpurdy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microblog) `api@^1.99.4` `utils@^1.17.0`
 - **[Microsoft Edge](https://raycast.com/KartikKumarSahoo/microsoft-edge)** - Search open tabs, bookmarks, collections and history in Microsoft Edge. [`@KartikKumarSahoo`](https://raycast.com/KartikKumarSahoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/microsoft-edge) `api@^1.101.1` `utils@^2.2.0`
 - **[MLDocs](https://raycast.com/reckoning-dev/mldocs)** - Raycast Commands for Searching Different ML APIs [`@reckoning-dev`](https://raycast.com/reckoning-dev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mldocs) `api@^1.26.1`
+- **[Mobius Materials](https://raycast.com/tjwds/mobius-materials)** - Search for electronic components and more at Mobius Materials. [`@tjwds`](https://raycast.com/tjwds) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mobius-materials) `api@^1.102.5` `utils@^1.17.0`
 - **[Model Context Protocol Registry](https://raycast.com/thomas/model-context-protocol-registry)** - Find and install MCP servers in Raycast and other MCP clients like Claude or Cursor. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/model-context-protocol-registry) `api@^1.98.0` `utils@^1.19.1`
 - **[Moji Dict Search](https://raycast.com/Kasper/moji)** - Search mojidict.com [`@Kasper`](https://raycast.com/Kasper) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moji) `api@^1.27.1`
 - **[Mullvad VPN](https://raycast.com/0x46616c6b/mullvad)** - Fastest way to connect, disconnect, and check if you are connected to Mullvad VPN. [`@0x46616c6b`](https://raycast.com/0x46616c6b) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mullvad) `api@^1.62.0` `utils@^1.10.1`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/0d5216f2407072ab_update-time.svg)
+![Last update](/icons/3ee74009b8f037f6_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -647,7 +647,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Gitee](https://raycast.com/koinzhang/gitee)** - Work with issues, search repositories and stay on top of notifications. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitee) `api@^1.44.0`
 - **[GitHub](https://raycast.com/thomaslombart/github)** - Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github) `api@^1.87.0` `utils@^1.16.0` `ai` `ai-tools`
 - **[GitHub Codespaces](https://raycast.com/michael.wang/github-codespaces)** - Manage and launch codespaces [`@michael.wang`](https://raycast.com/michael.wang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-codespaces) `api@^1.39.3` `utils@^1.4.8`
-- **[GitHub Copilot](https://raycast.com/timrogers/github-copilot)** - Delegate tasks to GitHub Copilot coding agent and track progress from Raycast [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) `api@^1.102.5` `utils@^2.2.1`
+- **[GitHub Copilot](https://raycast.com/timrogers/github-copilot)** - Delegate tasks to GitHub Copilot coding agent and track progress from Raycast [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) `api@^1.102.5` `utils@^2.2.1` `ai-tools`
 - **[GitHub Gist](https://raycast.com/koinzhang/github-gist)** - Create, search and display GitHub gists. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-gist) `api@^1.78.1` `utils@^1.16.2`
 - **[GitHub Profile](https://raycast.com/ViGeng/github-profile)** - View GitHub profiles directly in Raycast [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-profile) `api@^1.55.0` `utils@^1.9.0`
 - **[GitHub Repository Search](https://raycast.com/thomas/github-repository-search)** - Search repositories on GitHub and open previously visited ones faster. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) `api@^1.79.1` `utils@^1.16.3`
@@ -1355,7 +1355,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Olympic Games](https://raycast.com/elonwoo/olympic-games)** - Paris 2024 Olympic Medal Table [`@elonwoo`](https://raycast.com/elonwoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/olympic-games) `api@^1.80.0` `utils@^1.16.3`
 - **[Omni News](https://raycast.com/MacRayCast/omni-news)** - Fetching news from omni.se [`@MacRayCast`](https://raycast.com/MacRayCast) [`code`](https://github.com/raycast/extensions/tree/main/extensions/omni-news) `api@^1.94.3`
 - **[Pitchfork](https://raycast.com/koayon/pitchfork)** - See Pitchfork Album Reviews [`@koayon`](https://raycast.com/koayon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pitchfork) `api@^1.51.0` `utils@^1.4.16`
-- **[Polymarket](https://raycast.com/Osprey/polymarket)** - Search and view markets on Polymarket [`@Osprey`](https://raycast.com/Osprey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polymarket) `api@^1.84.6` `utils@^1.19.1`
+- **[Polymarket](https://raycast.com/Osprey/polymarket)** - Search and view markets on Polymarket [`@Osprey`](https://raycast.com/Osprey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polymarket) `api@^1.94.0` `utils@^1.19.1`
 - **[Recent News](https://raycast.com/klkvsky/the-verge)** - Check top articles on The Verge [`@klkvsky`](https://raycast.com/klkvsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-verge) `api@^1.47.3` `utils@^1.4.18`
 - **[Rusbase](https://raycast.com/khlebobul/rusbase)** - Get sections, markets and companies from Rusbase directly in Raycast [`@khlebobul`](https://raycast.com/khlebobul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rusbase) `api@^1.55.2` `utils@^1.8.0`
 - **[TabNews](https://raycast.com/juniorodilton/tabnews)** - Content for those who work with Programming and Technology [`@juniorodilton`](https://raycast.com/juniorodilton) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tabnews) `api@^1.59.0` `utils@^1.10.0`
@@ -2244,7 +2244,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Footy Report](https://raycast.com/thuoe/footy-report)** - Raycast extension to find your essential football match day info and stats [`@thuoe`](https://raycast.com/thuoe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/footy-report) `api@^1.60.1` `utils@^1.10.0`
 - **[French Verb Conjugation](https://raycast.com/Joellee/french-verb-conjugation)** - Quickly conjugate french verbs on the fly [`@Joellee`](https://raycast.com/Joellee) [`code`](https://github.com/raycast/extensions/tree/main/extensions/french-verb-conjugation) `api@^1.50.0`
 - **[Fuelix](https://raycast.com/fernando_barrios/fuelix)** - Unofficial - Use Fuelix Platform from the comfort of Raycast [`@fernando_barrios`](https://raycast.com/fernando_barrios) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fuelix) `api@^1.102.5` `utils@^2.2.1`
-- **[FuelX](https://raycast.com/nazeeh21/fuelx)** - FUEL AI Agent in Raycast [`@nazeeh21`](https://raycast.com/nazeeh21) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fuelx) `api@^1.88.3` `utils@^1.17.0`
+- **[FuelX](https://raycast.com/naz3eh/fuelx)** - FUEL AI Agent in Raycast [`@naz3eh`](https://raycast.com/naz3eh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fuelx) `api@^1.88.3` `utils@^1.17.0`
 - **[Geohash](https://raycast.com/alrico88/geohash-encode-decode)** - Encode coordinates as geohash, or decode a geohash and get useful info [`@alrico88`](https://raycast.com/alrico88) [`code`](https://github.com/raycast/extensions/tree/main/extensions/geohash-encode-decode) `api@^1.27.0`
 - **[Get Favicon](https://raycast.com/vimtor/get-favicon)** - Get favicon from website URL [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-favicon) `api@^1.93.0` `utils@^1.4.11`
 - **[GitHub Commits Menu](https://raycast.com/fe9lix/github-menu-bar)** - Show new Git commits in the macOS menu bar. [`@fe9lix`](https://raycast.com/fe9lix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-menu-bar) `api@1.38.1`

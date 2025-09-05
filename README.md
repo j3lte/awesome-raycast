@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/b267c5682f16866f_update-time.svg)
+![Last update](/icons/ea0b67921ba8f1f0_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2297** packages in **15** categories, **24** packages use Swift
-- **1496** authors, **914** contributors (of which **694** are only contributors, not authors)
+- **2300** packages in **15** categories, **24** packages use Swift
+- **1499** authors, **915** contributors (of which **695** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (69)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -53,7 +53,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [xmok](https://raycast.com/xmok) (129)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (72)
   - [j3lte](https://raycast.com/j3lte) (40)
-  - [litomore](https://raycast.com/litomore) (31)
+  - [litomore](https://raycast.com/litomore) (32)
   - [xilopaint](https://raycast.com/xilopaint) (31)
   - [stelo](https://raycast.com/stelo) (25)
 
@@ -559,6 +559,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Claude Code Usage (ccusage)](https://raycast.com/nyatinte/ccusage)** - Monitor Claude Code usage with real-time tracking [`@nyatinte`](https://raycast.com/nyatinte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ccusage) `api@^1.99.4` `utils@^1.17.0` `ai` `ai-tools`
 - **[Cloud CLI Login Statuses](https://raycast.com/adam_vyborny/cloud-cli-login-statuses)** - Check if you are logged in AWS, Google Cloud and Azure CLIs [`@adam_vyborny`](https://raycast.com/adam_vyborny) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloud-cli-login-statuses) `api@^1.94.3` `utils@^1.17.0`
 - **[Cloudflare](https://raycast.com/destiner/cloudflare)** - Search and view your Cloudflare sites, pages, domains, and more [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) `api@^1.94.0` `utils@^1.19.1`
+- **[Cloudflare R2 File Uploader](https://raycast.com/Silas/r2-uploader)** - Upload any files to Cloudflare R2 with optional AVIF conversion for images. After upload, the URL or Markdown link will be copied to clipboard. [`@Silas`](https://raycast.com/Silas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/r2-uploader) `api@^1.102.4` `utils@^1.17.0`
 - **[Cocoa Core Data Timestamp Converter](https://raycast.com/3llomi/cocoa-core-data-timestamp-converter)** - Cocoa Core Data Date Utils. Convert Cocoa Core Data Dates into Human Readable Format or Epoch. [`@3llomi`](https://raycast.com/3llomi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cocoa-core-data-timestamp-converter) `api@^1.96.0` `utils@^1.17.0`
 - **[Code Execution](https://raycast.com/EvanZhouDev/code)** - Give Raycast AI the ability to run Python, Bash, and AppleScript [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-execution) `api@^1.87.2` `utils@^1.17.0` `ai` `ai-tools`
 - **[Code Grepper](https://raycast.com/emircanerkul/codegrepper)** - Get code examples instantly [`@emircanerkul`](https://raycast.com/emircanerkul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codegrepper) `api@^1.43.2` `utils@^1.4.11`
@@ -1186,6 +1187,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Random Text Picker](https://raycast.com/ezzylan/random-text-picker)** - Pick a random item from a list by entering multiple text inputs, ala Wheel of Names [`@ezzylan`](https://raycast.com/ezzylan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-text-picker) `api@^1.55.2`
 - **[Ray Clicker](https://raycast.com/JonathanRReed/ray-clicker)** - Idle clicker game for Raycast with upgrades, prestige, and fun events. [`@JonathanRReed`](https://raycast.com/JonathanRReed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ray-clicker) `api@^1.102.3` `utils@^1.17.0`
 - **[Raycast Arcade](https://raycast.com/EvanZhouDev/raycast-arcade)** - Play simple and fun ASCII games in Raycast! [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-arcade) `api@^1.56.0` `utils@^1.9.0`
+- **[RedNote Viewer](https://raycast.com/orangelckc/rednote-viewer)** - Easy to view RedNote post in Raycast [`@orangelckc`](https://raycast.com/orangelckc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rednote-viewer) `api@^1.100.3` `utils@^2.2.1`
 - **[Restore Photos](https://raycast.com/peduarte/restore-photos)** - Restore old photos using AI. Powered by https://restorephotos.io. [`@peduarte`](https://raycast.com/peduarte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/restore-photo) `api@^1.46.0`
 - **[Rick and Morty](https://raycast.com/xmok/rick-and-morty)** - Access characters, images, locations and episodes from the television show "Rick and Morty" [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rick-and-morty) `api@^1.79.0` `utils@^1.16.3`
 - **[Roll D20](https://raycast.com/kayla/roll-d20)** - Rolls a d20, in other words, displays a random number between 1 and 20. [`@kayla`](https://raycast.com/kayla) [`code`](https://github.com/raycast/extensions/tree/main/extensions/roll-d20) `api@^1.42.2`
@@ -2363,6 +2365,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[PHP Monitor](https://raycast.com/nicoverbruggen/php-monitor)** - Control PHP Monitor, a utility application for the Mac. Requires the integration with third-party options not to be disabled. (This option is enabled by default in PHP Monitor.)   https://phpmon.app [`@nicoverbruggen`](https://raycast.com/nicoverbruggen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phpmon) `api@^1.27.1`
 - **[Pipedrive Search](https://raycast.com/ahp/pipedrive)** - Search Pipedrive deals, people and organizations [`@ahp`](https://raycast.com/ahp) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pipedrive) `api@^1.89.0`
 - **[Planning Center](https://raycast.com/caleb531/planning-center)** - Quickly look up people in Planning Center and copy their contact info [`@caleb531`](https://raycast.com/caleb531) [`code`](https://github.com/raycast/extensions/tree/main/extensions/planning-center) `api@^1.102.2` `utils@^2.2.0`
+- **[Plexus - Localhost Search](https://raycast.com/RensHoogendam/plexus)** - Discover and manage all running Node.js development servers on your localhost with smart project detection, framework identification, and quick access. [`@RensHoogendam`](https://raycast.com/RensHoogendam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/plexus) `api@^1.101.0` `utils@^2.2.0`
 - **[Podcasts](https://raycast.com/ron-myers/podcasts)** - Control the Podcasts app for macOS with your keyboard. [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/podcasts) `api@^1.29.1`
 - **[Polished](https://raycast.com/lekoarts/polished)** - Convert & Modify Colors with HEX, RGB, and HSL values. You can lighten & darken colors, invert them, do contrast calculations and much more. [`@lekoarts`](https://raycast.com/lekoarts) [`code`](https://github.com/raycast/extensions/tree/main/extensions/polished) `api@^1.26.1`
 - **[Popcorn - Explore Stremio Streams](https://raycast.com/martipops/popcorn)** - A Raycast extension that uses the Stremio API to search for movies and TV shows and stream them to local media players using Stremio addons. IINA is highly recommended for macOS users. [`@martipops`](https://raycast.com/martipops) [`code`](https://github.com/raycast/extensions/tree/main/extensions/popcorn) `api@^1.96.1` `utils@^1.17.0`

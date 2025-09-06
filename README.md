@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/ea0b67921ba8f1f0_update-time.svg)
+![Last update](/icons/65663b4665591594_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (217)
-  - [xmok](https://raycast.com/xmok) (129)
+  - [xmok](https://raycast.com/xmok) (130)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (72)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [litomore](https://raycast.com/litomore) (32)
@@ -806,7 +806,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Project Companion](https://raycast.com/maximedaraize/project-companion)** - Extension allowing you to add, update, delete and search your projects [`@maximedaraize`](https://raycast.com/maximedaraize) [`code`](https://github.com/raycast/extensions/tree/main/extensions/project-companion) `api@^1.69.0` `utils@^1.14.0`
 - **[Projects](https://raycast.com/ajaypremshankar/projects)** - Quickly access your local projects and open them in your favorite editor or any app. [`@ajaypremshankar`](https://raycast.com/ajaypremshankar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/projects) `api@^1.30.3`
 - **[Protobuf2TypeScript](https://raycast.com/7gugu/protobuf2typescript)** - A script which help front-end devloper to convert *.protobuf file into *.d.ts file. [`@7gugu`](https://raycast.com/7gugu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/protobuf2typescript) `api@^1.64.5`
-- **[Proxmox](https://raycast.com/CzBiX/proxmox)** - Manage your Proxmox server from Raycast [`@CzBiX`](https://raycast.com/CzBiX) [`code`](https://github.com/raycast/extensions/tree/main/extensions/proxmox) `api@^1.78.0` `utils@^1.16.2`
+- **[Proxmox](https://raycast.com/CzBiX/proxmox)** - Manage your Proxmox server from Raycast [`@CzBiX`](https://raycast.com/CzBiX) [`code`](https://github.com/raycast/extensions/tree/main/extensions/proxmox) `api@^1.101.0` `utils@^2.2.0`
 - **[Proxyman](https://raycast.com/noah_tran/proxyman)** - Navigate and perform common actions in Proxyman faster [`@noah_tran`](https://raycast.com/noah_tran) [`code`](https://github.com/raycast/extensions/tree/main/extensions/proxyman) `api@^1.69.0`
 - **[Prusa Printer Control](https://raycast.com/chad_walters/prusa)** - Monitor and control your Prusa 3D printer directly from Raycast. View temperatures, manage files, and control prints with keyboard shortcuts. Supports Prusa XL, MK4, MINI+, and MK3S+ (via PrusaLink). [`@chad_walters`](https://raycast.com/chad_walters) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prusa) `api@^1.92.1` `utils@^1.17.0`
 - **[Python](https://raycast.com/ahmedivy/python)** - Search Python Packages on PyPi [`@ahmedivy`](https://raycast.com/ahmedivy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/python) `api@^1.91.2` `utils@^1.18.1`

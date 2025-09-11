@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/3a108fd53a9d168c_update-time.svg)
+![Last update](/icons/5c7f37716b305e92_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,10 +38,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2305** packages in **15** categories, **24** packages use Swift
-- **1503** authors, **917** contributors (of which **695** are only contributors, not authors)
+- **2309** packages in **15** categories, **24** packages use Swift
+- **1505** authors, **918** contributors (of which **696** are only contributors, not authors)
 - Top **7** authors:
-  - [xmok](https://raycast.com/xmok) (69)
+  - [xmok](https://raycast.com/xmok) (70)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (19)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (218)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (219)
   - [xmok](https://raycast.com/xmok) (131)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (72)
   - [j3lte](https://raycast.com/j3lte) (40)
@@ -1086,6 +1086,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Vortex](https://raycast.com/saunter/vortex)** - The fastest way to use bitcoin on macOS [`@saunter`](https://raycast.com/saunter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vortex) `api@^1.74.1` `utils@^1.18.1`
 - **[Wave](https://raycast.com/xmok/wave)** - Manage your Wave Businesses [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wave) `api@^1.100.3` `utils@^2.0.1`
 - **[Wise Quotes](https://raycast.com/hugoliconv/wise-quotes)** - Effortlessly calculate international money transfers between USD and any target currency using the Wise API. Instantly generate quotes, access exchange rates, and estimated delivery times. [`@hugoliconv`](https://raycast.com/hugoliconv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wise-quotes) `api@^1.57.0` `utils@^1.9.0`
+- **[XPF to EUR Converter](https://raycast.com/vincent_perrot/xpf-converter)** - Convert Franc Pacifique (XPF) to Euros (EUR) with instant clipboard copy [`@vincent_perrot`](https://raycast.com/vincent_perrot) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xpf-converter) `api@^1.102.0`
 - **[Yield Calculator](https://raycast.com/Decrypt/yield-calculator)** - Calculte your interests, APY / APR using our calculator. [`@Decrypt`](https://raycast.com/Decrypt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yield-calculator) `api@^1.83.1` `utils@^1.17.0`
 
 
@@ -1517,7 +1518,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Close Finder](https://raycast.com/qeude/close-finder)** - Utils to close Finder from Raycast. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/close-finder) `api@^1.64.4` `utils@^1.10.1`
 - **[Cloudflare Email Routing](https://raycast.com/erayack/cloudflare-email-routing)** - Create, list, edit, and delete Cloudflare email aliases directly from Raycast. [`@erayack`](https://raycast.com/erayack) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-email-routing) `api@^1.96.3` `utils@^1.17.0`
 - **[Coda Bookmarks Search](https://raycast.com/allienx/coda-bookmarks-search)** - Quickly find and open your bookmarked URLs stored in a coda table. [`@allienx`](https://raycast.com/allienx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coda-bookmarks-search) `api@1.36.0`
-- **[Command Scheduler](https://raycast.com/cps/scheduler)** - Allows you to schedule Raycast commands to run at specific times ⏰. [`@cps`](https://raycast.com/cps) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scheduler) `api@^1.102.4` `utils@^2.2.0`
+- **[Command Scheduler](https://raycast.com/cps/scheduler)** - Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. [`@cps`](https://raycast.com/cps) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scheduler) `api@^1.102.7` `utils@^2.2.1`
 - **[Common Directory](https://raycast.com/koinzhang/common-directory)** - Quickly open or show common directory in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/common-directory) `api@^1.43.2`
 - **[Comodoro](https://raycast.com/jns/comodoro)** - Control Comodoro, a Pomodor timer [`@jns`](https://raycast.com/jns) [`code`](https://github.com/raycast/extensions/tree/main/extensions/comodoro) `api@^1.88.4` `utils@^1.18.1`
 - **[Confluence](https://raycast.com/tbrown/confluence)** - Quickly navigate, create and search Confluence through Raycast. [`@tbrown`](https://raycast.com/tbrown) [`code`](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) `api@^1.100.2` `utils@^2.0.0`
@@ -1906,6 +1907,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Vocabulary.com](https://raycast.com/datadeer/vocab)** - Retrieve Word definitions from vocab.com [`@datadeer`](https://raycast.com/datadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vocab-search) `api@^1.47.3`
 - **[Wakatime](https://raycast.com/iammola/wakatime)** - Show your Wakatime Activity Stats, Projects and Leaderboards [`@iammola`](https://raycast.com/iammola) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wakatime) `api@^1.96.0` `utils@^1.19.1`
 - **[Waktu Solat](https://raycast.com/msms/waktu-solat)** - Check Malaysia Prayer Time (JAKIM) [`@msms`](https://raycast.com/msms) [`code`](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat) `api@^1.65.1` `utils@^1.10.1`
+- **[Weather Forecast](https://raycast.com/kakaoduft/yr-weather-forecast)** - Weather forecast using the Norwegian Meteorological Institute's API [`@kakaoduft`](https://raycast.com/kakaoduft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yr-weather-forecast) `api@^1.102.3` `utils@^1.17.0`
 - **[Web Dictionaries](https://raycast.com/DrChai/dictionary)** - Search any word with multiple online dictionaries or translation engines in one place—lightweight, zero dependencies. [`@DrChai`](https://raycast.com/DrChai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dictionary) `api@^1.48.8` `utils@^1.5.2`
 - **[Webflow](https://raycast.com/peeks/webflow-sites)** - Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. [`@peeks`](https://raycast.com/peeks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) `api@^1.79.0` `utils@^1.17.0`
 - **[WebKit Developer Documentation](https://raycast.com/KevinBatdorf/webkit-developer-docs)** - Search and view WebKit docs [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webkit-developer-docs) `api@^1.50.2` `utils@^1.5.2`
@@ -1933,6 +1935,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[YubiKey Code](https://raycast.com/yoyoyeti/yubikey-code)** - Easily get a OTP from your YubiKey [`@yoyoyeti`](https://raycast.com/yoyoyeti) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yubikey-code) `api@^1.102.4`
 - **[Zeitraum](https://raycast.com/tensor/zeitraum)** - Track time with tags to Zeitraum server [`@tensor`](https://raycast.com/tensor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zeitraum) `api@^1.51.1`
 - **[Zen Mode](https://raycast.com/pradeepb28/zen-mode)** - Hide Everything. Mute Everything. [`@pradeepb28`](https://raycast.com/pradeepb28) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-mode) `api@^1.35.2`
+- **[Zendesk — Admin](https://raycast.com/miguelcorderocollar/zendesk-admin)** - Perform Zendesk Admin functions and access quickly any entity in Zendesk from Raycast. [`@miguelcorderocollar`](https://raycast.com/miguelcorderocollar) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zendesk-admin) `api@^1.101.1` `utils@^2.2.0`
 - **[Zendesk — Search Support Center](https://raycast.com/cpenned/zendesk)** - Search Zendesk support center for articles. [`@cpenned`](https://raycast.com/cpenned) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zendesk) `api@^1.79.0` `utils@^1.18.0`
 - **[Zoxide](https://raycast.com/mrpunkin/raycast-zoxide)** - Raycast integration with the zoxide command-line tool by Ajeet D'Souza. [`@mrpunkin`](https://raycast.com/mrpunkin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-zoxide) `api@^1.97.0` `utils@^1.19.1`
 - **[Zsh Aliases](https://raycast.com/espenbye/zsh-aliases)** - Manage zsh aliases [`@espenbye`](https://raycast.com/espenbye) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zsh-aliases) `api@^1.102.4` `utils@^2.2.0` `ai` `ai-tools`
@@ -2178,6 +2181,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Android ADB Input](https://raycast.com/star_zero/android-adb-input)** - Run Android `adb shell input text` command. [`@star_zero`](https://raycast.com/star_zero) [`code`](https://github.com/raycast/extensions/tree/main/extensions/android-adb-input) `api@^1.28.0`
 - **[Anna's Archive](https://raycast.com/j3lte/anna-s-archive)** - Search Anna's Archive, the largest truly open library in human history [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anna-s-archive) `api@^1.82.5` `utils@^1.17.0`
 - **[Antd](https://raycast.com/crazyair/antd-open-browser)** - Quickly open Antd components [`@crazyair`](https://raycast.com/crazyair) [`code`](https://github.com/raycast/extensions/tree/main/extensions/antd-open-browser) `api@^1.31.0`
+- **[Apify](https://raycast.com/xmok/apify)** - Your full-stack platform for web scraping [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apify) `api@^1.102.7` `utils@^1.17.0`
 - **[Apple Notes](https://raycast.com/tumtum/apple-notes)** - Search and create notes within the Apple Notes application. [`@tumtum`](https://raycast.com/tumtum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-notes) `api@^1.89.0` `utils@^1.18.1` `ai` `ai-tools`
 - **[Atomic Data](https://raycast.com/joepio/atomic)** - Search inside your Atomic-Server data [`@joepio`](https://raycast.com/joepio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/atomic) `api@^1.26.3`
 - **[Banca d'Italia Currency Converter](https://raycast.com/FezVrasta/banca-d-italia-currency-converter)** - Convert currencies based on the Banca d'Italia exchange rates. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/banca-d-italia-currency-converter) `api@^1.27.0`

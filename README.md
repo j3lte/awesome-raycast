@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/5c7f37716b305e92_update-time.svg)
+![Last update](/icons/fdc7673401004c78_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2309** packages in **15** categories, **24** packages use Swift
-- **1505** authors, **918** contributors (of which **696** are only contributors, not authors)
+- **2310** packages in **15** categories, **24** packages use Swift
+- **1506** authors, **920** contributors (of which **698** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (70)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -232,7 +232,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Todo List](https://raycast.com/maggie/todo-list)** - Manage your todo list quickly by adding items and marking items as completed. [`@maggie`](https://raycast.com/maggie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/todo-list) `api@^1.52.1` `utils@^1.1.0`
 - **[Transmission](https://raycast.com/FezVrasta/transmission)** - View and manage torrents directly from Raycast. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/transmission) `api@^1.94.0` `utils@^1.14.0`
 - **[Update Clash Subscription](https://raycast.com/JakeYu/update-clash-subscription)** - Update clash subscription & insert custom rules [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) `api@^1.46.1`
-- **[UptimeRobot](https://raycast.com/xmok/uptime-robot)** - View Monitors and Account Details [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) `api@^1.91.0` `utils@^1.18.1`
+- **[UptimeRobot](https://raycast.com/xmok/uptime-robot)** - View Monitors and Account Details [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) `api@^1.102.3` `utils@^2.2.0`
 - **[Video Downloader](https://raycast.com/vimtor/video-downloader)** - Download videos from YouTube, Twitter, Twitch, Instagram, Bilibili and more using yt-dlp CLI [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) `api@^1.93.0` `utils@^1.19.0` `ai` `ai-tools`
 - **[Vivaldi](https://raycast.com/crisboarna/vivaldi)** - Search open tabs, bookmarks and history in Vivaldi. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) `api@^1.79.1` `utils@^1.4.13`
 - **[VivaPB](https://raycast.com/Codrkoaz/vivapb)** - Browse the web in privacy with the Vivaldi Browser. [`@Codrkoaz`](https://raycast.com/Codrkoaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivapb) `api@^1.64.4` `utils@^1.11.1`
@@ -263,7 +263,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Discord](https://raycast.com/Aayush9029/discord)** - Send message to a specific discord channel using webhook. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discord) `api@^1.32.1`
 - **[Discord Timestamps](https://raycast.com/theshadowdev/discord-timestamps)** - Generate a Discord timestamp [`@theshadowdev`](https://raycast.com/theshadowdev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discord-timestamps) `api@^1.48.8` `utils@^1.5.2`
 - **[Fast Chat With Phone Number in IM Apps](https://raycast.com/timonpeng/phonenumber-in-im)** - A Raycast extension enables faster chatting with a target phone number in IM apps like WhatsApp and Telegram, eliminating the need to add contacts beforehand. [`@timonpeng`](https://raycast.com/timonpeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/phonenumber-in-im) `api@^1.61.2`
-- **[Forked Extensions](https://raycast.com/litomore/forked-extensions)** - Efficiently manage your forked Raycast extensions using Git sparse-checkout. Explore the full extension catalog, selectively checkout specific extensions, and remove extensions from your forked collection with ease. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) `api@^1.102.6`
+- **[Forked Extensions](https://raycast.com/litomore/forked-extensions)** - Efficiently manage your forked Raycast extensions using Git sparse-checkout. [`@litomore`](https://raycast.com/litomore) [`code`](https://github.com/raycast/extensions/tree/main/extensions/forked-extensions) `api@^1.102.6`
 - **[Gather](https://raycast.com/yannglt/gather)** - Control Gather from Raycast [`@yannglt`](https://raycast.com/yannglt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gather) `api@^1.37.1`
 - **[Gmail](https://raycast.com/tonka3000/gmail)** - Raycast Extension to manage Gmail [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gmail) `api@^1.79.0` `utils@^1.10.0`
 - **[Grammarix](https://raycast.com/hakob_nersesian/grammari-x)** - Your Writing's Best Friend. In this extension, you can fix your grammar and paraphrase your sentences more effectively. If you have a Raycast Pro subscription, you don't need to provide openAI key. [`@hakob_nersesian`](https://raycast.com/hakob_nersesian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/grammari-x) `api@^1.67.1` `utils@^1.12.4`
@@ -893,6 +893,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Tailwind CSS Colorpicker](https://raycast.com/magicjaqk/tw-colorpicker)** - Search Tailwind CSS colors to use the HEX or RGB color value in projects that don't use Tailwind CSS classes. [`@magicjaqk`](https://raycast.com/magicjaqk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tw-colorsearch) `api@^1.101.1`
 - **[Tailwind Size Conversion](https://raycast.com/kemiljk/tailwind-size-conversion)** - Converts pixels to Tailwind class values and vice versa [`@kemiljk`](https://raycast.com/kemiljk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/px-to-tailwind) `api@^1.52.1` `utils@^1.7.0`
 - **[Teleport](https://raycast.com/lamberttraccard/teleport)** - Interact with teleport, the open infrastructure access platform [`@lamberttraccard`](https://raycast.com/lamberttraccard) [`code`](https://github.com/raycast/extensions/tree/main/extensions/teleport) `api@^1.60.1` `utils@^1.10.0`
+- **[Tembo](https://raycast.com/vinicius_miguel/tembo)** - Tembo Raycast Extension for task management and creation [`@vinicius_miguel`](https://raycast.com/vinicius_miguel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tembo) `api@^1.102.6` `utils@^1.17.0` `ai` `ai-tools`
 - **[Text Shortcuts](https://raycast.com/koinzhang/text-shortcuts)** - Use Text Shortcuts to handle text from the selection or clipboard [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-shortcuts) `api@^1.84.10` `utils@^1.17.0`
 - **[Thingiverse](https://raycast.com/mSarheed/thingiverse)** - Browse Thingiverse [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/thingiverse) `api@^1.80.0` `utils@^1.16.3`
 - **[Tiktoken](https://raycast.com/Envl/tiktoken)** - do tiktoken encode and decode [`@Envl`](https://raycast.com/Envl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tiktoken) `api@^1.66.1` `utils@^1.11.1`
@@ -1292,7 +1293,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Plex](https://raycast.com/mSarheed/plex)** - View the media in your Plex Media Server [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/plex) `api@^1.79.0` `utils@^1.15.0`
 - **[Prowlarr](https://raycast.com/elcaten/prowlarr)** - Search and add to download clients with Prowlarr [`@elcaten`](https://raycast.com/elcaten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) `api@^1.81.2` `utils@^1.16.4`
 - **[PSN](https://raycast.com/kylinwowo/psn)** - Access your PlayStation Network profile, view recently played games and earned trophies [`@kylinwowo`](https://raycast.com/kylinwowo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/psn) `api@^1.100.2` `utils@^1.17.0`
-- **[QQ Music Controls](https://raycast.com/jwickers/qq-music-controls)** - Control the QQ Music app for macOS with your keyboard. [`@jwickers`](https://raycast.com/jwickers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) `api@^1.28.0`
+- **[QQ Music Controls](https://raycast.com/jwickers/qq-music-controls)** - Control the QQ Music app for macOS with your keyboard. [`@jwickers`](https://raycast.com/jwickers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/qq-music-controls) `api@^1.102.7`
 - **[Radarr](https://raycast.com/xjo_nd/radarr)** - Manage your Radarr movie collection with powerful search, monitoring, and download management capabilities [`@xjo_nd`](https://raycast.com/xjo_nd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/radarr) `api@^1.102.3` `utils@^1.17.0`
 - **[Rain Radars](https://raycast.com/danieldbird/rain-radars)** - Search for available rain radars for a location. [`@danieldbird`](https://raycast.com/danieldbird) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rain-radars) `api@^1.36.0`
 - **[RatingsDB](https://raycast.com/krod12/ratingsdb)** - Seamlessly search movie and tv show ratings and find where you can watch them! [`@krod12`](https://raycast.com/krod12) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ratingsdb) `api@^1.82.3` `utils@^1.16.3` `ai-tools`

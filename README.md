@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/fdc7673401004c78_update-time.svg)
+![Last update](/icons/c3fbe18c3ece2a1b_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2310** packages in **15** categories, **24** packages use Swift
-- **1506** authors, **920** contributors (of which **698** are only contributors, not authors)
+- **2313** packages in **15** categories, **24** packages use Swift
+- **1509** authors, **920** contributors (of which **698** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (70)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -233,7 +233,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Transmission](https://raycast.com/FezVrasta/transmission)** - View and manage torrents directly from Raycast. [`@FezVrasta`](https://raycast.com/FezVrasta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/transmission) `api@^1.94.0` `utils@^1.14.0`
 - **[Update Clash Subscription](https://raycast.com/JakeYu/update-clash-subscription)** - Update clash subscription & insert custom rules [`@JakeYu`](https://raycast.com/JakeYu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/update-clash-subscription) `api@^1.46.1`
 - **[UptimeRobot](https://raycast.com/xmok/uptime-robot)** - View Monitors and Account Details [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uptime-robot) `api@^1.102.3` `utils@^2.2.0`
-- **[Video Downloader](https://raycast.com/vimtor/video-downloader)** - Download videos from YouTube, Twitter, Twitch, Instagram, Bilibili and more using yt-dlp CLI [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) `api@^1.93.0` `utils@^1.19.0` `ai` `ai-tools`
+- **[Video Downloader](https://raycast.com/vimtor/video-downloader)** - Download videos from YouTube, Twitter, Twitch, Instagram, Bilibili and more using yt-dlp CLI [`@vimtor`](https://raycast.com/vimtor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/video-downloader) `api@^1.102.6` `utils@^2.2.1` `ai` `ai-tools`
 - **[Vivaldi](https://raycast.com/crisboarna/vivaldi)** - Search open tabs, bookmarks and history in Vivaldi. [`@crisboarna`](https://raycast.com/crisboarna) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivaldi) `api@^1.79.1` `utils@^1.4.13`
 - **[VivaPB](https://raycast.com/Codrkoaz/vivapb)** - Browse the web in privacy with the Vivaldi Browser. [`@Codrkoaz`](https://raycast.com/Codrkoaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vivapb) `api@^1.64.4` `utils@^1.11.1`
 - **[WebDAV Uploader](https://raycast.com/sevem/webdav-uploader)** - File uploader compatible with WebDAV [`@sevem`](https://raycast.com/sevem) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webdav-uploader) `api@^1.93.1` `utils@^1.17.0`
@@ -654,7 +654,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Gitee](https://raycast.com/koinzhang/gitee)** - Work with issues, search repositories and stay on top of notifications. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitee) `api@^1.44.0`
 - **[GitHub](https://raycast.com/thomaslombart/github)** - Work with issues, pull requests, manage workflows, search repositories and stay on top of notifications [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github) `api@^1.87.0` `utils@^1.16.0` `ai` `ai-tools`
 - **[GitHub Codespaces](https://raycast.com/michael.wang/github-codespaces)** - Manage and launch codespaces [`@michael.wang`](https://raycast.com/michael.wang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-codespaces) `api@^1.39.3` `utils@^1.4.8`
-- **[GitHub Copilot](https://raycast.com/timrogers/github-copilot)** - Delegate tasks to GitHub Copilot coding agent and track progress from Raycast [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) `api@^1.102.5` `utils@^2.2.1` `ai-tools`
+- **[GitHub Copilot](https://raycast.com/timrogers/github-copilot)** - Delegate tasks to GitHub Copilot coding agent and track progress from Raycast [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-copilot) `api@^1.102.7` `utils@^2.2.1` `ai-tools`
 - **[GitHub Gist](https://raycast.com/koinzhang/github-gist)** - Create, search and display GitHub gists. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-gist) `api@^1.78.1` `utils@^1.16.2`
 - **[GitHub Profile](https://raycast.com/ViGeng/github-profile)** - View GitHub profiles directly in Raycast [`@ViGeng`](https://raycast.com/ViGeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-profile) `api@^1.55.0` `utils@^1.9.0`
 - **[GitHub Repository Search](https://raycast.com/thomas/github-repository-search)** - Search repositories on GitHub and open previously visited ones faster. [`@thomas`](https://raycast.com/thomas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/github-repository-search) `api@^1.79.1` `utils@^1.16.3`
@@ -838,6 +838,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Sav](https://raycast.com/xmok/sav)** - Manage Domains in your Sav Account [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sav) `api@^1.91.0` `utils@^1.18.1`
 - **[Saved Items](https://raycast.com/guoxudong/saved-items)** - Save some items (eg. quick replies) and insert or copy them. [`@guoxudong`](https://raycast.com/guoxudong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/saved-items) `api@^1.58.1`
 - **[Scaleway](https://raycast.com/philibea/scaleway)** - Quick access to your Scaleway services [`@philibea`](https://raycast.com/philibea) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scaleway) `api@1.70.3`
+- **[Scoop](https://raycast.com/zsombor_biro/scoop)** - Manage Scoop, the command-line installer for Windows. [`@zsombor_biro`](https://raycast.com/zsombor_biro) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scoop) `api@^1.102.5` `utils@^1.17.0`
 - **[Scrcpy](https://raycast.com/zcfan/scrcpy)** - Mirror android device screen with scrcpy [`@zcfan`](https://raycast.com/zcfan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scrcpy) `api@^1.48.5`
 - **[SCSS Compile](https://raycast.com/SuoweiHu/scss-compile)** - Utility that convert SCSS (Sassy Cascading Style Sheets) file into CSS file [`@SuoweiHu`](https://raycast.com/SuoweiHu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scss-compile) `api@^1.76.0` `utils@^1.16.0`
 - **[Search Hex](https://raycast.com/jordelver/search-hex)** - A Raycast extension that enables you to quickly look up package information from Hex [`@jordelver`](https://raycast.com/jordelver) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-hexpm) `api@^1.40.1`
@@ -1290,6 +1291,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pinboard](https://raycast.com/fe9lix/pinboard)** - Post new bookmarks to Pinboard and search through your Pinboard bookmarks. Tip: Assign a global shortcut to the "Add Bookmark" command, select a URL, and then run the command ✨ [`@fe9lix`](https://raycast.com/fe9lix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pinboard) `api@^1.54.1`
 - **[PiP](https://raycast.com/koinzhang/pip)** - Watch video in Picture in Picture or Full Screen mode [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pip) `api@^1.77.1` `utils@^1.16.0`
 - **[Playback Duration Calculator](https://raycast.com/nathanwijaya/playback-duration-calculator)** - Find out how long your video or audio will take to finish based on your playback speed. [`@nathanwijaya`](https://raycast.com/nathanwijaya) [`code`](https://github.com/raycast/extensions/tree/main/extensions/playback-duration-calculator) `api@^1.69.0`
+- **[Playnite Launcher](https://raycast.com/bennettsh/playnite-launcher)** - Launch your favorite games using Playnite. [`@bennettsh`](https://raycast.com/bennettsh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/playnite-launcher) `api@^1.100.3` `utils@^2.2.0`
 - **[Plex](https://raycast.com/mSarheed/plex)** - View the media in your Plex Media Server [`@mSarheed`](https://raycast.com/mSarheed) [`code`](https://github.com/raycast/extensions/tree/main/extensions/plex) `api@^1.79.0` `utils@^1.15.0`
 - **[Prowlarr](https://raycast.com/elcaten/prowlarr)** - Search and add to download clients with Prowlarr [`@elcaten`](https://raycast.com/elcaten) [`code`](https://github.com/raycast/extensions/tree/main/extensions/prowlarr) `api@^1.81.2` `utils@^1.16.4`
 - **[PSN](https://raycast.com/kylinwowo/psn)** - Access your PlayStation Network profile, view recently played games and earned trophies [`@kylinwowo`](https://raycast.com/kylinwowo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/psn) `api@^1.100.2` `utils@^1.17.0`
@@ -2256,6 +2258,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ENS Name Lookup](https://raycast.com/Yukai/ens-name-lookup)** - Lookup ENS name or address [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ens-name-lookup) `api@^1.36.0`
 - **[Envato Sales, Purchases and Search](https://raycast.com/astroon/envato)** - Tracking New Sales For Envato Author, View Purchases and Search Catalog [`@astroon`](https://raycast.com/astroon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/envato) `api@^1.84.8` `utils@^1.18.0`
 - **[Evernote Instant Search](https://raycast.com/artpi/evernote)** - Search your Evernote notes instantly using the local database of the Mac official Evernote client. [`@artpi`](https://raycast.com/artpi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/evernote) `api@^1.93.2` `utils@^1.17.0`
+- **[Everything](https://raycast.com/anastasiy_safari/everything-search)** - Search multiple Everything ETP/FTP servers from Raycast [`@anastasiy_safari`](https://raycast.com/anastasiy_safari) [`code`](https://github.com/raycast/extensions/tree/main/extensions/everything-search) `api@^1.100.3` `utils@^1.17.0`
 - **[Expand Video Canvas](https://raycast.com/lzybiasia/expand-video-canvas)** - Expand different size video to 1920*1080. It will center the original video and fill background with the edge color. [`@lzybiasia`](https://raycast.com/lzybiasia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/expand-video-canvas) `api@^1.83.1` `utils@^1.17.0`
 - **[FaceTime](https://raycast.com/ron-myers/facetime)** - Make FaceTime calls with Raycast [`@ron-myers`](https://raycast.com/ron-myers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/facetime) `api@^1.78.1` `utils@^1.16.2` `swift`
 - **[Feedly](https://raycast.com/shubham/feedly)** - Browse Feedly through Raycast [`@shubham`](https://raycast.com/shubham) [`code`](https://github.com/raycast/extensions/tree/main/extensions/feedly) `api@^1.44.0` `utils@^1.4.14`

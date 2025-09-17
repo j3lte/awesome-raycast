@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/c24a0746a30dd119_update-time.svg)
+![Last update](/icons/9b03cb8bc8d1b737_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2317** packages in **15** categories, **24** packages use Swift
-- **1511** authors, **920** contributors (of which **698** are only contributors, not authors)
+- **2321** packages in **15** categories, **24** packages use Swift
+- **1514** authors, **921** contributors (of which **698** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (71)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -243,7 +243,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Window Sizer](https://raycast.com/the3ash/window-sizer)** - Resize the focused window to pixel-perfect presets. [`@the3ash`](https://raycast.com/the3ash) [`code`](https://github.com/raycast/extensions/tree/main/extensions/window-sizer) `api@^1.96.0` `utils@^1.17.0` `swift`
 - **[Wireguard](https://raycast.com/sbugzhu/wireguard)** - Control Wireguard connections. [`@sbugzhu`](https://raycast.com/sbugzhu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wireguard) `api@^1.79.0` `utils@^1.18.1`
 - **[Xecutor](https://raycast.com/GastroGeek/xecutor)** - Create presets to launch multiple macOS applications and/or urls from within Raycast [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/xecutor) `api@^1.39.3` `utils@^2.0.1`
-- **[Zen Browser](https://raycast.com/Keyruu/zen-browser)** - Search and open tabs from bookmarks and history in Zen Browser. [`@Keyruu`](https://raycast.com/Keyruu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) `api@^1.94.0` `utils@^1.19.1` `ai` `ai-tools`
+- **[Zen Browser](https://raycast.com/Keyruu/zen-browser)** - Search and open tabs from bookmarks and history in Zen Browser. [`@Keyruu`](https://raycast.com/Keyruu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zen-browser) `api@^1.103.0` `utils@^1.19.1` `ai` `ai-tools`
 - **[Zipline](https://raycast.com/treyg/zipline)** - Manage your Zipline uploads - browse, upload, and share files [`@treyg`](https://raycast.com/treyg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/zipline) `api@^1.94.0` `utils@^1.19.1`
 
 
@@ -1436,6 +1436,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Stockholm Public Transport](https://raycast.com/ericostholmm/stockholm-public-transport)** - Departures for public transport in Stockholm [`@ericostholmm`](https://raycast.com/ericostholmm) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stockholm-public-transport) `api@^1.91.2` `utils@^1.18.1`
 - **[Stoic Quotes](https://raycast.com/rrajath/stoicquotes)** - Gives a random quote from one of the stoic philosophers - Marcus Aurelius, Seneca or Epictetus [`@rrajath`](https://raycast.com/rrajath) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stoicquotes) `api@^1.46.0` `utils@^1.4.16`
 - **[Swap Commas & Dots](https://raycast.com/brunopicinin/swap-commas-dots)** - Swap commas and dots in selected text. [`@brunopicinin`](https://raycast.com/brunopicinin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swap-commas-dots) `api@^1.93.0` `utils@^1.17.0`
+- **[Swiss Train Times](https://raycast.com/etienne_gobeli/swiss-train-times)** - Gets departure times at train and bus stations in Switzerland. [`@etienne_gobeli`](https://raycast.com/etienne_gobeli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/swiss-train-times) `api@^1.102.0` `utils@^2.2.1`
 - **[The Matrix of Destiny](https://raycast.com/unitech/the-matrix-of-destiny)** - Quickly go to a date on the Matrix of Destiny [`@unitech`](https://raycast.com/unitech) [`code`](https://github.com/raycast/extensions/tree/main/extensions/the-matrix-of-destiny) `api@^1.60.1`
 - **[tldraw](https://raycast.com/zephraph/tldraw)** - Creates and persists tldraw projects [`@zephraph`](https://raycast.com/zephraph) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tldraw) `api@^1.64.3` `utils@^1.10.1`
 - **[Trenit](https://raycast.com/gianpiero_spinelli/trenit)** - Italian Rail departure information [`@gianpiero_spinelli`](https://raycast.com/gianpiero_spinelli) [`code`](https://github.com/raycast/extensions/tree/main/extensions/trenit) `api@^1.89.1` `utils@^1.17.0`
@@ -1723,6 +1724,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Ollama AI](https://raycast.com/massimiliano_pasquini/raycast-ollama)** - Perform Local Inference with Ollama [`@massimiliano_pasquini`](https://raycast.com/massimiliano_pasquini) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-ollama) `api@^1.55.2` `utils@^1.9.0`
 - **[Ollama Mind Map Generator](https://raycast.com/vojay/ollama-mind-map-generator)** - Generate interactive mind maps from clipboard content using local LLMs via Ollama [`@vojay`](https://raycast.com/vojay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ollama-mind-map-generator) `api@^1.88.4`
 - **[OmniFocus](https://raycast.com/nicolas-marien/omnifocus)** - Perform basic actions on your OmniFocus database. [`@nicolas-marien`](https://raycast.com/nicolas-marien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/omnifocus) `api@1.91.2` `utils@1.18.1`
+- **[Onbo: New Grad & Internship Tracker](https://raycast.com/soradotwav/onbo)** - Browse and save student and entry-level roles from leading tech companies. [`@soradotwav`](https://raycast.com/soradotwav) [`code`](https://github.com/raycast/extensions/tree/main/extensions/onbo) `api@^1.102.7` `utils@^1.17.0`
 - **[One Tab Group](https://raycast.com/xiaoluoboding/one-tab-group)** - Search One Tab Group on Raycast [`@xiaoluoboding`](https://raycast.com/xiaoluoboding) [`code`](https://github.com/raycast/extensions/tree/main/extensions/one-tab-group) `api@^1.45.2`
 - **[OneLook Thesaurus](https://raycast.com/FelipeCortez/onelook-thesaurus)** - A powerful English thesaurus and brainstorming tool that lets you describe what you're looking for in plain terms. [`@FelipeCortez`](https://raycast.com/FelipeCortez) [`code`](https://github.com/raycast/extensions/tree/main/extensions/onelook-thesaurus) `api@^1.78.1` `utils@^1.16.2`
 - **[OneNote](https://raycast.com/alewandowski/onenote)** - Search Microsoft OneNote notes [`@alewandowski`](https://raycast.com/alewandowski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/onenote) `api@^1.46.0` `utils@^1.4.16`
@@ -1824,10 +1826,12 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[SEO Lighthouse](https://raycast.com/guelug/seo-lighthouse)** - Lighthouse SEO Analyzer is a powerful Raycast extension that leverages Google Lighthouse to provide comprehensive SEO and performance audits for any website. Simply input a URL and choose your desired analysis mode, device type, and categories. Get detailed insights into page load speed, core web vitals, accessibility, best practices, and more. [`@guelug`](https://raycast.com/guelug) [`code`](https://github.com/raycast/extensions/tree/main/extensions/seo-lighthouse) `api@^1.84.3` `utils@^1.17.0`
 - **[Sequel Ace](https://raycast.com/nagauta/sequel-ace)** - search and connect databases in Sequel Ace [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sequel-ace) `api@^1.48.9`
 - **[ServiceNow](https://raycast.com/robertoalvarezalonso/servicenow)** - Search and explore content across your ServiceNow instances [`@robertoalvarezalonso`](https://raycast.com/robertoalvarezalonso) [`code`](https://github.com/raycast/extensions/tree/main/extensions/servicenow) `api@^1.96.0` `utils@^1.19.1`
+- **[Share a Quote](https://raycast.com/alexi.build/share-a-quote)** - Copy selected text as a formatted quote with source link [`@alexi.build`](https://raycast.com/alexi.build) [`code`](https://github.com/raycast/extensions/tree/main/extensions/share-a-quote) `api@^1.102.6` `utils@^1.17.0`
 - **[Shiori](https://raycast.com/namiwang/shiori)** - Interact with Shiori the bookmark manager [`@namiwang`](https://raycast.com/namiwang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shiori) `api@^1.65.1` `utils@^1.12.4`
 - **[Ship24 Package Tracker](https://raycast.com/Pr0tey/ship24-client)** - Track your packages and shipments with Ship24's powerful tracking service. Add parcels, monitor delivery status in real-time, and get detailed tracking history. Free plan includes 10 packages per month. Unofficial extension for Ship24.com with support for 1200+ carriers worldwide. [`@Pr0tey`](https://raycast.com/Pr0tey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ship24-client) `api@^1.100.3` `utils@^1.17.0`
 - **[Shortcut](https://raycast.com/Yukai/shortcut)** - Raycast extension for Shortcut [`@Yukai`](https://raycast.com/Yukai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shortcut) `api@^1.38.1` `utils@^1.0.6`
 - **[Shortcuts Search](https://raycast.com/solomkinmv/shortcuts-search)** - List, search and run shortcuts for different applications [`@solomkinmv`](https://raycast.com/solomkinmv) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shortcuts-search) `api@^1.63.0` `utils@^1.10.1`
+- **[Simple Dictionary](https://raycast.com/CT-7567/simple-dictionary)** - A simple dictionary to look up words and save your favourites [`@CT-7567`](https://raycast.com/CT-7567) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-dictionary) `api@^1.102.4` `utils@^1.17.0`
 - **[Simple Reminder](https://raycast.com/comoser/simple-reminder)** - Set your reminders in natural language without the need to have any application installed. [`@comoser`](https://raycast.com/comoser) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simple-reminder) `api@^1.73.3` `utils@^1.15.0`
 - **[SimpleLogin](https://raycast.com/adrian-schnell/simplelogin)** - Mange your SimpleLogin Account, view and create aliases [`@adrian-schnell`](https://raycast.com/adrian-schnell) [`code`](https://github.com/raycast/extensions/tree/main/extensions/simplelogin) `api@^1.76.0` `utils@^1.15.0`
 - **[Sleep Timer](https://raycast.com/dtmzr/sleep-timer)** - Sending your macbook into sleeping mode after the timer runs out, directly in Raycast, with no external dependencies. [`@dtmzr`](https://raycast.com/dtmzr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sleep-timer) `api@^1.44.0`

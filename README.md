@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/9b03cb8bc8d1b737_update-time.svg)
+![Last update](/icons/daebc66f94a483c3_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2321** packages in **15** categories, **24** packages use Swift
-- **1514** authors, **921** contributors (of which **698** are only contributors, not authors)
+- **2322** packages in **15** categories, **24** packages use Swift
+- **1515** authors, **921** contributors (of which **698** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (71)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (220)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (221)
   - [xmok](https://raycast.com/xmok) (131)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (74)
   - [j3lte](https://raycast.com/j3lte) (40)
@@ -2404,6 +2404,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Raindrop.io](https://raycast.com/lardissone/raindrop-io)** - Search your Raindrop.io bookmarks [`@lardissone`](https://raycast.com/lardissone) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raindrop-io) `api@^1.102.6` `utils@^1.19.1`
 - **[Random Email](https://raycast.com/rkjaer/random-email)** - A quick way to create and copy a random email address [`@rkjaer`](https://raycast.com/rkjaer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/random-email) `api@^1.25.6`
 - **[ray.so](https://raycast.com/garrett/ray-so)** - Create beautiful images of your code using ray.so [`@garrett`](https://raycast.com/garrett) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ray-so) `api@~1.102.3` `utils@^2.2.0`
+- **[Raycast FRC](https://raycast.com/vibsthebot/raycast-frc)** - Robotics Stats for FIRST Robotics Competition [`@vibsthebot`](https://raycast.com/vibsthebot) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-frc) `api@^1.102.3` `utils@^1.17.0`
 - **[Raycast Icons](https://raycast.com/petr/raycast-icons)** - Browse, copy and modify Raycast icons. [`@petr`](https://raycast.com/petr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-icons) `api@1.98.4` `utils@^1.19.1`
 - **[Raytyping](https://raycast.com/louishuyng/raytyping)** - This extension inspired by monkeytype. For developer who loves typing keyboard and measure their speed of typing skill [`@louishuyng`](https://raycast.com/louishuyng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raytyping) `api@^1.63.0`
 - **[Readwise to Tana](https://raycast.com/believer/readwise-to-tana)** - Copy Readwise highlights to Tana [`@believer`](https://raycast.com/believer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/readwise-to-tana) `api@^1.47.2` `utils@1.4.16`
@@ -2477,7 +2478,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Twitter](https://raycast.com/tonka3000/twitter)** - Send and search Tweets [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitter) `api@^1.62.0` `utils@^1.10.1`
 - **[Two-Factor Authentication Code Generator](https://raycast.com/cjdenio/two-factor-authentication-code-generator)** - Quickly access your two-factor authentication codes. [`@cjdenio`](https://raycast.com/cjdenio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator) `api@^1.94.0`
 - **[Ulysses](https://raycast.com/praveenjuge/ulysses)** - Use Ulysses with Raycast [`@praveenjuge`](https://raycast.com/praveenjuge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ulysses) `api@^1.27.0`
-- **[Unicode Symbols Search](https://raycast.com/mmazzarolo/unicode-symbols)** - Browse and copy-paste common Unicode symbols. [`@mmazzarolo`](https://raycast.com/mmazzarolo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) `api@^1.88.3` `utils@^1.18.1`
+- **[Unicode Symbols Search](https://raycast.com/mmazzarolo/unicode-symbols)** - Browse and copy-paste common Unicode symbols. [`@mmazzarolo`](https://raycast.com/mmazzarolo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) `api@^1.103.1` `utils@^2.2.1`
 - **[Unix Timestamp Converter](https://raycast.com/ride-space/unix-timestamp-converter)** - Convert Unix timestamps to readable date and time formats for any country or timezone, or generate Unix timestamps from human-readable dates. Supports multiple time zones and display formats. [`@ride-space`](https://raycast.com/ride-space) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp-converter) `api@^1.97.0` `utils@^1.17.0`
 - **[Unsplash](https://raycast.com/eggsy/unsplash)** - Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! [`@eggsy`](https://raycast.com/eggsy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unsplash) `api@^1.102.6` `utils@^2.2.1`
 - **[Upstash](https://raycast.com/xmok/upstash)** - Manage Redis Databases and Vector Indices [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/upstash) `api@^1.100.3` `utils@^2.0.1`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/27f2d12efce19b89_update-time.svg)
+![Last update](/icons/b805a1911b9b13d3_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -53,8 +53,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [xmok](https://raycast.com/xmok) (131)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (74)
   - [j3lte](https://raycast.com/j3lte) (40)
+  - [xilopaint](https://raycast.com/xilopaint) (33)
   - [litomore](https://raycast.com/litomore) (32)
-  - [xilopaint](https://raycast.com/xilopaint) (31)
   - [stelo](https://raycast.com/stelo) (25)
 
 <!-- END STATISTICS -->
@@ -1747,7 +1747,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Pangu for Raycast](https://raycast.com/avengerbevis/pangu-for-raycast)** - Add spaces between Chinese and English, number or symbols. [`@avengerbevis`](https://raycast.com/avengerbevis) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pangu-for-raycast) `api@^1.68.1`
 - **[Paperless-ngx](https://raycast.com/damdam/paperless-ngx)** - Search Paperless-ngx for documents and upload [`@damdam`](https://raycast.com/damdam) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paperless-ngx) `api@1.51.1`
 - **[Parallels Virtual Machines](https://raycast.com/danpalmer/parallels-virtual-machines)** - Launch and control virtual machines in Parallels Desktop. [`@danpalmer`](https://raycast.com/danpalmer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parallels-virtual-machines) `api@^1.39.3` `utils@^1.4.0`
-- **[Parcel](https://raycast.com/marcmagn1/parcel)** - Allow Parcel users to see upcoming and active deliveries [`@marcmagn1`](https://raycast.com/marcmagn1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parcel) `api@^1.92.1` `utils@^1.17.0` `ai` `ai-tools`
+- **[Parcel](https://raycast.com/marcmagn1/parcel)** - Allow Parcel users to see upcoming and active deliveries [`@marcmagn1`](https://raycast.com/marcmagn1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parcel) `api@^1.102.6` `utils@^2.2.1` `ai` `ai-tools`
 - **[Parcel Tracker - 17track](https://raycast.com/cojmeister/package-tracker)** - A Raycast extension that allows you to track your packages using 17track's REST API.  All supported agencies are those of 17track. [`@cojmeister`](https://raycast.com/cojmeister) [`code`](https://github.com/raycast/extensions/tree/main/extensions/package-tracker) `api@^1.91.2` `utils@^1.17.0`
 - **[Password Generator](https://raycast.com/joshuaiz/password-generator)** - Generates a password from 5–64 characters with options for case, special characters, and more [`@joshuaiz`](https://raycast.com/joshuaiz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/password-generator) `api@^1.102.6`
 - **[Pastery](https://raycast.com/xmok/pastery)** - Pastery is the sweetest pastebin in the world. [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pastery) `api@^1.94.0` `utils@^1.19.1`

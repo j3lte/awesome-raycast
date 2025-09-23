@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/b805a1911b9b13d3_update-time.svg)
+![Last update](/icons/b0b53a74915edd6c_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2324** packages in **15** categories, **24** packages use Swift
-- **1516** authors, **922** contributors (of which **699** are only contributors, not authors)
+- **2327** packages in **15** categories, **24** packages use Swift
+- **1518** authors, **922** contributors (of which **699** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (72)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -571,6 +571,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CodeBlocks](https://raycast.com/isfeng/codeblocks)** - Set or modify the programming language in markdown code blocks in batch. [`@isfeng`](https://raycast.com/isfeng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/CodeBlocks) `api@^1.37.1`
 - **[Codemagic](https://raycast.com/imgkl/codemagic)** - Trigger and view builds and artifacts right from Raycast [`@imgkl`](https://raycast.com/imgkl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codemagic) `api@^1.83.1` `utils@^1.17.0`
 - **[CodeSnap](https://raycast.com/Mokkapps/codesnap)** - Creates a beautiful image of your code snippet [`@Mokkapps`](https://raycast.com/Mokkapps) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codesnap) `api@^1.39.3` `utils@^1.4.1`
+- **[CometAPI](https://raycast.com/mutewinter/cometapi)** - AI-powered text processing tools using CometAPI. Summarize, translate, rephrase, proofread text with advanced language models. [`@mutewinter`](https://raycast.com/mutewinter) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cometapi) `api@^1.102.4` `utils@^2.2.1`
 - **[Commit Issue Parser](https://raycast.com/julesjuul/commit-issue-parser)** - Easily parse issue URLs to generate commit names and descriptions for use with Git [`@julesjuul`](https://raycast.com/julesjuul) [`code`](https://github.com/raycast/extensions/tree/main/extensions/commit-issue-parser) `api@^1.100.3` `utils@^1.17.0`
 - **[Commit Message Generator](https://raycast.com/rokartur/commit-message-generator)** - Must have extension for any developer! [`@rokartur`](https://raycast.com/rokartur) [`code`](https://github.com/raycast/extensions/tree/main/extensions/commit-message-generator) `api@^1.59.0`
 - **[Composerize](https://raycast.com/j3lte/composerize)** - Convert docker commands to docker-compose and vice versa [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/composerize) `api@^1.72.1` `utils@^1.14.1`
@@ -1420,6 +1421,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Moon Phrase](https://raycast.com/bucketfish/moon-phrase)** - Show details about the current moon phase, or put it in your menu bar. [`@bucketfish`](https://raycast.com/bucketfish) [`code`](https://github.com/raycast/extensions/tree/main/extensions/moon-phrase) `api@^1.45.3`
 - **[Nepali Date Converter](https://raycast.com/beedhan/nepali-date-converter)** - It converts current, provided date to Nepali date [`@beedhan`](https://raycast.com/beedhan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nepali-date-converter) `api@^1.84.2` `utils@^1.17.0`
 - **[Netherlands Railways Train Search](https://raycast.com/flaticols/ns-nl-search)** - With the Raycast extension for Netherlands Railways, you can easily find train schedules, routes, and real-time updates for the Dutch railway system. This extension simplifies the process of planning your journey by providing quick access to essential information directly from your Raycast interface. Whether you're commuting or traveling, stay informed with the latest train updates and ensure a smooth trip with just a few clicks. [`@flaticols`](https://raycast.com/flaticols) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ns-nl-search) `api@^1.74.1` `utils@^1.15.0`
+- **[Nightscout](https://raycast.com/zachsea/nightscout)** - View statistics and trends from your Nightscout instance directly in Raycast. [`@zachsea`](https://raycast.com/zachsea) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nightscout) `api@^1.102.6` `utils@^1.17.0`
 - **[NMBS Planner](https://raycast.com/Samuel3865/nmbs-planner)** - Plan your trainrides with NMBS [`@Samuel3865`](https://raycast.com/Samuel3865) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nmbs-planner) `api@^1.48.4`
 - **[NYC Train Tracker - Realtime Train Departures](https://raycast.com/kcole93/nyc-train-tracker)** - Look up train departures and service alerts for MTA, LIRR and MNR. [`@kcole93`](https://raycast.com/kcole93) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nyc-train-tracker) `api@^1.94.4` `utils@^1.17.0`
 - **[OpenAI Speak](https://raycast.com/jian_chao_man/openai-speak)** - Uses the OpenAI TTS API to speak the selected text. [`@jian_chao_man`](https://raycast.com/jian_chao_man) [`code`](https://github.com/raycast/extensions/tree/main/extensions/openai-speak) `api@^1.63.0`
@@ -1919,6 +1921,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Waktu Solat](https://raycast.com/msms/waktu-solat)** - Check Malaysia Prayer Time (JAKIM) [`@msms`](https://raycast.com/msms) [`code`](https://github.com/raycast/extensions/tree/main/extensions/waktu-solat) `api@^1.65.1` `utils@^1.10.1`
 - **[Weather Forecast](https://raycast.com/kakaoduft/yr-weather-forecast)** - Weather forecast using the Norwegian Meteorological Institute's API [`@kakaoduft`](https://raycast.com/kakaoduft) [`code`](https://github.com/raycast/extensions/tree/main/extensions/yr-weather-forecast) `api@^1.102.3` `utils@^1.17.0`
 - **[Web Dictionaries](https://raycast.com/DrChai/dictionary)** - Search any word with multiple online dictionaries or translation engines in one place—lightweight, zero dependencies. [`@DrChai`](https://raycast.com/DrChai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dictionary) `api@^1.48.8` `utils@^1.5.2`
+- **[WebBites](https://raycast.com/elias_ruiz_monserrat/webbites)** - Search your WebBites.io bookmarks [`@elias_ruiz_monserrat`](https://raycast.com/elias_ruiz_monserrat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webbites) `api@^1.93.2` `utils@^1.17.0`
 - **[Webflow](https://raycast.com/peeks/webflow-sites)** - Supercharged productivity for Webflow. Bring Webflow to every corner of your OS. Open any project from anywhere. Site settings and more. [`@peeks`](https://raycast.com/peeks) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webflow-sites) `api@^1.79.0` `utils@^1.17.0`
 - **[WebKit Developer Documentation](https://raycast.com/KevinBatdorf/webkit-developer-docs)** - Search and view WebKit docs [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webkit-developer-docs) `api@^1.50.2` `utils@^1.5.2`
 - **[Webpage to Markdown](https://raycast.com/treyg/webpage-to-markdown)** - Convert any webpage to markdown just by providing the url. [`@treyg`](https://raycast.com/treyg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/webpage-to-markdown) `api@^1.84.3` `utils@^1.17.0` `ai` `ai-tools`

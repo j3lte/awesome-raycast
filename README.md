@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/b0b53a74915edd6c_update-time.svg)
+![Last update](/icons/f0443ad2f167fe26_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,10 +38,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2327** packages in **15** categories, **24** packages use Swift
+- **2328** packages in **15** categories, **24** packages use Swift
 - **1518** authors, **922** contributors (of which **699** are only contributors, not authors)
 - Top **7** authors:
-  - [xmok](https://raycast.com/xmok) (72)
+  - [xmok](https://raycast.com/xmok) (73)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (19)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (221)
-  - [xmok](https://raycast.com/xmok) (131)
+  - [xmok](https://raycast.com/xmok) (132)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (74)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (33)
@@ -65,7 +65,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
-- **[(Basic) Bookmarks](https://raycast.com/rauno/bmrks)** - Companion bookmarking utility for bmrks.com [`@rauno`](https://raycast.com/rauno) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bmrks) `api@^1.67.1` `utils@^1.12.5`
+- **[(Basic) Bookmarks](https://raycast.com/rauno/bmrks)** - Companion bookmarking utility for bmrks.com [`@rauno`](https://raycast.com/rauno) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bmrks) `api@^1.103.2` `utils@^2.2.1`
 - **[0x0](https://raycast.com/pseudobun/0x0)** - Upload files to https://0x0.st. [`@pseudobun`](https://raycast.com/pseudobun) [`code`](https://github.com/raycast/extensions/tree/main/extensions/0x0) `api@^1.60.1` `utils@^1.10.0`
 - **[2FA Directory](https://raycast.com/andreaselia/2fa-directory)** - View a list of 2FA enabled sites. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) `api@^1.99.2` `utils@^1.19.1`
 - **[Ableton Live](https://raycast.com/dch09/ableton-live)** - Search and open recent Ableton Live Projects [`@dch09`](https://raycast.com/dch09) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) `api@^1.48.5` `utils@^1.4.18`
@@ -757,7 +757,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[NPM Registry Manager](https://raycast.com/lihzsky/raycast-nrm)** - Change the NPM registry address [`@lihzsky`](https://raycast.com/lihzsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-nrm) `api@^1.70.3`
 - **[NuGet](https://raycast.com/lbergantin/nuget)** - Simple extension to search for NuGet packages and copy command to install them to clipboard [`@lbergantin`](https://raycast.com/lbergantin) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuget) `api@^1.36.1`
 - **[NuGet Package Explorer](https://raycast.com/gaoyang/nuget-package-explorer)** - Local NuGet package explorer [`@gaoyang`](https://raycast.com/gaoyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuget-package-explorer) `api@^1.71.4`
-- **[Nuxt](https://raycast.com/HugoRCD/nuxt)** - Supercharge your Nuxt workflow [`@HugoRCD`](https://raycast.com/HugoRCD) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuxt) `api@^1.97.0` `utils@^1.19.1` `ai-tools`
+- **[Nuxt](https://raycast.com/HugoRCD/nuxt)** - Supercharge your Nuxt workflow [`@HugoRCD`](https://raycast.com/HugoRCD) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nuxt) `api@^1.103.2` `utils@^1.19.1` `ai-tools`
 - **[Oh My Zsh Git Alias](https://raycast.com/yufeikang/oh-my-zsh-git-alias)** - Quick search git alias. [`@yufeikang`](https://raycast.com/yufeikang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-git-alias) `api@^1.58.0`
 - **[Oh My Zsh Plugins](https://raycast.com/k8scat/ohmyzsh-plugins)** - Oh My Zsh Plugins [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ohmyzsh-plugins) `api@^1.40.1` `utils@^1.4.8`
 - **[OK JSON](https://raycast.com/anybox/ok-json)** - Control OK JSON with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ok-json) `api@^1.63.0`
@@ -921,6 +921,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[User-Agent Parser](https://raycast.com/third774/user-agent)** - Parses the User-Agent of the selected text [`@third774`](https://raycast.com/third774) [`code`](https://github.com/raycast/extensions/tree/main/extensions/user-agent) `api@^1.60.1`
 - **[UTM Virtual Machines](https://raycast.com/alaidriel/utm-virtual-machines)** - Launch and control virtual machines in UTM. [`@alaidriel`](https://raycast.com/alaidriel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/utm-virtual-machines) `api@^1.46.1`
 - **[v0 by Vercel](https://raycast.com/garrett/v0-by-vercel)** - Create, view and manage your v0 chats within Raycast [`@garrett`](https://raycast.com/garrett) [`code`](https://github.com/raycast/extensions/tree/main/extensions/v0-by-vercel) `api@^1.100.3` `utils@^1.17.0`
+- **[Vanguard Backup](https://raycast.com/xmok/vanguard-backup)** - Open Source Backup Solution [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vanguard-backup) `api@^1.102.7` `utils@^1.17.0`
 - **[Verify Number](https://raycast.com/xmok/verify-number)** - Global Phone Number Validation & Lookup JSON API from APILayer [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/verify-number) `api@^1.63.0` `utils@^1.10.1`
 - **[Virtualizor Enduser](https://raycast.com/xmok/virtualizor-enduser)** - Manage Virtualizor Enduser instance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/virtualizor-enduser) `api@^1.79.0` `utils@^1.17.0`
 - **[Vultr](https://raycast.com/xmok/vultr)** - Manage Users, View Account Information and Billing History [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vultr) `api@^1.84.2` `utils@^1.18.0`
@@ -1284,8 +1285,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[MusicThread](https://raycast.com/ChucKN0risK/musicthread)** - Create a thread and add links to a thread in MusicThread [`@ChucKN0risK`](https://raycast.com/ChucKN0risK) [`code`](https://github.com/raycast/extensions/tree/main/extensions/musicthread) `api@^1.49.3`
 - **[NHK Program Search](https://raycast.com/sitogi/nhk-program-search)** - Search NHK program guide by NHK API [`@sitogi`](https://raycast.com/sitogi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nhk-program-search) `api@^1.72.1` `utils@^1.15.0`
 - **[nowplaying-cli](https://raycast.com/yusuf_akdeniz/nowplaying-cli)** - It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features [`@yusuf_akdeniz`](https://raycast.com/yusuf_akdeniz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) `api@^1.74.1` `utils@^1.16.0`
-- **[NTS Radio](https://raycast.com/arjanski/nts-radio)** - Stream & Search NTS Radio [`@arjanski`](https://raycast.com/arjanski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nts-radio) `api@^1.50.0` `utils@^1.5.2`
 - **[NTS Radio](https://raycast.com/tiktuk/nts)** - Shows the currently playing NTS Radio shows [`@tiktuk`](https://raycast.com/tiktuk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nts) `api@^1.87.5` `utils@^1.17.0`
+- **[NTS Radio](https://raycast.com/arjanski/nts-radio)** - Stream & Search NTS Radio [`@arjanski`](https://raycast.com/arjanski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nts-radio) `api@^1.50.0` `utils@^1.5.2`
 - **[NZBGet](https://raycast.com/wyattjoh/nzbget)** - Manage your NZBGet application from the comfort of Raycast. [`@wyattjoh`](https://raycast.com/wyattjoh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nzbget) `api@^1.88.4` `utils@^1.17.0`
 - **[Odesli](https://raycast.com/annedouwe/odesli)** - Get an Odesli link for the currently copied link of a song/album. Odesli is a service that provides smart music links. These links show a list of platforms you can hear the song/album on. [`@annedouwe`](https://raycast.com/annedouwe) [`code`](https://github.com/raycast/extensions/tree/main/extensions/odesli) `api@^1.60.1`
 - **[Omnivore](https://raycast.com/karolusd/omnivore)** - Interact with Omnivore read-it-later app [`@karolusd`](https://raycast.com/karolusd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/omnivore) `api@^1.61.2` `utils@^1.10.1`
@@ -2320,7 +2321,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Jisho - Japanese Dictionary](https://raycast.com/dmacdermott/jisho)** - Search Jisho.org [`@dmacdermott`](https://raycast.com/dmacdermott) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jisho) `api@^1.46.0` `utils@^1.4.16`
 - **[Jitsi](https://raycast.com/tjwds/jitsi)** - Create meetings with Jitsi Meet [`@tjwds`](https://raycast.com/tjwds) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jitsi) `api@^1.101.1` `utils@^1.17.0`
 - **[json-to-go](https://raycast.com/chyroc/json-to-go)** - Translate JSON from clipboard into a Go type definition [`@chyroc`](https://raycast.com/chyroc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/json-to-go) `api@^1.28.0`
-- **[Json2TS](https://raycast.com/gbarba/json2ts)** - Generate TypeScript interfaces from JSON [`@gbarba`](https://raycast.com/gbarba) [`code`](https://github.com/raycast/extensions/tree/main/extensions/json2ts) `api@^1.43.2`
+- **[Json2TS](https://raycast.com/gbarba/json2ts)** - Generate TypeScript interfaces from JSON [`@gbarba`](https://raycast.com/gbarba) [`code`](https://github.com/raycast/extensions/tree/main/extensions/json2ts) `api@^1.103.2`
 - **[Kaalam](https://raycast.com/heerthees/kaalam)** - Gives Current Time in all formats [`@heerthees`](https://raycast.com/heerthees) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kaalam) `api@^1.34.1`
 - **[Kagi Search](https://raycast.com/fearoffish/kagi-search)** - Searches the Closed Beta of Kagi Search, with autosuggestions and quick access to FastGPT [`@fearoffish`](https://raycast.com/fearoffish) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kagi-search) `api@^1.94.0`
 - **[Kaomoji Search](https://raycast.com/yalishanda/kaomoji-search)** - Search and copy to the clipboard different kaomoji (ascii/unicode emotes). [`@yalishanda`](https://raycast.com/yalishanda) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kaomoji-search) `api@^1.46.0` `utils@^1.4.16`

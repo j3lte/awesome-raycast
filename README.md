@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/abc34f4c2d8ba227_update-time.svg)
+![Last update](/icons/3975de2d650ee9b6_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2330** packages in **15** categories, **24** packages use Swift
-- **1519** authors, **922** contributors (of which **699** are only contributors, not authors)
+- **2332** packages in **15** categories, **24** packages use Swift
+- **1521** authors, **923** contributors (of which **699** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (74)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -559,6 +559,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Cheetah](https://raycast.com/ronglecat/cheetah)** - Search for a local Git project and open it with the specified application. [`@ronglecat`](https://raycast.com/ronglecat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cheetah) `api@^1.42.2` `utils@^1.4.8`
 - **[Choose a License](https://raycast.com/sandypockets/choose-a-license)** - Read, copy, and paste Markdown licenses from choosealicense.com [`@sandypockets`](https://raycast.com/sandypockets) [`code`](https://github.com/raycast/extensions/tree/main/extensions/choose-a-license) `api@^1.32.1`
 - **[CIDR Conversion](https://raycast.com/Gnosnay/cidr)** - CIDR to IPv4 Conversion [`@Gnosnay`](https://raycast.com/Gnosnay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cidr) `api@^1.47.3`
+- **[Claude Code Launcher](https://raycast.com/stephendolan/claude-code-launcher)** - Quickly open Claude Code in any directory with your preferred terminal. [`@stephendolan`](https://raycast.com/stephendolan) [`code`](https://github.com/raycast/extensions/tree/main/extensions/claude-code-launcher) `api@^1.102.3` `utils@^1.17.0`
 - **[Claude Code Usage (ccusage)](https://raycast.com/nyatinte/ccusage)** - Monitor Claude Code usage with real-time tracking [`@nyatinte`](https://raycast.com/nyatinte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ccusage) `api@^1.99.4` `utils@^1.17.0` `ai` `ai-tools`
 - **[Cloud CLI Login Statuses](https://raycast.com/adam_vyborny/cloud-cli-login-statuses)** - Check if you are logged in AWS, Google Cloud and Azure CLIs [`@adam_vyborny`](https://raycast.com/adam_vyborny) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloud-cli-login-statuses) `api@^1.94.3` `utils@^1.17.0`
 - **[Cloudflare](https://raycast.com/destiner/cloudflare)** - Search and view your Cloudflare sites, pages, domains, and more [`@destiner`](https://raycast.com/destiner) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare) `api@^1.94.0` `utils@^1.19.1`
@@ -2231,6 +2232,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Clipyai](https://raycast.com/strikeraryu/clipyai)** - AI-powered clipboard enhancement for productivity [`@strikeraryu`](https://raycast.com/strikeraryu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clipyai) `api@^1.99.4` `utils@^1.17.0`
 - **[Clockify](https://raycast.com/isma/clockify)** - Control Clockify time tracking from Raycast [`@isma`](https://raycast.com/isma) [`code`](https://github.com/raycast/extensions/tree/main/extensions/clockify) `api@^1.94.0` `utils@^1.19.1`
 - **[Cloudflare WARP](https://raycast.com/anandubajith/cloudflare-warp)** - Manage Cloudflare WARP [`@anandubajith`](https://raycast.com/anandubajith) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-warp) `api@^1.62.1`
+- **[Code Runway](https://raycast.com/gongchr/code-runway)** - A project launcher for developers. Quickly search projects and launch them with Warp configurations. [`@gongchr`](https://raycast.com/gongchr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/code-runway) `api@^1.102.3` `utils@^1.17.0`
 - **[CodeGeex](https://raycast.com/MBearo/codegeex)** - CodeGeex AI code tools [`@MBearo`](https://raycast.com/MBearo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/codegeex) `api@^1.48.8`
 - **[Coffee](https://raycast.com/mooxl/coffee)** - Prevent the sleep function on your mac [`@mooxl`](https://raycast.com/mooxl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coffee) `api@^1.91.0` `utils@^1.12.5` `ai` `ai-tools`
 - **[Coinbase Pro](https://raycast.com/farisaziz12/coinbase-pro)** - View your Coinbase Pro portfolio [`@farisaziz12`](https://raycast.com/farisaziz12) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coinbase-pro) `api@^1.25.3`

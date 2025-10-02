@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/3975de2d650ee9b6_update-time.svg)
+![Last update](/icons/f536533be50f8979_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,10 +38,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2332** packages in **15** categories, **24** packages use Swift
-- **1521** authors, **923** contributors (of which **699** are only contributors, not authors)
+- **2335** packages in **15** categories, **24** packages use Swift
+- **1522** authors, **926** contributors (of which **701** are only contributors, not authors)
 - Top **7** authors:
-  - [xmok](https://raycast.com/xmok) (74)
+  - [xmok](https://raycast.com/xmok) (75)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (19)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
@@ -50,7 +50,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (221)
-  - [xmok](https://raycast.com/xmok) (136)
+  - [xmok](https://raycast.com/xmok) (137)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (74)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (33)
@@ -1253,12 +1253,12 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Deutscher Wetterdienst](https://raycast.com/nicolai/deutscherwetterdienst)** - Shows current rain radar by the Deutscher Wetter Dienst [`@nicolai`](https://raycast.com/nicolai) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deutscherwetterdienst) `api@^1.39.3`
 - **[DouTu](https://raycast.com/gaoyang/doutu)** - Easy retrieval of web emoji and GIF images while chatting. [`@gaoyang`](https://raycast.com/gaoyang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/doutu) `api@^1.72.1` `utils@^1.14.0`
 - **[Endel](https://raycast.com/zach/endel)** - Interact with the Endel player. [`@zach`](https://raycast.com/zach) [`code`](https://github.com/raycast/extensions/tree/main/extensions/endel) `api@^1.102.3` `utils@^1.17.0`
-- **[Fetch YouTube Transcript](https://raycast.com/apoorv_khandelwal/fetch-youtube-transcript)** - Fetches and saves the transcript of a YouTube video in your downaloads folder [`@apoorv_khandelwal`](https://raycast.com/apoorv_khandelwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) `api@^1.82.5`
+- **[Fetch YouTube Transcript](https://raycast.com/apoorv_khandelwal/fetch-youtube-transcript)** - Fetches and saves the transcript of a YouTube video in your downloads folder [`@apoorv_khandelwal`](https://raycast.com/apoorv_khandelwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) `api@^1.59.0` `utils@^1.12.5`
 - **[FFmpeg - View, Analyze and Manipulate](https://raycast.com/RenderCoder/ffmpeg)** - Use FFmpeg to view media file info [`@RenderCoder`](https://raycast.com/RenderCoder) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) `api@^1.79.0` `utils@^1.9.1` `ai` `ai-tools`
 - **[Fip](https://raycast.com/louison/fip)** - Start and explore the fip radio directly from Raycast [`@louison`](https://raycast.com/louison) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fip) `api@^1.58.0`
 - **[Frame Crop - Discover Art for Your TV](https://raycast.com/jsheffers/frame-crop-art)** - Discover & download amazing artwork curated by Frame Crop [`@jsheffers`](https://raycast.com/jsheffers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/frame-crop) `api@^1.86.1` `utils@^1.17.0`
 - **[Freesound](https://raycast.com/j3lte/freesound)** - Search the Freesound Library [`@j3lte`](https://raycast.com/j3lte) [`code`](https://github.com/raycast/extensions/tree/main/extensions/freesound) `api@^1.76.0` `utils@^1.15.0`
-- **[Genius Lyrics](https://raycast.com/tkdkid1000/genius-lyrics)** - Search by song title to instantly view lyrics, or enter remembered lyrics to quickly find the song's title, utilizing the Genius Lyrics API. [`@tkdkid1000`](https://raycast.com/tkdkid1000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/genius-lyrics) `api@^1.73.2` `utils@^1.15.0`
+- **[Genius Lyrics](https://raycast.com/tkdkid1000/genius-lyrics)** - Search by song title to instantly view lyrics, or enter remembered lyrics to quickly find the song's title, utilizing the Genius Lyrics API. [`@tkdkid1000`](https://raycast.com/tkdkid1000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/genius-lyrics) `api@^1.103.0` `utils@^2.2.1`
 - **[GIF Search](https://raycast.com/josephschmitt/gif-search)** - Search the Internet for animated GIFs [`@josephschmitt`](https://raycast.com/josephschmitt) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gif-search) `api@^1.93.2` `utils@^1.19.1`
 - **[Goodreads](https://raycast.com/puneeth/goodreads)** - Search Goodreads books, authors and more [`@puneeth`](https://raycast.com/puneeth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/goodreads) `api@^1.56.0` `utils@^1.8.0`
 - **[Gyazo Uploader](https://raycast.com/udus/gyazo-uploader)** - Upload clipboard image to Gyazo [`@udus`](https://raycast.com/udus) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gyazo-uploader) `api@^1.56.0`
@@ -1285,6 +1285,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Music Assistant Controls](https://raycast.com/yoerivd/music-assistant-controls)** - Control music assistant and displays current song in the menu bar [`@yoerivd`](https://raycast.com/yoerivd) [`code`](https://github.com/raycast/extensions/tree/main/extensions/music-assistant-controls) `api@^1.100.3` `utils@^1.17.0`
 - **[Music Link Converter](https://raycast.com/Quentin23Soleil/music-link-converter)** - Convert a music link to another provider, for example you can convert Spotify links to Apple music links (also works with many other providers), using song.link service. [`@Quentin23Soleil`](https://raycast.com/Quentin23Soleil) [`code`](https://github.com/raycast/extensions/tree/main/extensions/music-link-converter) `api@^1.66.2` `utils@^1.12.0`
 - **[MusicThread](https://raycast.com/ChucKN0risK/musicthread)** - Create a thread and add links to a thread in MusicThread [`@ChucKN0risK`](https://raycast.com/ChucKN0risK) [`code`](https://github.com/raycast/extensions/tree/main/extensions/musicthread) `api@^1.49.3`
+- **[NFT Primitive Tools](https://raycast.com/uranium/uranium-raycast-plugin)** - Mint, list, manage, Conversion of any media: images, videos, audio, or documents. Permaweb storage. [`@uranium`](https://raycast.com/uranium) [`code`](https://github.com/raycast/extensions/tree/main/extensions/uranium-raycast-plugin) `api@^1.102.3` `utils@^1.17.0`
 - **[NHK Program Search](https://raycast.com/sitogi/nhk-program-search)** - Search NHK program guide by NHK API [`@sitogi`](https://raycast.com/sitogi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nhk-program-search) `api@^1.72.1` `utils@^1.15.0`
 - **[nowplaying-cli](https://raycast.com/yusuf_akdeniz/nowplaying-cli)** - It's using nowplaying-cli for macos in order to control playing video or music. It's have pause next and previous features [`@yusuf_akdeniz`](https://raycast.com/yusuf_akdeniz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nowplaying-cli) `api@^1.74.1` `utils@^1.16.0`
 - **[NTS Radio](https://raycast.com/tiktuk/nts)** - Shows the currently playing NTS Radio shows [`@tiktuk`](https://raycast.com/tiktuk) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nts) `api@^1.87.5` `utils@^1.17.0`
@@ -2311,6 +2312,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Hashnode](https://raycast.com/dpnick/hashnode)** - Read, search and create stories from Raycast. [`@dpnick`](https://raycast.com/dpnick) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hashnode) `api@^1.84.2` `utils@^1.17.0`
 - **[HazeOver Controls](https://raycast.com/ratoru/hazeover)** - Control the HazeOver app. [`@ratoru`](https://raycast.com/ratoru) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hazeover) `api@^1.25.6`
 - **[Helm Documentation](https://raycast.com/tiagomichaelsousa/helm-docs)** - Quickly search through the Helm docs directly from Raycast. [`@tiagomichaelsousa`](https://raycast.com/tiagomichaelsousa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/helm-docs) `api@^1.28.0`
+- **[Hemolog](https://raycast.com/michaelschultz/hemolog)** - View and log treatments with Hemolog.com [`@michaelschultz`](https://raycast.com/michaelschultz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hemolog) `api@^1.103.2` `utils@^2.2.1`
 - **[Hexlify](https://raycast.com/gkpln3/hexlify)** - Convert between hex and binary representations [`@gkpln3`](https://raycast.com/gkpln3) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hexlify) `api@^1.26.3`
 - **[Huggingcast](https://raycast.com/ragnor/huggingcast)** - Use Huggingface models for summarization, translation, ... [`@ragnor`](https://raycast.com/ragnor) [`code`](https://github.com/raycast/extensions/tree/main/extensions/huggingcast) `api@^1.89.1` `utils@^1.18.1`
 - **[Humanize AI Text](https://raycast.com/frolik/ai-humanizer)** - Humanize AI Text [`@frolik`](https://raycast.com/frolik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-humanizer) `api@^1.85.1`
@@ -2337,6 +2339,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Kill Process](https://raycast.com/rolandleth/kill-process)** - Terminate processes sorted by CPU or memory usage [`@rolandleth`](https://raycast.com/rolandleth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kill-process) `api@^1.90.0` `ai` `ai-tools`
 - **[Kinopoisk](https://raycast.com/mattisssa/kinopoisk)** - Search for movies using kinopoisk.ru [`@mattisssa`](https://raycast.com/mattisssa) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kinopoisk) `api@^1.25.0`
 - **[Klu](https://raycast.com/abielzulio/klu-ai)** - Klu AI extension for Raycast [`@abielzulio`](https://raycast.com/abielzulio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/klu-ai) `api@^1.66.1` `utils@^1.11.1`
+- **[Koyeb](https://raycast.com/xmok/koyeb)** - High-performance Infrastructure [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/koyeb) `api@^1.102.6` `utils@^1.17.0`
 - **[kubectx](https://raycast.com/oktay/kubectx)** - Switch between clusters from Raycast [`@oktay`](https://raycast.com/oktay) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kubectx) `api@^1.26.2`
 - **[Kubernetes Documenation](https://raycast.com/rpvsilva/kubernetes-docs)** - Search kubernetes official documentation [`@rpvsilva`](https://raycast.com/rpvsilva) [`code`](https://github.com/raycast/extensions/tree/main/extensions/kubernetes-docs) `api@^1.69.3`
 - **[Laracasts](https://raycast.com/danyelkeddah/laracasts)** - Laracasts Search [`@danyelkeddah`](https://raycast.com/danyelkeddah) [`code`](https://github.com/raycast/extensions/tree/main/extensions/laracasts) `api@^1.29.1`

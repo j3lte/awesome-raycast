@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/f536533be50f8979_update-time.svg)
+![Last update](/icons/3cb96fbe2ab6d11a_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2335** packages in **15** categories, **24** packages use Swift
-- **1522** authors, **926** contributors (of which **701** are only contributors, not authors)
+- **2340** packages in **15** categories, **24** packages use Swift
+- **1527** authors, **926** contributors (of which **701** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (75)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -125,6 +125,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Fronius Inverter](https://raycast.com/Olli0103/fronius-inverter)** - A Raycast extension to monitor your Fronius Gen24 inverter with a realtime dashboard and background error monitoring. [`@Olli0103`](https://raycast.com/Olli0103) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fronius-inverter) `api@^1.93.0` `utils@^1.17.0`
 - **[Gitfox Repositories](https://raycast.com/azlekov/gitfox)** - Navigate and open your repositories in Gitfox. [`@azlekov`](https://raycast.com/azlekov) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gitfox) `api@^1.83.1` `utils@^1.17.0`
 - **[Go to Rewind Timestamp](https://raycast.com/haseab_/go-to-rewind-timestamp)** - Open Rewind AI at a specific timestamp [`@haseab_`](https://raycast.com/haseab_) [`code`](https://github.com/raycast/extensions/tree/main/extensions/go-to-rewind-timestamp) `api@^1.95.0` `utils@^1.17.0`
+- **[Gomander](https://raycast.com/moisesrj97/gomander)** - Control your gomander experience from Raycast [`@moisesrj97`](https://raycast.com/moisesrj97) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gomander) `api@^1.103.1` `utils@^1.17.0`
 - **[GoodLinks](https://raycast.com/nicolas-marien/goodlinks)** - Save, list, and open articles in GoodLinks [`@nicolas-marien`](https://raycast.com/nicolas-marien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/goodlinks) `api@^1.92.1` `utils@^1.17.0`
 - **[Gradle Plugins](https://raycast.com/alex-w0/gradle-plugins)** - Search for gradle plugins [`@alex-w0`](https://raycast.com/alex-w0) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gradle-plugins) `api@^1.64.4`
 - **[Height](https://raycast.com/teziovsky/height)** - Search, create and manage tasks and lists in Height directly from Raycast. [`@teziovsky`](https://raycast.com/teziovsky) [`code`](https://github.com/raycast/extensions/tree/main/extensions/height) `api@^1.67.1` `utils@^1.12.4`
@@ -1531,6 +1532,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Close Finder](https://raycast.com/qeude/close-finder)** - Utils to close Finder from Raycast. [`@qeude`](https://raycast.com/qeude) [`code`](https://github.com/raycast/extensions/tree/main/extensions/close-finder) `api@^1.64.4` `utils@^1.10.1`
 - **[Cloudflare Email Routing](https://raycast.com/erayack/cloudflare-email-routing)** - Create, list, edit, and delete Cloudflare email aliases directly from Raycast. [`@erayack`](https://raycast.com/erayack) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-email-routing) `api@^1.96.3` `utils@^1.17.0`
 - **[Coda Bookmarks Search](https://raycast.com/allienx/coda-bookmarks-search)** - Quickly find and open your bookmarked URLs stored in a coda table. [`@allienx`](https://raycast.com/allienx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coda-bookmarks-search) `api@1.36.0`
+- **[Comma Separator](https://raycast.com/siddharth_rastogi/comma-separator)** - Convert text into separated values with customizable delimiters and quote options [`@siddharth_rastogi`](https://raycast.com/siddharth_rastogi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/comma-separator) `api@^1.103.2` `utils@^1.17.0`
 - **[Command Scheduler](https://raycast.com/cps/scheduler)** - Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. [`@cps`](https://raycast.com/cps) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scheduler) `api@^1.102.7` `utils@^2.2.1`
 - **[Common Directory](https://raycast.com/koinzhang/common-directory)** - Quickly open or show common directory in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/common-directory) `api@^1.43.2`
 - **[Comodoro](https://raycast.com/jns/comodoro)** - Control Comodoro, a Pomodor timer [`@jns`](https://raycast.com/jns) [`code`](https://github.com/raycast/extensions/tree/main/extensions/comodoro) `api@^1.88.4` `utils@^1.18.1`
@@ -1595,6 +1597,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Flypy Code Query](https://raycast.com/absir1949/flypy)** - Query Flypy(Xiaohe Double-Pin) Code [`@absir1949`](https://raycast.com/absir1949) [`code`](https://github.com/raycast/extensions/tree/main/extensions/flypy-code-query) `api@^1.33.0`
 - **[Focus Anchor](https://raycast.com/ashleyhindle/focus-anchor)** - Anchor your focus on the most important thing [`@ashleyhindle`](https://raycast.com/ashleyhindle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/focus-anchor) `api@^1.49.3`
 - **[FocusTask](https://raycast.com/vojto/focustask)** - Manage and search for tasks in FocusTask [`@vojto`](https://raycast.com/vojto) [`code`](https://github.com/raycast/extensions/tree/main/extensions/focustask) `api@^1.39.2` `utils@^1.3.3`
+- **[Folder Organizer](https://raycast.com/madushanj/folder-organizer)** - Organize files in Downloads or any custom folder by automatically sorting them into categorized subfolders [`@madushanj`](https://raycast.com/madushanj) [`code`](https://github.com/raycast/extensions/tree/main/extensions/folder-organizer) `api@^1.102.7` `utils@^2.2.1`
 - **[Folder Search](https://raycast.com/GastroGeek/folder-search)** - Search for folders on your Mac [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/folder-search) `api@^1.99.3` `utils@^1.19.1`
 - **[Fork Repositories](https://raycast.com/sxn/fork-repositories)** - Search and open Fork repositories [`@sxn`](https://raycast.com/sxn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fork-repositories) `api@1.53.4` `utils@1.8.0`
 - **[Frill](https://raycast.com/xmok/frill)** - Capture, organize, and announce product feedback in one place [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/frill) `api@^1.76.0` `utils@^1.15.0`
@@ -1710,6 +1713,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Mound](https://raycast.com/desmondsofua/mound-for-pile)** - A Raycast extension for the Pile journaling app [`@desmondsofua`](https://raycast.com/desmondsofua) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mound-for-pile) `api@^1.61.2`
 - **[Multilinks](https://raycast.com/abhisheksatre/multilinks)** - Open multiple links at once [`@abhisheksatre`](https://raycast.com/abhisheksatre) [`code`](https://github.com/raycast/extensions/tree/main/extensions/multilinks) `api@^1.35.2`
 - **[Music Timer](https://raycast.com/JulienLacr0ix/music-timer)** - Music Timer is the ultimate productivity app that fuses the Pomodoro Technique with your favorite tracks from Spotify and Apple Music! [`@JulienLacr0ix`](https://raycast.com/JulienLacr0ix) [`code`](https://github.com/raycast/extensions/tree/main/extensions/music-timer) `api@^1.55.1`
+- **[Nepali Calendar](https://raycast.com/adarshdoesntcode/nepali-calendar)** - View and navigate the Nepali calendar (Bikram Sambat) with support for both English and Nepali languages. Customize your view by setting the first day of the week. [`@adarshdoesntcode`](https://raycast.com/adarshdoesntcode) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nepali-calendar) `api@^1.103.1` `utils@^1.17.0`
 - **[Network Drive](https://raycast.com/SuoweiHu/network-drive)** - List the available drive of a specified IP address (via SMB), mount and unmount those drives. [`@SuoweiHu`](https://raycast.com/SuoweiHu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/network-drive) `api@^1.75.1` `utils@^1.15.0`
 - **[Neurooo Translate](https://raycast.com/depsimon/neurooo-translate)** - Smart translations with Neurooo. [`@depsimon`](https://raycast.com/depsimon) [`code`](https://github.com/raycast/extensions/tree/main/extensions/neurooo-translate) `api@^1.91.1`
 - **[Next.js Documentation](https://raycast.com/PrasadChinwal/nextjs-docs)** - Efficiently search Next.js documentation [`@PrasadChinwal`](https://raycast.com/PrasadChinwal) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nextjs-docs) `api@^1.79.0` `utils@^1.16.2`
@@ -1859,6 +1863,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Static Marks - Bookmark Search](https://raycast.com/aerobless/static-marks)** - Search and launch websites from your Static Marks bookmark YAML file. [`@aerobless`](https://raycast.com/aerobless) [`code`](https://github.com/raycast/extensions/tree/main/extensions/static-marks-bookmarks) `api@^1.102.6` `utils@^1.17.0`
 - **[Summarize YouTube Videos with AI](https://raycast.com/kom/summarize-youtube-video-with-ai)** - Summarize any YouTube Video with AI. Choose between Raycast, OpenAI or Anthropic. You have to either be a Raycast Pro Member or have an OpenAI/Anthropic API Key. [`@kom`](https://raycast.com/kom) [`code`](https://github.com/raycast/extensions/tree/main/extensions/summarize-youtube-video-with-ai) `api@^1.99.3` `utils@^1.19.1`
 - **[SupaHabits](https://raycast.com/gbarba/habits)** - Extension for quickly adding habits to your daily routine, tracking your progress and add journal entries [`@gbarba`](https://raycast.com/gbarba) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supahabits) `api@^1.85.2` `utils@^1.18.0`
+- **[Supermemory](https://raycast.com/supermemory/supermemory)** - Add and search memories with your personal AI-powered knowledge base [`@supermemory`](https://raycast.com/supermemory) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supermemory) `api@^1.103.2` `utils@^1.17.0`
 - **[Superwhisper - Offline Voice to Text](https://raycast.com/nchudleigh/superwhisper)** - Start a recording, change Modes and open settings. Requires installing superwhisper. [`@nchudleigh`](https://raycast.com/nchudleigh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/superwhisper) `api@^1.64.4` `utils@^1.16.1`
 - **[Surl](https://raycast.com/fujiyamaorange/surl)** - Make your URLs shorter [`@fujiyamaorange`](https://raycast.com/fujiyamaorange) [`code`](https://github.com/raycast/extensions/tree/main/extensions/surl) `api@^1.64.4`
 - **[SVG64 - Convert SVGs to Base64 Strings](https://raycast.com/EvanZhouDev/raycast-svg64)** - Convert SVGs to base64 strings, perfect for non-SVG enabled Markdown renderers. [`@EvanZhouDev`](https://raycast.com/EvanZhouDev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-svg64) `api@^1.57.1` `utils@^1.9.1`

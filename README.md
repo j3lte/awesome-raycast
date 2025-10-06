@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/4b704516a230386c_update-time.svg)
+![Last update](/icons/e242f92ca058baa5_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,7 +38,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2340** packages in **15** categories, **24** packages use Swift
+- **2341** packages in **15** categories, **24** packages use Swift
 - **1527** authors, **926** contributors (of which **701** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (75)
@@ -930,7 +930,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Vultr](https://raycast.com/xmok/vultr)** - Manage Users, View Account Information and Billing History [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vultr) `api@^1.84.2` `utils@^1.18.0`
 - **[Warp](https://raycast.com/joetannenbaum/warp)** - Open Warp tabs/windows and Launch Configurations. [`@joetannenbaum`](https://raycast.com/joetannenbaum) [`code`](https://github.com/raycast/extensions/tree/main/extensions/warp) `api@^1.79.0` `utils@^1.4.8`
 - **[Web Audit](https://raycast.com/flornkm/web-audit)** - Find SEO related data of any given webpage. [`@flornkm`](https://raycast.com/flornkm) [`code`](https://github.com/raycast/extensions/tree/main/extensions/web-audit) `api@^1.94.0`
-- **[Web Converter](https://raycast.com/nielsvanrijn/web-converter)** - Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl and hsla and the shows closest Tailwind CSS color. [`@nielsvanrijn`](https://raycast.com/nielsvanrijn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert) `api@^1.53.2`
+- **[Web Converter](https://raycast.com/nielsvanrijn/web-converter)** - Converts everything web related: rem, px, pt, hex, hex (with opacity), rgb, rgba, hsl and hsla and the shows closest Tailwind CSS color. [`@nielsvanrijn`](https://raycast.com/nielsvanrijn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/convert) `api@^1.103.2`
 - **[Websocket Debugging](https://raycast.com/RhysLees/websocket-debugging)** - Allows you to debug Pusher [`@RhysLees`](https://raycast.com/RhysLees) [`code`](https://github.com/raycast/extensions/tree/main/extensions/websocket-debugging) `api@^1.45.2` `utils@^1.4.16`
 - **[WeChat DevTool](https://raycast.com/tofrankie/wechat-devtool)** - Quickly open WeChat mini program project via official CLI. [`@tofrankie`](https://raycast.com/tofrankie) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wechat-devtool) `api@^1.101.1` `utils@^1.19.1`
 - **[Wifi Password Reveal](https://raycast.com/louishuyng/wifi-password-reveal)** - Reveal any saved WIFI Password on macOS [`@louishuyng`](https://raycast.com/louishuyng) [`code`](https://github.com/raycast/extensions/tree/main/extensions/wifi-password-reveal) `api@^1.99.4`
@@ -1084,6 +1084,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Rewiser](https://raycast.com/rewiser_io/rewiser)** - Track and manage your Rewiser transactions directly from Raycast [`@rewiser_io`](https://raycast.com/rewiser_io) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rewiser) `api@^1.100.3` `utils@^1.19.1`
 - **[Risk Reward Calculator](https://raycast.com/demirtarik/risk-reward-calculator)** - This extension helps traders to calculate their position size based on entry, stop-loss, take-profit prices and the amount they risk. [`@demirtarik`](https://raycast.com/demirtarik) [`code`](https://github.com/raycast/extensions/tree/main/extensions/risk-reward-calculator) `api@^1.51.0`
 - **[Rollup.wtf](https://raycast.com/Osprey/rollup-wtf)** - Raycast Version of Rollup.wtf [`@Osprey`](https://raycast.com/Osprey) [`code`](https://github.com/raycast/extensions/tree/main/extensions/rollup-wtf) `api@^1.84.3` `utils@^1.17.0`
+- **[Security Search](https://raycast.com/benekuehn/security-search)** - Searches for securities via name to get the ISIN or via ISIN to get the name [`@benekuehn`](https://raycast.com/benekuehn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/security-search) `api@^1.102.4` `utils@^1.17.0`
 - **[Solana Wallets Generation](https://raycast.com/uladkaminski/solana-wallets-generation)** - Introducing the Solana Wallet Generator, a powerful Raycast extension designed for developers and cryptocurrency enthusiasts seeking to efficiently create multiple Solana wallets. This tool streamlines the wallet generation process, allowing users to produce thousands of wallets swiftly and securely. [`@uladkaminski`](https://raycast.com/uladkaminski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/solana-wallets-generation) `api@^1.91.2` `utils@^1.17.0`
 - **[Splitwise](https://raycast.com/ilian/splitwise)** - View the balances and add expenses to Splitwise [`@ilian`](https://raycast.com/ilian) [`code`](https://github.com/raycast/extensions/tree/main/extensions/Splitwise) `api@^1.47.2` `utils@^1.4.16`
 - **[Stock Tracker](https://raycast.com/hmarr/stock-tracker)** - Shows stock market data for individual stocks or your portfolio by using Yahoo Finance. [`@hmarr`](https://raycast.com/hmarr) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stock-tracker) `api@^1.47.3`
@@ -1603,7 +1604,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Frill](https://raycast.com/xmok/frill)** - Capture, organize, and announce product feedback in one place [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/frill) `api@^1.76.0` `utils@^1.15.0`
 - **[ftrack](https://raycast.com/lucaas/ftrack)** - Interacting with ftrack [`@lucaas`](https://raycast.com/lucaas) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ftrack) `api@^1.50.0` `utils@^1.5.2`
 - **[Fullscreen Text](https://raycast.com/pascal_burkhard/fullscreentext)** - Display text fullscreen [`@pascal_burkhard`](https://raycast.com/pascal_burkhard) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fullscreentext) `api@^1.93.0` `utils@^1.18.1` `swift` `ai` `ai-tools`
-- **[Fuzzy File Search](https://raycast.com/erykksc/fuzzy-file-search)** - Search files and directories using fuzzy finding. Type parts of the path of the file including directories to find the file you are looking for. [`@erykksc`](https://raycast.com/erykksc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fuzzy-file-search) `api@^1.102.3` `utils@^1.17.0`
+- **[Fuzzy File Search](https://raycast.com/erykksc/fuzzy-file-search)** - Fuzzy-search files by full path to reach the right item instantly. [`@erykksc`](https://raycast.com/erykksc) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fuzzy-file-search) `api@^1.102.3` `utils@^1.17.0`
 - **[Get Direct Link](https://raycast.com/trungnghiatn/get-direct-link)** - Get a direct link from a shareable link of Dropbox, Google Drive, and Imgur service. [`@trungnghiatn`](https://raycast.com/trungnghiatn) [`code`](https://github.com/raycast/extensions/tree/main/extensions/get-direct-link) `api@^1.41.1`
 - **[GetSound](https://raycast.com/asgudev/getsound)** - Get focused with GetSound.AI [`@asgudev`](https://raycast.com/asgudev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/getsound) `api@^1.44.0` `utils@^1.4.11`
 - **[Ghostty](https://raycast.com/jarry_chung/ghostty)** - Control Ghostty with Raycast [`@jarry_chung`](https://raycast.com/jarry_chung) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ghostty) `api@^1.89.0` `utils@^1.17.0`

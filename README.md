@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/7f9c458f04467774_update-time.svg)
+![Last update](/icons/36931144a51f58c4_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,10 +38,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2346** packages in **15** categories, **24** packages use Swift
-- **1532** authors, **926** contributors (of which **701** are only contributors, not authors)
+- **2352** packages in **15** categories, **24** packages use Swift
+- **1536** authors, **927** contributors (of which **701** are only contributors, not authors)
 - Top **7** authors:
-  - [xmok](https://raycast.com/xmok) (75)
+  - [xmok](https://raycast.com/xmok) (77)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (20)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
@@ -51,7 +51,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - Top **7** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (222)
   - [xmok](https://raycast.com/xmok) (138)
-  - [ridemountainpig](https://raycast.com/ridemountainpig) (75)
+  - [ridemountainpig](https://raycast.com/ridemountainpig) (76)
   - [j3lte](https://raycast.com/j3lte) (40)
   - [xilopaint](https://raycast.com/xilopaint) (33)
   - [litomore](https://raycast.com/litomore) (32)
@@ -70,6 +70,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[2FA Directory](https://raycast.com/andreaselia/2fa-directory)** - View a list of 2FA enabled sites. [`@andreaselia`](https://raycast.com/andreaselia) [`code`](https://github.com/raycast/extensions/tree/main/extensions/2fa-directory) `api@^1.99.2` `utils@^1.19.1`
 - **[Ableton Live](https://raycast.com/dch09/ableton-live)** - Search and open recent Ableton Live Projects [`@dch09`](https://raycast.com/dch09) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ableton-live) `api@^1.48.5` `utils@^1.4.18`
 - **[Adhan Time](https://raycast.com/mzaien/adhan-time)** - This extension helps you to search prayer time for the user location [`@mzaien`](https://raycast.com/mzaien) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adhan-time) `api@^1.46.0` `utils@^1.4.16`
+- **[Alloy - AI Prototyping for Product Management](https://raycast.com/minh_thanh_dang/alloy)** - Create AI-generated Prototypes for Product Management [`@minh_thanh_dang`](https://raycast.com/minh_thanh_dang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alloy) `api@^1.102.6` `utils@^1.17.0`
 - **[Anybox](https://raycast.com/anybox/anybox)** - Control Anybox with Raycast [`@anybox`](https://raycast.com/anybox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anybox) `api@^1.71.4`
 - **[Anytype](https://raycast.com/jmetrikat/anytype)** - Create, browse, search and edit within Anytype - right at your fingertips, anywhere on your Mac. [`@jmetrikat`](https://raycast.com/jmetrikat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anytype) `api@^1.93.1` `utils@^1.17.0` `ai` `ai-tools`
 - **[Apple Mail](https://raycast.com/yug2005/mail)** - Extension for Apple Mail. [`@yug2005`](https://raycast.com/yug2005) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mail) `api@^1.94.0` `utils@^1.19.1` `ai-tools`
@@ -179,6 +180,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[NameSilo](https://raycast.com/xmok/namesilo)** - View your Domains, Orders, Whois Info and Account Balance [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/namesilo) `api@^1.94.0` `utils@^1.19.1`
 - **[NameSpaces](https://raycast.com/GastroGeek/namespaces)** - Create named aliases for your macOS Spaces and easily switch between them from within Raycast [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/namespaces) `api@^1.79.0` `utils@^1.17.0`
 - **[Nature Remo](https://raycast.com/uetchy/nature-remo)** - Control Nature Remo right from Raycast. [`@uetchy`](https://raycast.com/uetchy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nature-remo) `api@^1.33.2`
+- **[Near Rewards](https://raycast.com/dmytro_sheleh/near-rewards)** - Checks balance of NEAR account and its reward from staking [`@dmytro_sheleh`](https://raycast.com/dmytro_sheleh) [`code`](https://github.com/raycast/extensions/tree/main/extensions/near-rewards) `api@^1.103.2` `utils@^1.17.0`
 - **[New Instance](https://raycast.com/Caramel/raycast-new-instance)** - Launch a new instance of any installed application on your Mac [`@Caramel`](https://raycast.com/Caramel) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-new-instance) `api@^1.100.3` `utils@^2.2.0`
 - **[Nippon Colors](https://raycast.com/nagauta/nippon-colors)** - explore nippon colors! [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nippon-colors) `api@^1.54.1`
 - **[Notion](https://raycast.com/HenriChabrand/notion)** - The fastest way to search, create and update Notion pages. [`@HenriChabrand`](https://raycast.com/HenriChabrand) [`code`](https://github.com/raycast/extensions/tree/main/extensions/notion) `api@^1.71.3` `utils@^1.18.1` `ai` `ai-tools`
@@ -259,6 +261,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Bento](https://raycast.com/pabroux/bento-me)** - Access a Bento profile. [`@pabroux`](https://raycast.com/pabroux) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bento-me) `api@^1.95.0` `utils@^1.19.1`
 - **[Bluesky](https://raycast.com/dharamkapila/bluesky)** - Browse through your Bluesky timeline. Create new posts, find people, and view your notifications. [`@dharamkapila`](https://raycast.com/dharamkapila) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bluesky) `api@^1.91.0` `utils@^1.18.1`
 - **[Cal.com - Share Meeting Links](https://raycast.com/eluce2/cal-com-share-meeting-links)** - Quickly share your Cal.com meeting links [`@eluce2`](https://raycast.com/eluce2) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cal-com-share-meeting-links) `api@^1.79.1` `utils@^1.16.1`
+- **[Chatbase](https://raycast.com/xmok/chatbase)** - AI agents for magical customer experiences [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatbase) `api@^1.103.2` `utils@^2.2.1`
 - **[Chatwork Search](https://raycast.com/nagauta/chatwork-search)** - Search chats through all the room [`@nagauta`](https://raycast.com/nagauta) [`code`](https://github.com/raycast/extensions/tree/main/extensions/search-chatwork) `api@^1.79.0` `utils@^1.18.0`
 - **[Chinese Character](https://raycast.com/koinzhang/chinese-character)** - Chinese character conversion tools. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chinese-character) `api@^1.76.0`
 - **[Discord](https://raycast.com/Aayush9029/discord)** - Send message to a specific discord channel using webhook. [`@Aayush9029`](https://raycast.com/Aayush9029) [`code`](https://github.com/raycast/extensions/tree/main/extensions/discord) `api@^1.32.1`
@@ -369,7 +372,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[IATA Code Decoder](https://raycast.com/timrogers/iata-code-decoder)** - Decodes IATA codes, helping you to identify airports, airlines and aircraft [`@timrogers`](https://raycast.com/timrogers) [`code`](https://github.com/raycast/extensions/tree/main/extensions/iata-code-decoder) `api@^1.48.9`
 - **[iCloud+ Global Pricing Comparison](https://raycast.com/elonwoo/icloud-global-pricing-comparison)** - iCloud+ offers various global pricing tiers for storage plans, including 50GB, 200GB, 2TB, 6TB, and 12TB, with prices varying by region and currency. [`@elonwoo`](https://raycast.com/elonwoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/icloud-global-pricing-comparison) `api@^1.81.2` `utils@^1.16.3`
 - **[iLovePDF](https://raycast.com/mohamedk1/ilovepdf)** - Set of commands to interact with iLovePDF [`@mohamedk1`](https://raycast.com/mohamedk1) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ilovepdf) `api@^1.72.1` `utils@^1.15.0`
-- **[ipapi.is](https://raycast.com/xmok/ipapi-is)** - Lookup IP or ASN via ipapi.is [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) `api@^1.79.0` `utils@^1.18.0`
+- **[ipapi.is](https://raycast.com/xmok/ipapi-is)** - Lookup IP or ASN via ipapi.is [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ipapi-is) `api@^1.103.2` `utils@^2.2.1`
 - **[Jalali Date Convertor](https://raycast.com/amin_saedi/jalali-date-convertor)** - Converts Shamsi (Jalali) calendar dates to/from Gregorian calendar [`@amin_saedi`](https://raycast.com/amin_saedi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/jalali-date-convertor) `api@^1.56.1`
 - **[James Webb Space Telescope](https://raycast.com/Infonautica/james-webb-space-telescope)** - List data from James Webb Space Telescope's observations, including images, csv, jsons and fits files. [`@Infonautica`](https://raycast.com/Infonautica) [`code`](https://github.com/raycast/extensions/tree/main/extensions/james-webb-space-telescope) `api@^1.89.0` `utils@^1.18.1`
 - **[Japanese Lorem Ipsum Generator](https://raycast.com/seita1996/lipsum)** - Generate Japanese / English dummy text [`@seita1996`](https://raycast.com/seita1996) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lipsum) `api@^1.97.0` `utils@^1.17.0`
@@ -993,6 +996,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Markdown to Jira](https://raycast.com/theo_brlle/markdown-to-jira)** - Format a Markdown text into Jira markup. [`@theo_brlle`](https://raycast.com/theo_brlle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-jira) `api@^1.52.1`
 - **[Novu](https://raycast.com/djabarovgeorge/novu)** - List all the useful sites, trigger notification, and more [`@djabarovgeorge`](https://raycast.com/djabarovgeorge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/novu) `api@^1.39.1` `utils@^1.4.9`
 - **[NSIS Reference](https://raycast.com/idleberg/nsis-reference)** - Search NSIS references [`@idleberg`](https://raycast.com/idleberg) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nsis-reference) `api@^1.79.0`
+- **[NumPy Documentation Search](https://raycast.com/FariaF22/numpy-documentation-search)** - Quickly search through official NumPy documentation [`@FariaF22`](https://raycast.com/FariaF22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/numpy-documentation-search) `api@^1.103.2` `utils@^1.17.0`
 - **[Parrot Translate](https://raycast.com/Haojen/parrot-translate)** - Powerful and Easy to use translation, Support TTS and lowerCamelCase/ALL_UPPERCASE Copy mode, and more [`@Haojen`](https://raycast.com/Haojen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/parrot-translate) `api@^1.31.0`
 - **[Pianoman](https://raycast.com/juhamust/pianoman)** - Show piano chords and scales [`@juhamust`](https://raycast.com/juhamust) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pianoman) `api@1.93.2` `utils@^1.19.1`
 - **[Pinia Docs](https://raycast.com/jeffnawroth/pinia-docs)** - Quickly search Pinia docs from Raycast [`@jeffnawroth`](https://raycast.com/jeffnawroth) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pinia-docs) `api@^1.93.2` `utils@^1.17.0`
@@ -1903,6 +1907,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Todoist](https://raycast.com/thomaslombart/todoist)** - Check your Todoist tasks and quickly create new ones [`@thomaslombart`](https://raycast.com/thomaslombart) [`code`](https://github.com/raycast/extensions/tree/main/extensions/todoist) `api@^1.100.0` `utils@^1.19.1` `ai` `ai-tools`
 - **[Toggle Fn](https://raycast.com/elonwoo/toggle-fn)** - Toggle the "Use all F1, F2, etc. keys as standard function keys" option in macOS System Preferences. [`@elonwoo`](https://raycast.com/elonwoo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toggle-fn) `api@^1.80.0` `utils@^1.16.3`
 - **[Tomito Controls](https://raycast.com/elyse/tomito-controls)** - Control the Tomito app, a Pomodoro timer for macOS [`@elyse`](https://raycast.com/elyse) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tomito-controls) `api@^1.65.0` `utils@^1.10.1`
+- **[ToneClone](https://raycast.com/jfox/toneclone)** - Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing.  To get started, you'll need a ToneClone API key from https://app.toneclone.ai/api-keys [`@jfox`](https://raycast.com/jfox) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toneclone) `api@^1.103.2` `utils@^2.2.0`
 - **[Toothpick](https://raycast.com/VladCuciureanu/toothpick)** - Manage Bluetooth connections in Raycast. [`@VladCuciureanu`](https://raycast.com/VladCuciureanu) [`code`](https://github.com/raycast/extensions/tree/main/extensions/toothpick) `api@^1.90.0` `ai` `ai-tools`
 - **[Translate and Send Webpage to Reader](https://raycast.com/jasonjiong/translate-send-webpage-to-reader)** - Fetch the content of the active webpage, translate using Raycast AI, and save to Reader Later. visite https://readwise.io/access_token to get readwise token [`@jasonjiong`](https://raycast.com/jasonjiong) [`code`](https://github.com/raycast/extensions/tree/main/extensions/translate-send-webpage-to-reader) `api@^1.88.3` `utils@^1.17.0`
 - **[Translate.ge](https://raycast.com/giokaxo/raycast-translate-ge)** - Raycast plugin for translating georgian words to english [`@giokaxo`](https://raycast.com/giokaxo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/raycast-translate-ge) `api@^1.66.0` `utils@^1.4.8`
@@ -1990,6 +1995,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Exivo](https://raycast.com/Michi-2124/exivo)** - Use dormakaba exivo api to unlock doors. [`@Michi-2124`](https://raycast.com/Michi-2124) [`code`](https://github.com/raycast/extensions/tree/main/extensions/exivo) `api@^1.93.2` `utils@^1.17.0`
 - **[Greip](https://raycast.com/ghadeer/greip)** - Use endpoint from greip.io directly from Raycast [`@ghadeer`](https://raycast.com/ghadeer) [`code`](https://github.com/raycast/extensions/tree/main/extensions/greip) `api@^1.43.2` `utils@^1.4.11`
 - **[Image Shield](https://raycast.com/tuki0918/image-shield)** - Protect images with advanced encryption and fragmentation. [`@tuki0918`](https://raycast.com/tuki0918) [`code`](https://github.com/raycast/extensions/tree/main/extensions/image-shield) `api@^1.99.3` `utils@^1.17.0`
+- **[Infisical](https://raycast.com/xmok/infisical)** - Secrets management on autopilot [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/infisical) `api@^1.102.7` `utils@^1.17.0`
 - **[KeePassXC](https://raycast.com/pabroux/keepassxc)** - Access a KeePass database through KeePassXC. [`@pabroux`](https://raycast.com/pabroux) [`code`](https://github.com/raycast/extensions/tree/main/extensions/keepassxc) `api@^1.102.7` `utils@^1.19.1`
 - **[Link Cleaner](https://raycast.com/MisakiCoca/link-cleaner)** - Remove tracking parameters from URL links. [`@MisakiCoca`](https://raycast.com/MisakiCoca) [`code`](https://github.com/raycast/extensions/tree/main/extensions/link-cleaner) `api@^1.102.6`
 - **[Mozilla VPN Connect](https://raycast.com/natew/mozilla-vpn)** - Interact with the Mozilla VPN from Raycast. [`@natew`](https://raycast.com/natew) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mozilla-vpn) `api@^1.99.4` `utils@^2.0.0`

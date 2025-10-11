@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/2027925ba92519de_update-time.svg)
+![Last update](/icons/7e9631f2aeb3e165_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,10 +38,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2357** packages in **15** categories, **24** packages use Swift
-- **1540** authors, **929** contributors (of which **702** are only contributors, not authors)
+- **2359** packages in **15** categories, **24** packages use Swift
+- **1540** authors, **930** contributors (of which **703** are only contributors, not authors)
 - Top **7** authors:
-  - [xmok](https://raycast.com/xmok) (77)
+  - [xmok](https://raycast.com/xmok) (78)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (20)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
@@ -49,7 +49,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (223)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (224)
   - [xmok](https://raycast.com/xmok) (138)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (76)
   - [j3lte](https://raycast.com/j3lte) (40)
@@ -787,6 +787,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[OSINT Web Check](https://raycast.com/gksander/osint-web-check)** - Raycast extension to perform OSINT web check against a url [`@gksander`](https://raycast.com/gksander) [`code`](https://github.com/raycast/extensions/tree/main/extensions/osint-web-check) `api@^1.64.4`
 - **[OSS Insight](https://raycast.com/k8scat/ossinsight)** - OSS Insight extension for Raycast [`@k8scat`](https://raycast.com/k8scat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ossinsight) `api@^1.40.1` `utils@^1.9.0`
 - **[Outline Page](https://raycast.com/praveenjuge/outline-page)** - Check for CSS bugs by outlining all the elements in your web page. [`@praveenjuge`](https://raycast.com/praveenjuge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/outline-page) `api@^1.72.1` `utils@^1.14.1`
+- **[OVHcloud](https://raycast.com/xmok/ovhcloud)** - Manage Domains in OVHCloud [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ovh) `api@^1.103.2` `utils@^1.17.0`
 - **[PagerDuty](https://raycast.com/horimislime/pagerduty)** - Display PagerDuty incidents and helps updating status. [`@horimislime`](https://raycast.com/horimislime) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pagerduty) `api@^1.39.2`
 - **[Pagespeed](https://raycast.com/vorillaz/pagespeed)** - A simple extension that reports page speed insights based on page-speed.dev [`@vorillaz`](https://raycast.com/vorillaz) [`code`](https://github.com/raycast/extensions/tree/main/extensions/pagespeed) `api@^1.78.1` `utils@1.16.2`
 - **[Paperspace](https://raycast.com/yuri/paperspace)** - Control your Paperspace machines [`@yuri`](https://raycast.com/yuri) [`code`](https://github.com/raycast/extensions/tree/main/extensions/paperspace) `api@^1.79.0` `utils@^1.18.0`
@@ -857,7 +858,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Search R Packages](https://raycast.com/grrrck/r-pkg-search)** - Search and lookup information about R packages using r-pkg.org. [`@grrrck`](https://raycast.com/grrrck) [`code`](https://github.com/raycast/extensions/tree/main/extensions/r-pkg-search) `api@^1.72.0`
 - **[Search Vant Documentation](https://raycast.com/cai_aisen/vant-documentation)** - Search Vant documentation [`@cai_aisen`](https://raycast.com/cai_aisen) [`code`](https://github.com/raycast/extensions/tree/main/extensions/vant-documentation) `api@^1.82.3` `utils@^1.16.3`
 - **[Sendme File Share](https://raycast.com/nazif_ishrak/sendme)** - Send and receive files peer-to-peer directly from Raycast with no intermediary servers or accounts required [`@nazif_ishrak`](https://raycast.com/nazif_ishrak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sendme) `api@^1.55.2` `utils@^1.10.0`
-- **[Sesh](https://raycast.com/joshmedeski/sesh)** - Smart, instant terminal session management. [`@joshmedeski`](https://raycast.com/joshmedeski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sesh) `api@^1.57.2`
+- **[Sesh](https://raycast.com/joshmedeski/sesh)** - Smart, instant terminal session management. [`@joshmedeski`](https://raycast.com/joshmedeski) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sesh) `api@^1.102.0`
 - **[Shadcn/Svelte](https://raycast.com/selemondev/shadcn-svelte)** - Browses shadcn/svelte documentation, components, and commands. [`@selemondev`](https://raycast.com/selemondev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-svelte) `api@^1.77.1` `utils@^1.16.1`
 - **[Shadcn/Vue](https://raycast.com/selemondev/shadcn-vue)** - Browses shadcn/vue documentation, components, and commands. [`@selemondev`](https://raycast.com/selemondev) [`code`](https://github.com/raycast/extensions/tree/main/extensions/shadcn-vue) `api@^1.73.2` `utils@^1.15.0`
 - **[Share My Code](https://raycast.com/jairaume/share-my-code)** - Quickly create shareable code snippet with ShareMyCode directly in your Raycast ecosystem. [`@jairaume`](https://raycast.com/jairaume) [`code`](https://github.com/raycast/extensions/tree/main/extensions/share-my-code) `api@^1.67.0` `utils@^1.11.1`
@@ -993,6 +994,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Glossary](https://raycast.com/javierarce/glossary)** - Allows you to create a personal glossary [`@javierarce`](https://raycast.com/javierarce) [`code`](https://github.com/raycast/extensions/tree/main/extensions/glossary) `api@^1.99.3` `utils@^1.19.1`
 - **[Guitar Chords](https://raycast.com/GastroGeek/guitar-chords)** - Lookup chord diagrams for guitar [`@GastroGeek`](https://raycast.com/GastroGeek) [`code`](https://github.com/raycast/extensions/tree/main/extensions/guitar-chords) `api@^1.39.0`
 - **[HTTP MIME Types](https://raycast.com/Envl/http-mime)** - Search MIME types for HTTP Content-Type [`@Envl`](https://raycast.com/Envl) [`code`](https://github.com/raycast/extensions/tree/main/extensions/http-mime) `api@^1.59.0` `utils@^1.10.0`
+- **[LAPACK/BLAS Documentation Search](https://raycast.com/FariaF22/lapack-blas-documentation-search)** - Quickly search through official LAPACK/BLAS documentation [`@FariaF22`](https://raycast.com/FariaF22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/lapack-blas-documentation-search) `api@^1.103.3` `utils@^1.17.0`
 - **[Mandarin Chinese Dictionary](https://raycast.com/CofCat/mandarin-chinese-dictionary)** - Mandarin Chinese Dictionary [`@CofCat`](https://raycast.com/CofCat) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mandarin-chinese-dictionary) `api@^1.77.0` `utils@^1.16.1`
 - **[Mantine UI Documentation](https://raycast.com/EmilMalanczak/mantine-documentation)** - Browse simplified documentation for Mantine or use quick links to particular pages directly through Raycast [`@EmilMalanczak`](https://raycast.com/EmilMalanczak) [`code`](https://github.com/raycast/extensions/tree/main/extensions/mantine) `api@^1.35.2`
 - **[Markdown to Jira](https://raycast.com/theo_brlle/markdown-to-jira)** - Format a Markdown text into Jira markup. [`@theo_brlle`](https://raycast.com/theo_brlle) [`code`](https://github.com/raycast/extensions/tree/main/extensions/markdown-to-jira) `api@^1.52.1`
@@ -1545,7 +1547,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Cloudflare Email Routing](https://raycast.com/erayack/cloudflare-email-routing)** - Create, list, edit, and delete Cloudflare email aliases directly from Raycast. [`@erayack`](https://raycast.com/erayack) [`code`](https://github.com/raycast/extensions/tree/main/extensions/cloudflare-email-routing) `api@^1.96.3` `utils@^1.17.0`
 - **[Coda Bookmarks Search](https://raycast.com/allienx/coda-bookmarks-search)** - Quickly find and open your bookmarked URLs stored in a coda table. [`@allienx`](https://raycast.com/allienx) [`code`](https://github.com/raycast/extensions/tree/main/extensions/coda-bookmarks-search) `api@1.36.0`
 - **[Comma Separator](https://raycast.com/siddharth_rastogi/comma-separator)** - Convert text into separated values with customizable delimiters and quote options [`@siddharth_rastogi`](https://raycast.com/siddharth_rastogi) [`code`](https://github.com/raycast/extensions/tree/main/extensions/comma-separator) `api@^1.103.2` `utils@^1.17.0`
-- **[Command Scheduler](https://raycast.com/cps/scheduler)** - Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. [`@cps`](https://raycast.com/cps) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scheduler) `api@^1.102.7` `utils@^2.2.1`
+- **[Command Scheduler](https://raycast.com/cps/scheduler)** - Allows you to schedule Raycast commands to run at specific days, times or intervals ⏰. [`@cps`](https://raycast.com/cps) [`code`](https://github.com/raycast/extensions/tree/main/extensions/scheduler) `api@^1.103.3` `utils@^2.2.1`
 - **[Common Directory](https://raycast.com/koinzhang/common-directory)** - Quickly open or show common directory in Finder. [`@koinzhang`](https://raycast.com/koinzhang) [`code`](https://github.com/raycast/extensions/tree/main/extensions/common-directory) `api@^1.43.2`
 - **[Comodoro](https://raycast.com/jns/comodoro)** - Control Comodoro, a Pomodor timer [`@jns`](https://raycast.com/jns) [`code`](https://github.com/raycast/extensions/tree/main/extensions/comodoro) `api@^1.88.4` `utils@^1.18.1`
 - **[Confluence](https://raycast.com/tbrown/confluence)** - Quickly navigate, create and search Confluence through Raycast. [`@tbrown`](https://raycast.com/tbrown) [`code`](https://github.com/raycast/extensions/tree/main/extensions/confluence-search) `api@^1.100.2` `utils@^2.0.0`
@@ -2513,7 +2515,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Twitter](https://raycast.com/tonka3000/twitter)** - Send and search Tweets [`@tonka3000`](https://raycast.com/tonka3000) [`code`](https://github.com/raycast/extensions/tree/main/extensions/twitter) `api@^1.62.0` `utils@^1.10.1`
 - **[Two-Factor Authentication Code Generator](https://raycast.com/cjdenio/two-factor-authentication-code-generator)** - Quickly access your two-factor authentication codes. [`@cjdenio`](https://raycast.com/cjdenio) [`code`](https://github.com/raycast/extensions/tree/main/extensions/two-factor-authentication-code-generator) `api@^1.94.0`
 - **[Ulysses](https://raycast.com/praveenjuge/ulysses)** - Use Ulysses with Raycast [`@praveenjuge`](https://raycast.com/praveenjuge) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ulysses) `api@^1.27.0`
-- **[Unicode Symbols Search](https://raycast.com/mmazzarolo/unicode-symbols)** - Browse and copy-paste common Unicode symbols. [`@mmazzarolo`](https://raycast.com/mmazzarolo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) `api@^1.103.1` `utils@^2.2.1`
+- **[Unicode Symbols Search](https://raycast.com/mmazzarolo/unicode-symbols)** - Browse and copy-paste common Unicode symbols. [`@mmazzarolo`](https://raycast.com/mmazzarolo) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unicode-symbols) `api@^1.103.3` `utils@^2.2.1`
 - **[Unix Timestamp Converter](https://raycast.com/ride-space/unix-timestamp-converter)** - Convert Unix timestamps to readable date and time formats for any country or timezone, or generate Unix timestamps from human-readable dates. Supports multiple time zones and display formats. [`@ride-space`](https://raycast.com/ride-space) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unix-timestamp-converter) `api@^1.97.0` `utils@^1.17.0`
 - **[Unsplash](https://raycast.com/eggsy/unsplash)** - Search images or collections on Unsplash, download, copy or set them as wallpaper without leaving Raycast! [`@eggsy`](https://raycast.com/eggsy) [`code`](https://github.com/raycast/extensions/tree/main/extensions/unsplash) `api@^1.102.6` `utils@^2.2.1`
 - **[Upstash](https://raycast.com/xmok/upstash)** - Manage Redis Databases and Vector Indices [`@xmok`](https://raycast.com/xmok) [`code`](https://github.com/raycast/extensions/tree/main/extensions/upstash) `api@^1.100.3` `utils@^2.0.1`

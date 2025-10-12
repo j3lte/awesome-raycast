@@ -185,12 +185,28 @@ sortedCategories.forEach((category, i) => {
         d.hasTools = true;
       }
 
+      const titleLink = `[${pkg.title}](https://raycast.com/${pkg.author}/${pkg.name})`;
+      const authorLink = `[\`@${pkg.author}\`](https://raycast.com/${pkg.author})`;
+      const issuesLink = `[\`issues\`](${
+        encodeURI(
+          `https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:"extension:+${pkg.name}"`,
+        )
+      })`;
+      const pullRequestsLink = `[\`PR\`](${
+        encodeURI(
+          `https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:"extension:+${pkg.name}"`,
+        )
+      })`;
+      const codeLink =
+        `[\`code\`](https://github.com/raycast/extensions/tree/main/extensions${pkg.path})`;
+
       data[pkg.name] = d;
       const line = [
-        `- **[${pkg.title}](https://raycast.com/${pkg.author}/${pkg.name})**`,
+        `- **${titleLink}**`,
         `- ${(pkg.description || "").replace(/\n/g, " ").trim()}`,
-        `[\`@${pkg.author}\`](https://raycast.com/${pkg.author})`,
-        `[\`code\`](https://github.com/raycast/extensions/tree/main/extensions${pkg.path})`,
+        authorLink,
+        `${issuesLink}/${pullRequestsLink}`,
+        codeLink,
         `\`api@${pkg.raycast}\``,
         pkg.utils ? `\`utils@${pkg.utils}\`` : "",
         swiftPackages.has(pkg.name) ? "`swift`" : "",

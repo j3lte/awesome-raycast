@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/55e2c5a9ecd76be1_update-time.svg)
+![Last update](/icons/8d025db9867db859_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,18 +38,18 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2369** packages in **15** categories, **24** packages use Swift
-- **1546** authors, **935** contributors (of which **708** are only contributors, not authors)
+- **2371** packages in **15** categories, **24** packages use Swift
+- **1547** authors, **936** contributors (of which **709** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (79)
   - [koinzhang](https://raycast.com/koinzhang) (50)
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (20)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (21)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
   - [thomas](https://raycast.com/thomas) (18)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (226)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (227)
   - [xmok](https://raycast.com/xmok) (141)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (78)
   - [j3lte](https://raycast.com/j3lte) (43)
@@ -1274,6 +1274,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Fetch YouTube Transcript](https://raycast.com/apoorv_khandelwal/fetch-youtube-transcript)** - Fetches and saves the transcript of a YouTube video in your downloads folder [`@apoorv_khandelwal`](https://raycast.com/apoorv_khandelwal) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+fetch-youtube-transcript%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+fetch-youtube-transcript%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fetch-youtube-transcript) `api@^1.59.0` `utils@^1.12.5`
 - **[FFmpeg - View, Analyze and Manipulate](https://raycast.com/RenderCoder/ffmpeg)** - Use FFmpeg to view media file info [`@RenderCoder`](https://raycast.com/RenderCoder) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+ffmpeg%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+ffmpeg%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ffmpeg) `api@^1.79.0` `utils@^1.9.1` `ai` `ai-tools`
 - **[Fip](https://raycast.com/louison/fip)** - Start and explore the fip radio directly from Raycast [`@louison`](https://raycast.com/louison) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+fip%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+fip%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fip) `api@^1.58.0`
+- **[forScore](https://raycast.com/pernielsentikaer/forscore)** - Manage forScore directly from Raycast [`@pernielsentikaer`](https://raycast.com/pernielsentikaer) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+forscore%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+forscore%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/forscore) `api@^1.103.3` `utils@^2.0.1`
 - **[Frame Crop - Discover Art for Your TV](https://raycast.com/jsheffers/frame-crop-art)** - Discover & download amazing artwork curated by Frame Crop [`@jsheffers`](https://raycast.com/jsheffers) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+frame-crop-art%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+frame-crop-art%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/frame-crop) `api@^1.86.1` `utils@^1.17.0`
 - **[Freesound](https://raycast.com/j3lte/freesound)** - Search the Freesound Library [`@j3lte`](https://raycast.com/j3lte) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+freesound%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+freesound%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/freesound) `api@^1.76.0` `utils@^1.15.0`
 - **[Genius Lyrics](https://raycast.com/tkdkid1000/genius-lyrics)** - Search by song title to instantly view lyrics, or enter remembered lyrics to quickly find the song's title, utilizing the Genius Lyrics API. [`@tkdkid1000`](https://raycast.com/tkdkid1000) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+genius-lyrics%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+genius-lyrics%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/genius-lyrics) `api@^1.103.0` `utils@^2.2.1`
@@ -1656,6 +1657,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Hammerspoon](https://raycast.com/bjrmatos/hammerspoon)** - Control Hammerspoon from Raycast [`@bjrmatos`](https://raycast.com/bjrmatos) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+hammerspoon%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+hammerspoon%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hammerspoon) `api@1.94.0` `utils@1.19.1`
 - **[Harpoon](https://raycast.com/brian_wang/harpoon)** - Tag frequently used applications and quickly switch between them. Inspired by The Primeagen's Harpoon plugin. [`@brian_wang`](https://raycast.com/brian_wang) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+harpoon%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+harpoon%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/harpoon) `api@^1.94.0` `utils@^1.19.1`
 - **[Harvest](https://raycast.com/eluce2/harvest)** - Access Harvest Time Entries [`@eluce2`](https://raycast.com/eluce2) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+harvest%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+harvest%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/harvest) `api@^1.68.0` `utils@^1.3.1`
+- **[Haystack](https://raycast.com/dimuuu/haystack)** - Organize anything by capturing screenshots [`@dimuuu`](https://raycast.com/dimuuu) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+haystack%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+haystack%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/haystack) `api@^1.102.4` `utils@^2.0.1` `ai` `ai-tools`
 - **[Hebrew Date & Zmanim](https://raycast.com/mendel_g/hebrew-date-zmanim)** - Hebrew date converter + full Kosher Zmanim with fuzzy search for Raycast. [`@mendel_g`](https://raycast.com/mendel_g) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+hebrew-date-zmanim%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+hebrew-date-zmanim%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hebrew-date-zmanim) `api@^1.75.0` `utils@^2.2.0`
 - **[Hide Files](https://raycast.com/koinzhang/hide-files)** - Hide and show files in any Finder directory, including Desktop, Downloads, Documents, etc. [`@koinzhang`](https://raycast.com/koinzhang) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+hide-files%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+hide-files%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hide-files) `api@^1.100.3`
 - **[Hide My Email](https://raycast.com/svenhofman/hidemyemail)** - Quick and easy way to view and manage your Hide My Email addresses. [`@svenhofman`](https://raycast.com/svenhofman) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+hidemyemail%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+hidemyemail%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hidemyemail) `api@^1.85.0` `utils@^1.17.0`

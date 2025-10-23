@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/0ad38c5ab946fe80_update-time.svg)
+![Last update](/icons/c317986b64d65edc_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,14 +38,14 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2376** packages in **15** categories, **24** packages use Swift
+- **2377** packages in **15** categories, **24** packages use Swift
 - **1549** authors, **938** contributors (of which **711** are only contributors, not authors)
 - Top **7** authors:
   - [xmok](https://raycast.com/xmok) (80)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (21)
+  - [thomas](https://raycast.com/thomas) (19)
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
-  - [thomas](https://raycast.com/thomas) (18)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
 - Top **7** contributors:
@@ -1534,6 +1534,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[CCF What?](https://raycast.com/crackedpoly/ccf-what)** - Loop up CCF rankings. [`@crackedpoly`](https://raycast.com/crackedpoly) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+ccf-what%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+ccf-what%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ccf-what) `api@^1.68.1` `utils@^1.12.5`
 - **[ChartMogul](https://raycast.com/mattdelliott/chartmogul)** - A Raycast extension that gives you quick access to key business metrics from ChartMogul right from your command bar. Instantly view MRR, ARR, churn, customer counts, and more without leaving your workflow. [`@mattdelliott`](https://raycast.com/mattdelliott) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+chartmogul%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+chartmogul%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chartmogul) `api@^1.102.6` `utils@^1.17.0` `ai` `ai-tools`
 - **[ChatGPT](https://raycast.com/abielzulio/chatgpt)** - Interact with OpenAI's ChatGPT directly from your command bar [`@abielzulio`](https://raycast.com/abielzulio) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+chatgpt%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+chatgpt%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgpt) `api@^1.88.4` `utils@^1.18.1`
+- **[ChatGPT Atlas](https://raycast.com/thomas/chatgpt-atlas)** - Search your history of ChatGPT Atlas, OpenAI's new browser. [`@thomas`](https://raycast.com/thomas) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+chatgpt-atlas%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+chatgpt-atlas%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-atlas) `api@^1.103.0` `utils@^1.19.1`
 - **[ChatGPT Quick Actions](https://raycast.com/alanzchen/chatgpt-quick-actions)** - Performs one-shot actions with ChatGPT [`@alanzchen`](https://raycast.com/alanzchen) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+chatgpt-quick-actions%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+chatgpt-quick-actions%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatgpt-quick-actions) `api@^1.50.0`
 - **[Chatwith](https://raycast.com/rafal_zawadzki/chatwith)** - AI chatbot trained on your data and with access to automations. [`@rafal_zawadzki`](https://raycast.com/rafal_zawadzki) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+chatwith%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+chatwith%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/chatwith) `api@^1.67.1` `utils@^1.12.4`
 - **[Checklist](https://raycast.com/zeekrey/checklist)** - Create and work on checklists. [`@zeekrey`](https://raycast.com/zeekrey) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+checklist%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+checklist%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/checklist) `api@^1.66.0` `utils@^1.5.2`

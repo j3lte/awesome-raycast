@@ -12,6 +12,6 @@ export const saveHistory = async (dataFile: string, historyItem: HistoryItem) =>
   data.push(historyItem);
   await Deno.writeTextFile(
     dataFile,
-    `[${data.map((item) => `  ${JSON.stringify(item)}`).join(",\n")}]`,
+    `[\n${data.map((item) => `  ${JSON.stringify(item)}`).join(",\n")}\n]`,
   );
 };

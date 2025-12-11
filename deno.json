@@ -19,11 +19,12 @@
     "lineWidth": 100,
     "singleQuote": false,
     "useTabs": false,
-    "proseWrap": "preserve",
-    "exclude": [
-      ".github/",
-      "README.md",
-      "data/history.json"
-    ]
-  }
+    "proseWrap": "preserve"
+  },
+  "exclude": [
+    ".github/",
+    "README.md",
+    "data/*.json",
+    "icons/"
+  ]
 }

@@ -5,11 +5,16 @@
   "deno.config": "./deno.json",
   "editor.detectIndentation": false,
   "editor.indentSize": 2,
+  "prettier.enable": false,
   "[typescript]": {
     "editor.defaultFormatter": "denoland.vscode-deno",
     "editor.formatOnSave": true
   },
   "[markdown]": {
+    "editor.formatOnSave": false,
+    "editor.tabSize": 2
+  },
+  "[json]": {
     "editor.formatOnSave": false,
     "editor.tabSize": 2
   },

@@ -22,7 +22,8 @@
     "proseWrap": "preserve",
     "exclude": [
       ".github/",
-      "README.md"
+      "README.md",
+      "data/history.json"
     ]
   }
 }

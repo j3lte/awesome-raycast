@@ -5,7 +5,15 @@ export const saveHistory = async (dataFile: string, historyItem: HistoryItem) =>
   const data = JSON.parse(dataText) as HistoryItem[];
   const lastItem = data.length > 0 ? data[data.length - 1] : null;
 
-  if (lastItem && lastItem.timestamp === historyItem.timestamp) {
+  if (
+    lastItem && lastItem.packages === historyItem.packages &&
+    lastItem.authors === historyItem.authors &&
+    lastItem.contributors === historyItem.contributors &&
+    lastItem.onlyContributors === historyItem.onlyContributors &&
+    lastItem.noPlatformSelected === historyItem.noPlatformSelected &&
+    lastItem.macOnly === historyItem.macOnly && lastItem.withWindows === historyItem.withWindows &&
+    lastItem.windowsOnly === historyItem.windowsOnly
+  ) {
     return;
   }
 

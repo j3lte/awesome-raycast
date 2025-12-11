@@ -5,6 +5,8 @@ import { format } from "date-fns";
 
 import generateIcons from "./utils/generate-icons.ts";
 import updateText from "./utils/update-text.ts";
+import { Data, DataObject, HistoryItem, PackageWithVersion } from "./types/index.ts";
+import { saveHistory } from "./utils/save-history.ts";
 
 const nanoid = customAlphabet("1234567890abcdef", 16);
 const CONTRIBUTIONS_LENGTH = 7;
@@ -12,41 +14,6 @@ const CONTRIBUTIONS_LENGTH = 7;
 const FORCE = Deno.args.includes("--force");
 
 await load({ export: true });
-
-type Package = {
-  path: string;
-  name: string;
-  title: string;
-  description: string;
-  author: string;
-  contributors?: string[];
-  dependencies: Record<string, string>;
-  categories: string[];
-  ai: Record<string, unknown>;
-  tools?: Array<{ name: string }>;
-  platforms?: Array<"macOS" | "Windows">;
-};
-
-type PackageWithVersion = Package & {
-  raycast: string | null;
-  utils: string | null;
-};
-
-type DataObject = {
-  title: string;
-  description: string;
-  author: string;
-  contributors: string[];
-  api: string | null;
-  utils: string | null;
-  swift?: boolean;
-  hasAi: boolean;
-  hasTools: boolean;
-  win?: boolean;
-  mac?: boolean;
-};
-
-type Data = Record<string, DataObject>;
 
 const data: Data = {};
 
@@ -319,12 +286,26 @@ ${
 );
 
 const DATA_FILE = import.meta.resolve("../data/data.json").replace("file://", "");
+const HISTORY_FILE = import.meta.resolve("../data/history.json").replace("file://", "");
 
 if (!stage2Changes && !stage3Changes && !stageFinalChanges && !FORCE) {
   console.log("No changes detected");
   Deno.exit(0);
 }
 
+const historyItem: HistoryItem = {
+  timestamp: Date.now(),
+  packages: packages.length,
+  authors: authorsSize,
+  contributors: contributorsSize,
+  onlyContributors: onlyContributors,
+  noPlatformSelected: noPlatformSelected,
+  macOnly: macOnly,
+  withWindows: withWindows,
+  windowsOnly: windowsOnly,
+};
+
+await saveHistory(HISTORY_FILE, historyItem);
 await Deno.writeTextFile(DATA_FILE, JSON.stringify(data));
 
 await generateIcons([{

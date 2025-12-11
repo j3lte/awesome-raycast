@@ -24,7 +24,7 @@ type Package = {
   categories: string[];
   ai: Record<string, unknown>;
   tools?: Array<{ name: string }>;
-  platforms?: string[];
+  platforms?: Array<"macOS" | "Windows">;
 };
 
 type PackageWithVersion = Package & {
@@ -155,6 +155,7 @@ let toc = "- [Statistics](#statistics)\n- [Categories](#categories)";
 let noPlatformSelected = 0;
 let withWindows = 0;
 let windowsOnly = 0;
+let macOnly = 0;
 
 // Generate markdown line per category and packages
 sortedCategories.forEach((category, i) => {
@@ -201,6 +202,9 @@ sortedCategories.forEach((category, i) => {
         }
         if (pkg.platforms.includes("Windows") && !pkg.platforms.includes("macOS")) {
           windowsOnly++;
+        }
+        if (pkg.platforms.includes("macOS") && !pkg.platforms.includes("Windows")) {
+          macOnly++;
         }
         d.win = pkg.platforms.includes("Windows");
         d.mac = pkg.platforms.includes("macOS");
@@ -289,9 +293,13 @@ const { updatedText: stageFinal, hasChanges: stageFinalChanges } = updateText(
 - **${authorsSize}** authors, **${contributorsSize}** contributors (of which **${onlyContributors}** are only contributors, not authors)
 - **${noPlatformSelected}** packages have no platform selected (${
     Math.round((noPlatformSelected / packages.length) * 10000) / 100
-  }%, macOS only), **${withWindows}** packages have Windows (${
+  }%, macOS only)
+- **${macOnly}** packages have macOS only (${
+    Math.round((macOnly / packages.length) * 10000) / 100
+  }%)
+- **${withWindows}** packages have Windows (${
     Math.round((withWindows / packages.length) * 10000) / 100
-  }%), **${windowsOnly}** packages have Windows only (${
+  }%), of which **${windowsOnly}** packages have Windows only (${
     Math.round((windowsOnly / packages.length) * 10000) / 100
   }%)
 - Top **${CONTRIBUTIONS_LENGTH}** authors:

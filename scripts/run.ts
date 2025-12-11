@@ -24,6 +24,7 @@ type Package = {
   categories: string[];
   ai: Record<string, unknown>;
   tools?: Array<{ name: string }>;
+  platforms?: string[];
 };
 
 type PackageWithVersion = Package & {
@@ -41,6 +42,8 @@ type DataObject = {
   swift?: boolean;
   hasAi: boolean;
   hasTools: boolean;
+  win?: boolean;
+  mac?: boolean;
 };
 
 type Data = Record<string, DataObject>;
@@ -149,6 +152,10 @@ const sortedCategories = [...Array.from(categories).sort(), "Uncategorized"];
 let output = "";
 let toc = "- [Statistics](#statistics)\n- [Categories](#categories)";
 
+let noPlatformSelected = 0;
+let withWindows = 0;
+let windowsOnly = 0;
+
 // Generate markdown line per category and packages
 sortedCategories.forEach((category, i) => {
   console.log(`Processing category: ${category}`);
@@ -184,6 +191,20 @@ sortedCategories.forEach((category, i) => {
       if (pkg.tools && pkg.tools.length > 0) {
         d.hasTools = true;
       }
+      if (typeof pkg.platforms === "undefined") {
+        noPlatformSelected++;
+        d.win = false;
+        d.mac = true;
+      } else {
+        if (pkg.platforms.includes("Windows")) {
+          withWindows++;
+        }
+        if (pkg.platforms.includes("Windows") && !pkg.platforms.includes("macOS")) {
+          windowsOnly++;
+        }
+        d.win = pkg.platforms.includes("Windows");
+        d.mac = pkg.platforms.includes("macOS");
+      }
 
       const titleLink = `[${pkg.title}](https://raycast.com/${pkg.author}/${pkg.name})`;
       const authorLink = `[\`@${pkg.author}\`](https://raycast.com/${pkg.author})`;
@@ -212,6 +233,7 @@ sortedCategories.forEach((category, i) => {
         swiftPackages.has(pkg.name) ? "`swift`" : "",
         d.hasAi ? "`ai`" : "",
         d.hasTools ? "`ai-tools`" : "",
+        d.win && !d.mac ? "`Windows only`" : (d.win ? "`+Windows`" : ""),
       ].filter((s) => s && s.length > 0).join(" ").trim();
       output += `${line}\n`;
     });
@@ -265,6 +287,13 @@ const { updatedText: stageFinal, hasChanges: stageFinalChanges } = updateText(
   `
 - **${packages.length}** packages in **${categories.size}** categories, **${swiftPackages.size}** packages use Swift
 - **${authorsSize}** authors, **${contributorsSize}** contributors (of which **${onlyContributors}** are only contributors, not authors)
+- **${noPlatformSelected}** packages have no platform selected (${
+    Math.round((noPlatformSelected / packages.length) * 10000) / 100
+  }%, macOS only), **${withWindows}** packages have Windows (${
+    Math.round((withWindows / packages.length) * 10000) / 100
+  }%), **${windowsOnly}** packages have Windows only (${
+    Math.round((windowsOnly / packages.length) * 10000) / 100
+  }%)
 - Top **${CONTRIBUTIONS_LENGTH}** authors:
 ${
     topAuthors.map(([author, count]) => `  - [${author}](https://raycast.com/${author}) (${count})`)

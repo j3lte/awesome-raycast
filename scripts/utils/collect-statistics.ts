@@ -1,4 +1,4 @@
-import { PackageWithVersion, Statistics } from "../types/internal.ts";
+import type { PackageWithVersion, Statistics } from "../types/internal.ts";
 
 /**
  * Collects statistics from packages.

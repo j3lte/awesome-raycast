@@ -1,5 +1,6 @@
 import { walk } from "@svarta/walk-it";
-import { DiscoveredPackages } from "../types/internal.ts";
+
+import type { DiscoveredPackages } from "../types/internal.ts";
 
 /**
  * Discovers all packages in the extensions folder.

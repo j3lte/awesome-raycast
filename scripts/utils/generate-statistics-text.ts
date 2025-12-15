@@ -1,4 +1,4 @@
-import { Statistics } from "../types/internal.ts";
+import type { Statistics } from "../types/internal.ts";
 
 const CONTRIBUTIONS_LENGTH = 7;
 

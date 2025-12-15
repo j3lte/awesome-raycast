@@ -1,14 +1,16 @@
 import { load } from "@std/dotenv";
 
-import generateIcons from "./utils/generate-icons.ts";
-import { HistoryItem } from "./types/external.ts";
-import { saveHistory } from "./utils/save-history.ts";
-import { discoverPackages } from "./utils/discover-packages.ts";
-import { parsePackages } from "./utils/parse-packages.ts";
+import type { HistoryItem } from "./types/external.ts";
+import type { PackageWithVersion } from "./types/internal.ts";
+
 import { collectStatistics } from "./utils/collect-statistics.ts";
-import { getSortedCategories, organizeByCategory } from "./utils/organize-by-category.ts";
+import { discoverPackages } from "./utils/discover-packages.ts";
+import { generateIcons } from "./utils/generate-icons.ts";
 import { generateMarkdown } from "./utils/generate-markdown.ts";
 import { generateStatisticsText } from "./utils/generate-statistics-text.ts";
+import { getSortedCategories, organizeByCategory } from "./utils/organize-by-category.ts";
+import { parsePackages } from "./utils/parse-packages.ts";
+import { saveHistory } from "./utils/save-history.ts";
 import { generateUpdateTimeIcon, updateReadme } from "./utils/update-readme.ts";
 
 const FORCE = Deno.args.includes("--force");
@@ -27,7 +29,7 @@ console.log(packages.length, "packages found");
 
 // Parse all packages and collect categories
 const categories = new Set<string>();
-const parsedPackages: Array<import("./types/internal.ts").PackageWithVersion> = [];
+const parsedPackages: PackageWithVersion[] = [];
 for await (const pkg of parsePackages(packages, repoPath, categories)) {
   parsedPackages.push(pkg);
 }

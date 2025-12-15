@@ -1,4 +1,4 @@
-import { PackageWithVersion } from "../types/internal.ts";
+import type { PackageWithVersion } from "../types/internal.ts";
 
 /**
  * Parses a package.json file and extracts relevant information.

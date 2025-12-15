@@ -1,4 +1,4 @@
-import { PackageWithVersion } from "../types/internal.ts";
+import type { PackageWithVersion } from "../types/internal.ts";
 
 /**
  * Organizes packages by category.

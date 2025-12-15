@@ -1,5 +1,5 @@
-import { MarkdownOutput, PackageWithVersion } from "../types/internal.ts";
-import { DataObject } from "../types/external.ts";
+import type { DataObject } from "../types/external.ts";
+import type { MarkdownOutput, PackageWithVersion } from "../types/internal.ts";
 
 /**
  * Generates markdown content for packages organized by category.

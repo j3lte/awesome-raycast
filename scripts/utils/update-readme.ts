@@ -1,7 +1,9 @@
-import updateText from "./update-text.ts";
 import { format } from "date-fns";
 import { customAlphabet } from "nanoid";
-import { Icon, UpdateResult } from "../types/internal.ts";
+
+import type { Icon, UpdateResult } from "../types/internal.ts";
+
+import updateText from "./update-text.ts";
 
 const nanoid = customAlphabet("1234567890abcdef", 16);
 

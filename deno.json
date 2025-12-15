@@ -27,6 +27,7 @@
     ".github/",
     "README.md",
     "data/*.json",
-    "icons/"
+    "icons/",
+    "repo/"
   ]
 }

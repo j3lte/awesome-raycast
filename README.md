@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/0d9b4b35722ab5d7_update-time.svg)
+![Last update](/icons/7a26e8faa24722d0_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -29,7 +29,6 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [Web](#web)
   - [Uncategorized](#uncategorized)
 - [License](#license)
-
 <!-- END TABLE_OF_CONTENTS -->
 
 ## Statistics
@@ -43,7 +42,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **1727** packages have no platform selected (69.61%, macOS only)
 - **402** packages have macOS only (16.2%)
 - **352** packages have Windows (14.19%), of which **8** packages have Windows only (0.32%)
-- Top **7** authors:
+- Top **10** authors:
   - [xmok](https://raycast.com/xmok) (95)
   - [koinzhang](https://raycast.com/koinzhang) (50)
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (21)
@@ -51,7 +50,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [EvanZhouDev](https://raycast.com/EvanZhouDev) (18)
   - [Aayush9029](https://raycast.com/Aayush9029) (16)
   - [vimtor](https://raycast.com/vimtor) (15)
-- Top **7** contributors:
+  - [Visual-Studio-Coder](https://raycast.com/Visual-Studio-Coder) (15)
+  - [peduarte](https://raycast.com/peduarte) (14)
+  - [j3lte](https://raycast.com/j3lte) (13)
+- Top **10** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (250)
   - [xmok](https://raycast.com/xmok) (157)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (99)
@@ -59,6 +61,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [xilopaint](https://raycast.com/xilopaint) (36)
   - [litomore](https://raycast.com/litomore) (33)
   - [stelo](https://raycast.com/stelo) (25)
+  - [0xdhrv](https://raycast.com/0xdhrv) (20)
+  - [thomas](https://raycast.com/thomas) (18)
+  - [erics118](https://raycast.com/erics118) (14)
 
 <!-- END STATISTICS -->
 

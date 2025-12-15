@@ -1,6 +1,6 @@
 import type { Statistics } from "../types/internal.ts";
 
-const CONTRIBUTIONS_LENGTH = 7;
+const CONTRIBUTIONS_LENGTH = 10;
 
 /**
  * Generates the statistics text for the README.

@@ -5,7 +5,8 @@ import { format } from "date-fns";
 
 import generateIcons from "./utils/generate-icons.ts";
 import updateText from "./utils/update-text.ts";
-import { Data, DataObject, HistoryItem, PackageWithVersion } from "./types/index.ts";
+import { Data, DataObject, HistoryItem } from "./types/external.ts";
+import { PackageWithVersion } from "./types/internal.ts";
 import { saveHistory } from "./utils/save-history.ts";
 
 const nanoid = customAlphabet("1234567890abcdef", 16);

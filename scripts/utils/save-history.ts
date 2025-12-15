@@ -1,4 +1,4 @@
-import { HistoryItem } from "../types/index.ts";
+import { HistoryItem } from "../types/external.ts";
 
 export const saveHistory = async (dataFile: string, historyItem: HistoryItem) => {
   const dataText = await Deno.readTextFile(dataFile);

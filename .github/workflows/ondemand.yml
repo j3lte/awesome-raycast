@@ -48,6 +48,7 @@ jobs:
         run: |
           # Create a directory structure that will be served by GitHub Pages
           mkdir -p _site/data
+          mkdir -p _site/types
           cp data/data.json _site/data/
           cp data/history.json _site/data/
 

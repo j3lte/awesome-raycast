@@ -19,6 +19,7 @@ export type PackageWithVersion = Package & {
 };
 
 export type DataObject = {
+  name: string;
   title: string;
   description: string;
   author: string;
@@ -34,7 +35,7 @@ export type DataObject = {
   dev_deps: Record<string, string>;
 };
 
-export type Data = Record<string, DataObject>;
+export type Data = DataObject[];
 
 export type HistoryItem = {
   timestamp: number;

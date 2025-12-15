@@ -16,7 +16,7 @@ const NOICONS = Deno.args.includes("--no-icons");
 
 await load({ export: true });
 
-const data: Data = {};
+const data: Data = [];
 
 // Correct path to the extensions folder
 const repoPath = Deno.env.get("REPO_PATH")
@@ -142,6 +142,7 @@ sortedCategories.forEach((category, i) => {
     output += "**[`^        back to top        ^`](#awesome-raycast)**\n\n";
     sorted.forEach((pkg) => {
       const d: DataObject = {
+        name: pkg.name,
         title: pkg.title,
         description: pkg.description,
         author: pkg.author,
@@ -197,7 +198,7 @@ sortedCategories.forEach((category, i) => {
       const codeLink =
         `[\`code\`](https://github.com/raycast/extensions/tree/main/extensions${pkg.path})`;
 
-      data[pkg.name] = d;
+      data.push(d);
       const line = [
         `- **${titleLink}**`,
         `- ${(pkg.description || "").replace(/\n/g, " ").trim()}`,

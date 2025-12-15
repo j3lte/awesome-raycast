@@ -3,3 +3,5 @@ misc/
 repo/
 test.md
 .env
+_site/
+GITHUB_PAGES_SETUP.md

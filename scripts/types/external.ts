@@ -1,5 +1,5 @@
 /**
- * Data Object Type, used to store the data of the extension repo.
+ * Data Object Type, used to store the data of the extension repo. Formatting for `data/data.json`.
  *
  * This is used to store the data of the extension repo in a structured format.
  */
@@ -35,11 +35,6 @@ export type DataObject = {
 };
 
 /**
- * Formatting for `data/data.json`.
- */
-export type Data = DataObject[];
-
-/**
  * History Item Type, used to save the history of the extension repo. Formatting for `data/history.json`.
  *
  * This is used to track the number of packages, authors, contributors, etc over time.
@@ -63,4 +58,16 @@ export type HistoryItem = {
   withWindows: number;
   /** Number of packages with Windows only in the extension repo */
   windowsOnly: number;
+};
+
+/**
+ * API Version Type, used to store API version statistics. Formatting for `data/api-versions.json`.
+ *
+ * This is used to track which packages use which version of `@raycast/api`.
+ */
+export type ApiVersion = {
+  /** The version of `@raycast/api` (may include `^` prefix) */
+  version: string;
+  /** List of package names using this API version */
+  packages: string[];
 };

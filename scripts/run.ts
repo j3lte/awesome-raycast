@@ -3,6 +3,7 @@ import { load } from "@std/dotenv";
 import type { HistoryItem } from "./types/external.ts";
 import type { PackageWithVersion } from "./types/internal.ts";
 
+import { collectApiVersions } from "./utils/collect-api-versions.ts";
 import { collectStatistics } from "./utils/collect-statistics.ts";
 import { discoverPackages } from "./utils/discover-packages.ts";
 import { generateIcons } from "./utils/generate-icons.ts";
@@ -47,6 +48,9 @@ const { content: sectionsContent, tableOfContents: toc, data } = generateMarkdow
 
 // Collect statistics
 const stats = collectStatistics(parsedPackages);
+
+// Collect API version statistics
+const apiVersions = collectApiVersions(parsedPackages);
 
 // Generate statistics text
 const statisticsContent = generateStatisticsText(
@@ -97,6 +101,13 @@ const DATA_FILE = import.meta.resolve("../data/data.json").replace("file://", ""
 await Deno.writeTextFile(
   DATA_FILE,
   JSON.stringify(data.sort((a, b) => a.name.localeCompare(b.name))),
+);
+
+// Save API versions
+const API_VERSIONS_FILE = import.meta.resolve("../data/api-versions.json").replace("file://", "");
+await Deno.writeTextFile(
+  API_VERSIONS_FILE,
+  JSON.stringify(apiVersions, null, 2),
 );
 
 // Generate icons

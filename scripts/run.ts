@@ -107,7 +107,7 @@ await Deno.writeTextFile(
 const API_VERSIONS_FILE = import.meta.resolve("../data/api-versions.json").replace("file://", "");
 await Deno.writeTextFile(
   API_VERSIONS_FILE,
-  JSON.stringify(apiVersions, null, 2),
+  JSON.stringify(apiVersions),
 );
 
 // Generate icons

@@ -32,6 +32,13 @@ export type DataObject = {
   deps: Record<string, string>;
   /** Development dependencies of the extension */
   dev_deps: Record<string, string>;
+  /** Latest update date from CHANGELOG.md */
+  latestUpdate: {
+    /** Date string in yyyy-mm-dd format */
+    value: string;
+    /** Unix timestamp of the date */
+    timestamp: number;
+  } | null;
 };
 
 /**

@@ -40,10 +40,11 @@ const categoriesMap = organizeByCategory(parsedPackages);
 const sortedCategories = getSortedCategories(categories);
 
 // Generate markdown content
-const { content: sectionsContent, tableOfContents: toc, data } = generateMarkdown(
+const { content: sectionsContent, tableOfContents: toc, data } = await generateMarkdown(
   categoriesMap,
   sortedCategories,
   swiftPackages,
+  repoPath,
 );
 
 // Collect statistics

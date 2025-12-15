@@ -1,19 +1,22 @@
 import type { DataObject } from "../types/external.ts";
 import type { MarkdownOutput, PackageWithVersion } from "../types/internal.ts";
+import { parseChangelog } from "./parse-changelog.ts";
 
 /**
  * Generates markdown content for packages organized by category.
  */
-export function generateMarkdown(
+export async function generateMarkdown(
   categoriesMap: Map<string, PackageWithVersion[]>,
   sortedCategories: string[],
   swiftPackages: Set<string>,
-): MarkdownOutput {
+  repoPath: string,
+): Promise<MarkdownOutput> {
   let output = "";
   let toc = "- [Statistics](#statistics)\n- [Categories](#categories)";
   const data: DataObject[] = [];
 
-  sortedCategories.forEach((category, i) => {
+  for (let i = 0; i < sortedCategories.length; i++) {
+    const category = sortedCategories[i];
     console.log(`Processing category: ${category}`);
     toc += `\n  - [${category}](#${category.toLowerCase().replaceAll(" ", "-")})`;
     const pkgs = categoriesMap.get(category);
@@ -27,7 +30,17 @@ export function generateMarkdown(
 ## ${category}\n\n`
         : `### ${category}\n\n`;
       output += "**[`^        back to top        ^`](#awesome-raycast)**\n\n";
-      sorted.forEach((pkg) => {
+      for (const pkg of sorted) {
+        // Parse CHANGELOG.md first
+        const changelogPath = `${repoPath}${pkg.path}/CHANGELOG.md`;
+        let latestUpdate: { value: string; timestamp: number } | null = null;
+        try {
+          latestUpdate = await parseChangelog(changelogPath);
+        } catch (error) {
+          // Log errors but don't throw
+          console.error(`Error processing changelog for package ${pkg.name}:`, error);
+        }
+
         const d: DataObject = {
           name: pkg.name,
           title: pkg.title,
@@ -40,6 +53,7 @@ export function generateMarkdown(
           hasTools: false,
           deps: { ...pkg.dependencies },
           dev_deps: pkg.devDependencies,
+          latestUpdate,
         };
         delete d.deps["@raycast/api"];
         delete d.deps["@raycast/utils"];
@@ -91,9 +105,9 @@ export function generateMarkdown(
           d.win && !d.mac ? "`Windows only`" : (d.win ? "`+Windows`" : ""),
         ].filter((s) => s && s.length > 0).join(" ").trim();
         output += `${line}\n`;
-      });
+      }
     }
-  });
+  }
 
   return { content: output, tableOfContents: toc, data };
 }

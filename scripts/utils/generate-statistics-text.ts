@@ -29,10 +29,15 @@ export function generateStatisticsText(
   ).length;
 
   const { noPlatformSelected, macOnly, withWindows, windowsOnly } = stats.platformStats;
+  const { total: totalCommands, byMode } = stats.commandStats;
 
   return `
 - **${packagesCount}** packages in **${stats.categories.size}** categories, **${swiftPackagesCount}** packages use Swift
 - **${authorsSize}** authors, **${contributorsSize}** contributors (of which **${onlyContributors}** are only contributors, not authors)
+- **${totalCommands}** total commands (${byMode.view} view, ${byMode["no-view"]} no-view, ${
+    byMode["menu-bar"]
+  } menu-bar)
+- **${stats.aiToolCount}** AI tools
 - **${noPlatformSelected}** packages have no platform selected (${
     Math.round((noPlatformSelected / packagesCount) * 10000) / 100
   }%, macOS only)

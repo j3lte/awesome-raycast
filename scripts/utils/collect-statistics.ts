@@ -19,6 +19,17 @@ export function collectStatistics(
     macOnly: 0,
   };
 
+  const commandStats = {
+    total: 0,
+    byMode: {
+      view: 0,
+      "no-view": 0,
+      "menu-bar": 0,
+    },
+  };
+
+  let aiToolCount = 0;
+
   for (const pkg of packages) {
     // Collect categories
     for (const category of pkg.categories) {
@@ -63,6 +74,29 @@ export function collectStatistics(
         platformStats.macOnly++;
       }
     }
+
+    // Collect command statistics
+    if (pkg.commands && Array.isArray(pkg.commands)) {
+      for (const command of pkg.commands) {
+        commandStats.total++;
+        const mode = command.mode;
+        if (mode === "view" || mode === "no-view" || mode === "menu-bar") {
+          commandStats.byMode[mode]++;
+        }
+      }
+    }
+
+    // Collect AI tool statistics
+    if (pkg.tools && Array.isArray(pkg.tools)) {
+      for (const tool of pkg.tools) {
+        // Count as AI tool if:
+        // 1. functionalities includes "AI tool", OR
+        // 2. functionalities is not specified (all tools can be used in AI context)
+        if (!tool.functionalities || tool.functionalities.includes("AI tool")) {
+          aiToolCount++;
+        }
+      }
+    }
   }
 
   return {
@@ -72,5 +106,7 @@ export function collectStatistics(
     authors,
     contributors,
     platformStats,
+    commandStats,
+    aiToolCount,
   };
 }

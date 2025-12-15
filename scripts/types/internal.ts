@@ -12,7 +12,8 @@ export type Package = {
   devDependencies: Record<string, string>;
   categories: string[];
   ai: Record<string, unknown>;
-  tools?: Array<{ name: string }>;
+  commands?: Array<{ name: string; mode: "view" | "no-view" | "menu-bar" }>;
+  tools?: Array<{ name: string; functionalities?: string[] }>;
   platforms?: Array<"macOS" | "Windows">;
 };
 
@@ -38,6 +39,15 @@ export type Statistics = {
     windowsOnly: number;
     macOnly: number;
   };
+  commandStats: {
+    total: number;
+    byMode: {
+      view: number;
+      "no-view": number;
+      "menu-bar": number;
+    };
+  };
+  aiToolCount: number;
 };
 
 export type MarkdownOutput = {

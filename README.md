@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/6e7fb1bba00ce9cf_update-time.svg)
+![Last update](/icons/8dc9980d4edd3dcc_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -39,6 +39,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 - **2481** packages in **15** categories, **26** packages use Swift
 - **1621** authors, **990** contributors (of which **750** are only contributors, not authors)
+- **6822** total commands (4654 view, 1975 no-view, 193 menu-bar)
+- **661** AI tools
 - **1727** packages have no platform selected (69.61%, macOS only)
 - **402** packages have macOS only (16.2%)
 - **352** packages have Windows (14.19%), of which **8** packages have Windows only (0.32%)

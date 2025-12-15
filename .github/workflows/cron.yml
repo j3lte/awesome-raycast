@@ -55,7 +55,7 @@ jobs:
 
           # Copy and customize the index.html
           cp assets/index.html _site/index.html
-          sed -i.bak "s/{{GITHUB_REPOSITORY}}/${{ github.repository }}/g" _site/index.html
+          sed -i.bak "s|{{GITHUB_REPOSITORY}}|${{ github.repository }}|g" _site/index.html
           rm _site/index.html.bak
 
       - name: Upload artifact

@@ -4,6 +4,7 @@
     "local_pull": "git -C ./repo pull --progress --verbose",
     "run": "deno run -A scripts/run.ts",
     "run-force": "deno run -A scripts/run.ts --force",
+    "run-local-dev": "deno run -A scripts/run.ts --force --no-icons",
     "clean": "deno run -A scripts/clean.ts"
   },
   "imports": {

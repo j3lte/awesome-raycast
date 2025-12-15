@@ -12,6 +12,7 @@ const nanoid = customAlphabet("1234567890abcdef", 16);
 const CONTRIBUTIONS_LENGTH = 7;
 
 const FORCE = Deno.args.includes("--force");
+const NOICONS = Deno.args.includes("--no-icons");
 
 await load({ export: true });
 
@@ -312,27 +313,29 @@ const historyItem: HistoryItem = {
 await saveHistory(HISTORY_FILE, historyItem);
 await Deno.writeTextFile(DATA_FILE, JSON.stringify(data));
 
-await generateIcons([{
-  fileName: `swift-packages.svg`,
-  format: {
-    label: "Swift",
-    message: "Yes",
-    color: "yellow",
-  },
-}, {
-  fileName: `${prefix}_update-time.svg`,
-  format: {
-    label: "Last update",
-    message: format(new Date(), "yyyy-MM-dd HH:mm:ss"),
-    color: "blue",
-  },
-}, {
-  fileName: `ai.svg`,
-  format: {
-    label: "AI",
-    message: "Yes",
-    color: "green",
-  },
-}], true);
+if (!NOICONS) {
+  await generateIcons([{
+    fileName: `swift-packages.svg`,
+    format: {
+      label: "Swift",
+      message: "Yes",
+      color: "yellow",
+    },
+  }, {
+    fileName: `${prefix}_update-time.svg`,
+    format: {
+      label: "Last update",
+      message: format(new Date(), "yyyy-MM-dd HH:mm:ss"),
+      color: "blue",
+    },
+  }, {
+    fileName: `ai.svg`,
+    format: {
+      label: "AI",
+      message: "Yes",
+      color: "green",
+    },
+  }], true);
+}
 
 await Deno.writeTextFile(README_FILE, stageFinal);

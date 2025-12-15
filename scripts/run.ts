@@ -312,7 +312,10 @@ const historyItem: HistoryItem = {
 };
 
 await saveHistory(HISTORY_FILE, historyItem);
-await Deno.writeTextFile(DATA_FILE, JSON.stringify(data));
+await Deno.writeTextFile(
+  DATA_FILE,
+  JSON.stringify(data.sort((a, b) => a.name.localeCompare(b.name))),
+);
 
 if (!NOICONS) {
   await generateIcons([{

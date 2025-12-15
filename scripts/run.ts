@@ -319,28 +319,32 @@ await Deno.writeTextFile(
 );
 
 if (!NOICONS) {
-  await generateIcons([{
-    fileName: `swift-packages.svg`,
-    format: {
-      label: "Swift",
-      message: "Yes",
-      color: "yellow",
+  await generateIcons([
+    // {
+    //   fileName: `swift-packages.svg`,
+    //   format: {
+    //     label: "Swift",
+    //     message: "Yes",
+    //     color: "yellow",
+    //   },
+    // },
+    {
+      fileName: `${prefix}_update-time.svg`,
+      format: {
+        label: "Last update",
+        message: format(new Date(), "yyyy-MM-dd HH:mm:ss"),
+        color: "blue",
+      },
     },
-  }, {
-    fileName: `${prefix}_update-time.svg`,
-    format: {
-      label: "Last update",
-      message: format(new Date(), "yyyy-MM-dd HH:mm:ss"),
-      color: "blue",
-    },
-  }, {
-    fileName: `ai.svg`,
-    format: {
-      label: "AI",
-      message: "Yes",
-      color: "green",
-    },
-  }], true);
+    // {
+    //   fileName: `ai.svg`,
+    //   format: {
+    //     label: "AI",
+    //     message: "Yes",
+    //     color: "green",
+    //   },
+    // }
+  ], true);
 }
 
 await Deno.writeTextFile(README_FILE, stageFinal);

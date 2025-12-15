@@ -149,7 +149,11 @@ sortedCategories.forEach((category, i) => {
         utils: pkg.utils,
         hasAi: false,
         hasTools: false,
+        deps: pkg.dependencies,
+        dev_deps: pkg.devDependencies,
       };
+      delete d.deps["@raycast/api"];
+      delete d.deps["@raycast/utils"];
       if (swiftPackages.has(pkg.name)) {
         d.swift = true;
       }

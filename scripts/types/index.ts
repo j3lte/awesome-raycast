@@ -6,6 +6,7 @@ export type Package = {
   author: string;
   contributors?: string[];
   dependencies: Record<string, string>;
+  devDependencies: Record<string, string>;
   categories: string[];
   ai: Record<string, unknown>;
   tools?: Array<{ name: string }>;
@@ -29,6 +30,8 @@ export type DataObject = {
   hasTools: boolean;
   win?: boolean;
   mac?: boolean;
+  deps: Record<string, string>;
+  dev_deps: Record<string, string>;
 };
 
 export type Data = Record<string, DataObject>;

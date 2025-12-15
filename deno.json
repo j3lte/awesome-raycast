@@ -3,6 +3,7 @@
     "local_checkout": "./clone_raycast_sparse.sh --repo https://github.com/raycast/extensions.git",
     "local_pull": "git -C ./repo pull --progress --verbose",
     "run": "deno run -A scripts/run.ts",
+    "run-force": "deno run -A scripts/run.ts --force",
     "clean": "deno run -A scripts/clean.ts"
   },
   "imports": {

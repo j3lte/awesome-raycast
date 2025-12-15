@@ -1,10 +1,6 @@
 import { emptyDir } from "@std/fs";
-import { Format, makeBadge } from "badge-maker";
-
-export type Icon = {
-  fileName: string;
-  format: Format;
-};
+import { makeBadge } from "badge-maker";
+import { Icon } from "../types/internal.ts";
 
 const iconsFolder = import.meta.resolve("../../icons").replace("file://", "");
 

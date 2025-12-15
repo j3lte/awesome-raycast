@@ -28,6 +28,7 @@
     "README.md",
     "data/*.json",
     "icons/",
-    "repo/"
+    "repo/",
+    "assets/"
   ]
 }

@@ -53,6 +53,7 @@ jobs:
           mkdir -p _site/types
           cp data/data.json _site/data/
           cp data/history.json _site/data/
+          cp data/api-versions.json _site/data/
 
           # Copy and customize the index.html
           cp assets/index.html _site/index.html

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/8dc9980d4edd3dcc_update-time.svg)
+![Last update](/icons/fa1dd05d88829dec_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,12 +38,12 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **2481** packages in **15** categories, **26** packages use Swift
-- **1621** authors, **990** contributors (of which **750** are only contributors, not authors)
+- **1621** authors, **991** contributors (of which **751** are only contributors, not authors)
 - **6822** total commands (4654 view, 1975 no-view, 193 menu-bar)
 - **661** AI tools
-- **1727** packages have no platform selected (69.61%, macOS only)
-- **402** packages have macOS only (16.2%)
-- **352** packages have Windows (14.19%), of which **8** packages have Windows only (0.32%)
+- **1726** packages have no platform selected (69.57%, macOS only)
+- **401** packages have macOS only (16.16%)
+- **354** packages have Windows (14.27%), of which **8** packages have Windows only (0.32%)
 - Top **10** authors:
   - [xmok](https://raycast.com/xmok) (95)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -56,7 +56,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [peduarte](https://raycast.com/peduarte) (14)
   - [j3lte](https://raycast.com/j3lte) (13)
 - Top **10** contributors:
-  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (250)
+  - [pernielsentikaer](https://raycast.com/pernielsentikaer) (251)
   - [xmok](https://raycast.com/xmok) (157)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (99)
   - [j3lte](https://raycast.com/j3lte) (45)
@@ -1439,7 +1439,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[early.tools news](https://raycast.com/julianpaul/early-tools-news)** - Long-form updates from 80+ of the greatest entrepreneurs on the web. [`@julianpaul`](https://raycast.com/julianpaul) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+early-tools-news%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+early-tools-news%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/early-tools-news) `api@^1.88.4` `utils@^1.17.0`
 - **[ESPN News](https://raycast.com/khlebobul/espn)** - Read the best news from ESPN directly from Raycast [`@khlebobul`](https://raycast.com/khlebobul) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+espn%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+espn%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/espn) `api@^1.55.2` `utils@^1.8.0`
 - **[FIFA World Cup Qatar 2022™](https://raycast.com/isma/world-cup)** - See all FIFA World Cup Qatar 2022™ matches [`@isma`](https://raycast.com/isma) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+world-cup%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+world-cup%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/world-cup) `api@^1.44.0` `utils@^1.4.11`
-- **[Fotmob](https://raycast.com/iamlas/fotmob)** - Football match schedule, result, table [`@iamlas`](https://raycast.com/iamlas) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+fotmob%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+fotmob%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fotmob) `api@^1.103.0` `utils@^2.0.1`
+- **[Fotmob](https://raycast.com/iamlas/fotmob)** - Football match schedule, result, table [`@iamlas`](https://raycast.com/iamlas) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+fotmob%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+fotmob%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fotmob) `api@^1.103.10` `utils@^2.2.2` `+Windows`
 - **[Habr News](https://raycast.com/khlebobul/habr-media)** - Best News From Habr [`@khlebobul`](https://raycast.com/khlebobul) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+habr-media%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+habr-media%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/habr-media) `api@^1.55.2` `utils@^1.8.0`
 - **[Hacker News](https://raycast.com/thomas/hacker-news)** - Read the latest stories of Hacker News. [`@thomas`](https://raycast.com/thomas) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+hacker-news%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+hacker-news%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hacker-news) `api@^1.94.0` `utils@^1.19.1` `ai` `ai-tools` `+Windows`
 - **[Hacker News Top Stories](https://raycast.com/KevinBatdorf/hacker-news-top-stories)** - A menubar extension to view top stories on Hacker News based on a configurable points threshold. [`@KevinBatdorf`](https://raycast.com/KevinBatdorf) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+hacker-news-top-stories%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+hacker-news-top-stories%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/hacker-news-top-stories) `api@^1.96.1` `utils@^1.19.1`
@@ -2404,7 +2404,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Datadog](https://raycast.com/bgnfu7re/raycast-datadog)** - Access Datadog resources [`@bgnfu7re`](https://raycast.com/bgnfu7re) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+raycast-datadog%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+raycast-datadog%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/datadog) `api@^1.69.2` `utils@^1.13.1`
 - **[Date Format Converter](https://raycast.com/yangxy/date-format-converter)** - Convert timestamps and datetime strings into various formats. [`@yangxy`](https://raycast.com/yangxy) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+date-format-converter%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+date-format-converter%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/datetime-format-converter) `api@^1.72.1`
 - **[Day One](https://raycast.com/AntonNiklasson/day-one)** - Add entries to Day One [`@AntonNiklasson`](https://raycast.com/AntonNiklasson) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+day-one%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+day-one%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/day-one) `api@^1.72.1` `utils@^1.10.1`
-- **[Days Until Christmas](https://raycast.com/megapixel23/days-until-christmas)** - It shows how many days until Christmas left 🎄🎁 [`@megapixel23`](https://raycast.com/megapixel23) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+days-until-christmas%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+days-until-christmas%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/days-until-christmas) `api@^1.62.0`
+- **[Days Until Christmas](https://raycast.com/megapixel23/days-until-christmas)** - Count down the days until Christmas [`@megapixel23`](https://raycast.com/megapixel23) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+days-until-christmas%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+days-until-christmas%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/days-until-christmas) `api@^1.103.0` `utils@^2.2.1` `+Windows`
 - **[debank](https://raycast.com/Yukai/debank)** - A Raycast Extension to query DeBank data with its OpenAPI [`@Yukai`](https://raycast.com/Yukai) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+debank%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+debank%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/debank) `api@^1.26.3`
 - **[Deepcast](https://raycast.com/mooxl/deepcast)** - Translate words, or entire sentences, into 27 different languages using DeepL. [`@mooxl`](https://raycast.com/mooxl) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+deepcast%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+deepcast%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deepcast) `api@^1.103.6` `+Windows`
 - **[DeployHQ](https://raycast.com/MelvinBrem/deployhq)** - Search and navigate to your DeployHQ projects [`@MelvinBrem`](https://raycast.com/MelvinBrem) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+deployhq%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+deployhq%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/deployhq) `api@^1.103.2` `utils@^2.2.0` `+Windows`

@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/8f8d404461226348_update-time.svg)
+![Last update](/icons/b028cd73853470d2_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -37,13 +37,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2569** packages in **15** categories, **28** packages use Swift
+- **2570** packages in **15** categories, **28** packages use Swift
 - **1674** authors, **1021** contributors (of which **776** are only contributors, not authors)
-- **7102** total commands (4842 view, 2056 no-view, 204 menu-bar)
+- **7104** total commands (4844 view, 2056 no-view, 204 menu-bar)
 - **700** AI tools
-- **1644** packages have no platform selected (63.99%, macOS only)
+- **1644** packages have no platform selected (63.97%, macOS only)
 - **463** packages have macOS only (18.02%)
-- **462** packages have Windows (17.98%), of which **18** packages have Windows only (0.7%)
+- **463** packages have Windows (18.02%), of which **18** packages have Windows only (0.7%)
 - Top **10** authors:
   - [xmok](https://raycast.com/xmok) (104)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -715,6 +715,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Foundry Cast CLI](https://raycast.com/merklefruit/foundry-cast-cli)** - Use the Cast CLI directly inside Raycast [`@merklefruit`](https://raycast.com/merklefruit) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+foundry-cast-cli%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+foundry-cast-cli%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/foundry-cast-cli) `api@^1.50.3` `utils@^1.5.2`
 - **[Framer Motion](https://raycast.com/madebyankur/framer-motion)** - Documentation for Framer Motion [`@madebyankur`](https://raycast.com/madebyankur) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+framer-motion%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+framer-motion%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/framer-motion) `api@^1.69.0`
 - **[FreeDNS](https://raycast.com/xmok/freedns)** - View and Change your DNS in freedns.afraid.org [`@xmok`](https://raycast.com/xmok) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+freedns%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+freedns%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/freedns) `api@^1.103.5` `utils@^2.2.2` `+Windows`
+- **[Fumadocs](https://raycast.com/ridemountainpig/fumadocs)** - Search and browse Fumadocs documentation [`@ridemountainpig`](https://raycast.com/ridemountainpig) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+fumadocs%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+fumadocs%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fumadocs) `api@^1.104.1` `utils@^2.2.2` `+Windows`
 - **[FVM](https://raycast.com/leoafarias/fvm)** - Easily manage Flutter SDK versions with FVM. [`@leoafarias`](https://raycast.com/leoafarias) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+fvm%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+fvm%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/fvm) `api@^1.68.1` `utils@^1.12.5`
 - **[Gandi](https://raycast.com/kud/gandi)** - Manage your Gandi domains, DNS records, and check domain availability [`@kud`](https://raycast.com/kud) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+gandi%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+gandi%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/gandi) `api@^1.103.10` `utils@^2.2.2`
 - **[Generate Nanoid](https://raycast.com/roelvan/nanoid)** - A tiny, secure, URL friendly, unique string ID generator for JavaScript [`@roelvan`](https://raycast.com/roelvan) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+nanoid%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+nanoid%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/nanoid) `api@^1.86.0`

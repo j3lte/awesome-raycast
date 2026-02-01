@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/6b374df74c60e919_update-time.svg)
+![Last update](/icons/19a8483f995f8569_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -37,13 +37,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2594** packages in **15** categories, **28** packages use Swift
-- **1691** authors, **1032** contributors (of which **785** are only contributors, not authors)
-- **7182** total commands (4905 view, 2068 no-view, 209 menu-bar)
+- **2595** packages in **15** categories, **28** packages use Swift
+- **1692** authors, **1032** contributors (of which **785** are only contributors, not authors)
+- **7183** total commands (4905 view, 2069 no-view, 209 menu-bar)
 - **702** AI tools
-- **1636** packages have no platform selected (63.07%, macOS only)
-- **479** packages have macOS only (18.47%)
-- **479** packages have Windows (18.47%), of which **19** packages have Windows only (0.73%)
+- **1635** packages have no platform selected (63.01%, macOS only)
+- **480** packages have macOS only (18.5%)
+- **480** packages have Windows (18.5%), of which **19** packages have Windows only (0.73%)
 - Top **10** authors:
   - [xmok](https://raycast.com/xmok) (105)
   - [koinzhang](https://raycast.com/koinzhang) (50)
@@ -57,7 +57,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [tonka3000](https://raycast.com/tonka3000) (14)
 - Top **10** contributors:
   - [pernielsentikaer](https://raycast.com/pernielsentikaer) (252)
-  - [xmok](https://raycast.com/xmok) (188)
+  - [xmok](https://raycast.com/xmok) (189)
   - [ridemountainpig](https://raycast.com/ridemountainpig) (110)
   - [j3lte](https://raycast.com/j3lte) (56)
   - [xilopaint](https://raycast.com/xilopaint) (38)
@@ -557,7 +557,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Stablecog](https://raycast.com/yektagg/stablecog)** - Create amazing art in seconds with AI. Generate and upscale images with Stablecog. [`@yektagg`](https://raycast.com/yektagg) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+stablecog%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+stablecog%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/stablecog) `api@^1.78.1` `utils@^1.16.1`
 - **[Supernova](https://raycast.com/JiriTrecak/supernova)** - Access your design system and everything that comes with it - Tokens, Assets, Components, even your entire documentation site. Use what you find directly in your tools, without switching context. [`@JiriTrecak`](https://raycast.com/JiriTrecak) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+supernova%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+supernova%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/supernova) `api@1.38.2`
 - **[Svgl](https://raycast.com/1weiho/svgl)** - Search SVG logos via svgl [`@1weiho`](https://raycast.com/1weiho) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+svgl%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+svgl%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/svgl) `api@^1.93.0` `utils@^1.14.0` `ai` `ai-tools` `+Windows`
-- **[Text Decorator](https://raycast.com/koinzhang/text-decorator)** - Super cool unicode text magic. Use 𝐛𝐨𝐥𝐝, 𝒊𝒕𝒂𝒍𝒊𝒄𝒔, and 🅜🅞🅡🅔 🄲🅁🄰🅉🅈 𝔩𝔬𝔬𝔨𝔦𝔫𝔤 fonts on Facebook, Twitter, and everywhere else. [`@koinzhang`](https://raycast.com/koinzhang) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+text-decorator%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+text-decorator%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-decorator) `api@^1.76.0`
+- **[Text Decorator](https://raycast.com/koinzhang/text-decorator)** - Super cool unicode text magic. Use 𝐛𝐨𝐥𝐝, 𝒊𝒕𝒂𝒍𝒊𝒄𝒔, and 🅜🅞🅡🅔 🄲🅁🄰🅉🅈 𝔩𝔬𝔬𝔨𝔦𝔫𝔤 fonts on Facebook, Twitter, and everywhere else. [`@koinzhang`](https://raycast.com/koinzhang) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+text-decorator%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+text-decorator%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/text-decorator) `api@^1.104.3` `utils@^2.2.2`
 - **[Tints and Shades](https://raycast.com/anu/tints-and-shades)** - Generates tints and shades from a hex color value [`@anu`](https://raycast.com/anu) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+tints-and-shades%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+tints-and-shades%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tints-and-shades) `api@^1.55.2`
 - **[TourBox](https://raycast.com/litomore/tourbox)** - Find Your Desired TourBox Preset [`@litomore`](https://raycast.com/litomore) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+tourbox%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+tourbox%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/tourbox) `api@^1.104.1` `+Windows`
 - **[Typographer: Make Text Pretty](https://raycast.com/mikeozornin/typographer)** - Make the typography of your text pretty: fix quotes, dashes, and spaces. Works offline. [`@mikeozornin`](https://raycast.com/mikeozornin) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+typographer%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+typographer%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/typographer) `api@^1.31.0`
@@ -2321,6 +2321,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[Aimlab Tracker](https://raycast.com/Whitespace/aimlab)** - Track player profiles and leaderboards on Aimlab [`@Whitespace`](https://raycast.com/Whitespace) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+aimlab%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+aimlab%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aimlab) `api@^1.54.0` `utils@^1.1.0`
 - **[AList Downloder](https://raycast.com/SGGb0nd/alist-downloder)** - Mini AList downloader in Raycast [`@SGGb0nd`](https://raycast.com/SGGb0nd) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+alist-downloder%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+alist-downloder%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alist-downloder) `api@^1.77.1`
 - **[Amazon Search](https://raycast.com/xilopaint/amazon-search)** - Amazon search with autosuggestions [`@xilopaint`](https://raycast.com/xilopaint) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+amazon-search%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+amazon-search%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/amazon-search) `api@^1.88.4` `utils@^1.18.1` `+Windows`
+- **[AntiSocials](https://raycast.com/danny_vogel/antisocials)** - Open social media URLs via privacy-friendly frontends (X, Instagram) [`@danny_vogel`](https://raycast.com/danny_vogel) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+antisocials%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+antisocials%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/antisocials) `api@^1.104.3` `+Windows`
 - **[Any Coffee](https://raycast.com/aymericio/anycoffee)** - Explore all the specialty coffee roasters. [`@aymericio`](https://raycast.com/aymericio) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+anycoffee%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+anycoffee%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/anycoffee) `api@^1.56.1` `utils@^1.9.1`
 - **[Arc](https://raycast.com/thomas/arc)** - Search and quickly navigate Arc's history and open tabs [`@thomas`](https://raycast.com/thomas) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+arc%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+arc%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/arc) `api@^1.90.0` `utils@^1.18.1` `ai` `ai-tools`
 - **[Are.na](https://raycast.com/alvinkobe/are-na)** - Are.na is a platform for connecting ideas and building knowledge through visual blocks and channels. This Raycast extension allows users to search for channels, blocks, and users on Are.na, as well as create new channels directly from Raycast. Easily discover, explore, and organize content from your Are.na account without leaving your workflow. [`@alvinkobe`](https://raycast.com/alvinkobe) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+are-na%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+are-na%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/are-na) `api@^1.95.0` `utils@^1.17.0`

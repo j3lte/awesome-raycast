@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](/icons/ccd2503708eac13a_update-time.svg)
+![Last update](/icons/b1b6c32110b016e0_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -38,8 +38,8 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **2687** packages in **15** categories, **28** packages use Swift
-- **1750** authors, **1057** contributors (of which **804** are only contributors, not authors)
-- **7529** total commands (5144 view, 2166 no-view, 219 menu-bar)
+- **1750** authors, **1058** contributors (of which **804** are only contributors, not authors)
+- **7532** total commands (5147 view, 2166 no-view, 219 menu-bar)
 - **732** AI tools
 - **1600** packages have no platform selected (59.55%, macOS only)
 - **549** packages have macOS only (20.43%)
@@ -1513,7 +1513,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **[ShareX](https://raycast.com/the_revolution/sharex)** - Browse and create ShareX screenshots, videos, and GIFs from Raycast [`@the_revolution`](https://raycast.com/the_revolution) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+sharex%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+sharex%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sharex) `api@^1.103.0` `utils@^2.2.1` `Windows only`
 - **[Slackmojis](https://raycast.com/timoransky/slackmojis)** - An unofficial directory of the best custom Slack emojis from slackmojis.com [`@timoransky`](https://raycast.com/timoransky) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+slackmojis%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+slackmojis%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/slackmojis) `api@^1.81.2` `utils@^1.16.3`
 - **[SomaFM](https://raycast.com/mwarger/somafm)** - Browse and play SomaFM internet radio stations with smart player detection, favorites, and now playing information [`@mwarger`](https://raycast.com/mwarger) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+somafm%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+somafm%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/somafm) `api@^1.100.3` `utils@^1.17.0`
-- **[Sonarr](https://raycast.com/Aayush9029/sonarr)** - Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. [`@Aayush9029`](https://raycast.com/Aayush9029) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+sonarr%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+sonarr%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sonarr) `api@^1.103.5` `utils@^2.2.2`
+- **[Sonarr](https://raycast.com/Aayush9029/sonarr)** - Manage your Sonarr library, search for series, monitor downloads, and view upcoming shows. [`@Aayush9029`](https://raycast.com/Aayush9029) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+sonarr%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+sonarr%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sonarr) `api@^1.85.2` `utils@^1.19.1`
 - **[Spanish Tv Guide](https://raycast.com/doktor500/spanish-tv-guide)** - Browse the Spanish TV Guide [`@doktor500`](https://raycast.com/doktor500) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+spanish-tv-guide%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+spanish-tv-guide%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spanish-tv-guide) `api@^1.87.4`
 - **[Spoqify](https://raycast.com/truex/spoqify)** - Spoqify is an MIT-licensed dead-simple service that allows you to access Spotify playlists like an anonymous user [`@truex`](https://raycast.com/truex) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+spoqify%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+spoqify%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/spoqify) `api@^1.84.6` `utils@^1.17.0`
 - **[Sportssync](https://raycast.com/daniyal_master/sportssync)** - View scores, games, standings, news, injuries, and transactions across your favorite sports leagues [`@daniyal_master`](https://raycast.com/daniyal_master) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+sportssync%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+sportssync%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/sportssync) `api@^1.85.1` `utils@^1.17.0`

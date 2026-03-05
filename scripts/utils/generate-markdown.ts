@@ -10,7 +10,9 @@ export async function generateMarkdown(
   sortedCategories: string[],
   swiftPackages: Set<string>,
   repoPath: string,
+  issuesLabels: Map<string, number>,
 ): Promise<MarkdownOutput> {
+  let extensionIssueCount = 0;
   let output = "";
   let toc = "- [Statistics](#statistics)\n- [Categories](#categories)";
   const data: DataObject[] = [];
@@ -41,6 +43,8 @@ export async function generateMarkdown(
           console.error(`Error processing changelog for package ${pkg.name}:`, error);
         }
 
+        const issues = issuesLabels.get(`extension: ${pkg.name}`) || 0;
+
         const d: DataObject = {
           name: pkg.name,
           title: pkg.title,
@@ -55,9 +59,15 @@ export async function generateMarkdown(
           dev_deps: pkg.devDependencies,
           latestUpdate,
         };
+
+        if (issues > 0) {
+          d.issues = issues;
+          extensionIssueCount += issues;
+        }
         if (pkg.owner) {
           d.owner = pkg.owner;
         }
+
         delete d.deps["@raycast/api"];
         delete d.deps["@raycast/utils"];
 
@@ -82,7 +92,7 @@ export async function generateMarkdown(
         const linkHandle = pkg.owner ?? pkg.author;
         const titleLink = `[${pkg.title}](https://raycast.com/${linkHandle}/${pkg.name})`;
         const authorLink = `[\`@${linkHandle}\`](https://raycast.com/${linkHandle})`;
-        const issuesLink = `[\`issues\`](${
+        const issuesLink = `[\`issues${issues > 0 ? " (" + issues + ")" : ``}\`](${
           encodeURI(
             `https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:"extension:+${pkg.name}"`,
           )
@@ -114,5 +124,5 @@ export async function generateMarkdown(
     }
   }
 
-  return { content: output, tableOfContents: toc, data };
+  return { content: output, tableOfContents: toc, data, extensionIssueCount };
 }

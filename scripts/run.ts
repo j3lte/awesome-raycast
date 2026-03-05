@@ -13,11 +13,23 @@ import { getSortedCategories, organizeByCategory } from "./utils/organize-by-cat
 import { parsePackages } from "./utils/parse-packages.ts";
 import { saveHistory } from "./utils/save-history.ts";
 import { generateUpdateTimeIcon, updateReadme } from "./utils/update-readme.ts";
+import { getIssues } from "./utils/get-issues.ts";
 
 const FORCE = Deno.args.includes("--force");
 const NOICONS = Deno.args.includes("--no-icons");
 
 await load({ export: true });
+
+console.log("Getting issues...");
+const issues = await getIssues();
+console.log(`Got ${issues.length} issues`);
+
+const labels = new Map<string, number>();
+for (const issue of issues) {
+  for (const label of issue.labels || []) {
+    labels.set(label.name, (labels.get(label.name) || 0) + 1);
+  }
+}
 
 // Get the correct path to the extensions folder
 const repoPath = Deno.env.get("REPO_PATH")
@@ -45,6 +57,7 @@ const { content: sectionsContent, tableOfContents: toc, data } = await generateM
   sortedCategories,
   swiftPackages,
   repoPath,
+  labels,
 );
 
 // Collect statistics

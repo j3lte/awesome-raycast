@@ -16,7 +16,8 @@
     "@svarta/walk-it": "jsr:@svarta/walk-it@^5.0.1",
     "badge-maker": "npm:badge-maker@^5.0.2",
     "date-fns": "npm:date-fns@^4.1.0",
-    "nanoid": "npm:nanoid@^5.1.6"
+    "nanoid": "npm:nanoid@^5.1.6",
+    "octokit": "npm:octokit@^5.0.5"
   },
   "fmt": {
     "indentWidth": 2,

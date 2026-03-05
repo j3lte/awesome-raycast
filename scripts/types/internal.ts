@@ -55,6 +55,7 @@ export type MarkdownOutput = {
   content: string;
   tableOfContents: string;
   data: DataObject[];
+  extensionIssueCount: number;
 };
 
 export type UpdateResult = {

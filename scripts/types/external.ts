@@ -41,6 +41,8 @@ export type DataObject = {
     /** Unix timestamp of the date */
     timestamp: number;
   } | null;
+  /** Number of issues for the extension */
+  issues?: number;
 };
 
 /**

@@ -55,6 +55,9 @@ export async function generateMarkdown(
           dev_deps: pkg.devDependencies,
           latestUpdate,
         };
+        if (pkg.owner) {
+          d.owner = pkg.owner;
+        }
         delete d.deps["@raycast/api"];
         delete d.deps["@raycast/utils"];
 
@@ -75,8 +78,10 @@ export async function generateMarkdown(
           d.mac = pkg.platforms.includes("macOS");
         }
 
-        const titleLink = `[${pkg.title}](https://raycast.com/${pkg.author}/${pkg.name})`;
-        const authorLink = `[\`@${pkg.author}\`](https://raycast.com/${pkg.author})`;
+        // Use owner for store links when set (org extensions), otherwise author
+        const linkHandle = pkg.owner ?? pkg.author;
+        const titleLink = `[${pkg.title}](https://raycast.com/${linkHandle}/${pkg.name})`;
+        const authorLink = `[\`@${linkHandle}\`](https://raycast.com/${linkHandle})`;
         const issuesLink = `[\`issues\`](${
           encodeURI(
             `https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:"extension:+${pkg.name}"`,

@@ -12,6 +12,8 @@ export type DataObject = {
   description: string;
   /** Author of the extension */
   author: string;
+  /** Owner of the extension */
+  owner?: string;
   /** Contributors of the extension */
   contributors: string[];
   /** API version of the extension */

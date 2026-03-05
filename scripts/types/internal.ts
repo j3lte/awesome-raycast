@@ -7,6 +7,7 @@ export type Package = {
   title: string;
   description: string;
   author: string;
+  owner?: string;
   contributors?: string[];
   dependencies: Record<string, string>;
   devDependencies: Record<string, string>;

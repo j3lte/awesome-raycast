@@ -33,6 +33,8 @@ jobs:
 
       - name: Generate Readme
         run: deno task run --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit changes
         id: auto-commit-action

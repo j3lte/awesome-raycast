@@ -1,7 +1,7 @@
 # Awesome Raycast
 
 <!-- START UPDATETIME -->
-![Last update](graphics/ed641c0bbb337485_update-time.svg)
+![Last update](graphics/b518e89750a02573_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -11,10 +11,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START GRAPHS -->
 <div align="center">
-<img src="graphics/packages-growth-B-Q2fZ2F.svg" alt="Packages Growth Over Time" width="98%" /><
-<img src="graphics/community-growth-B-Q2fZ2F.svg" alt="Community Growth Over Time" width="98%" />
-<img src="graphics/api-versions-B-Q2fZ2F.svg" alt="Top @raycast/api Versions" width="98%" />
-<img src="graphics/platform-distribution-B-Q2fZ2F.svg" alt="Platform Distribution" width="98%" />
+<img src="graphics/packages-growth-68sEnU_b.svg" alt="Packages Growth Over Time" width="98%" /><br />
+<img src="graphics/community-growth-68sEnU_b.svg" alt="Community Growth Over Time" width="98%" /><br />
+<img src="graphics/api-versions-68sEnU_b.svg" alt="Top @raycast/api Versions" width="98%" /><br />
+<img src="graphics/platform-distribution-68sEnU_b.svg" alt="Platform Distribution" width="98%" /><br />
 </div>
 <!-- END GRAPHS -->
 

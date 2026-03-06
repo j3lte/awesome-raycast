@@ -1,9 +1,11 @@
-# awesome-raycast
+# Awesome Raycast
 
 <!-- START UPDATETIME -->
 ![Last update](graphics/ed641c0bbb337485_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
+
+> **Disclaimer**: This project is not affiliated with, endorsed by, or officially connected to [Raycast Technologies Inc.](https://www.raycast.com/terms-of-service) in any way. "Raycast" is a trademark of Raycast Technologies Inc., who retain all rights to the Raycast name, logo, and associated intellectual property. This is an independent community resource.
 
 > This list is generated automatically every night, by a GitHub Action that scans the [Raycast Extensions Repository](https://github.com/raycast/extensions).
 
@@ -82,5 +84,4 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 **[`^        back to top        ^`](#awesome-raycast)**
 
-This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/j3lte/awesome-raycast/blob/master/LICENSE) License.
-Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).
+This list is released under the [MIT License](https://github.com/j3lte/awesome-raycast/blob/master/LICENSE).

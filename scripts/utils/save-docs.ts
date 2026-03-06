@@ -13,7 +13,7 @@ const REPO_URL = "https://github.com/j3lte/awesome-raycast";
 export async function saveDocs(
   categoryDocs: Map<string, string>,
   sortedCategories: string[],
-  updateTimeIconPrefix: string,
+  seed: string,
 ): Promise<void> {
   await ensureDir(docsFolder);
   await emptyDir(docsFolder);
@@ -27,7 +27,7 @@ export async function saveDocs(
     const header = [
       `# ${category}`,
       ``,
-      `![Last update](../graphics/${updateTimeIconPrefix}_update-time.svg) — [← awesome-raycast](${REPO_URL})`,
+      `![Last update](../graphics/update-time-${seed}.svg) — [← awesome-raycast](${REPO_URL})`,
       ``,
       ``,
     ].join("\n");

@@ -364,9 +364,9 @@ export async function generateGraphs(): Promise<string> {
 
 export function generateGraphsMarkdown(seed: string): string {
   return `<div align="center">
-<img src="graphics/packages-growth-${seed}.svg" alt="Packages Growth Over Time" width="98%" /><
-<img src="graphics/community-growth-${seed}.svg" alt="Community Growth Over Time" width="98%" />
-<img src="graphics/api-versions-${seed}.svg" alt="Top @raycast/api Versions" width="98%" />
-<img src="graphics/platform-distribution-${seed}.svg" alt="Platform Distribution" width="98%" />
+<img src="graphics/packages-growth-${seed}.svg" alt="Packages Growth Over Time" width="98%" /><br />
+<img src="graphics/community-growth-${seed}.svg" alt="Community Growth Over Time" width="98%" /><br />
+<img src="graphics/api-versions-${seed}.svg" alt="Top @raycast/api Versions" width="98%" /><br />
+<img src="graphics/platform-distribution-${seed}.svg" alt="Platform Distribution" width="98%" /><br />
 </div>`;
 }

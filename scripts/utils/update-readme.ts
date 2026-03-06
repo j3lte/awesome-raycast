@@ -16,7 +16,8 @@ export function updateReadme(
   const { updatedText } = updateTexts(readme, [
     {
       blockID: "UPDATETIME",
-      update: `![Last update](graphics/update-time-${seed}.svg)`,
+      update:
+        `![Last update](graphics/update-time-${seed}.svg)&nbsp;![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)`,
     },
     {
       blockID: "TABLE_OF_CONTENTS",

@@ -1,7 +1,7 @@
 # Awesome Raycast
 
 <!-- START UPDATETIME -->
-![Last update](graphics/update-time-f0d73dcabdc6bb2e.svg)
+![Last update](graphics/update-time-f0d73dcabdc6bb2e.svg)&nbsp;![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 

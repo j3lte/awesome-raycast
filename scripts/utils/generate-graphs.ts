@@ -366,14 +366,15 @@ function verticalBarChart(
     const centerX = ox + i * colW + colW / 2;
     const labelY = oy + ch + 10;
     const pct = total > 0 ? ((bar.value / total) * 100).toFixed(2) : "0.00";
+    const countY = Math.max(oy + 14, barY - 16);
+    const pctY = countY + 12;
     return [
       `<rect x="${barX.toFixed(1)}" y="${barY.toFixed(1)}" width="${barW.toFixed(1)}" height="${
         Math.max(0, bh).toFixed(1)
       }" fill="${color}" rx="3" opacity="0.85"/>`,
       bar.value > 0
-        ? `<text x="${(barX + barW / 2).toFixed(1)}" y="${
-          Math.max(oy + 14, barY - 4).toFixed(1)
-        }" text-anchor="middle" font-size="10" fill="${C.sub}">${bar.value} (${pct}%)</text>`
+        ? `<text x="${(barX + barW / 2).toFixed(1)}" y="${countY.toFixed(1)}" text-anchor="middle" font-size="10" fill="${C.sub}">${bar.value}</text>
+<text x="${(barX + barW / 2).toFixed(1)}" y="${pctY.toFixed(1)}" text-anchor="middle" font-size="10" fill="${C.sub}">(${pct}%)</text>`
         : "",
       `<g transform="translate(${centerX.toFixed(1)},${labelY.toFixed(1)}) rotate(-45)"><text text-anchor="end" font-size="10" fill="${C.text}">${bar.label}</text></g>`,
     ].filter(Boolean).join("\n");
@@ -392,7 +393,7 @@ function verticalBarChart(
 <defs><style>text { ${FONT} }</style></defs>
 <rect width="${W}" height="${H}" fill="${C.bg}" rx="12"/>
 <text x="${W / 2}" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="${C.text}">${title}</text>
-<text x="${W / 2}" y="44" text-anchor="middle" font-size="11" fill="${C.sub}">last updated at · ${total.toLocaleString()} total packages tracked</text>
+<text x="${W / 2}" y="44" text-anchor="middle" font-size="11" fill="${C.sub}">last updated at · ${total.toLocaleString()} packages with a known last-update date</text>
 <line x1="${ox}" y1="${oy}" x2="${ox}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1"/>
 <line x1="${ox}" y1="${oy + ch}" x2="${ox + cw}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1"/>
 <text x="${-(oy + ch / 2)}" y="18" text-anchor="middle" font-size="12" fill="${C.sub}" transform="rotate(-90)">${yLabel}</text>

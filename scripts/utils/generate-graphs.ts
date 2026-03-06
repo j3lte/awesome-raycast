@@ -1,6 +1,6 @@
 import { emptyDir } from "@std/fs";
 
-import type { ApiVersion, HistoryItem } from "../types/external.ts";
+import type { ApiVersion, DataObject, HistoryItem } from "../types/external.ts";
 
 const graphsFolder = import.meta.resolve("../../graphics").replace("file://", "");
 
@@ -303,9 +303,104 @@ ${barsEl}
 </svg>`;
 }
 
+// ─── Chart 6: Vertical bar chart (quarterly package updates) ─────────────────
+
+function quarterlyUpdatesData(data: DataObject[]): Bar[] {
+  const counts = new Map<string, number>();
+  for (const pkg of data) {
+    if (!pkg.latestUpdate) continue;
+    const d = new Date(pkg.latestUpdate.timestamp);
+    const year = d.getFullYear();
+    const q = Math.floor(d.getMonth() / 3) + 1;
+    const key = `${year}-Q${q}`;
+    counts.set(key, (counts.get(key) ?? 0) + 1);
+  }
+
+  if (counts.size === 0) return [];
+
+  const parseKey = (key: string) => {
+    const [y, qStr] = key.split("-Q");
+    return { year: parseInt(y, 10), q: parseInt(qStr, 10) };
+  };
+
+  const allKeys = Array.from(counts.keys()).sort();
+  const { year: minYear, q: minQ } = parseKey(allKeys[0]);
+  const { year: maxYear, q: maxQ } = parseKey(allKeys[allKeys.length - 1]);
+
+  const result: Bar[] = [];
+  let year = minYear, q = minQ;
+  while (year < maxYear || (year === maxYear && q <= maxQ)) {
+    const key = `${year}-Q${q}`;
+    result.push({ label: key, value: counts.get(key) ?? 0 });
+    q++;
+    if (q > 4) {
+      q = 1;
+      year++;
+    }
+  }
+
+  return result;
+}
+
+function verticalBarChart(
+  title: string,
+  bars: Bar[],
+  yLabel: string,
+  color: string,
+): string {
+  const W = 800, H = 400;
+  const pt = 45, pr = 30, pb = 80, pl = 60;
+  const cw = W - pl - pr;
+  const ch = H - pt - pb;
+  const ox = pl, oy = pt;
+  const n = bars.length;
+  const colW = n > 0 ? cw / n : cw;
+  const barW = Math.max(10, Math.min(50, colW * 0.65));
+  const maxVal = Math.max(...bars.map((b) => b.value), 1);
+
+  const barsEl = bars.map((bar, i) => {
+    const bh = (bar.value / maxVal) * ch;
+    const barX = ox + i * colW + (colW - barW) / 2;
+    const barY = oy + ch - bh;
+    const centerX = ox + i * colW + colW / 2;
+    const labelY = oy + ch + 10;
+    return [
+      `<rect x="${barX.toFixed(1)}" y="${barY.toFixed(1)}" width="${barW.toFixed(1)}" height="${
+        Math.max(0, bh).toFixed(1)
+      }" fill="${color}" rx="3" opacity="0.85"/>`,
+      bar.value > 0
+        ? `<text x="${(barX + barW / 2).toFixed(1)}" y="${
+          Math.max(oy + 14, barY - 4).toFixed(1)
+        }" text-anchor="middle" font-size="10" fill="${C.sub}">${bar.value}</text>`
+        : "",
+      `<g transform="translate(${centerX.toFixed(1)},${labelY.toFixed(1)}) rotate(-45)"><text text-anchor="end" font-size="10" fill="${C.text}">${bar.label}</text></g>`,
+    ].filter(Boolean).join("\n");
+  }).join("\n");
+
+  // Y-axis ticks
+  const yTickCount = 5;
+  const yTicks = Array.from({ length: yTickCount + 1 }, (_, i) => {
+    const val = Math.round((i / yTickCount) * maxVal);
+    const y = (oy + ch - (val / maxVal) * ch).toFixed(1);
+    return `<line x1="${ox}" y1="${y}" x2="${ox + cw}" y2="${y}" stroke="${C.grid}" stroke-width="1"/>
+<text x="${ox - 6}" y="${(+y + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="${C.sub}">${val}</text>`;
+  }).join("\n");
+
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
+<defs><style>text { ${FONT} }</style></defs>
+<rect width="${W}" height="${H}" fill="${C.bg}" rx="12"/>
+<text x="${W / 2}" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="${C.text}">${title}</text>
+<line x1="${ox}" y1="${oy}" x2="${ox}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1"/>
+<line x1="${ox}" y1="${oy + ch}" x2="${ox + cw}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1"/>
+<text x="${-(oy + ch / 2)}" y="18" text-anchor="middle" font-size="12" fill="${C.sub}" transform="rotate(-90)">${yLabel}</text>
+${yTicks}
+${barsEl}
+</svg>`;
+}
+
 // ─── Public entry point ───────────────────────────────────────────────────────
 
-export async function generateGraphs(seed: string): Promise<void> {
+export async function generateGraphs(seed: string, data: DataObject[]): Promise<void> {
   const historyFile = import.meta.resolve("../../data/history.json").replace("file://", "");
   const apiVersionsFile = import.meta.resolve("../../data/api-versions.json").replace("file://", "");
 
@@ -375,7 +470,18 @@ export async function generateGraphs(seed: string): Promise<void> {
     apiDistributionChart(apiVersions),
   );
 
-  console.log(`Generated 5 graphs with seed ${seed}`);
+  // 6. Package updates by quarter (vertical bar chart)
+  await Deno.writeTextFile(
+    `${graphsFolder}/graph-quarterly-updates-${seed}.svg`,
+    verticalBarChart(
+      "Package Updates by Quarter",
+      quarterlyUpdatesData(data),
+      "Number of packages",
+      C.green,
+    ),
+  );
+
+  console.log(`Generated 6 graphs with seed ${seed}`);
 }
 
 export function generateGraphsMarkdown(seed: string): string {
@@ -384,5 +490,6 @@ export function generateGraphsMarkdown(seed: string): string {
 <img src="graphics/graph-community-growth-${seed}.svg" alt="Community Growth Over Time" width="98%" /><br />
 <img src="graphics/graph-api-versions-${seed}.svg" alt="Top @raycast/api Versions" width="98%" /><br />
 <img src="graphics/graph-platform-distribution-${seed}.svg" alt="Platform Distribution" width="98%" /><br />
+<img src="graphics/graph-quarterly-updates-${seed}.svg" alt="Package Updates by Quarter" width="98%" /><br />
 </div>`;
 }

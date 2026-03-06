@@ -130,7 +130,7 @@ await Deno.writeTextFile(
 await saveDocs(categoryDocs, sortedCategories, seed);
 
 // Generate graphs (also cleans the graphics/ folder)
-await generateGraphs(seed);
+await generateGraphs(seed, data);
 
 // Inject graphs block into README
 const { updatedText: finalText } = updateText({

@@ -7,6 +7,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 > This list is generated automatically every night, by a GitHub Action that scans the [Raycast Extensions Repository](https://github.com/raycast/extensions).
 
+<!-- START GRAPHS -->
+<!-- END GRAPHS -->
+
 ## Table of Contents
 
 <!-- START TABLE_OF_CONTENTS -->

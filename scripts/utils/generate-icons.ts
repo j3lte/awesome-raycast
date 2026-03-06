@@ -3,7 +3,7 @@ import { makeBadge } from "badge-maker";
 
 import type { Icon } from "../types/internal.ts";
 
-const iconsFolder = import.meta.resolve("../../icons").replace("file://", "");
+const iconsFolder = import.meta.resolve("../../graphics").replace("file://", "");
 
 export async function generateIcons(icons: Icon[], cleanDir = false) {
   try {

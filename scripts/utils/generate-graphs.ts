@@ -3,7 +3,7 @@ import { nanoid } from "nanoid";
 
 import type { ApiVersion, HistoryItem } from "../types/external.ts";
 
-const graphsFolder = import.meta.resolve("../../graphs").replace("file://", "");
+const graphsFolder = import.meta.resolve("../../graphics").replace("file://", "");
 
 const C = {
   orange: "#FF6363",
@@ -232,7 +232,7 @@ ${barsEl}
 
 // ─── Public entry point ───────────────────────────────────────────────────────
 
-export async function generateGraphs(): Promise<void> {
+export async function generateGraphs(): Promise<string> {
   const seed = nanoid(8);
 
   const historyFile = import.meta.resolve("../../data/history.json").replace("file://", "");
@@ -304,4 +304,13 @@ export async function generateGraphs(): Promise<void> {
   );
 
   console.log(`Generated 4 graphs with seed ${seed}`);
+  return seed;
+}
+
+export function generateGraphsMarkdown(seed: string): string {
+  return `<div align="center">
+<img src="graphics/packages-growth-${seed}.svg" alt="Packages Growth Over Time" width="49%" /><img src="graphics/community-growth-${seed}.svg" alt="Community Growth Over Time" width="49%" />
+<img src="graphics/platform-distribution-${seed}.svg" alt="Platform Distribution" width="49%" />
+<img src="graphics/api-versions-${seed}.svg" alt="Top @raycast/api Versions" width="98%" />
+</div>`;
 }

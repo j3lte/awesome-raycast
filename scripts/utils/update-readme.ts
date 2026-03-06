@@ -23,7 +23,7 @@ export function updateReadme(
   const { updatedText: stage1 } = updateText(
     "UPDATETIME",
     readme,
-    `![Last update](/icons/${prefix}_update-time.svg)`,
+    `![Last update](/graphics/${prefix}_update-time.svg)`,
   );
 
   // Update sections

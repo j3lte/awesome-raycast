@@ -7,5 +7,4 @@ _site/
 GITHUB_PAGES_SETUP.md
 assets/extension.json
 .claude/
-graphs/.seed
-graphs/*.svg
+graphics/.seed

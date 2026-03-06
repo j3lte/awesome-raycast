@@ -30,8 +30,7 @@
     ".github/",
     "README.md",
     "data/*.json",
-    "graphs/",
-    "icons/",
+    "graphics/",
     "repo/",
     "assets/"
   ]

@@ -6,7 +6,7 @@ import type { PackageWithVersion } from "./types/internal.ts";
 import { collectApiVersions } from "./utils/collect-api-versions.ts";
 import { collectStatistics } from "./utils/collect-statistics.ts";
 import { discoverPackages } from "./utils/discover-packages.ts";
-import { generateGraphs } from "./utils/generate-graphs.ts";
+import { generateGraphs, generateGraphsMarkdown } from "./utils/generate-graphs.ts";
 import { generateIcons } from "./utils/generate-icons.ts";
 import { generateMarkdown } from "./utils/generate-markdown.ts";
 import { generateStatisticsText } from "./utils/generate-statistics-text.ts";
@@ -14,6 +14,7 @@ import { getSortedCategories, organizeByCategory } from "./utils/organize-by-cat
 import { parsePackages } from "./utils/parse-packages.ts";
 import { saveHistory } from "./utils/save-history.ts";
 import { generateUpdateTimeIcon, updateReadme } from "./utils/update-readme.ts";
+import updateText from "./utils/update-text.ts";
 import { getIssues } from "./utils/get-issues.ts";
 
 const FORCE = Deno.args.includes("--force");
@@ -125,15 +126,18 @@ await Deno.writeTextFile(
   JSON.stringify(apiVersions),
 );
 
-// Generate graphs
-await generateGraphs();
+// Generate graphs (also cleans the graphics/ folder)
+const graphSeed = await generateGraphs();
 
-// Generate icons
+// Inject graphs block into README (treated like UPDATETIME — not part of hasChanges)
+const { updatedText: finalText } = updateText("GRAPHS", updatedText, generateGraphsMarkdown(graphSeed));
+
+// Generate icons (graphics/ already clean from generateGraphs, skip cleanDir)
 if (!NOICONS) {
   await generateIcons([
     generateUpdateTimeIcon(updateTimeIconPrefix),
-  ], true);
+  ], false);
 }
 
 // Write updated README
-await Deno.writeTextFile(README_FILE, updatedText);
+await Deno.writeTextFile(README_FILE, finalText);

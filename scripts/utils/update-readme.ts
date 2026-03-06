@@ -1,27 +1,22 @@
 import { format } from "date-fns";
-import { customAlphabet } from "nanoid";
 
-import type { Icon, UpdateResult } from "../types/internal.ts";
-
+import type { Icon } from "../types/internal.ts";
 import { updateTexts } from "./update-text.ts";
-
-const nanoid = customAlphabet("1234567890abcdef", 16);
 
 /**
  * Updates the README with new content.
- * Returns the updated text, whether changes were detected, and the icon prefix for the update time badge.
+ * Returns the updated text.
  */
 export function updateReadme(
   readme: string,
+  seed: string,
   tableOfContents: string,
   statisticsContent: string,
-): UpdateResult {
-  const prefix = nanoid();
-
+): string {
   const { updatedText } = updateTexts(readme, [
     {
       blockID: "UPDATETIME",
-      update: `![Last update](graphics/${prefix}_update-time.svg)`,
+      update: `![Last update](graphics/update-time-${seed}.svg)`,
     },
     {
       blockID: "TABLE_OF_CONTENTS",
@@ -33,18 +28,15 @@ export function updateReadme(
     },
   ]);
 
-  return {
-    updatedText,
-    updateTimeIconPrefix: prefix,
-  };
+  return updatedText;
 }
 
 /**
  * Generates the update time icon format.
  */
-export function generateUpdateTimeIcon(prefix: string): Icon {
+export function generateUpdateTimeIcon(suffix: string): Icon {
   return {
-    fileName: `${prefix}_update-time.svg`,
+    fileName: `update-time-${suffix}.svg`,
     format: {
       label: "Last update",
       message: format(new Date(), "yyyy-MM-dd HH:mm:ss"),

@@ -60,7 +60,6 @@ export type MarkdownOutput = {
 
 export type UpdateResult = {
   updatedText: string;
-  updateTimeIconPrefix: string;
 };
 
 export type Icon = {

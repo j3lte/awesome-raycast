@@ -1,4 +1,5 @@
 import { load } from "@std/dotenv";
+import { customAlphabet } from "nanoid";
 
 import type { HistoryItem } from "./types/external.ts";
 import type { PackageWithVersion } from "./types/internal.ts";
@@ -19,6 +20,7 @@ import { saveDocs } from "./utils/save-docs.ts";
 import { getIssues } from "./utils/get-issues.ts";
 
 const NOICONS = Deno.args.includes("--no-icons");
+const seed = customAlphabet("1234567890abcdef", 16)();
 
 await load({ export: true });
 
@@ -81,8 +83,9 @@ const readme = await Deno.readTextFile(README_FILE);
 
 const tableOfContents = `${toc}\n- [License](#license)`;
 
-const { updatedText, updateTimeIconPrefix } = updateReadme(
+const updatedText = updateReadme(
   readme,
+  seed,
   tableOfContents,
   statisticsContent,
 );
@@ -119,23 +122,23 @@ await Deno.writeTextFile(
   JSON.stringify(apiVersions),
 );
 
-// Save per-category docs (prefix is now available from updateReadme)
-await saveDocs(categoryDocs, sortedCategories, updateTimeIconPrefix);
+// Save per-category docs
+await saveDocs(categoryDocs, sortedCategories, seed);
 
 // Generate graphs (also cleans the graphics/ folder)
-const graphSeed = await generateGraphs();
+await generateGraphs(seed);
 
 // Inject graphs block into README
 const { updatedText: finalText } = updateText({
   blockID: "GRAPHS",
   text: updatedText,
-  update: generateGraphsMarkdown(graphSeed),
+  update: generateGraphsMarkdown(seed),
 });
 
 // Generate icons (graphics/ already clean from generateGraphs, skip cleanDir)
 if (!NOICONS) {
   await generateIcons([
-    generateUpdateTimeIcon(updateTimeIconPrefix),
+    generateUpdateTimeIcon(seed),
   ], false);
 }
 

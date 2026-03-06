@@ -5,7 +5,7 @@
     "run": "deno run -A scripts/run.ts",
     "run-local": "deno run --env-file -A scripts/run.ts",
     "run-force": "deno run -A scripts/run.ts --force",
-    "run-force-local": "deno run --env-file .env -A scripts/run.ts --force",
+    "run-force-local": "deno run --env-file -A scripts/run.ts --force",
     "run-local-dev": "deno run --env-file -A scripts/run.ts --force --no-icons",
     "clean": "deno run -A scripts/clean.ts"
   },

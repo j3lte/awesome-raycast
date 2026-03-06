@@ -59,7 +59,7 @@ function lineChart(
   const px = (i: number) => ox + lerp(i, xd, [0, cw]);
   const py = (v: number) => oy + ch - lerp(v, yd, [0, ch]);
 
-  // Grid lines
+  // Horizontal grid lines
   const yTickCount = 5;
   const grid = Array.from({ length: yTickCount + 1 }, (_, i) => {
     const val = yd[0] + (i / yTickCount) * (yd[1] - yd[0]);
@@ -67,6 +67,38 @@ function lineChart(
     const label = val >= 1000 ? `${(val / 1000).toFixed(1)}k` : Math.round(val).toString();
     return `<line x1="${ox}" y1="${y}" x2="${ox + cw}" y2="${y}" stroke="${C.grid}" stroke-width="1"/>
 <text x="${ox - 6}" y="${(+y + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="${C.sub}">${label}</text>`;
+  }).join("\n");
+
+  // Month boundary indices (indices where a new month begins)
+  const monthBoundaryIndices: number[] = [];
+  for (let i = 1; i < history.length; i++) {
+    const prev = new Date(history[i - 1].timestamp);
+    const curr = new Date(history[i].timestamp);
+    if (prev.getMonth() !== curr.getMonth() || prev.getFullYear() !== curr.getFullYear()) {
+      monthBoundaryIndices.push(i);
+    }
+  }
+
+  // Dotted vertical lines at month boundaries
+  const monthLines = monthBoundaryIndices.map((i) => {
+    const x = px(i).toFixed(1);
+    return `<line x1="${x}" y1="${oy}" x2="${x}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>`;
+  }).join("\n");
+
+  // Per-month growth labels: one label per series per block, stacked top-down
+  const blockBounds = [0, ...monthBoundaryIndices, history.length];
+  const monthGrowthLabels = blockBounds.slice(1).flatMap((cur, bIdx) => {
+    const startIdx = blockBounds[bIdx];
+    const endIdx = cur - 1;
+    const midX = ((px(startIdx) + px(endIdx)) / 2).toFixed(1);
+    return series.map((s, si) => {
+      const startVal = s.data[startIdx] ?? 0;
+      const endVal = s.data[endIdx] ?? 0;
+      const pct = startVal > 0 ? ((endVal - startVal) / startVal) * 100 : 0;
+      const sign = pct >= 0 ? "+" : "";
+      const y = (oy + 10 + si * 11).toFixed(1);
+      return `<text x="${midX}" y="${y}" text-anchor="middle" font-size="9" fill="${s.color}" opacity="0.85" clip-path="url(#ca)">${sign}${pct.toFixed(1)}%</text>`;
+    });
   }).join("\n");
 
   // X-axis labels (6 evenly spaced)
@@ -108,6 +140,13 @@ function lineChart(
 <text x="${lx + 16}" y="${ly + 1}" font-size="12" fill="${C.text}">${s.label}</text>`;
   }).join("\n");
 
+  // "data since …" footnote — earliest known history point
+  const earliestDate = new Date(history[0].timestamp).toLocaleString("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  });
+
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
 <defs>
   <style>text { ${FONT} }</style>
@@ -117,12 +156,15 @@ function lineChart(
 <rect width="${W}" height="${H}" fill="${C.bg}" rx="12"/>
 <text x="${W / 2}" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="${C.text}">${title}</text>
 ${grid}
+${monthLines}
 ${xLabels}
 <line x1="${ox}" y1="${oy}" x2="${ox}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1"/>
 <line x1="${ox}" y1="${oy + ch}" x2="${ox + cw}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1"/>
 <text x="${-(oy + ch / 2)}" y="18" text-anchor="middle" font-size="12" fill="${C.sub}" transform="rotate(-90)">${yLabel}</text>
 ${paths}
+${monthGrowthLabels}
 ${legend}
+<text x="${ox}" y="${H - 6}" font-size="8" fill="${C.border}">data since ${earliestDate}</text>
 </svg>`;
 }
 

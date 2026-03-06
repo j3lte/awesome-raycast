@@ -27,11 +27,11 @@ await load({ export: true });
 
 const labels = new Map<string, number>();
 if (NOISSUES) {
-  console.log("Skipping issues (--no-issues)");
+  console.log("[run] Skipping issues (--no-issues)");
 } else {
-  console.log("Getting issues...");
+  console.log("[run] Getting issues...");
   const issues = await getIssues();
-  console.log(`Got ${issues.length} issues`);
+  console.log(`[run] Got ${issues.length} issues`);
   for (const issue of issues) {
     for (const label of issue.labels || []) {
       labels.set(label.name, (labels.get(label.name) || 0) + 1);
@@ -46,7 +46,7 @@ const repoPath = Deno.env.get("REPO_PATH")
 
 // Discover all packages
 const { packages, swiftPackages } = await discoverPackages(repoPath);
-console.log(packages.length, "packages found");
+console.log("[run]", packages.length, "packages found");
 
 // Parse all packages and collect categories
 const categories = new Set<string>();

@@ -35,7 +35,7 @@ export async function parseChangelog(
     }
 
     if (dates.length === 0) {
-      console.warn(`No valid date found in changelog at ${changelogPath}`);
+      console.warn(`[changelog] No valid date found in changelog at ${changelogPath}`);
       return null;
     }
 
@@ -58,7 +58,7 @@ export async function parseChangelog(
       return null;
     }
     // Log other errors but don't throw
-    console.error(`Error parsing changelog at ${changelogPath}:`, error);
+    console.error(`[changelog] Error parsing changelog at ${changelogPath}:`, error);
     return null;
   }
 }

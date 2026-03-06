@@ -82,7 +82,7 @@ export const getIssues = async (): Promise<Issue[]> => {
         });
         if (!res.ok) throw new Error(`GitHub API error: ${res.status}`);
         const data = (await res.json()) as Issue[];
-        console.log(`Got ${data.length} issues`);
+        console.log(`[issues] Got ${data.length} issues`);
         issues.push(...data);
         nextUrl = getNextPageUrl(res.headers.get("link") ?? undefined);
       } else {
@@ -95,7 +95,7 @@ export const getIssues = async (): Promise<Issue[]> => {
 
     return issues;
   } catch (error) {
-    console.error(error);
+    console.error("[issues]", error);
     return issues;
   }
 };

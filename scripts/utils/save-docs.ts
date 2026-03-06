@@ -35,5 +35,5 @@ export async function saveDocs(
     await Deno.writeTextFile(`${docsFolder}/${slug}.md`, header + content);
   }
 
-  console.log(`Saved ${categoryDocs.size} category docs`);
+  console.log(`[save-docs] Saved ${categoryDocs.size} category docs`);
 }

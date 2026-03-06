@@ -39,10 +39,10 @@ export const updateText = ({ blockID, text, update }: SingleTextUpdate): SingleT
 
   if (compared === 0) {
     if (blockID !== "UPDATETIME") {
-      console.log(`No changes detected for ${blockID}`);
+      console.log(`[update-text] No changes detected for ${blockID}`);
     }
   } else {
-    console.log(`Changes detected for ${blockID}`);
+    console.log(`[update-text] Changes detected for ${blockID}`);
   }
 
   return {

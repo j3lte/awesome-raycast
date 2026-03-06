@@ -348,12 +348,23 @@ ${barsEl}
 // ─── Chart 6: Vertical bar chart (quarterly package updates) ─────────────────
 
 function quarterlyUpdatesData(data: DataObject[]): Bar[] {
+  const now = new Date();
+  const currentYear = now.getFullYear();
+  const currentQ = Math.floor(now.getMonth() / 3) + 1;
+
   const counts = new Map<string, number>();
   for (const pkg of data) {
     if (!pkg.latestUpdate) continue;
     const d = new Date(pkg.latestUpdate.timestamp);
     const year = d.getFullYear();
     const q = Math.floor(d.getMonth() / 3) + 1;
+    // Skip future quarters (e.g. bad CHANGELOG date like 2026-04-15)
+    if (year > currentYear || (year === currentYear && q > currentQ)) {
+      console.warn(
+        `[graphs] Skipping extension "${pkg.name}" (${pkg.title}): CHANGELOG date ${pkg.latestUpdate.value} is in future quarter ${year}-Q${q}. Fix extensions/${pkg.name}/CHANGELOG.md`,
+      );
+      continue;
+    }
     const key = `${year}-Q${q}`;
     counts.set(key, (counts.get(key) ?? 0) + 1);
   }
@@ -368,10 +379,13 @@ function quarterlyUpdatesData(data: DataObject[]): Bar[] {
   const allKeys = Array.from(counts.keys()).sort();
   const { year: minYear, q: minQ } = parseKey(allKeys[0]);
   const { year: maxYear, q: maxQ } = parseKey(allKeys[allKeys.length - 1]);
+  // Cap displayed range at current quarter (don't show future quarters)
+  const endYear = Math.min(maxYear, currentYear);
+  const endQ = maxYear < currentYear ? maxQ : Math.min(maxQ, currentQ);
 
   const result: Bar[] = [];
   let year = minYear, q = minQ;
-  while (year < maxYear || (year === maxYear && q <= maxQ)) {
+  while (year < endYear || (year === endYear && q <= endQ)) {
     const key = `${year}-Q${q}`;
     result.push({ label: key, value: counts.get(key) ?? 0 });
     q++;
@@ -549,7 +563,7 @@ export async function generateGraphs(seed: string, data: DataObject[]): Promise<
     ),
   );
 
-  console.log(`Generated 6 graphs with seed ${seed}`);
+  console.log(`[graphs] Generated 6 graphs with seed ${seed}`);
 }
 
 export function generateGraphsMarkdown(seed: string): string {

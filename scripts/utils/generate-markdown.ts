@@ -23,7 +23,7 @@ export async function generateMarkdown(
   const categoryDocs = new Map<string, string>();
 
   for (const category of sortedCategories) {
-    console.log(`Processing category: ${category}`);
+    console.log(`[markdown] Processing category: ${category}`);
     const slug = categoryToSlug(category);
     toc += `\n  - [${category}](docs/${slug}.md)`;
 
@@ -39,7 +39,7 @@ export async function generateMarkdown(
       try {
         latestUpdate = await parseChangelog(changelogPath);
       } catch (error) {
-        console.error(`Error processing changelog for package ${pkg.name}:`, error);
+        console.error(`[markdown] Error processing changelog for package ${pkg.name}:`, error);
       }
 
       const issues = issuesLabels.get(`extension: ${pkg.name}`) || 0;

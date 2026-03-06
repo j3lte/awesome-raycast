@@ -16,6 +16,6 @@ export async function generateIcons(icons: Icon[], cleanDir = false) {
       await Deno.writeTextFile(`${iconsFolder}/${icon.fileName}`, svg);
     }
   } catch (error) {
-    console.error(error);
+    console.error("[icons]", error);
   }
 }

@@ -13,7 +13,6 @@ const nanoid = customAlphabet("1234567890abcdef", 16);
  */
 export function updateReadme(
   readme: string,
-  sectionsContent: string,
   tableOfContents: string,
   statisticsContent: string,
 ): UpdateResult {
@@ -26,30 +25,23 @@ export function updateReadme(
     `![Last update](graphics/${prefix}_update-time.svg)`,
   );
 
-  // Update sections
-  const { updatedText: stage2, hasChanges: stage2Changes } = updateText(
-    "SECTIONS",
-    stage1,
-    sectionsContent,
-  );
-
   // Update table of contents
-  const { updatedText: stage3, hasChanges: stage3Changes } = updateText(
+  const { updatedText: stage2, hasChanges: stage2Changes } = updateText(
     "TABLE_OF_CONTENTS",
-    stage2,
+    stage1,
     tableOfContents,
   );
 
   // Update statistics
   const { updatedText: stageFinal, hasChanges: stageFinalChanges } = updateText(
     "STATISTICS",
-    stage3,
+    stage2,
     statisticsContent,
   );
 
   return {
     updatedText: stageFinal,
-    hasChanges: stage2Changes || stage3Changes || stageFinalChanges,
+    hasChanges: stage2Changes || stageFinalChanges,
     updateTimeIconPrefix: prefix,
   };
 }

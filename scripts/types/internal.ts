@@ -52,10 +52,10 @@ export type Statistics = {
 };
 
 export type MarkdownOutput = {
-  content: string;
   tableOfContents: string;
   data: DataObject[];
   extensionIssueCount: number;
+  categoryDocs: Map<string, string>;
 };
 
 export type UpdateResult = {

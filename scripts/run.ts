@@ -15,6 +15,7 @@ import { parsePackages } from "./utils/parse-packages.ts";
 import { saveHistory } from "./utils/save-history.ts";
 import { generateUpdateTimeIcon, updateReadme } from "./utils/update-readme.ts";
 import updateText from "./utils/update-text.ts";
+import { saveDocs } from "./utils/save-docs.ts";
 import { getIssues } from "./utils/get-issues.ts";
 
 const FORCE = Deno.args.includes("--force");
@@ -54,7 +55,7 @@ const categoriesMap = organizeByCategory(parsedPackages);
 const sortedCategories = getSortedCategories(categories);
 
 // Generate markdown content
-const { content: sectionsContent, tableOfContents: toc, data } = await generateMarkdown(
+const { tableOfContents: toc, data, categoryDocs } = await generateMarkdown(
   categoriesMap,
   sortedCategories,
   swiftPackages,
@@ -83,7 +84,6 @@ const tableOfContents = `${toc}\n- [License](#license)`;
 
 const { updatedText, hasChanges, updateTimeIconPrefix } = updateReadme(
   readme,
-  sectionsContent,
   tableOfContents,
   statisticsContent,
 );
@@ -125,6 +125,9 @@ await Deno.writeTextFile(
   API_VERSIONS_FILE,
   JSON.stringify(apiVersions),
 );
+
+// Save per-category docs (prefix is now available from updateReadme)
+await saveDocs(categoryDocs, sortedCategories, updateTimeIconPrefix);
 
 // Generate graphs (also cleans the graphics/ folder)
 const graphSeed = await generateGraphs();

@@ -66,8 +66,12 @@ function lineChart(
     const val = yd[0] + (i / yTickCount) * (yd[1] - yd[0]);
     const y = py(val).toFixed(1);
     const label = val >= 1000 ? `${(val / 1000).toFixed(1)}k` : Math.round(val).toString();
-    return `<line x1="${ox}" y1="${y}" x2="${ox + cw}" y2="${y}" stroke="${C.grid}" stroke-width="1"/>
-<text x="${ox - 6}" y="${(+y + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="${C.sub}">${label}</text>`;
+    return `<line x1="${ox}" y1="${y}" x2="${
+      ox + cw
+    }" y2="${y}" stroke="${C.grid}" stroke-width="1"/>
+<text x="${ox - 6}" y="${
+      (+y + 4).toFixed(1)
+    }" text-anchor="end" font-size="11" fill="${C.sub}">${label}</text>`;
   }).join("\n");
 
   // X-axis labels (6 evenly spaced)
@@ -75,11 +79,16 @@ function lineChart(
   const xLabels = Array.from({ length: xLabelCount }, (_, i) => {
     const idx = Math.round((i / (xLabelCount - 1)) * (history.length - 1));
     const x = px(idx).toFixed(1);
-    return `<text x="${x}" y="${(oy + ch + 18).toFixed(1)}" text-anchor="middle" font-size="11" fill="${C.sub}">${fmtShortDate(history[idx].timestamp)}</text>`;
+    return `<text x="${x}" y="${
+      (oy + ch + 18).toFixed(1)
+    }" text-anchor="middle" font-size="11" fill="${C.sub}">${
+      fmtShortDate(history[idx].timestamp)
+    }</text>`;
   }).join("\n");
 
   // Clip path
-  const clip = `<clipPath id="ca"><rect x="${ox}" y="${oy}" width="${cw}" height="${ch}"/></clipPath>`;
+  const clip =
+    `<clipPath id="ca"><rect x="${ox}" y="${oy}" width="${cw}" height="${ch}"/></clipPath>`;
 
   // Gradients
   const defs = series.map((s) =>
@@ -93,7 +102,9 @@ function lineChart(
   const paths = series.map((s) => {
     const pts = s.data.map((v, i) => `${px(i).toFixed(1)},${py(v).toFixed(1)}`);
     const lineD = `M ${pts.join(" L ")}`;
-    const fillD = `M ${px(0).toFixed(1)},${oy + ch} L ${pts.join(" L ")} L ${px(history.length - 1).toFixed(1)},${oy + ch} Z`;
+    const fillD = `M ${px(0).toFixed(1)},${oy + ch} L ${pts.join(" L ")} L ${
+      px(history.length - 1).toFixed(1)
+    },${oy + ch} Z`;
     return `<path d="${fillD}" fill="url(#${s.gradId})" clip-path="url(#ca)"/>
 <path d="${lineD}" fill="none" stroke="${s.color}" stroke-width="2.5" stroke-linejoin="round" clip-path="url(#ca)"/>`;
   }).join("\n");
@@ -116,12 +127,18 @@ function lineChart(
   ${clip}
 </defs>
 <rect width="${W}" height="${H}" fill="${C.bg}" rx="12"/>
-<text x="${W / 2}" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="${C.text}">${title}</text>
+<text x="${
+    W / 2
+  }" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="${C.text}">${title}</text>
 ${grid}
 ${xLabels}
 <line x1="${ox}" y1="${oy}" x2="${ox}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1"/>
-<line x1="${ox}" y1="${oy + ch}" x2="${ox + cw}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1"/>
-<text x="${-(oy + ch / 2)}" y="18" text-anchor="middle" font-size="12" fill="${C.sub}" transform="rotate(-90)">${yLabel}</text>
+<line x1="${ox}" y1="${oy + ch}" x2="${ox + cw}" y2="${
+    oy + ch
+  }" stroke="${C.border}" stroke-width="1"/>
+<text x="${-(oy +
+    ch /
+      2)}" y="18" text-anchor="middle" font-size="12" fill="${C.sub}" transform="rotate(-90)">${yLabel}</text>
 ${paths}
 ${legend}
 </svg>`;
@@ -150,17 +167,25 @@ function donutChart(title: string, segments: DonutSegment[]): string {
     const cos1 = Math.cos(end), sin1 = Math.sin(end);
     const d = [
       `M ${(cx + outerR * cos0).toFixed(2)} ${(cy + outerR * sin0).toFixed(2)}`,
-      `A ${outerR} ${outerR} 0 ${large} 1 ${(cx + outerR * cos1).toFixed(2)} ${(cy + outerR * sin1).toFixed(2)}`,
+      `A ${outerR} ${outerR} 0 ${large} 1 ${(cx + outerR * cos1).toFixed(2)} ${
+        (cy + outerR * sin1).toFixed(2)
+      }`,
       `L ${(cx + innerR * cos1).toFixed(2)} ${(cy + innerR * sin1).toFixed(2)}`,
-      `A ${innerR} ${innerR} 0 ${large} 0 ${(cx + innerR * cos0).toFixed(2)} ${(cy + innerR * sin0).toFixed(2)}`,
+      `A ${innerR} ${innerR} 0 ${large} 0 ${(cx + innerR * cos0).toFixed(2)} ${
+        (cy + innerR * sin0).toFixed(2)
+      }`,
       "Z",
     ].join(" ");
     angle = end;
     return `<path d="${d}" fill="${seg.color}"/>`;
   }).join("\n");
 
-  const centerText = `<text x="${cx}" y="${cy - 10}" text-anchor="middle" font-size="28" font-weight="700" fill="${C.text}">${total.toLocaleString()}</text>
-<text x="${cx}" y="${cy + 14}" text-anchor="middle" font-size="12" fill="${C.sub}">extensions</text>`;
+  const centerText = `<text x="${cx}" y="${
+    cy - 10
+  }" text-anchor="middle" font-size="28" font-weight="700" fill="${C.text}">${total.toLocaleString()}</text>
+<text x="${cx}" y="${
+    cy + 14
+  }" text-anchor="middle" font-size="12" fill="${C.sub}">extensions</text>`;
 
   const legendX = 400;
   const rowH = 52;
@@ -169,14 +194,20 @@ function donutChart(title: string, segments: DonutSegment[]): string {
     const y = startY + i * rowH;
     const pct = ((seg.value / total) * 100).toFixed(1);
     return `<rect x="${legendX}" y="${y}" width="14" height="14" fill="${seg.color}" rx="3"/>
-<text x="${legendX + 20}" y="${y + 11}" font-size="13" font-weight="500" fill="${C.text}">${seg.label}</text>
-<text x="${legendX + 20}" y="${y + 27}" font-size="11" fill="${C.sub}">${seg.value.toLocaleString()} (${pct}%)</text>`;
+<text x="${legendX + 20}" y="${
+      y + 11
+    }" font-size="13" font-weight="500" fill="${C.text}">${seg.label}</text>
+<text x="${legendX + 20}" y="${
+      y + 27
+    }" font-size="11" fill="${C.sub}">${seg.value.toLocaleString()} (${pct}%)</text>`;
   }).join("\n");
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
 <defs><style>text { ${FONT} }</style></defs>
 <rect width="${W}" height="${H}" fill="${C.bg}" rx="12"/>
-<text x="${W / 2}" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="${C.text}">${title}</text>
+<text x="${
+    W / 2
+  }" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="${C.text}">${title}</text>
 ${arcs}
 ${centerText}
 ${legend}
@@ -204,9 +235,15 @@ function barChart(title: string, bars: Bar[], xLabel: string, color: string): st
   const barsEl = bars.map((bar, i) => {
     const y = oy + i * rowH + (rowH - barH) / 2;
     const bw = (bar.value / maxVal) * cw;
-    return `<rect x="${ox}" y="${y.toFixed(1)}" width="${bw.toFixed(1)}" height="${barH}" fill="${color}" rx="3" opacity="0.85"/>
-<text x="${ox - 6}" y="${(y + barH / 2 + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="${C.text}">${bar.label}</text>
-<text x="${(ox + bw + 5).toFixed(1)}" y="${(y + barH / 2 + 4).toFixed(1)}" font-size="11" fill="${C.sub}">${bar.value}</text>`;
+    return `<rect x="${ox}" y="${y.toFixed(1)}" width="${
+      bw.toFixed(1)
+    }" height="${barH}" fill="${color}" rx="3" opacity="0.85"/>
+<text x="${ox - 6}" y="${
+      (y + barH / 2 + 4).toFixed(1)
+    }" text-anchor="end" font-size="11" fill="${C.text}">${bar.label}</text>
+<text x="${(ox + bw + 5).toFixed(1)}" y="${
+      (y + barH / 2 + 4).toFixed(1)
+    }" font-size="11" fill="${C.sub}">${bar.value}</text>`;
   }).join("\n");
 
   // X-axis ticks
@@ -214,19 +251,29 @@ function barChart(title: string, bars: Bar[], xLabel: string, color: string): st
   const xTicks = Array.from({ length: xTickCount + 1 }, (_, i) => {
     const val = Math.round((i / xTickCount) * maxVal);
     const x = (ox + (val / maxVal) * cw).toFixed(1);
-    return `<line x1="${x}" y1="${oy}" x2="${x}" y2="${oy + ch}" stroke="${C.grid}" stroke-width="1"/>
-<text x="${x}" y="${(oy + ch + 16).toFixed(1)}" text-anchor="middle" font-size="11" fill="${C.sub}">${val}</text>`;
+    return `<line x1="${x}" y1="${oy}" x2="${x}" y2="${
+      oy + ch
+    }" stroke="${C.grid}" stroke-width="1"/>
+<text x="${x}" y="${
+      (oy + ch + 16).toFixed(1)
+    }" text-anchor="middle" font-size="11" fill="${C.sub}">${val}</text>`;
   }).join("\n");
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">
 <defs><style>text { ${FONT} }</style></defs>
 <rect width="${W}" height="${H}" fill="${C.bg}" rx="12"/>
-<text x="${W / 2}" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="${C.text}">${title}</text>
+<text x="${
+    W / 2
+  }" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="${C.text}">${title}</text>
 <line x1="${ox}" y1="${oy}" x2="${ox}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1"/>
-<line x1="${ox}" y1="${oy + ch}" x2="${ox + cw}" y2="${oy + ch}" stroke="${C.border}" stroke-width="1"/>
+<line x1="${ox}" y1="${oy + ch}" x2="${ox + cw}" y2="${
+    oy + ch
+  }" stroke="${C.border}" stroke-width="1"/>
 ${xTicks}
 ${barsEl}
-<text x="${W / 2}" y="${oy + ch + 35}" text-anchor="middle" font-size="12" fill="${C.sub}">${xLabel}</text>
+<text x="${W / 2}" y="${
+    oy + ch + 35
+  }" text-anchor="middle" font-size="12" fill="${C.sub}">${xLabel}</text>
 </svg>`;
 }
 
@@ -236,7 +283,10 @@ export async function generateGraphs(): Promise<string> {
   const seed = nanoid(8);
 
   const historyFile = import.meta.resolve("../../data/history.json").replace("file://", "");
-  const apiVersionsFile = import.meta.resolve("../../data/api-versions.json").replace("file://", "");
+  const apiVersionsFile = import.meta.resolve("../../data/api-versions.json").replace(
+    "file://",
+    "",
+  );
 
   const history: HistoryItem[] = JSON.parse(await Deno.readTextFile(historyFile));
   const apiVersions: ApiVersion[] = JSON.parse(await Deno.readTextFile(apiVersionsFile));
@@ -251,7 +301,12 @@ export async function generateGraphs(): Promise<string> {
     lineChart(
       history,
       "Packages Growth Over Time",
-      [{ label: "Extensions", color: C.orange, gradId: "g1", data: history.map((h) => h.packages) }],
+      [{
+        label: "Extensions",
+        color: C.orange,
+        gradId: "g1",
+        data: history.map((h) => h.packages),
+      }],
       "Extensions",
     ),
   );
@@ -309,8 +364,9 @@ export async function generateGraphs(): Promise<string> {
 
 export function generateGraphsMarkdown(seed: string): string {
   return `<div align="center">
-<img src="graphics/packages-growth-${seed}.svg" alt="Packages Growth Over Time" width="49%" /><img src="graphics/community-growth-${seed}.svg" alt="Community Growth Over Time" width="49%" />
-<img src="graphics/platform-distribution-${seed}.svg" alt="Platform Distribution" width="49%" />
+<img src="graphics/packages-growth-${seed}.svg" alt="Packages Growth Over Time" width="98%" /><
+<img src="graphics/community-growth-${seed}.svg" alt="Community Growth Over Time" width="98%" />
 <img src="graphics/api-versions-${seed}.svg" alt="Top @raycast/api Versions" width="98%" />
+<img src="graphics/platform-distribution-${seed}.svg" alt="Platform Distribution" width="98%" />
 </div>`;
 }

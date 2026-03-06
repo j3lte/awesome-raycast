@@ -1,7 +1,7 @@
 # awesome-raycast
 
 <!-- START UPDATETIME -->
-![Last update](graphics/fed50e17106d480b_update-time.svg)
+![Last update](graphics/ed641c0bbb337485_update-time.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -9,9 +9,10 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START GRAPHS -->
 <div align="center">
-<img src="graphics/packages-growth-TmyzyFPj.svg" alt="Packages Growth Over Time" width="49%" /><img src="graphics/community-growth-TmyzyFPj.svg" alt="Community Growth Over Time" width="49%" />
-<img src="graphics/platform-distribution-TmyzyFPj.svg" alt="Platform Distribution" width="49%" />
-<img src="graphics/api-versions-TmyzyFPj.svg" alt="Top @raycast/api Versions" width="98%" />
+<img src="graphics/packages-growth-B-Q2fZ2F.svg" alt="Packages Growth Over Time" width="98%" /><
+<img src="graphics/community-growth-B-Q2fZ2F.svg" alt="Community Growth Over Time" width="98%" />
+<img src="graphics/api-versions-B-Q2fZ2F.svg" alt="Top @raycast/api Versions" width="98%" />
+<img src="graphics/platform-distribution-B-Q2fZ2F.svg" alt="Platform Distribution" width="98%" />
 </div>
 <!-- END GRAPHS -->
 
@@ -45,13 +46,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2728** packages in **15** categories, **28** packages use Swift
-- **1771** authors, **1076** contributors (of which **819** are only contributors, not authors)
-- **7679** total commands (5246 view, 2207 no-view, 226 menu-bar)
-- **739** AI tools
-- **1583** packages have no platform selected (58.03%, macOS only)
-- **578** packages have macOS only (21.19%)
-- **567** packages have Windows (20.78%), of which **21** packages have Windows only (0.77%)
+- **2730** packages in **15** categories, **28** packages use Swift
+- **1772** authors, **1076** contributors (of which **819** are only contributors, not authors)
+- **7686** total commands (5251 view, 2209 no-view, 226 menu-bar)
+- **741** AI tools
+- **1582** packages have no platform selected (57.95%, macOS only)
+- **579** packages have macOS only (21.21%)
+- **569** packages have Windows (20.84%), of which **21** packages have Windows only (0.77%)
 - Top **10** authors:
   - [xmok](https://raycast.com/xmok) (110)
   - [koinzhang](https://raycast.com/koinzhang) (50)

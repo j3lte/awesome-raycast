@@ -1,17 +1,24 @@
+export type TextUpdate = {
+  blockID: string;
+  update: string;
+};
+
+export type SingleTextUpdate = TextUpdate & {
+  text: string;
+};
+
+export type SingleTextUpdateResult = {
+  updatedText: string;
+  hasChanges: boolean;
+};
+
 /**
  * @param blockID {string} block to update (e.g. `<!-- START blockID -->`)
  * @param text {string} text to update
  * @param update {string} text to insert between blockID
  * @returns
  */
-const updateText = (
-  blockID: string,
-  text: string,
-  update: string,
-): {
-  updatedText: string;
-  hasChanges: boolean;
-} => {
+export const updateText = ({ blockID, text, update }: SingleTextUpdate): SingleTextUpdateResult => {
   const snippetIdentifier = `<!-- START ${blockID} -->`;
   const startSnippetPos = text.indexOf(snippetIdentifier);
   const endSnippetPos = text.indexOf(`<!-- END ${blockID} -->`);
@@ -44,4 +51,23 @@ const updateText = (
   };
 };
 
-export default updateText;
+export const updateTexts = (
+  originalText: string,
+  updates: TextUpdate[],
+): SingleTextUpdateResult => {
+  let text = originalText;
+  let hasChanges = false;
+  for (const item of updates) {
+    const { updatedText, hasChanges: itemHasChanges } = updateText({
+      blockID: item.blockID,
+      text,
+      update: item.update,
+    });
+    text = updatedText;
+    hasChanges = hasChanges || itemHasChanges;
+  }
+  return {
+    updatedText: text,
+    hasChanges: hasChanges,
+  };
+};

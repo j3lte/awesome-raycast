@@ -14,11 +14,10 @@ import { getSortedCategories, organizeByCategory } from "./utils/organize-by-cat
 import { parsePackages } from "./utils/parse-packages.ts";
 import { saveHistory } from "./utils/save-history.ts";
 import { generateUpdateTimeIcon, updateReadme } from "./utils/update-readme.ts";
-import updateText from "./utils/update-text.ts";
+import { updateText } from "./utils/update-text.ts";
 import { saveDocs } from "./utils/save-docs.ts";
 import { getIssues } from "./utils/get-issues.ts";
 
-const FORCE = Deno.args.includes("--force");
 const NOICONS = Deno.args.includes("--no-icons");
 
 await load({ export: true });
@@ -82,17 +81,11 @@ const readme = await Deno.readTextFile(README_FILE);
 
 const tableOfContents = `${toc}\n- [License](#license)`;
 
-const { updatedText, hasChanges, updateTimeIconPrefix } = updateReadme(
+const { updatedText, updateTimeIconPrefix } = updateReadme(
   readme,
   tableOfContents,
   statisticsContent,
 );
-
-// Check if we should exit early
-if (!hasChanges && !FORCE) {
-  console.log("No changes detected");
-  Deno.exit(0);
-}
 
 // Save history
 const HISTORY_FILE = import.meta.resolve("../data/history.json").replace("file://", "");
@@ -132,8 +125,12 @@ await saveDocs(categoryDocs, sortedCategories, updateTimeIconPrefix);
 // Generate graphs (also cleans the graphics/ folder)
 const graphSeed = await generateGraphs();
 
-// Inject graphs block into README (treated like UPDATETIME — not part of hasChanges)
-const { updatedText: finalText } = updateText("GRAPHS", updatedText, generateGraphsMarkdown(graphSeed));
+// Inject graphs block into README
+const { updatedText: finalText } = updateText({
+  blockID: "GRAPHS",
+  text: updatedText,
+  update: generateGraphsMarkdown(graphSeed),
+});
 
 // Generate icons (graphics/ already clean from generateGraphs, skip cleanDir)
 if (!NOICONS) {

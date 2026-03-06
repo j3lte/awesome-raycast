@@ -1,6 +1,6 @@
 # Other
 
-![Last update](../graphics/fed50e17106d480b_update-time.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/ed641c0bbb337485_update-time.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[Acqua](https://raycast.com/FezVrasta/acqua)** - Acqua helps you remember to regularly drink water. [`@FezVrasta`](https://raycast.com/FezVrasta) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+acqua%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+acqua%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/acqua) `api@^1.69.0` `utils@^1.4.8`
 - **[Active Mississaugua](https://raycast.com/Aayush9029/active-mississaugua)** - Explore activities for the city of Mississaugua in Ontario, Canada. [`@Aayush9029`](https://raycast.com/Aayush9029) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+active-mississaugua%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+active-mississaugua%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/active-mississaugua) `api@^1.38.2`

@@ -3,7 +3,7 @@ import { customAlphabet } from "nanoid";
 
 import type { Icon, UpdateResult } from "../types/internal.ts";
 
-import updateText from "./update-text.ts";
+import { updateTexts } from "./update-text.ts";
 
 const nanoid = customAlphabet("1234567890abcdef", 16);
 
@@ -18,30 +18,23 @@ export function updateReadme(
 ): UpdateResult {
   const prefix = nanoid();
 
-  // Update update time
-  const { updatedText: stage1 } = updateText(
-    "UPDATETIME",
-    readme,
-    `![Last update](graphics/${prefix}_update-time.svg)`,
-  );
-
-  // Update table of contents
-  const { updatedText: stage2, hasChanges: stage2Changes } = updateText(
-    "TABLE_OF_CONTENTS",
-    stage1,
-    tableOfContents,
-  );
-
-  // Update statistics
-  const { updatedText: stageFinal, hasChanges: stageFinalChanges } = updateText(
-    "STATISTICS",
-    stage2,
-    statisticsContent,
-  );
+  const { updatedText } = updateTexts(readme, [
+    {
+      blockID: "UPDATETIME",
+      update: `![Last update](graphics/${prefix}_update-time.svg)`,
+    },
+    {
+      blockID: "TABLE_OF_CONTENTS",
+      update: tableOfContents,
+    },
+    {
+      blockID: "STATISTICS",
+      update: statisticsContent,
+    },
+  ]);
 
   return {
-    updatedText: stageFinal,
-    hasChanges: stage2Changes || stageFinalChanges,
+    updatedText,
     updateTimeIconPrefix: prefix,
   };
 }

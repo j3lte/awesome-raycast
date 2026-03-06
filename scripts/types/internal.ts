@@ -60,7 +60,6 @@ export type MarkdownOutput = {
 
 export type UpdateResult = {
   updatedText: string;
-  hasChanges: boolean;
   updateTimeIconPrefix: string;
 };
 

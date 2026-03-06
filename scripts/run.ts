@@ -6,6 +6,7 @@ import type { PackageWithVersion } from "./types/internal.ts";
 import { collectApiVersions } from "./utils/collect-api-versions.ts";
 import { collectStatistics } from "./utils/collect-statistics.ts";
 import { discoverPackages } from "./utils/discover-packages.ts";
+import { generateGraphs } from "./utils/generate-graphs.ts";
 import { generateIcons } from "./utils/generate-icons.ts";
 import { generateMarkdown } from "./utils/generate-markdown.ts";
 import { generateStatisticsText } from "./utils/generate-statistics-text.ts";
@@ -123,6 +124,9 @@ await Deno.writeTextFile(
   API_VERSIONS_FILE,
   JSON.stringify(apiVersions),
 );
+
+// Generate graphs
+await generateGraphs();
 
 // Generate icons
 if (!NOICONS) {

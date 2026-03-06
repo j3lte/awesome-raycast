@@ -6,3 +6,6 @@ test.md
 _site/
 GITHUB_PAGES_SETUP.md
 assets/extension.json
+.claude/
+graphs/.seed
+graphs/*.svg

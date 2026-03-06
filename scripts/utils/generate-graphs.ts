@@ -402,6 +402,24 @@ ${barsEl}
 </svg>`;
 }
 
+// ─── Helpers ─────────────────────────────────────────────────────────────────
+
+/** For each calendar day keep only the latest entry, then sort ascending. */
+function deduplicateHistoryByDay(history: HistoryItem[]): HistoryItem[] {
+  const byDay = new Map<string, HistoryItem>();
+  for (const item of history) {
+    const d = new Date(item.timestamp);
+    const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${
+      String(d.getDate()).padStart(2, "0")
+    }`;
+    const existing = byDay.get(key);
+    if (!existing || item.timestamp > existing.timestamp) {
+      byDay.set(key, item);
+    }
+  }
+  return Array.from(byDay.values()).sort((a, b) => a.timestamp - b.timestamp);
+}
+
 // ─── Public entry point ───────────────────────────────────────────────────────
 
 export async function generateGraphs(seed: string, data: DataObject[]): Promise<void> {
@@ -411,6 +429,10 @@ export async function generateGraphs(seed: string, data: DataObject[]): Promise<
   const history: HistoryItem[] = JSON.parse(await Deno.readTextFile(historyFile));
   const apiVersions: ApiVersion[] = JSON.parse(await Deno.readTextFile(apiVersionsFile));
 
+  // Use one data point per day (latest entry) for line charts so intra-day
+  // local runs don't create noise spikes on the growth curves.
+  const dailyHistory = deduplicateHistoryByDay(history);
+
   await emptyDir(graphsFolder);
   await Deno.writeTextFile(`${graphsFolder}/.gitkeep`, "");
   await Deno.writeTextFile(`${graphsFolder}/.seed`, seed);
@@ -419,9 +441,9 @@ export async function generateGraphs(seed: string, data: DataObject[]): Promise<
   await Deno.writeTextFile(
     `${graphsFolder}/graph-packages-growth-${seed}.svg`,
     lineChart(
-      history,
+      dailyHistory,
       "Packages Growth Over Time",
-      [{ label: "Extensions", color: C.orange, gradId: "g1", data: history.map((h) => h.packages) }],
+      [{ label: "Extensions", color: C.orange, gradId: "g1", data: dailyHistory.map((h) => h.packages) }],
       "Extensions",
     ),
   );
@@ -430,11 +452,11 @@ export async function generateGraphs(seed: string, data: DataObject[]): Promise<
   await Deno.writeTextFile(
     `${graphsFolder}/graph-community-growth-${seed}.svg`,
     lineChart(
-      history,
+      dailyHistory,
       "Community Growth Over Time",
       [
-        { label: "Authors", color: C.blue, gradId: "g2", data: history.map((h) => h.authors) },
-        { label: "Contributors", color: C.purple, gradId: "g3", data: history.map((h) => h.contributors) },
+        { label: "Authors", color: C.blue, gradId: "g2", data: dailyHistory.map((h) => h.authors) },
+        { label: "Contributors", color: C.purple, gradId: "g3", data: dailyHistory.map((h) => h.contributors) },
       ],
       "People",
     ),

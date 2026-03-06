@@ -232,9 +232,17 @@ ${barsEl}
 // ─── Chart 5: API version distribution (dynamic height, HTML-only) ───────────
 
 function sortApiVersionsForDistribution(apiVersions: ApiVersion[]): ApiVersion[] {
-  // Parse semver parts, ignoring leading ^
-  const parts = (v: string) =>
-    v.replace(/^\^/, "").split(".").map((p) => parseInt(p, 10) || 0);
+  // Strip any leading range prefix (^, ~) before parsing semver parts
+  const stripPrefix = (v: string) => v.replace(/^[\^~]/, "");
+  const parts = (v: string) => stripPrefix(v).split(".").map((p) => parseInt(p, 10) || 0);
+
+  // Rank by prefix permissiveness: ^ (minor-compat) > ~ (patch-compat) > exact
+  // Higher rank = higher position in chart (rendered first after reverse)
+  const prefixRank = (v: string): number => {
+    if (v.startsWith("^")) return 2;
+    if (v.startsWith("~")) return 1;
+    return 0;
+  };
 
   return [...apiVersions].sort((a, b) => {
     const pa = parts(a.version);
@@ -243,13 +251,8 @@ function sortApiVersionsForDistribution(apiVersions: ApiVersion[]): ApiVersion[]
       const diff = (pa[i] || 0) - (pb[i] || 0);
       if (diff !== 0) return diff; // ascending by base semver
     }
-    // Same base version: ^ sorts above (higher) non-^
-    // In ascending sort, give ^ a higher value so it ends up above after reverse
-    const aHat = a.version.startsWith("^");
-    const bHat = b.version.startsWith("^");
-    if (aHat && !bHat) return 1;
-    if (!aHat && bHat) return -1;
-    return 0;
+    // Same base version: sort by prefix rank ascending so higher rank ends up on top after reverse
+    return prefixRank(a.version) - prefixRank(b.version);
   }).reverse(); // newest at index 0 → rendered at top of chart
 }
 

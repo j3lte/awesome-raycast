@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+<defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
+<rect width="800" height="400" fill="#ffffff" rx="12"/>
+<text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Platform Distribution (Current)</text>
+<path d="M 220.00 60.00 A 140 140 0 0 1 353.42 157.60 L 301.96 173.95 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
+<path d="M 353.42 157.60 A 140 140 0 0 1 292.20 319.95 L 264.35 273.68 A 86 86 0 0 0 301.96 173.95 Z" fill="#4F8EF7"/>
+<path d="M 292.20 319.95 A 140 140 0 0 1 286.32 323.30 L 260.74 275.74 A 86 86 0 0 0 264.35 273.68 Z" fill="#FF6363"/>
+<path d="M 286.32 323.30 A 140 140 0 1 1 220.00 60.00 L 220.00 114.00 A 86 86 0 1 0 260.74 275.74 Z" fill="#e5e7eb"/>
+<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">2,731</text>
+<text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
+<rect x="430" y="106" width="14" height="14" fill="#34C759" rx="3"/>
+<text x="450" y="117" font-size="13" font-weight="500" fill="#111827">macOS + Windows</text>
+<text x="450" y="133" font-size="11" fill="#6b7280">549 (20.1%)</text>
+<rect x="430" y="158" width="14" height="14" fill="#4F8EF7" rx="3"/>
+<text x="450" y="169" font-size="13" font-weight="500" fill="#111827">macOS only</text>
+<text x="450" y="185" font-size="11" fill="#6b7280">581 (21.3%)</text>
+<rect x="430" y="210" width="14" height="14" fill="#FF6363" rx="3"/>
+<text x="450" y="221" font-size="13" font-weight="500" fill="#111827">Windows only</text>
+<text x="450" y="237" font-size="11" fill="#6b7280">21 (0.8%)</text>
+<rect x="430" y="262" width="14" height="14" fill="#e5e7eb" rx="3"/>
+<text x="450" y="273" font-size="13" font-weight="500" fill="#111827">No platform set</text>
+<text x="450" y="289" font-size="11" fill="#6b7280">1,580 (57.9%)</text>
+</svg>

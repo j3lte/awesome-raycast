@@ -116,6 +116,7 @@ export async function generateMarkdown(
         d.hasAi ? "`ai`" : "",
         d.hasTools ? "`ai-tools`" : "",
         d.win && !d.mac ? "`Windows only`" : (d.win ? "`+Windows`" : ""),
+        d.latestUpdate ? `\`Last updated: ${d.latestUpdate.value}\`` : "",
       ].filter((s) => s && s.length > 0).join(" ").trim();
       categoryContent += `${line}\n`;
     }

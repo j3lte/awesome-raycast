@@ -5,7 +5,9 @@
     "run": "deno run -A scripts/run.ts",
     "run-local": "deno run --env-file -A scripts/run.ts",
     "run-local-dev": "deno run --env-file -A scripts/run.ts --no-issues",
-    "clean": "deno run -A scripts/clean.ts"
+    "clean": "deno run -A scripts/clean.ts",
+    "reset-local": "git restore data/ docs/ graphics/ README.md && git clean -fd graphics/",
+    "quick-local": "deno task reset-local && deno task run-local-dev"
   },
   "imports": {
     "@std/dotenv": "jsr:@std/dotenv@^0.225.6",

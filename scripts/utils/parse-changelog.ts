@@ -14,10 +14,14 @@ export async function parseChangelog(
   try {
     const changelogContent = await Deno.readTextFile(changelogPath);
 
-    // Match headers (## to ######) followed by text and ending with ` - yyyy-mm-dd`
-    // Pattern matches: ## [Something] - 2025-01-15 or ### [Update] - 2024-12-25
-    // The pattern looks for headers that end with ` - yyyy-mm-dd`
-    const datePattern = /^#{2,6}\s+.+?\s+-\s+(\d{4}-\d{2}-\d{2})\s*$/gm;
+    // Match headers (# to ######) followed by text and ending with a date
+    // Handles variations:
+    //   ## [Something] - 2025-01-15   (standard, with separator dash)
+    //   ## [Something] 2025-01-15     (no separator dash)
+    //   ## [Something] - (2025-01-15) (date wrapped in parentheses)
+    //   # [Something] - 2025-01-15    (level-1 heading)
+    //   [leading space] ## ...        (indented header)
+    const datePattern = /^\s*#{1,6}\s+.+?\s+(?:-\s+)?\(?(\d{4}-\d{2}-\d{2})\)?\s*$/gm;
 
     const dates: string[] = [];
     let match;
@@ -31,6 +35,7 @@ export async function parseChangelog(
     }
 
     if (dates.length === 0) {
+      console.warn(`No valid date found in changelog at ${changelogPath}`);
       return null;
     }
 

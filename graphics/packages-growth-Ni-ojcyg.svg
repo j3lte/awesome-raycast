@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+<defs>
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style>
+  <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#FF6363" stop-opacity="0.25"/>
+  <stop offset="100%" stop-color="#FF6363" stop-opacity="0"/>
+</linearGradient>
+  <clipPath id="ca"><rect x="72" y="45" width="698" height="295"/></clipPath>
+</defs>
+<rect width="800" height="400" fill="#ffffff" rx="12"/>
+<text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Packages Growth Over Time</text>
+<line x1="72" y1="340.0" x2="770" y2="340.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="344.0" text-anchor="end" font-size="11" fill="#6b7280">2.5k</text>
+<line x1="72" y1="281.0" x2="770" y2="281.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="285.0" text-anchor="end" font-size="11" fill="#6b7280">2.5k</text>
+<line x1="72" y1="222.0" x2="770" y2="222.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="226.0" text-anchor="end" font-size="11" fill="#6b7280">2.6k</text>
+<line x1="72" y1="163.0" x2="770" y2="163.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="167.0" text-anchor="end" font-size="11" fill="#6b7280">2.6k</text>
+<line x1="72" y1="104.0" x2="770" y2="104.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="108.0" text-anchor="end" font-size="11" fill="#6b7280">2.7k</text>
+<line x1="72" y1="45.0" x2="770" y2="45.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="49.0" text-anchor="end" font-size="11" fill="#6b7280">2.8k</text>
+<text x="72.0" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Dec 11</text>
+<text x="207.7" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Jan 5</text>
+<text x="353.1" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Jan 23</text>
+<text x="488.9" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Feb 6</text>
+<text x="634.3" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Feb 21</text>
+<text x="770.0" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Mar 6</text>
+<line x1="72" y1="45" x2="72" y2="340" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="72" y1="340" x2="770" y2="340" stroke="#e5e7eb" stroke-width="1"/>
+<text x="-192.5" y="18" text-anchor="middle" font-size="12" fill="#6b7280" transform="rotate(-90)">Extensions</text>
+<path d="M 72.0,340 L 72.0,315.4 L 81.7,314.4 L 91.4,314.4 L 101.1,311.5 L 110.8,311.5 L 120.5,309.6 L 130.2,307.6 L 139.9,306.6 L 149.6,301.8 L 159.3,297.9 L 168.9,297.9 L 178.6,297.9 L 188.3,297.9 L 198.0,295.9 L 207.7,295.9 L 217.4,295.9 L 227.1,294.0 L 236.8,290.1 L 246.5,283.2 L 256.2,278.3 L 265.9,276.4 L 275.6,275.4 L 285.3,271.5 L 295.0,259.8 L 304.7,255.9 L 314.4,255.9 L 324.1,246.2 L 333.8,243.2 L 343.4,239.3 L 353.1,236.4 L 362.8,230.5 L 372.5,225.7 L 382.2,224.7 L 391.9,216.9 L 401.6,210.1 L 411.3,210.1 L 421.0,205.2 L 430.7,201.3 L 440.4,200.3 L 450.1,199.3 L 459.8,198.4 L 469.5,195.4 L 479.2,177.9 L 488.9,170.1 L 498.6,166.2 L 508.3,164.2 L 517.9,161.3 L 527.6,154.5 L 537.3,152.5 L 547.0,150.6 L 556.7,144.7 L 566.4,142.7 L 576.1,140.8 L 585.8,140.8 L 595.5,123.2 L 605.2,121.3 L 614.9,119.3 L 624.6,115.4 L 634.3,110.6 L 644.0,110.6 L 653.7,102.8 L 663.4,90.1 L 673.1,88.1 L 682.8,89.1 L 692.4,86.2 L 702.1,85.2 L 711.8,85.2 L 721.5,79.3 L 731.2,74.5 L 740.9,72.5 L 750.6,70.6 L 760.3,69.6 L 770.0,70.6 L 770.0,340 Z" fill="url(#g1)" clip-path="url(#ca)"/>
+<path d="M 72.0,315.4 L 81.7,314.4 L 91.4,314.4 L 101.1,311.5 L 110.8,311.5 L 120.5,309.6 L 130.2,307.6 L 139.9,306.6 L 149.6,301.8 L 159.3,297.9 L 168.9,297.9 L 178.6,297.9 L 188.3,297.9 L 198.0,295.9 L 207.7,295.9 L 217.4,295.9 L 227.1,294.0 L 236.8,290.1 L 246.5,283.2 L 256.2,278.3 L 265.9,276.4 L 275.6,275.4 L 285.3,271.5 L 295.0,259.8 L 304.7,255.9 L 314.4,255.9 L 324.1,246.2 L 333.8,243.2 L 343.4,239.3 L 353.1,236.4 L 362.8,230.5 L 372.5,225.7 L 382.2,224.7 L 391.9,216.9 L 401.6,210.1 L 411.3,210.1 L 421.0,205.2 L 430.7,201.3 L 440.4,200.3 L 450.1,199.3 L 459.8,198.4 L 469.5,195.4 L 479.2,177.9 L 488.9,170.1 L 498.6,166.2 L 508.3,164.2 L 517.9,161.3 L 527.6,154.5 L 537.3,152.5 L 547.0,150.6 L 556.7,144.7 L 566.4,142.7 L 576.1,140.8 L 585.8,140.8 L 595.5,123.2 L 605.2,121.3 L 614.9,119.3 L 624.6,115.4 L 634.3,110.6 L 644.0,110.6 L 653.7,102.8 L 663.4,90.1 L 673.1,88.1 L 682.8,89.1 L 692.4,86.2 L 702.1,85.2 L 711.8,85.2 L 721.5,79.3 L 731.2,74.5 L 740.9,72.5 L 750.6,70.6 L 760.3,69.6 L 770.0,70.6" fill="none" stroke="#FF6363" stroke-width="2.5" stroke-linejoin="round" clip-path="url(#ca)"/>
+<rect x="351" y="369" width="12" height="12" fill="#FF6363" rx="2"/>
+<text x="367" y="379" font-size="12" fill="#111827">Extensions</text>
+</svg>

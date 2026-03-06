@@ -1,6 +1,6 @@
 # Uncategorized
 
-![Last update](../graphics/update-time-47672ec4047f4f72.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-6f57329c9214f10b.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[8 Ball](https://raycast.com/rocksack/8-ball)** - Returns an 8 ball like answer to questions [`@rocksack`](https://raycast.com/rocksack) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+8-ball%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+8-ball%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/8ball) `api@^1.102.0` `Last updated: 2025-08-14`
 - **[Airport - Discover TestFlight Apps](https://raycast.com/siddharthsharma94/airport)** - Airport is the best place to discover new TestFlight apps from developers. [`@siddharthsharma94`](https://raycast.com/siddharthsharma94) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+airport%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+airport%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airport) `api@^1.103.3` `Last updated: 2025-02-13`

@@ -1,6 +1,6 @@
 # Web
 
-![Last update](../graphics/update-time-47672ec4047f4f72.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-6f57329c9214f10b.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[@ Profile](https://raycast.com/chrismessina/at-profile)** - Quickly open profiles on social apps. [`@chrismessina`](https://raycast.com/chrismessina) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+at-profile%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+at-profile%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/at-profile) `api@^1.104.6` `utils@^2.2.2` `ai-tools` `Last updated: 2026-02-16`
 - **[Aimlab Tracker](https://raycast.com/Whitespace/aimlab)** - Track player profiles and leaderboards on Aimlab [`@Whitespace`](https://raycast.com/Whitespace) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+aimlab%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+aimlab%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aimlab) `api@^1.54.0` `utils@^1.1.0` `Last updated: 2023-09-04`

@@ -1,7 +1,7 @@
 # Awesome Raycast
 
 <!-- START UPDATETIME -->
-![Last update](graphics/update-time-47672ec4047f4f72.svg)
+![Last update](graphics/update-time-6f57329c9214f10b.svg)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -11,11 +11,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START GRAPHS -->
 <div align="center">
-<img src="graphics/graph-packages-growth-47672ec4047f4f72.svg" alt="Packages Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-community-growth-47672ec4047f4f72.svg" alt="Community Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-api-versions-47672ec4047f4f72.svg" alt="Top @raycast/api Versions" width="98%" /><br />
-<img src="graphics/graph-platform-distribution-47672ec4047f4f72.svg" alt="Platform Distribution" width="98%" /><br />
-<img src="graphics/graph-quarterly-updates-47672ec4047f4f72.svg" alt="Package Updates by Quarter" width="98%" /><br />
+<img src="graphics/graph-packages-growth-6f57329c9214f10b.svg" alt="Packages Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-community-growth-6f57329c9214f10b.svg" alt="Community Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-api-versions-6f57329c9214f10b.svg" alt="Top @raycast/api Versions" width="98%" /><br />
+<img src="graphics/graph-platform-distribution-6f57329c9214f10b.svg" alt="Platform Distribution" width="98%" /><br />
+<img src="graphics/graph-quarterly-updates-6f57329c9214f10b.svg" alt="Package Updates by Quarter" width="98%" /><br />
 </div>
 <!-- END GRAPHS -->
 

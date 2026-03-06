@@ -38,17 +38,17 @@
 <text x="247.9" y="259.3" text-anchor="middle" font-size="10" fill="#6b7280">94</text>
 <text x="247.9" y="271.3" text-anchor="middle" font-size="10" fill="#6b7280">(3.52%)</text>
 <g transform="translate(247.9,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2023-Q1</text></g>
-<rect x="276.1" y="275.3" width="27.1" height="44.7" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="289.7" y="259.3" text-anchor="middle" font-size="10" fill="#6b7280">94</text>
-<text x="289.7" y="271.3" text-anchor="middle" font-size="10" fill="#6b7280">(3.52%)</text>
+<rect x="276.1" y="275.8" width="27.1" height="44.2" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="289.7" y="259.8" text-anchor="middle" font-size="10" fill="#6b7280">93</text>
+<text x="289.7" y="271.8" text-anchor="middle" font-size="10" fill="#6b7280">(3.48%)</text>
 <g transform="translate(289.7,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2023-Q2</text></g>
 <rect x="317.9" y="277.2" width="27.1" height="42.8" fill="#34C759" rx="3" opacity="0.85"/>
 <text x="331.5" y="261.2" text-anchor="middle" font-size="10" fill="#6b7280">90</text>
 <text x="331.5" y="273.2" text-anchor="middle" font-size="10" fill="#6b7280">(3.37%)</text>
 <g transform="translate(331.5,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2023-Q3</text></g>
-<rect x="359.7" y="286.7" width="27.1" height="33.3" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="373.2" y="270.7" text-anchor="middle" font-size="10" fill="#6b7280">70</text>
-<text x="373.2" y="282.7" text-anchor="middle" font-size="10" fill="#6b7280">(2.62%)</text>
+<rect x="359.7" y="286.2" width="27.1" height="33.8" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="373.2" y="270.2" text-anchor="middle" font-size="10" fill="#6b7280">71</text>
+<text x="373.2" y="282.2" text-anchor="middle" font-size="10" fill="#6b7280">(2.66%)</text>
 <g transform="translate(373.2,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2023-Q4</text></g>
 <rect x="401.4" y="259.1" width="27.1" height="60.9" fill="#34C759" rx="3" opacity="0.85"/>
 <text x="415.0" y="243.1" text-anchor="middle" font-size="10" fill="#6b7280">128</text>

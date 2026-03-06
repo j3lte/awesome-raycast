@@ -135,8 +135,8 @@ interface DonutSegment {
 }
 
 function donutChart(title: string, segments: DonutSegment[]): string {
-  const W = 700, H = 380;
-  const cx = 220, cy = 195;
+  const W = 800, H = 400;
+  const cx = 220, cy = 200;
   const outerR = 140, innerR = 86;
   const total = segments.reduce((s, seg) => s + seg.value, 0);
 
@@ -161,7 +161,7 @@ function donutChart(title: string, segments: DonutSegment[]): string {
   const centerText = `<text x="${cx}" y="${cy - 10}" text-anchor="middle" font-size="28" font-weight="700" fill="${C.text}">${total.toLocaleString()}</text>
 <text x="${cx}" y="${cy + 14}" text-anchor="middle" font-size="12" fill="${C.sub}">extensions</text>`;
 
-  const legendX = 400;
+  const legendX = 430;
   const rowH = 52;
   const startY = cy - ((segments.length * rowH) / 2) + 10;
   const legend = segments.map((seg, i) => {

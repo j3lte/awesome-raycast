@@ -20,18 +20,22 @@ import { saveDocs } from "./utils/save-docs.ts";
 import { getIssues } from "./utils/get-issues.ts";
 
 const NOICONS = Deno.args.includes("--no-icons");
+const NOISSUES = Deno.args.includes("--no-issues");
 const seed = customAlphabet("1234567890abcdef", 16)();
 
 await load({ export: true });
 
-console.log("Getting issues...");
-const issues = await getIssues();
-console.log(`Got ${issues.length} issues`);
-
 const labels = new Map<string, number>();
-for (const issue of issues) {
-  for (const label of issue.labels || []) {
-    labels.set(label.name, (labels.get(label.name) || 0) + 1);
+if (NOISSUES) {
+  console.log("Skipping issues (--no-issues)");
+} else {
+  console.log("Getting issues...");
+  const issues = await getIssues();
+  console.log(`Got ${issues.length} issues`);
+  for (const issue of issues) {
+    for (const label of issue.labels || []) {
+      labels.set(label.name, (labels.get(label.name) || 0) + 1);
+    }
   }
 }
 

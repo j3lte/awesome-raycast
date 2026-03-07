@@ -1,6 +1,6 @@
 # Developer Tools
 
-![Last update](../graphics/update-time-64c4ee5e01025e98.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-28b3656846113eef.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[.NET API Browser](https://raycast.com/vcsjones/dotnet-api-browser)** - Quickly search the .NET API catalog. [`@vcsjones`](https://raycast.com/vcsjones) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+dotnet-api-browser%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+dotnet-api-browser%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotnet-api-browser) `api@^1.47.3` `utils@^1.4.8` `Last updated: 2023-02-22`
 - **[1 LOC - JavaScript Utilities in Single Line of Code](https://raycast.com/kud/1loc)** - Browse JavaScript Utilities from 1loc.dev [`@kud`](https://raycast.com/kud) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+1loc%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+1loc%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1loc) `api@^1.79.0` `utils@^1.18.1` `Last updated: 2025-01-12`

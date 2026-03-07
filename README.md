@@ -1,7 +1,7 @@
 # Awesome Raycast
 
 <!-- START UPDATETIME -->
-![Last update](graphics/update-time-64c4ee5e01025e98.svg)&nbsp;[![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml)
+![Last update](graphics/update-time-28b3656846113eef.svg)&nbsp;[![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -11,11 +11,11 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START GRAPHS -->
 <div align="center">
-<img src="graphics/graph-packages-growth-64c4ee5e01025e98.svg" alt="Packages Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-community-growth-64c4ee5e01025e98.svg" alt="Community Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-api-versions-64c4ee5e01025e98.svg" alt="Top @raycast/api Versions" width="98%" /><br />
-<img src="graphics/graph-platform-distribution-64c4ee5e01025e98.svg" alt="Platform Distribution" width="98%" /><br />
-<img src="graphics/graph-quarterly-updates-64c4ee5e01025e98.svg" alt="Package Updates by Quarter" width="98%" /><br />
+<img src="graphics/graph-packages-growth-28b3656846113eef.svg" alt="Packages Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-community-growth-28b3656846113eef.svg" alt="Community Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-api-versions-28b3656846113eef.svg" alt="Top @raycast/api Versions" width="98%" /><br />
+<img src="graphics/graph-platform-distribution-28b3656846113eef.svg" alt="Platform Distribution" width="98%" /><br />
+<img src="graphics/graph-quarterly-updates-28b3656846113eef.svg" alt="Package Updates by Quarter" width="98%" /><br />
 </div>
 <!-- END GRAPHS -->
 

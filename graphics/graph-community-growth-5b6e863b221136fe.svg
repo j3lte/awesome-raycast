@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+<defs>
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style>
+  <linearGradient id="g2" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#4F8EF7" stop-opacity="0.25"/>
+  <stop offset="100%" stop-color="#4F8EF7" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="g3" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#BF5AF2" stop-opacity="0.25"/>
+  <stop offset="100%" stop-color="#BF5AF2" stop-opacity="0"/>
+</linearGradient>
+  <clipPath id="ca"><rect x="72" y="45" width="698" height="295"/></clipPath>
+</defs>
+<rect width="800" height="400" fill="#ffffff" rx="12"/>
+<text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Community Growth Over Time</text>
+<line x1="72" y1="340.0" x2="770" y2="340.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="344.0" text-anchor="end" font-size="11" fill="#6b7280">908</text>
+<line x1="72" y1="281.0" x2="770" y2="281.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="285.0" text-anchor="end" font-size="11" fill="#6b7280">1.1k</text>
+<line x1="72" y1="222.0" x2="770" y2="222.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="226.0" text-anchor="end" font-size="11" fill="#6b7280">1.3k</text>
+<line x1="72" y1="163.0" x2="770" y2="163.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="167.0" text-anchor="end" font-size="11" fill="#6b7280">1.5k</text>
+<line x1="72" y1="104.0" x2="770" y2="104.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="108.0" text-anchor="end" font-size="11" fill="#6b7280">1.7k</text>
+<line x1="72" y1="45.0" x2="770" y2="45.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="49.0" text-anchor="end" font-size="11" fill="#6b7280">1.9k</text>
+<line x1="183.7" y1="45" x2="183.7" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<line x1="425.7" y1="45" x2="425.7" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<line x1="676.9" y1="45" x2="676.9" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<text x="72.0" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Dec 11</text>
+<text x="211.6" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Jan 6</text>
+<text x="351.2" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Jan 24</text>
+<text x="490.8" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Feb 8</text>
+<text x="630.4" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Feb 24</text>
+<text x="770.0" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Mar 12</text>
+<line x1="72" y1="45" x2="72" y2="340" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="72" y1="340" x2="770" y2="340" stroke="#e5e7eb" stroke-width="1"/>
+<text x="-192.5" y="18" text-anchor="middle" font-size="12" fill="#6b7280" transform="rotate(-90)">People</text>
+<path d="M 72.0,340 L 72.0,119.8 L 81.3,119.8 L 90.6,119.8 L 99.9,118.9 L 109.2,118.9 L 118.5,118.3 L 127.8,117.9 L 137.1,118.3 L 146.5,117.3 L 155.8,117.3 L 165.1,117.3 L 174.4,117.3 L 183.7,117.3 L 193.0,117.3 L 202.3,117.3 L 211.6,117.3 L 220.9,117.0 L 230.2,116.1 L 239.5,114.2 L 248.8,113.3 L 258.1,113.0 L 267.4,113.0 L 276.7,112.1 L 286.1,109.9 L 295.4,108.6 L 304.7,108.6 L 314.0,107.1 L 323.3,106.5 L 332.6,105.2 L 341.9,104.3 L 351.2,103.4 L 360.5,102.4 L 369.8,102.4 L 379.1,100.3 L 388.4,99.0 L 397.7,99.0 L 407.0,97.8 L 416.3,97.2 L 425.7,96.9 L 435.0,96.6 L 444.3,96.6 L 453.6,95.6 L 462.9,91.9 L 472.2,89.7 L 481.5,88.5 L 490.8,88.2 L 500.1,87.6 L 509.4,86.3 L 518.7,85.7 L 528.0,85.1 L 537.3,84.5 L 546.6,83.8 L 555.9,83.2 L 565.3,83.2 L 574.6,80.1 L 583.9,80.1 L 593.2,79.8 L 602.5,79.5 L 611.8,78.9 L 621.1,78.9 L 630.4,77.3 L 639.7,75.5 L 649.0,74.9 L 658.3,75.5 L 667.6,75.2 L 676.9,74.9 L 686.2,74.9 L 695.5,74.2 L 704.9,73.0 L 714.2,72.4 L 723.5,71.8 L 732.8,71.4 L 742.1,71.4 L 751.4,70.2 L 760.7,69.6 L 770.0,69.6 L 770.0,340 Z" fill="url(#g2)" clip-path="url(#ca)"/>
+<path d="M 72.0,119.8 L 81.3,119.8 L 90.6,119.8 L 99.9,118.9 L 109.2,118.9 L 118.5,118.3 L 127.8,117.9 L 137.1,118.3 L 146.5,117.3 L 155.8,117.3 L 165.1,117.3 L 174.4,117.3 L 183.7,117.3 L 193.0,117.3 L 202.3,117.3 L 211.6,117.3 L 220.9,117.0 L 230.2,116.1 L 239.5,114.2 L 248.8,113.3 L 258.1,113.0 L 267.4,113.0 L 276.7,112.1 L 286.1,109.9 L 295.4,108.6 L 304.7,108.6 L 314.0,107.1 L 323.3,106.5 L 332.6,105.2 L 341.9,104.3 L 351.2,103.4 L 360.5,102.4 L 369.8,102.4 L 379.1,100.3 L 388.4,99.0 L 397.7,99.0 L 407.0,97.8 L 416.3,97.2 L 425.7,96.9 L 435.0,96.6 L 444.3,96.6 L 453.6,95.6 L 462.9,91.9 L 472.2,89.7 L 481.5,88.5 L 490.8,88.2 L 500.1,87.6 L 509.4,86.3 L 518.7,85.7 L 528.0,85.1 L 537.3,84.5 L 546.6,83.8 L 555.9,83.2 L 565.3,83.2 L 574.6,80.1 L 583.9,80.1 L 593.2,79.8 L 602.5,79.5 L 611.8,78.9 L 621.1,78.9 L 630.4,77.3 L 639.7,75.5 L 649.0,74.9 L 658.3,75.5 L 667.6,75.2 L 676.9,74.9 L 686.2,74.9 L 695.5,74.2 L 704.9,73.0 L 714.2,72.4 L 723.5,71.8 L 732.8,71.4 L 742.1,71.4 L 751.4,70.2 L 760.7,69.6 L 770.0,69.6" fill="none" stroke="#4F8EF7" stroke-width="2.5" stroke-linejoin="round" clip-path="url(#ca)"/>
+<path d="M 72.0,340 L 72.0,315.4 L 81.3,314.5 L 90.6,314.5 L 99.9,314.5 L 109.2,314.2 L 118.5,313.6 L 127.8,313.2 L 137.1,312.9 L 146.5,312.9 L 155.8,312.6 L 165.1,312.3 L 174.4,312.3 L 183.7,312.3 L 193.0,312.3 L 202.3,312.3 L 211.6,312.3 L 220.9,311.7 L 230.2,311.7 L 239.5,311.7 L 248.8,310.5 L 258.1,310.1 L 267.4,309.5 L 276.7,308.3 L 286.1,308.0 L 295.4,308.0 L 304.7,308.0 L 314.0,307.0 L 323.3,306.4 L 332.6,306.4 L 341.9,305.8 L 351.2,305.5 L 360.5,304.9 L 369.8,304.9 L 379.1,304.6 L 388.4,303.3 L 397.7,302.4 L 407.0,301.8 L 416.3,301.5 L 425.7,301.5 L 435.0,301.2 L 444.3,300.5 L 453.6,300.5 L 462.9,300.2 L 472.2,299.3 L 481.5,298.7 L 490.8,298.7 L 500.1,298.7 L 509.4,298.7 L 518.7,298.4 L 528.0,297.4 L 537.3,296.8 L 546.6,296.5 L 555.9,296.2 L 565.3,295.9 L 574.6,295.6 L 583.9,295.3 L 593.2,295.0 L 602.5,294.0 L 611.8,293.7 L 621.1,293.4 L 630.4,292.2 L 639.7,290.9 L 649.0,290.9 L 658.3,290.6 L 667.6,290.3 L 676.9,290.3 L 686.2,290.3 L 695.5,289.7 L 704.9,289.7 L 714.2,287.8 L 723.5,287.5 L 732.8,287.2 L 742.1,287.2 L 751.4,286.6 L 760.7,286.3 L 770.0,286.3 L 770.0,340 Z" fill="url(#g3)" clip-path="url(#ca)"/>
+<path d="M 72.0,315.4 L 81.3,314.5 L 90.6,314.5 L 99.9,314.5 L 109.2,314.2 L 118.5,313.6 L 127.8,313.2 L 137.1,312.9 L 146.5,312.9 L 155.8,312.6 L 165.1,312.3 L 174.4,312.3 L 183.7,312.3 L 193.0,312.3 L 202.3,312.3 L 211.6,312.3 L 220.9,311.7 L 230.2,311.7 L 239.5,311.7 L 248.8,310.5 L 258.1,310.1 L 267.4,309.5 L 276.7,308.3 L 286.1,308.0 L 295.4,308.0 L 304.7,308.0 L 314.0,307.0 L 323.3,306.4 L 332.6,306.4 L 341.9,305.8 L 351.2,305.5 L 360.5,304.9 L 369.8,304.9 L 379.1,304.6 L 388.4,303.3 L 397.7,302.4 L 407.0,301.8 L 416.3,301.5 L 425.7,301.5 L 435.0,301.2 L 444.3,300.5 L 453.6,300.5 L 462.9,300.2 L 472.2,299.3 L 481.5,298.7 L 490.8,298.7 L 500.1,298.7 L 509.4,298.7 L 518.7,298.4 L 528.0,297.4 L 537.3,296.8 L 546.6,296.5 L 555.9,296.2 L 565.3,295.9 L 574.6,295.6 L 583.9,295.3 L 593.2,295.0 L 602.5,294.0 L 611.8,293.7 L 621.1,293.4 L 630.4,292.2 L 639.7,290.9 L 649.0,290.9 L 658.3,290.6 L 667.6,290.3 L 676.9,290.3 L 686.2,290.3 L 695.5,289.7 L 704.9,289.7 L 714.2,287.8 L 723.5,287.5 L 732.8,287.2 L 742.1,287.2 L 751.4,286.6 L 760.7,286.3 L 770.0,286.3" fill="none" stroke="#BF5AF2" stroke-width="2.5" stroke-linejoin="round" clip-path="url(#ca)"/>
+<text x="123.2" y="55.0" text-anchor="middle" font-size="9" fill="#4F8EF7" opacity="0.85" clip-path="url(#ca)">+0.5%</text>
+<text x="123.2" y="66.0" text-anchor="middle" font-size="9" fill="#BF5AF2" opacity="0.85" clip-path="url(#ca)">+1.0%</text>
+<text x="300.0" y="55.0" text-anchor="middle" font-size="9" fill="#4F8EF7" opacity="0.85" clip-path="url(#ca)">+4.0%</text>
+<text x="300.0" y="66.0" text-anchor="middle" font-size="9" fill="#BF5AF2" opacity="0.85" clip-path="url(#ca)">+3.5%</text>
+<text x="546.6" y="55.0" text-anchor="middle" font-size="9" fill="#4F8EF7" opacity="0.85" clip-path="url(#ca)">+4.1%</text>
+<text x="546.6" y="66.0" text-anchor="middle" font-size="9" fill="#BF5AF2" opacity="0.85" clip-path="url(#ca)">+3.5%</text>
+<text x="723.5" y="55.0" text-anchor="middle" font-size="9" fill="#4F8EF7" opacity="0.85" clip-path="url(#ca)">+1.0%</text>
+<text x="723.5" y="66.0" text-anchor="middle" font-size="9" fill="#BF5AF2" opacity="0.85" clip-path="url(#ca)">+1.2%</text>
+<rect x="281" y="369" width="12" height="12" fill="#4F8EF7" rx="2"/>
+<text x="297" y="379" font-size="12" fill="#111827">Authors</text>
+<rect x="421" y="369" width="12" height="12" fill="#BF5AF2" rx="2"/>
+<text x="437" y="379" font-size="12" fill="#111827">Contributors</text>
+<text x="72" y="394" font-size="8" fill="#e5e7eb">data since Dec 11, 2025</text>
+</svg>

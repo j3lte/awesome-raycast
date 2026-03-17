@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+<defs>
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style>
+  <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#FF6363" stop-opacity="0.25"/>
+  <stop offset="100%" stop-color="#FF6363" stop-opacity="0"/>
+</linearGradient>
+  <clipPath id="ca"><rect x="72" y="45" width="698" height="295"/></clipPath>
+</defs>
+<rect width="800" height="400" fill="#ffffff" rx="12"/>
+<text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Packages Growth Over Time</text>
+<line x1="72" y1="340.0" x2="770" y2="340.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="344.0" text-anchor="end" font-size="11" fill="#6b7280">2.4k</text>
+<line x1="72" y1="281.0" x2="770" y2="281.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="285.0" text-anchor="end" font-size="11" fill="#6b7280">2.5k</text>
+<line x1="72" y1="222.0" x2="770" y2="222.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="226.0" text-anchor="end" font-size="11" fill="#6b7280">2.6k</text>
+<line x1="72" y1="163.0" x2="770" y2="163.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="167.0" text-anchor="end" font-size="11" fill="#6b7280">2.7k</text>
+<line x1="72" y1="104.0" x2="770" y2="104.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="108.0" text-anchor="end" font-size="11" fill="#6b7280">2.7k</text>
+<line x1="72" y1="45.0" x2="770" y2="45.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="49.0" text-anchor="end" font-size="11" fill="#6b7280">2.8k</text>
+<line x1="176.7" y1="45" x2="176.7" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<line x1="403.6" y1="45" x2="403.6" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<line x1="639.1" y1="45" x2="639.1" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<text x="72.0" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Dec 11</text>
+<text x="211.6" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Jan 7</text>
+<text x="351.2" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Jan 26</text>
+<text x="490.8" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Feb 11</text>
+<text x="630.4" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Feb 28</text>
+<text x="770.0" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Mar 17</text>
+<line x1="72" y1="45" x2="72" y2="340" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="72" y1="340" x2="770" y2="340" stroke="#e5e7eb" stroke-width="1"/>
+<text x="-192.5" y="18" text-anchor="middle" font-size="12" fill="#6b7280" transform="rotate(-90)">Extensions</text>
+<path d="M 72.0,340 L 72.0,315.4 L 80.7,314.5 L 89.5,314.5 L 98.2,311.9 L 106.9,311.9 L 115.6,310.2 L 124.3,308.4 L 133.1,307.5 L 141.8,303.2 L 150.5,299.7 L 159.3,299.7 L 168.0,299.7 L 176.7,299.7 L 185.4,297.9 L 194.1,297.9 L 202.9,297.9 L 211.6,296.2 L 220.3,292.7 L 229.1,286.5 L 237.8,282.2 L 246.5,280.4 L 255.2,279.5 L 264.0,276.0 L 272.7,265.6 L 281.4,262.1 L 290.1,262.1 L 298.9,253.3 L 307.6,250.7 L 316.3,247.2 L 325.0,244.6 L 333.8,239.3 L 342.5,234.9 L 351.2,234.1 L 359.9,227.1 L 368.6,220.9 L 377.4,220.9 L 386.1,216.6 L 394.8,213.1 L 403.6,212.2 L 412.3,211.3 L 421.0,210.4 L 429.7,207.8 L 438.4,192.1 L 447.2,185.1 L 455.9,181.6 L 464.6,179.8 L 473.3,177.2 L 482.1,171.1 L 490.8,169.3 L 499.5,167.6 L 508.3,162.3 L 517.0,160.6 L 525.7,158.8 L 534.4,158.8 L 543.2,143.1 L 551.9,141.3 L 560.6,139.6 L 569.3,136.1 L 578.0,131.7 L 586.8,131.7 L 595.5,124.7 L 604.2,113.3 L 613.0,111.6 L 621.7,112.5 L 630.4,109.8 L 639.1,109.0 L 647.9,109.0 L 656.6,103.7 L 665.3,99.3 L 674.0,95.8 L 682.8,91.5 L 691.5,90.6 L 700.2,90.6 L 708.9,84.5 L 717.6,82.7 L 726.4,81.8 L 735.1,71.3 L 743.8,70.5 L 752.5,70.5 L 761.3,70.5 L 770.0,69.6 L 770.0,340 Z" fill="url(#g1)" clip-path="url(#ca)"/>
+<path d="M 72.0,315.4 L 80.7,314.5 L 89.5,314.5 L 98.2,311.9 L 106.9,311.9 L 115.6,310.2 L 124.3,308.4 L 133.1,307.5 L 141.8,303.2 L 150.5,299.7 L 159.3,299.7 L 168.0,299.7 L 176.7,299.7 L 185.4,297.9 L 194.1,297.9 L 202.9,297.9 L 211.6,296.2 L 220.3,292.7 L 229.1,286.5 L 237.8,282.2 L 246.5,280.4 L 255.2,279.5 L 264.0,276.0 L 272.7,265.6 L 281.4,262.1 L 290.1,262.1 L 298.9,253.3 L 307.6,250.7 L 316.3,247.2 L 325.0,244.6 L 333.8,239.3 L 342.5,234.9 L 351.2,234.1 L 359.9,227.1 L 368.6,220.9 L 377.4,220.9 L 386.1,216.6 L 394.8,213.1 L 403.6,212.2 L 412.3,211.3 L 421.0,210.4 L 429.7,207.8 L 438.4,192.1 L 447.2,185.1 L 455.9,181.6 L 464.6,179.8 L 473.3,177.2 L 482.1,171.1 L 490.8,169.3 L 499.5,167.6 L 508.3,162.3 L 517.0,160.6 L 525.7,158.8 L 534.4,158.8 L 543.2,143.1 L 551.9,141.3 L 560.6,139.6 L 569.3,136.1 L 578.0,131.7 L 586.8,131.7 L 595.5,124.7 L 604.2,113.3 L 613.0,111.6 L 621.7,112.5 L 630.4,109.8 L 639.1,109.0 L 647.9,109.0 L 656.6,103.7 L 665.3,99.3 L 674.0,95.8 L 682.8,91.5 L 691.5,90.6 L 700.2,90.6 L 708.9,84.5 L 717.6,82.7 L 726.4,81.8 L 735.1,71.3 L 743.8,70.5 L 752.5,70.5 L 761.3,70.5 L 770.0,69.6" fill="none" stroke="#FF6363" stroke-width="2.5" stroke-linejoin="round" clip-path="url(#ca)"/>
+<text x="120.0" y="55.0" text-anchor="middle" font-size="9" fill="#FF6363" opacity="0.85" clip-path="url(#ca)">+0.7%</text>
+<text x="285.8" y="55.0" text-anchor="middle" font-size="9" fill="#FF6363" opacity="0.85" clip-path="url(#ca)">+4.0%</text>
+<text x="517.0" y="55.0" text-anchor="middle" font-size="9" fill="#FF6363" opacity="0.85" clip-path="url(#ca)">+4.5%</text>
+<text x="704.6" y="55.0" text-anchor="middle" font-size="9" fill="#FF6363" opacity="0.85" clip-path="url(#ca)">+1.7%</text>
+<rect x="351" y="369" width="12" height="12" fill="#FF6363" rx="2"/>
+<text x="367" y="379" font-size="12" fill="#111827">Extensions</text>
+<text x="72" y="394" font-size="8" fill="#e5e7eb">data since Dec 11, 2025</text>
+</svg>

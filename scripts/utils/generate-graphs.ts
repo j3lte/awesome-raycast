@@ -28,6 +28,20 @@ function fmtShortDate(ts: number): string {
   return d.toLocaleString("en-US", { month: "short", day: "numeric" });
 }
 
+/** Pick a "nice" round number for axis tick spacing so labels never duplicate. */
+function niceNum(value: number, round: boolean): number {
+  if (value <= 0) return 1;
+  const exp = Math.floor(Math.log10(value));
+  const frac = value / Math.pow(10, exp);
+  let nice: number;
+  if (round) {
+    nice = frac <= 1.5 ? 1 : frac <= 3 ? 2 : frac <= 7 ? 5 : 10;
+  } else {
+    nice = frac <= 1 ? 1 : frac <= 2 ? 2 : frac <= 5 ? 5 : 10;
+  }
+  return nice * Math.pow(10, exp);
+}
+
 // ─── Chart 1 & 2: Generic multi-series line chart ────────────────────────────
 
 interface LineSeries {
@@ -52,19 +66,28 @@ function lineChart(
   const allY = series.flatMap((s) => s.data);
   const yMin = Math.min(...allY);
   const yMax = Math.max(...allY);
-  const yPad = (yMax - yMin) * 0.1;
-  const yd: [number, number] = [Math.max(0, yMin - yPad), yMax + yPad];
+  const rawRange = yMax - yMin;
+  const niceRange = niceNum(rawRange > 0 ? rawRange : Math.max(1, yMax * 0.1), false);
+  const yTickStep = niceNum(niceRange / 5, true);
+  const yd: [number, number] = [
+    Math.max(0, Math.floor(yMin / yTickStep) * yTickStep),
+    Math.ceil(yMax / yTickStep) * yTickStep,
+  ];
   const xd: [number, number] = [0, history.length - 1];
 
   const px = (i: number) => ox + lerp(i, xd, [0, cw]);
   const py = (v: number) => oy + ch - lerp(v, yd, [0, ch]);
 
-  // Horizontal grid lines
-  const yTickCount = 5;
-  const grid = Array.from({ length: yTickCount + 1 }, (_, i) => {
-    const val = yd[0] + (i / yTickCount) * (yd[1] - yd[0]);
+  // Horizontal grid lines — nice tick values to avoid duplicate labels
+  const yTicks: number[] = [];
+  for (let v = yd[0]; v <= yd[1] + yTickStep * 0.001; v += yTickStep) {
+    yTicks.push(Math.round(v));
+  }
+  const kDecimals = yTickStep >= 1000 ? 0
+    : Math.max(1, Math.ceil(-Math.log10(yTickStep / 1000) - 1e-9));
+  const grid = yTicks.map((val) => {
     const y = py(val).toFixed(1);
-    const label = val >= 1000 ? `${(val / 1000).toFixed(1)}k` : Math.round(val).toString();
+    const label = val >= 1000 ? `${(val / 1000).toFixed(kDecimals)}k` : val.toString();
     return `<line x1="${ox}" y1="${y}" x2="${ox + cw}" y2="${y}" stroke="${C.grid}" stroke-width="1"/>
 <text x="${ox - 6}" y="${(+y + 4).toFixed(1)}" text-anchor="end" font-size="11" fill="${C.sub}">${label}</text>`;
   }).join("\n");
@@ -94,10 +117,12 @@ function lineChart(
     return series.map((s, si) => {
       const startVal = s.data[startIdx] ?? 0;
       const endVal = s.data[endIdx] ?? 0;
-      const pct = startVal > 0 ? ((endVal - startVal) / startVal) * 100 : 0;
+      const diff = endVal - startVal;
+      const pct = startVal > 0 ? (diff / startVal) * 100 : 0;
       const sign = pct >= 0 ? "+" : "";
+      const diffSign = diff >= 0 ? "+" : "";
       const y = (oy + 10 + si * 11).toFixed(1);
-      return `<text x="${midX}" y="${y}" text-anchor="middle" font-size="9" fill="${s.color}" opacity="0.85" clip-path="url(#ca)">${sign}${pct.toFixed(1)}%</text>`;
+      return `<text x="${midX}" y="${y}" text-anchor="middle" font-size="9" fill="${s.color}" opacity="0.85" clip-path="url(#ca)">${sign}${pct.toFixed(1)}% (${diffSign}${Math.round(diff)})</text>`;
     });
   }).join("\n");
 
@@ -556,7 +581,7 @@ export async function generateGraphs(seed: string, data: DataObject[]): Promise<
   await Deno.writeTextFile(
     `${graphsFolder}/graph-quarterly-updates-${seed}.svg`,
     verticalBarChart(
-      "Package Updates by Quarter",
+      "Packages by Last Updated Quarter",
       quarterlyUpdatesData(data),
       "Number of packages",
       C.green,

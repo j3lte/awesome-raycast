@@ -1,6 +1,6 @@
 # Data
 
-![Last update](../graphics/update-time-65417be6792c3c1d.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-f22f03e6fcce9273.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[5Devs](https://raycast.com/gustavofior/5devs)** - Get realistic data for testing purposes. [`@gustavofior`](https://raycast.com/gustavofior) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+5devs%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+5devs%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/5devs) `api@^1.64.4` `utils@^1.16.2` `Last updated: 2024-11-15`
 - **[A Song of Ice and Fire](https://raycast.com/xmok/asoiaf)** - Explore Books, Characters and Houses in the ASOIAF/GoT Universe [`@xmok`](https://raycast.com/xmok) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+asoiaf%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+asoiaf%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asoiaf) `api@^1.73.2` `utils@^1.15.0` `Last updated: 2024-05-14`

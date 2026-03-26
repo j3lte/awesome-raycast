@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
+<defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
+<rect width="800" height="420" fill="#ffffff" rx="12"/>
+<text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Top Dependencies</text>
+<line x1="120" y1="45" x2="120" y2="375" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="120" y1="375" x2="740" y2="375" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="120.0" y1="45" x2="120.0" y2="375" stroke="#f3f4f6" stroke-width="1"/>
+<text x="120.0" y="391.0" text-anchor="middle" font-size="11" fill="#6b7280">0</text>
+<line x1="275.4" y1="45" x2="275.4" y2="375" stroke="#f3f4f6" stroke-width="1"/>
+<text x="275.4" y="391.0" text-anchor="middle" font-size="11" fill="#6b7280">102</text>
+<line x1="430.8" y1="45" x2="430.8" y2="375" stroke="#f3f4f6" stroke-width="1"/>
+<text x="430.8" y="391.0" text-anchor="middle" font-size="11" fill="#6b7280">204</text>
+<line x1="584.6" y1="45" x2="584.6" y2="375" stroke="#f3f4f6" stroke-width="1"/>
+<text x="584.6" y="391.0" text-anchor="middle" font-size="11" fill="#6b7280">305</text>
+<line x1="740.0" y1="45" x2="740.0" y2="375" stroke="#f3f4f6" stroke-width="1"/>
+<text x="740.0" y="391.0" text-anchor="middle" font-size="11" fill="#6b7280">407</text>
+<rect x="120" y="48.0" width="620.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="60.0" text-anchor="end" font-size="11" fill="#111827">node-fetch</text>
+<text x="745.0" y="60.0" font-size="11" fill="#6b7280">407</text>
+<rect x="120" y="70.0" width="336.7" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="82.0" text-anchor="end" font-size="11" fill="#111827">axios</text>
+<text x="461.7" y="82.0" font-size="11" fill="#6b7280">221</text>
+<rect x="120" y="92.0" width="207.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="104.0" text-anchor="end" font-size="11" fill="#111827">date-fns</text>
+<text x="332.2" y="104.0" font-size="11" fill="#6b7280">136</text>
+<rect x="120" y="114.0" width="181.3" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="126.0" text-anchor="end" font-size="11" fill="#111827">run-applescript</text>
+<text x="306.3" y="126.0" font-size="11" fill="#6b7280">119</text>
+<rect x="120" y="136.0" width="123.4" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="148.0" text-anchor="end" font-size="11" fill="#111827">lodash</text>
+<text x="248.4" y="148.0" font-size="11" fill="#6b7280">81</text>
+<rect x="120" y="158.0" width="103.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="170.0" text-anchor="end" font-size="11" fill="#111827">cheerio</text>
+<text x="228.6" y="170.0" font-size="11" fill="#6b7280">68</text>
+<rect x="120" y="180.0" width="92.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="192.0" text-anchor="end" font-size="11" fill="#111827">dayjs</text>
+<text x="217.9" y="192.0" font-size="11" fill="#6b7280">61</text>
+<rect x="120" y="202.0" width="82.3" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">nanoid</text>
+<text x="207.3" y="214.0" font-size="11" fill="#6b7280">54</text>
+<rect x="120" y="224.0" width="76.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="236.0" text-anchor="end" font-size="11" fill="#111827">uuid</text>
+<text x="201.2" y="236.0" font-size="11" fill="#6b7280">50</text>
+<rect x="120" y="246.0" width="74.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="258.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
+<text x="199.6" y="258.0" font-size="11" fill="#6b7280">49</text>
+<rect x="120" y="268.0" width="74.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="280.0" text-anchor="end" font-size="11" fill="#111827">cross-fetch</text>
+<text x="199.6" y="280.0" font-size="11" fill="#6b7280">49</text>
+<rect x="120" y="290.0" width="74.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="302.0" text-anchor="end" font-size="11" fill="#111827">fuse.js</text>
+<text x="199.6" y="302.0" font-size="11" fill="#6b7280">49</text>
+<rect x="120" y="312.0" width="62.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="324.0" text-anchor="end" font-size="11" fill="#111827">got</text>
+<text x="187.5" y="324.0" font-size="11" fill="#6b7280">41</text>
+<rect x="120" y="334.0" width="62.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="346.0" text-anchor="end" font-size="11" fill="#111827">moment</text>
+<text x="187.5" y="346.0" font-size="11" fill="#6b7280">41</text>
+<rect x="120" y="356.0" width="60.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="368.0" text-anchor="end" font-size="11" fill="#111827">react</text>
+<text x="185.9" y="368.0" font-size="11" fill="#6b7280">40</text>
+<text x="400" y="410" text-anchor="middle" font-size="12" fill="#6b7280">Number of extensions</text>
+</svg>

@@ -1,6 +1,6 @@
 # Fun
 
-![Last update](../graphics/update-time-807dfb39b1314c13.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-8d01e2a1b85d8cc8.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[1-Click Confetti](https://raycast.com/peduarte/1-click-confetti)** - Confetti Gun with just 1 click. [`@peduarte`](https://raycast.com/peduarte) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+1-click-confetti%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+1-click-confetti%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti) `api@^1.103.9` `utils@^2.2.2` `+Windows` `Last updated: 2025-12-01`
 - **[40 Questions - Yearly Reflection](https://raycast.com/dnnsmnstrr/40-questions)** - Questions to ask yourself at the end of each year [`@dnnsmnstrr`](https://raycast.com/dnnsmnstrr) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+40-questions%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+40-questions%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/40-questions) `api@^1.104.3` `utils@^2.2.2` `+Windows` `Last updated: 2026-01-23`

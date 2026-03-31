@@ -22,8 +22,7 @@ function isValidDateStr(dateStr: string, changelogPath?: string): boolean {
     return false;
   }
   const date = new Date(year, month - 1, day);
-  const valid =
-    date.getFullYear() === year &&
+  const valid = date.getFullYear() === year &&
     date.getMonth() === month - 1 &&
     date.getDate() === day;
   if (!valid) {

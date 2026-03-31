@@ -129,7 +129,10 @@ await Deno.writeTextFile(
 
 // Save dependency map
 const dependencyMap = collectDependencyMap(data);
-const DEPENDENCY_MAP_FILE = import.meta.resolve("../data/dependency-map.json").replace("file://", "");
+const DEPENDENCY_MAP_FILE = import.meta.resolve("../data/dependency-map.json").replace(
+  "file://",
+  "",
+);
 await Deno.writeTextFile(
   DEPENDENCY_MAP_FILE,
   JSON.stringify(dependencyMap),

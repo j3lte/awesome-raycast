@@ -5,7 +5,8 @@ import type { HistoryItem } from "./types/external.ts";
 import type { PackageWithVersion } from "./types/internal.ts";
 
 import { collectApiVersions } from "./utils/collect-api-versions.ts";
-import { collectDependencyMap } from "./utils/collect-dependency-map.ts";
+import { collectDependencyMaps } from "./utils/collect-dependency-map.ts";
+import { checkVulnerabilities } from "./utils/check-vulnerabilities.ts";
 import { collectStatistics } from "./utils/collect-statistics.ts";
 import { discoverPackages } from "./utils/discover-packages.ts";
 import { generateGraphs, generateGraphsMarkdown } from "./utils/generate-graphs.ts";
@@ -127,16 +128,35 @@ await Deno.writeTextFile(
   JSON.stringify(apiVersions),
 );
 
-// Save dependency map
-const dependencyMap = collectDependencyMap(data);
+// Save dependency maps
+const { deps: dependencyMap, devDeps: devDependencyMap } = collectDependencyMaps(data);
 const DEPENDENCY_MAP_FILE = import.meta.resolve("../data/dependency-map.json").replace(
   "file://",
   "",
 );
-await Deno.writeTextFile(
-  DEPENDENCY_MAP_FILE,
-  JSON.stringify(dependencyMap),
+const DEV_DEPENDENCY_MAP_FILE = import.meta.resolve("../data/dev-dependency-map.json").replace(
+  "file://",
+  "",
 );
+await Deno.writeTextFile(DEPENDENCY_MAP_FILE, JSON.stringify(dependencyMap));
+await Deno.writeTextFile(DEV_DEPENDENCY_MAP_FILE, JSON.stringify(devDependencyMap));
+
+// Check for vulnerabilities
+console.log("[run] Checking production dependencies for vulnerabilities...");
+const vulnerabilities = await checkVulnerabilities(dependencyMap);
+const VULNERABILITIES_FILE = import.meta.resolve("../data/vulnerabilities.json").replace(
+  "file://",
+  "",
+);
+await Deno.writeTextFile(VULNERABILITIES_FILE, JSON.stringify(vulnerabilities));
+
+console.log("[run] Checking dev dependencies for vulnerabilities...");
+const devVulnerabilities = await checkVulnerabilities(devDependencyMap);
+const DEV_VULNERABILITIES_FILE = import.meta.resolve("../data/dev-vulnerabilities.json").replace(
+  "file://",
+  "",
+);
+await Deno.writeTextFile(DEV_VULNERABILITIES_FILE, JSON.stringify(devVulnerabilities));
 
 // Save per-category docs
 await saveDocs(categoryDocs, sortedCategories, seed);

@@ -1,20 +1,21 @@
 import type { DataObject } from "../types/external.ts";
 
+export type DependencyMaps = {
+  deps: Record<string, string[]>;
+  devDeps: Record<string, string[]>;
+};
+
 /**
- * Builds a map of `package@version` to the list of extensions using that exact version.
- * Includes both dependencies and devDependencies, plus @raycast/api and @raycast/utils.
+ * Collects dependencies into a map of `package@version` to extension names.
  */
-export function collectDependencyMap(
+function buildMap(
   data: DataObject[],
+  getDeps: (ext: DataObject) => Record<string, string>,
 ): Record<string, string[]> {
   const map = new Map<string, string[]>();
 
   for (const ext of data) {
-    const allDeps: Record<string, string> = { ...ext.deps, ...ext.dev_deps };
-    if (ext.api) allDeps["@raycast/api"] = ext.api;
-    if (ext.utils) allDeps["@raycast/utils"] = ext.utils;
-
-    for (const [name, version] of Object.entries(allDeps)) {
+    for (const [name, version] of Object.entries(getDeps(ext))) {
       const key = `${name}@${version}`;
       if (!map.has(key)) {
         map.set(key, []);
@@ -23,7 +24,6 @@ export function collectDependencyMap(
     }
   }
 
-  // Sort extension lists and convert to a plain object sorted by key
   const sorted = Array.from(map.entries())
     .sort(([a], [b]) => a.localeCompare(b));
 
@@ -33,4 +33,21 @@ export function collectDependencyMap(
   }
 
   return result;
+}
+
+/**
+ * Builds separate dependency maps for production and dev dependencies.
+ * Production deps include @raycast/api and @raycast/utils.
+ */
+export function collectDependencyMaps(data: DataObject[]): DependencyMaps {
+  const deps = buildMap(data, (ext) => {
+    const d: Record<string, string> = { ...ext.deps };
+    if (ext.api) d["@raycast/api"] = ext.api;
+    if (ext.utils) d["@raycast/utils"] = ext.utils;
+    return d;
+  });
+
+  const devDeps = buildMap(data, (ext) => ext.dev_deps);
+
+  return { deps, devDeps };
 }

@@ -5,6 +5,7 @@ import type { HistoryItem } from "./types/external.ts";
 import type { PackageWithVersion } from "./types/internal.ts";
 
 import { collectApiVersions } from "./utils/collect-api-versions.ts";
+import { collectDependencyMap } from "./utils/collect-dependency-map.ts";
 import { collectStatistics } from "./utils/collect-statistics.ts";
 import { discoverPackages } from "./utils/discover-packages.ts";
 import { generateGraphs, generateGraphsMarkdown } from "./utils/generate-graphs.ts";
@@ -124,6 +125,14 @@ const API_VERSIONS_FILE = import.meta.resolve("../data/api-versions.json").repla
 await Deno.writeTextFile(
   API_VERSIONS_FILE,
   JSON.stringify(apiVersions),
+);
+
+// Save dependency map
+const dependencyMap = collectDependencyMap(data);
+const DEPENDENCY_MAP_FILE = import.meta.resolve("../data/dependency-map.json").replace("file://", "");
+await Deno.writeTextFile(
+  DEPENDENCY_MAP_FILE,
+  JSON.stringify(dependencyMap),
 );
 
 // Save per-category docs

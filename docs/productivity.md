@@ -1,6 +1,6 @@
 # Productivity
 
-![Last update](../graphics/update-time-b3e2d12af613f827.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-256f26b9b98e5451.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[1Bookmark](https://raycast.com/onebookmark/1bookmark)** - One Bookmark Solution for Teams and Personal Use. [`@onebookmark`](https://raycast.com/onebookmark) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+1bookmark%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+1bookmark%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1bookmark) `api@1.93.2` `utils@1.19.1` `Last updated: 2025-05-23`
 - **[2FA Code Finder](https://raycast.com/yuercl/imessage-2fa)** - View 2FA codes from iMessage and Email [`@yuercl`](https://raycast.com/yuercl) [`issues (11)`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+imessage-2fa%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+imessage-2fa%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/imessage-2fa) `api@1.93.2` `utils@1.19.1` `Last updated: 2025-12-17`

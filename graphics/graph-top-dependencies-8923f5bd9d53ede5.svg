@@ -32,9 +32,9 @@
 <rect x="120" y="158.0" width="104.4" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="170.0" text-anchor="end" font-size="11" fill="#111827">cheerio</text>
 <text x="229.4" y="170.0" font-size="11" fill="#6b7280">68</text>
-<rect x="120" y="180.0" width="93.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="180.0" width="95.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="192.0" text-anchor="end" font-size="11" fill="#111827">dayjs</text>
-<text x="218.6" y="192.0" font-size="11" fill="#6b7280">61</text>
+<text x="220.1" y="192.0" font-size="11" fill="#6b7280">62</text>
 <rect x="120" y="202.0" width="82.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">nanoid</text>
 <text x="207.9" y="214.0" font-size="11" fill="#6b7280">54</text>

@@ -21,6 +21,7 @@ export async function generateMarkdown(
   let toc = "- [Statistics](#statistics)\n- [Categories](#categories)";
   const data: DataObject[] = [];
   const categoryDocs = new Map<string, string>();
+  const missingChangelogs: string[] = [];
 
   for (const category of sortedCategories) {
     console.log(`[markdown] Processing category: ${category}`);
@@ -40,6 +41,10 @@ export async function generateMarkdown(
         latestUpdate = await parseChangelog(changelogPath);
       } catch (error) {
         console.error(`[markdown] Error processing changelog for package ${pkg.name}:`, error);
+      }
+
+      if (!latestUpdate) {
+        missingChangelogs.push(pkg.name);
       }
 
       const issues = issuesLabels.get(`extension: ${pkg.name}`) || 0;
@@ -122,6 +127,13 @@ export async function generateMarkdown(
     }
 
     categoryDocs.set(category, categoryContent);
+  }
+
+  if (missingChangelogs.length > 0) {
+    console.warn(`[markdown] ${missingChangelogs.length} extensions without a changelog:`);
+    for (const name of missingChangelogs) {
+      console.warn(`[markdown]   - ${name}`);
+    }
   }
 
   return { tableOfContents: toc, data, extensionIssueCount, categoryDocs };

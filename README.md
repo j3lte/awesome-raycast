@@ -1,7 +1,7 @@
 # Awesome Raycast
 
 <!-- START UPDATETIME -->
-![Last update](graphics/update-time-0e979c013209281a.svg)&nbsp;[![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml)
+![Last update](graphics/update-time-3e8144c06d92cb59.svg)&nbsp;[![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -13,15 +13,15 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 ## Graphs
 
 <div align="center">
-<img src="graphics/graph-packages-growth-0e979c013209281a.svg" alt="Packages Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-community-growth-0e979c013209281a.svg" alt="Community Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-platform-growth-0e979c013209281a.svg" alt="Platform Support Over Time" width="98%" /><br />
-<img src="graphics/graph-package-freshness-0e979c013209281a.svg" alt="Package Freshness" width="98%" /><br />
-<img src="graphics/graph-quarterly-updates-0e979c013209281a.svg" alt="Packages by Last Updated Quarter" width="98%" /><br />
-<img src="graphics/graph-contributor-distribution-0e979c013209281a.svg" alt="Contributor Distribution" width="98%" /><br />
-<img src="graphics/graph-top-dependencies-0e979c013209281a.svg" alt="Top Dependencies" width="98%" /><br />
-<img src="graphics/graph-api-versions-0e979c013209281a.svg" alt="Top @raycast/api Versions" width="98%" /><br />
-<img src="graphics/graph-platform-distribution-0e979c013209281a.svg" alt="Platform Distribution" width="98%" /><br />
+<img src="graphics/graph-packages-growth-3e8144c06d92cb59.svg" alt="Packages Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-community-growth-3e8144c06d92cb59.svg" alt="Community Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-platform-growth-3e8144c06d92cb59.svg" alt="Platform Support Over Time" width="98%" /><br />
+<img src="graphics/graph-package-freshness-3e8144c06d92cb59.svg" alt="Package Freshness" width="98%" /><br />
+<img src="graphics/graph-quarterly-updates-3e8144c06d92cb59.svg" alt="Packages by Last Updated Quarter" width="98%" /><br />
+<img src="graphics/graph-contributor-distribution-3e8144c06d92cb59.svg" alt="Contributor Distribution" width="98%" /><br />
+<img src="graphics/graph-top-dependencies-3e8144c06d92cb59.svg" alt="Top Dependencies" width="98%" /><br />
+<img src="graphics/graph-api-versions-3e8144c06d92cb59.svg" alt="Top @raycast/api Versions" width="98%" /><br />
+<img src="graphics/graph-platform-distribution-3e8144c06d92cb59.svg" alt="Platform Distribution" width="98%" /><br />
 </div>
 <!-- END GRAPHS -->
 
@@ -58,9 +58,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 - **2808** packages in **15** categories, **29** packages use Swift
 - **1824** authors, **1097** contributors (of which **832** are only contributors, not authors)
 - **7987** total commands (5469 view, 2287 no-view, 231 menu-bar)
-- **805** AI tools
-- **1551** packages have no platform selected (55.24%, macOS only)
-- **645** packages have macOS only (22.97%)
+- **806** AI tools
+- **1485** packages have no platform selected (52.88%, macOS only)
+- **711** packages have macOS only (25.32%)
 - **612** packages have Windows (21.79%), of which **21** packages have Windows only (0.75%)
 - Top **10** authors:
   - [xmok](https://raycast.com/xmok) (110)

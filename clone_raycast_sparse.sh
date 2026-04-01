@@ -63,15 +63,15 @@ cd "$DEST_DIR"
 git sparse-checkout init --cone
 
 # Set sparse-checkout to include package.json and .swift files
-echo "Setting up sparse-checkout to include package.json, .swift and CHANGELOG.md files..."
-git sparse-checkout set '**/package.json' '**/*.swift' '**/CHANGELOG.md' --skip-checks
+echo "Setting up sparse-checkout to include package.json, .swift and CHANGELOG.md/changelog.md files..."
+git sparse-checkout set '**/package.json' '**/*.swift' '**/CHANGELOG.md' '**/changelog.md' --skip-checks
 
 # ls-files
 echo "Listing the checked-out files..."
-git ls-files '**/package.json' '**/*.swift' '**/CHANGELOG.md' > checked_out_files.txt
+git ls-files '**/package.json' '**/*.swift' '**/CHANGELOG.md' '**/changelog.md' > checked_out_files.txt
 
 git sparse-checkout set $(cat checked_out_files.txt) --skip-checks
 
 echo "======= NOTE ======="
-echo "The repository has been cloned with package.json, Swift, and CHANGELOG.md files."
+echo "The repository has been cloned with package.json, Swift, and CHANGELOG.md/changelog.md files."
 echo "===================="

@@ -35,12 +35,15 @@ export async function generateMarkdown(
     const sorted = pkgs.sort((a, b) => a.title.localeCompare(b.title));
 
     for (const pkg of sorted) {
-      const changelogPath = `${repoPath}${pkg.path}/CHANGELOG.md`;
       let latestUpdate: { value: string; timestamp: number } | null = null;
-      try {
-        latestUpdate = await parseChangelog(changelogPath);
-      } catch (error) {
-        console.error(`[markdown] Error processing changelog for package ${pkg.name}:`, error);
+      for (const changelogName of ["CHANGELOG.md", "changelog.md"]) {
+        const changelogPath = `${repoPath}${pkg.path}/${changelogName}`;
+        try {
+          latestUpdate = await parseChangelog(changelogPath);
+        } catch (error) {
+          // ignore, try next name
+        }
+        if (latestUpdate) break;
       }
 
       if (!latestUpdate) {

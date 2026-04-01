@@ -1,0 +1,28 @@
+name: Generate Readme (Dry-Run)
+
+on: workflow_dispatch
+
+permissions:
+  contents: read
+
+jobs:
+  main:
+    name: Generate Readme (Dry-Run)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Clone Raycast Extensions
+        run: |
+          chmod +x ./clone_raycast_sparse.sh
+          ./clone_raycast_sparse.sh --repo https://github.com/raycast/extensions.git
+
+      - uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.7.4
+
+      - name: Generate Readme
+        run: deno task run
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

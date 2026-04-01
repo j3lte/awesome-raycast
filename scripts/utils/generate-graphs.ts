@@ -1,4 +1,5 @@
 import { emptyDir } from "@std/fs";
+import { resolvePath } from "./helpers.ts";
 
 import type { ApiVersion, DataObject, HistoryItem } from "../types/external.ts";
 import { C } from "./graphs/shared.ts";
@@ -9,7 +10,7 @@ import { barChart } from "./graphs/bar-chart.ts";
 import { verticalBarChart } from "./graphs/vertical-bar-chart.ts";
 import { apiDistributionChart } from "./graphs/api-distribution-chart.ts";
 
-const graphsFolder = import.meta.resolve("../../graphics").replace("file://", "");
+const graphsFolder = resolvePath(import.meta.resolve("../../graphics"));
 
 // ─── Data helpers ─────────────────────────────────────────────────────────────
 
@@ -145,11 +146,8 @@ function stalePackagesData(data: DataObject[]) {
 // ─── Public entry point ───────────────────────────────────────────────────────
 
 export async function generateGraphs(seed: string, data: DataObject[]): Promise<void> {
-  const historyFile = import.meta.resolve("../../data/history.json").replace("file://", "");
-  const apiVersionsFile = import.meta.resolve("../../data/api-versions.json").replace(
-    "file://",
-    "",
-  );
+  const historyFile = resolvePath(import.meta.resolve("../../data/history.json"));
+  const apiVersionsFile = resolvePath(import.meta.resolve("../../data/api-versions.json"));
 
   const history: HistoryItem[] = JSON.parse(await Deno.readTextFile(historyFile));
   const apiVersions: ApiVersion[] = JSON.parse(await Deno.readTextFile(apiVersionsFile));

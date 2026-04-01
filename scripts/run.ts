@@ -20,6 +20,7 @@ import { generateUpdateTimeIcon, updateReadme } from "./utils/update-readme.ts";
 import { updateText } from "./utils/update-text.ts";
 import { saveDocs } from "./utils/save-docs.ts";
 import { getIssues } from "./utils/get-issues.ts";
+import { resolvePath } from "./utils/helpers.ts";
 
 const NOICONS = Deno.args.includes("--no-icons");
 const NOISSUES = Deno.args.includes("--no-issues");
@@ -44,7 +45,7 @@ if (NOISSUES) {
 // Get the correct path to the extensions folder
 const repoPath = Deno.env.get("REPO_PATH")
   ? `${Deno.env.get("REPO_PATH")}/extensions`
-  : import.meta.resolve("../repo/extensions").replace("file://", "");
+  : resolvePath(import.meta.resolve("../repo/extensions"));
 
 // Discover all packages
 const { packages, swiftPackages } = await discoverPackages(repoPath);
@@ -84,7 +85,7 @@ const statisticsContent = generateStatisticsText(
 );
 
 // Update README
-const README_FILE = import.meta.resolve("../README.md").replace("file://", "");
+const README_FILE = resolvePath(import.meta.resolve("../README.md"));
 const readme = await Deno.readTextFile(README_FILE);
 
 const tableOfContents = `${toc}\n- [License](#license)`;
@@ -97,7 +98,7 @@ const updatedText = updateReadme(
 );
 
 // Save history
-const HISTORY_FILE = import.meta.resolve("../data/history.json").replace("file://", "");
+const HISTORY_FILE = resolvePath(import.meta.resolve("../data/history.json"));
 const historyItem: HistoryItem = {
   timestamp: Date.now(),
   packages: packages.length,
@@ -115,14 +116,14 @@ const historyItem: HistoryItem = {
 await saveHistory(HISTORY_FILE, historyItem);
 
 // Save data
-const DATA_FILE = import.meta.resolve("../data/data.json").replace("file://", "");
+const DATA_FILE = resolvePath(import.meta.resolve("../data/data.json"));
 await Deno.writeTextFile(
   DATA_FILE,
   JSON.stringify(data.sort((a, b) => a.name.localeCompare(b.name))),
 );
 
 // Save API versions
-const API_VERSIONS_FILE = import.meta.resolve("../data/api-versions.json").replace("file://", "");
+const API_VERSIONS_FILE = resolvePath(import.meta.resolve("../data/api-versions.json"));
 await Deno.writeTextFile(
   API_VERSIONS_FILE,
   JSON.stringify(apiVersions),
@@ -130,32 +131,20 @@ await Deno.writeTextFile(
 
 // Save dependency maps
 const { deps: dependencyMap, devDeps: devDependencyMap } = collectDependencyMaps(data);
-const DEPENDENCY_MAP_FILE = import.meta.resolve("../data/dependency-map.json").replace(
-  "file://",
-  "",
-);
-const DEV_DEPENDENCY_MAP_FILE = import.meta.resolve("../data/dev-dependency-map.json").replace(
-  "file://",
-  "",
-);
+const DEPENDENCY_MAP_FILE = resolvePath(import.meta.resolve("../data/dependency-map.json"));
+const DEV_DEPENDENCY_MAP_FILE = resolvePath(import.meta.resolve("../data/dev-dependency-map.json"));
 await Deno.writeTextFile(DEPENDENCY_MAP_FILE, JSON.stringify(dependencyMap));
 await Deno.writeTextFile(DEV_DEPENDENCY_MAP_FILE, JSON.stringify(devDependencyMap));
 
 // Check for vulnerabilities
 console.log("[run] Checking production dependencies for vulnerabilities...");
 const vulnerabilities = await checkVulnerabilities(dependencyMap);
-const VULNERABILITIES_FILE = import.meta.resolve("../data/vulnerabilities.json").replace(
-  "file://",
-  "",
-);
+const VULNERABILITIES_FILE = resolvePath(import.meta.resolve("../data/vulnerabilities.json"));
 await Deno.writeTextFile(VULNERABILITIES_FILE, JSON.stringify(vulnerabilities));
 
 console.log("[run] Checking dev dependencies for vulnerabilities...");
 const devVulnerabilities = await checkVulnerabilities(devDependencyMap);
-const DEV_VULNERABILITIES_FILE = import.meta.resolve("../data/dev-vulnerabilities.json").replace(
-  "file://",
-  "",
-);
+const DEV_VULNERABILITIES_FILE = resolvePath(import.meta.resolve("../data/dev-vulnerabilities.json"));
 await Deno.writeTextFile(DEV_VULNERABILITIES_FILE, JSON.stringify(devVulnerabilities));
 
 // Save per-category docs

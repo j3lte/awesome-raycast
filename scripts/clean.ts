@@ -1,7 +1,8 @@
 import { emptyDir } from "@std/fs";
+import { resolvePath } from "./utils/helpers.ts";
 import { updateTexts } from "./utils/update-text.ts";
 
-const README_FILE = import.meta.resolve("../README.md").replace("file://", "");
+const README_FILE = resolvePath(import.meta.resolve("../README.md"));
 const readme = await Deno.readTextFile(README_FILE);
 
 const { updatedText } = updateTexts(readme, [
@@ -13,6 +14,6 @@ const { updatedText } = updateTexts(readme, [
 
 await Deno.writeTextFile(README_FILE, updatedText);
 
-const graphicsFolder = import.meta.resolve("../graphics").replace("file://", "");
+const graphicsFolder = resolvePath(import.meta.resolve("../graphics"));
 await emptyDir(graphicsFolder);
 await Deno.writeTextFile(`${graphicsFolder}/.gitkeep`, "");

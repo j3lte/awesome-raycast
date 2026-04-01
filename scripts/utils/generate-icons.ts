@@ -1,9 +1,10 @@
 import { emptyDir } from "@std/fs";
+import { resolvePath } from "./helpers.ts";
 import { makeBadge } from "badge-maker";
 
 import type { Icon } from "../types/internal.ts";
 
-const iconsFolder = import.meta.resolve("../../graphics").replace("file://", "");
+const iconsFolder = resolvePath(import.meta.resolve("../../graphics"));
 
 export async function generateIcons(icons: Icon[], cleanDir = false) {
   try {

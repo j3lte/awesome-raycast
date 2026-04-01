@@ -1,8 +1,9 @@
 import { emptyDir, ensureDir } from "@std/fs";
+import { resolvePath } from "./helpers.ts";
 
 import { categoryToSlug } from "./generate-markdown.ts";
 
-const docsFolder = import.meta.resolve("../../docs").replace("file://", "");
+const docsFolder = resolvePath(import.meta.resolve("../../docs"));
 
 const REPO_URL = "https://github.com/j3lte/awesome-raycast";
 

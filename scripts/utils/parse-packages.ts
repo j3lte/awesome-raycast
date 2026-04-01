@@ -75,8 +75,10 @@ export async function parsePackage(
     pkgFile.categories = [pkgFile.categories[0]];
   }
 
-  // Set path relative to repo
-  pkgFile.path = pkgPath.replace(repoPath, "").replace("/package.json", "");
+  // Set path relative to repo (normalize separators for Windows compatibility)
+  const normalizedPkgPath = pkgPath.replaceAll("\\", "/");
+  const normalizedRepoPath = repoPath.replaceAll("\\", "/");
+  pkgFile.path = normalizedPkgPath.replace(normalizedRepoPath, "").replace("/package.json", "");
 
   // Resolve exact versions from package-lock.json
   const lockPath = pkgPath.replace("package.json", "package-lock.json");

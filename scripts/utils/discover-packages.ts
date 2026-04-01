@@ -18,7 +18,7 @@ export async function discoverPackages(
       entry.folders && entry.folders.map((f) => f.name).includes("swift") ||
       entry.files && entry.files.find((f) => f.name === "Package.swift")
     ) {
-      const swiftPkg = entry.dir.replace(repoPath, "");
+      const swiftPkg = entry.dir.replaceAll("\\", "/").replace(repoPath.replaceAll("\\", "/"), "");
       swiftPackages.add(swiftPkg.startsWith("/") ? swiftPkg.slice(1) : swiftPkg);
     }
 

@@ -1,6 +1,7 @@
 .DS_Store
 misc/
 repo/
+fork/
 test.md
 .env
 _site/

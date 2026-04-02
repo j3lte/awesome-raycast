@@ -1,6 +1,6 @@
 # Media
 
-![Last update](../graphics/update-time-8923f5bd9d53ede5.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-ef2eb007a379f0fb.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[AG AudioFlow](https://raycast.com/adigold1/ag-audioflow)** - Professional audio editing and processing suite with advanced features [`@adigold1`](https://raycast.com/adigold1) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+ag-audioflow%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+ag-audioflow%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ag-audioflow) `api@1.102.3` `utils@2.2.0` `Last updated: 2025-08-07`
 - **[AirPods Noise Control](https://raycast.com/chrahe/airpods-noise-control)** - Switch between Off, Transparency, Adaptive or Noise Cancellation on your AirPods. Toggle Conversation Awareness on AirPods that support it. [`@chrahe`](https://raycast.com/chrahe) [`issues (4)`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+airpods-noise-control%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+airpods-noise-control%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/airpods-noise-control) `api@1.62.2` `utils@1.10.1` `Last updated: 2025-12-08`

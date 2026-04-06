@@ -1,7 +1,7 @@
 # Awesome Raycast
 
 <!-- START UPDATETIME -->
-![Last update](graphics/update-time-0bb92e0fab1a09db.svg)&nbsp;[![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml)
+![Last update](graphics/update-time-57b9b53b07a1aeda.svg)&nbsp;[![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -13,15 +13,15 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 ## Graphs
 
 <div align="center">
-<img src="graphics/graph-packages-growth-0bb92e0fab1a09db.svg" alt="Packages Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-community-growth-0bb92e0fab1a09db.svg" alt="Community Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-platform-growth-0bb92e0fab1a09db.svg" alt="Platform Support Over Time" width="98%" /><br />
-<img src="graphics/graph-package-freshness-0bb92e0fab1a09db.svg" alt="Package Freshness" width="98%" /><br />
-<img src="graphics/graph-quarterly-updates-0bb92e0fab1a09db.svg" alt="Packages by Last Updated Quarter" width="98%" /><br />
-<img src="graphics/graph-contributor-distribution-0bb92e0fab1a09db.svg" alt="Contributor Distribution" width="98%" /><br />
-<img src="graphics/graph-top-dependencies-0bb92e0fab1a09db.svg" alt="Top Dependencies" width="98%" /><br />
-<img src="graphics/graph-api-versions-0bb92e0fab1a09db.svg" alt="Top @raycast/api Versions" width="98%" /><br />
-<img src="graphics/graph-platform-distribution-0bb92e0fab1a09db.svg" alt="Platform Distribution" width="98%" /><br />
+<img src="graphics/graph-packages-growth-57b9b53b07a1aeda.svg" alt="Packages Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-community-growth-57b9b53b07a1aeda.svg" alt="Community Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-platform-growth-57b9b53b07a1aeda.svg" alt="Platform Support Over Time" width="98%" /><br />
+<img src="graphics/graph-package-freshness-57b9b53b07a1aeda.svg" alt="Package Freshness" width="98%" /><br />
+<img src="graphics/graph-quarterly-updates-57b9b53b07a1aeda.svg" alt="Packages by Last Updated Quarter" width="98%" /><br />
+<img src="graphics/graph-contributor-distribution-57b9b53b07a1aeda.svg" alt="Contributor Distribution" width="98%" /><br />
+<img src="graphics/graph-top-dependencies-57b9b53b07a1aeda.svg" alt="Top Dependencies" width="98%" /><br />
+<img src="graphics/graph-api-versions-57b9b53b07a1aeda.svg" alt="Top @raycast/api Versions" width="98%" /><br />
+<img src="graphics/graph-platform-distribution-57b9b53b07a1aeda.svg" alt="Platform Distribution" width="98%" /><br />
 </div>
 <!-- END GRAPHS -->
 

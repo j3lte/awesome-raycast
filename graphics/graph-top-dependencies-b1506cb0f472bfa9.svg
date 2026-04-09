@@ -38,9 +38,9 @@
 <rect x="120" y="202.0" width="83.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">nanoid</text>
 <text x="208.1" y="214.0" font-size="11" fill="#6b7280">54</text>
-<rect x="120" y="224.0" width="76.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="224.0" width="78.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="236.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
-<text x="201.9" y="236.0" font-size="11" fill="#6b7280">50</text>
+<text x="203.5" y="236.0" font-size="11" fill="#6b7280">51</text>
 <rect x="120" y="246.0" width="76.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="258.0" text-anchor="end" font-size="11" fill="#111827">uuid</text>
 <text x="201.9" y="258.0" font-size="11" fill="#6b7280">50</text>

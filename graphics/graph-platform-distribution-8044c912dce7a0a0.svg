@@ -2,18 +2,18 @@
 <defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
 <rect width="800" height="400" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Platform Distribution (Current)</text>
-<path d="M 220.00 60.00 A 140 140 0 0 1 356.19 167.57 L 303.66 180.08 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
-<path d="M 356.19 167.57 A 140 140 0 0 1 235.05 339.19 L 229.25 285.50 A 86 86 0 0 0 303.66 180.08 Z" fill="#4F8EF7"/>
-<path d="M 235.05 339.19 A 140 140 0 0 1 227.92 339.78 L 224.87 285.86 A 86 86 0 0 0 229.25 285.50 Z" fill="#FF6363"/>
-<path d="M 227.92 339.78 A 140 140 0 1 1 220.00 60.00 L 220.00 114.00 A 86 86 0 1 0 224.87 285.86 Z" fill="#e5e7eb"/>
-<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">2,829</text>
+<path d="M 220.00 60.00 A 140 140 0 0 1 356.16 167.44 L 303.64 180.00 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
+<path d="M 356.16 167.44 A 140 140 0 0 1 234.73 339.22 L 229.05 285.52 A 86 86 0 0 0 303.64 180.00 Z" fill="#4F8EF7"/>
+<path d="M 234.73 339.22 A 140 140 0 0 1 227.61 339.79 L 224.67 285.87 A 86 86 0 0 0 229.05 285.52 Z" fill="#FF6363"/>
+<path d="M 227.61 339.79 A 140 140 0 1 1 220.00 60.00 L 220.00 114.00 A 86 86 0 1 0 224.67 285.87 Z" fill="#e5e7eb"/>
+<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">2,831</text>
 <text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
 <rect x="430" y="106" width="14" height="14" fill="#34C759" rx="3"/>
 <text x="450" y="117" font-size="13" font-weight="500" fill="#111827">macOS + Windows</text>
 <text x="450" y="133" font-size="11" fill="#6b7280">602 (21.3%)</text>
 <rect x="430" y="158" width="14" height="14" fill="#4F8EF7" rx="3"/>
 <text x="450" y="169" font-size="13" font-weight="500" fill="#111827">macOS only</text>
-<text x="450" y="185" font-size="11" fill="#6b7280">764 (27.0%)</text>
+<text x="450" y="185" font-size="11" fill="#6b7280">766 (27.1%)</text>
 <rect x="430" y="210" width="14" height="14" fill="#FF6363" rx="3"/>
 <text x="450" y="221" font-size="13" font-weight="500" fill="#111827">Windows only</text>
 <text x="450" y="237" font-size="11" fill="#6b7280">23 (0.8%)</text>

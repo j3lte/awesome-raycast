@@ -1,6 +1,6 @@
 # Documentation
 
-![Last update](../graphics/update-time-8044c912dce7a0a0.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-6164cf79cb847ca5.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[.NET Documentation Search](https://raycast.com/huseyint/dotnet-docs-search)** - Search .NET API documentation. [`@huseyint`](https://raycast.com/huseyint) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+dotnet-docs-search%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+dotnet-docs-search%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dotnet-docs-search) `api@1.44.0` `Last updated: 2026-03-16`
 - **[AdonisJS Documentation](https://raycast.com/craigharman/adonisjs-documentation)** - Access AdonisJS documentation from within Raycast [`@craigharman`](https://raycast.com/craigharman) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+adonisjs-documentation%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+adonisjs-documentation%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adonisjs-documentation) `api@1.76.0` `Last updated: 2024-06-16`

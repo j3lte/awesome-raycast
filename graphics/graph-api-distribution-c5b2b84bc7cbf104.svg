@@ -2,7 +2,7 @@
 <defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
 <rect width="800" height="4328" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">@raycast/api Version Distribution</text>
-<text x="400" y="44" text-anchor="middle" font-size="11" fill="#6b7280">newest at top · 2,833 total extensions</text>
+<text x="400" y="44" text-anchor="middle" font-size="11" fill="#6b7280">newest at top · 2,834 total extensions</text>
 <line x1="90" y1="58" x2="90" y2="4278" stroke="#e5e7eb" stroke-width="1"/>
 <line x1="90" y1="4278" x2="660" y2="4278" stroke="#e5e7eb" stroke-width="1"/>
 <line x1="90.0" y1="58" x2="90.0" y2="4278" stroke="#f3f4f6" stroke-width="1"/>
@@ -18,9 +18,9 @@
 <rect x="90" y="61.5" width="171.2" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="72.0" text-anchor="end" font-size="10" fill="#111827">1.104.11</text>
 <text x="266.2" y="72.0" font-size="10" fill="#6b7280">85 (3.00%)</text>
-<rect x="90" y="81.5" width="62.4" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="81.5" width="64.5" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="92.0" text-anchor="end" font-size="10" fill="#111827">1.104.10</text>
-<text x="157.4" y="92.0" font-size="10" fill="#6b7280">31 (1.09%)</text>
+<text x="159.5" y="92.0" font-size="10" fill="#6b7280">32 (1.13%)</text>
 <rect x="90" y="101.5" width="38.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="112.0" text-anchor="end" font-size="10" fill="#111827">1.104.9</text>
 <text x="133.3" y="112.0" font-size="10" fill="#6b7280">19 (0.67%)</text>

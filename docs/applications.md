@@ -1,6 +1,6 @@
 # Applications
 
-![Last update](../graphics/update-time-c5b2b84bc7cbf104.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-e80b147b66cedaf3.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[(Basic) Bookmarks](https://raycast.com/rauno/bmrks)** - Companion bookmarking utility for bmrks.com [`@rauno`](https://raycast.com/rauno) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+bmrks%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+bmrks%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bmrks) `api@1.104.1` `utils@2.2.2` `Last updated: 2026-03-04`
 - **[0x0](https://raycast.com/pseudobun/0x0)** - Upload files to https://0x0.st. [`@pseudobun`](https://raycast.com/pseudobun) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+0x0%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+0x0%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/0x0) `api@1.104.1` `utils@2.2.2` `Last updated: 2026-01-08`

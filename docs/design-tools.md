@@ -1,6 +1,6 @@
 # Design Tools
 
-![Last update](../graphics/update-time-6807f6dbb5684c9a.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-fcba68d3ec3f5278.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[8 Divide](https://raycast.com/pkliem/8-divide)** - Check if the number you highlighted is divisable by 8. If it isn't, paste the up- or down rounded number [`@pkliem`](https://raycast.com/pkliem) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+8-divide%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+8-divide%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/8-divide) `api@1.79.1` `Last updated: 2024-11-20`
 - **[AI Screenshot](https://raycast.com/jochemloedeman/ai-screenshot)** - Modify screen captures using the latest generative AI models. [`@jochemloedeman`](https://raycast.com/jochemloedeman) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+ai-screenshot%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+ai-screenshot%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) `api@1.65.1` `utils@1.12.5` `Last updated: 2024-05-21`

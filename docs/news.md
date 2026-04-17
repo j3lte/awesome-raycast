@@ -1,6 +1,6 @@
 # News
 
-![Last update](../graphics/update-time-0b77fd2244c2b57c.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-9f77cf2edcb1132d.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[Ars Technica](https://raycast.com/edwin-dd-ong/ars-technica)** - Get the latest Ars Technica stories. [`@edwin-dd-ong`](https://raycast.com/edwin-dd-ong) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+ars-technica%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+ars-technica%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ars-technica) `api@1.65.0` `utils@1.10.1` `Last updated: 2024-01-12`
 - **[BBC News Headlines](https://raycast.com/gerardkeane/bbc-news-headlines)** - Read the latest BBC News headlines [`@gerardkeane`](https://raycast.com/gerardkeane) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+bbc-news-headlines%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+bbc-news-headlines%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bbc-news-headlines) `api@1.93.2` `utils@1.18.1` `Last updated: 2024-12-13`

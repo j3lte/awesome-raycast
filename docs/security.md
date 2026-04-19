@@ -1,6 +1,6 @@
 # Security
 
-![Last update](../graphics/update-time-684916e4855721aa.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-2e1bbd3f6871d708.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[1Password](https://raycast.com/khasbilegt/1password)** - Search, open or edit your 1Password passwords from Raycast [`@khasbilegt`](https://raycast.com/khasbilegt) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+1password%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+1password%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1password) `api@1.103.6` `utils@2.2.2` `+Windows` `Last updated: 2026-04-16`
 - **[AdGuard Home](https://raycast.com/theplgeek/adguard-home)** - Control your AdGuard Home instance [`@theplgeek`](https://raycast.com/theplgeek) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+adguard-home%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+adguard-home%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adguard-home) `api@1.93.2` `Last updated: 2025-02-05`

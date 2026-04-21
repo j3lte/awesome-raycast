@@ -50,9 +50,9 @@
 <rect x="120" y="290.0" width="75.4" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="302.0" text-anchor="end" font-size="11" fill="#111827">cross-fetch</text>
 <text x="200.4" y="302.0" font-size="11" fill="#6b7280">49</text>
-<rect x="120" y="312.0" width="64.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="312.0" width="66.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="324.0" text-anchor="end" font-size="11" fill="#111827">react</text>
-<text x="189.6" y="324.0" font-size="11" fill="#6b7280">42</text>
+<text x="191.2" y="324.0" font-size="11" fill="#6b7280">43</text>
 <rect x="120" y="334.0" width="63.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="346.0" text-anchor="end" font-size="11" fill="#111827">got</text>
 <text x="188.1" y="346.0" font-size="11" fill="#6b7280">41</text>

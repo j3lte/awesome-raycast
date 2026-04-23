@@ -1,6 +1,6 @@
 # Finance
 
-![Last update](../graphics/update-time-a41903a02980b266.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-1f4880f243ccb0df.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[Alpaca Trading](https://raycast.com/stelo/alpaca-trading)** - Interact with your Alpaca trading account [`@stelo`](https://raycast.com/stelo) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+alpaca-trading%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+alpaca-trading%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) `api@1.75.1` `utils@1.15.0` `Last updated: 2024-06-06`
 - **[Apple Stocks Search](https://raycast.com/hayden_barnes/apple-stocks-search)** - Apple Stocks Extension for Raycast with Autosuggestions [`@hayden_barnes`](https://raycast.com/hayden_barnes) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+apple-stocks-search%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+apple-stocks-search%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/apple-stocks-search) `api@1.84.2` `utils@1.18.0` `Last updated: 2024-10-22`

@@ -82,16 +82,16 @@
 <text x="639.2" y="219.4" text-anchor="middle" font-size="10" fill="#6b7280">218</text>
 <text x="639.2" y="231.4" text-anchor="middle" font-size="10" fill="#6b7280">(7.62%)</text>
 <g transform="translate(639.2,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2025-Q3</text></g>
-<rect x="664.4" y="198.5" width="24.3" height="121.5" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="676.6" y="182.5" text-anchor="middle" font-size="10" fill="#6b7280">313</text>
-<text x="676.6" y="194.5" text-anchor="middle" font-size="10" fill="#6b7280">(10.94%)</text>
+<rect x="664.4" y="198.9" width="24.3" height="121.1" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="676.6" y="182.9" text-anchor="middle" font-size="10" fill="#6b7280">312</text>
+<text x="676.6" y="194.9" text-anchor="middle" font-size="10" fill="#6b7280">(10.90%)</text>
 <g transform="translate(676.6,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2025-Q4</text></g>
 <rect x="701.8" y="58.0" width="24.3" height="262.0" fill="#34C759" rx="3" opacity="0.85"/>
 <text x="713.9" y="72.0" text-anchor="middle" font-size="10" fill="#6b7280">675</text>
 <text x="713.9" y="84.0" text-anchor="middle" font-size="10" fill="#6b7280">(23.58%)</text>
 <g transform="translate(713.9,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2026-Q1</text></g>
-<rect x="739.2" y="246.6" width="24.3" height="73.4" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="751.3" y="230.6" text-anchor="middle" font-size="10" fill="#6b7280">189</text>
-<text x="751.3" y="242.6" text-anchor="middle" font-size="10" fill="#6b7280">(6.60%)</text>
+<rect x="739.2" y="246.3" width="24.3" height="73.7" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="751.3" y="230.3" text-anchor="middle" font-size="10" fill="#6b7280">190</text>
+<text x="751.3" y="242.3" text-anchor="middle" font-size="10" fill="#6b7280">(6.64%)</text>
 <g transform="translate(751.3,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2026-Q2</text></g>
 </svg>

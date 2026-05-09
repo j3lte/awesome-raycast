@@ -8,16 +8,16 @@
 <text x="-189" y="18" text-anchor="middle" font-size="12" fill="#6b7280" transform="rotate(-90)">Number of packages</text>
 <line x1="60" y1="320.0" x2="770" y2="320.0" stroke="#f3f4f6" stroke-width="1"/>
 <text x="54" y="324.0" text-anchor="end" font-size="11" fill="#6b7280">0</text>
-<line x1="60" y1="267.4" x2="770" y2="267.4" stroke="#f3f4f6" stroke-width="1"/>
-<text x="54" y="271.4" text-anchor="end" font-size="11" fill="#6b7280">129</text>
-<line x1="60" y1="215.3" x2="770" y2="215.3" stroke="#f3f4f6" stroke-width="1"/>
-<text x="54" y="219.3" text-anchor="end" font-size="11" fill="#6b7280">257</text>
-<line x1="60" y1="162.7" x2="770" y2="162.7" stroke="#f3f4f6" stroke-width="1"/>
-<text x="54" y="166.7" text-anchor="end" font-size="11" fill="#6b7280">386</text>
-<line x1="60" y1="110.6" x2="770" y2="110.6" stroke="#f3f4f6" stroke-width="1"/>
-<text x="54" y="114.6" text-anchor="end" font-size="11" fill="#6b7280">514</text>
+<line x1="60" y1="267.8" x2="770" y2="267.8" stroke="#f3f4f6" stroke-width="1"/>
+<text x="54" y="271.8" text-anchor="end" font-size="11" fill="#6b7280">128</text>
+<line x1="60" y1="215.1" x2="770" y2="215.1" stroke="#f3f4f6" stroke-width="1"/>
+<text x="54" y="219.1" text-anchor="end" font-size="11" fill="#6b7280">257</text>
+<line x1="60" y1="162.9" x2="770" y2="162.9" stroke="#f3f4f6" stroke-width="1"/>
+<text x="54" y="166.9" text-anchor="end" font-size="11" fill="#6b7280">385</text>
+<line x1="60" y1="110.2" x2="770" y2="110.2" stroke="#f3f4f6" stroke-width="1"/>
+<text x="54" y="114.2" text-anchor="end" font-size="11" fill="#6b7280">514</text>
 <line x1="60" y1="58.0" x2="770" y2="58.0" stroke="#f3f4f6" stroke-width="1"/>
-<text x="54" y="62.0" text-anchor="end" font-size="11" fill="#6b7280">643</text>
+<text x="54" y="62.0" text-anchor="end" font-size="11" fill="#6b7280">642</text>
 <rect x="66.5" y="314.3" width="24.3" height="5.7" fill="#34C759" rx="3" opacity="0.85"/>
 <text x="78.7" y="298.3" text-anchor="middle" font-size="10" fill="#6b7280">14</text>
 <text x="78.7" y="310.3" text-anchor="middle" font-size="10" fill="#6b7280">(0.48%)</text>
@@ -46,52 +46,52 @@
 <text x="302.9" y="266.9" text-anchor="middle" font-size="10" fill="#6b7280">91</text>
 <text x="302.9" y="278.9" text-anchor="middle" font-size="10" fill="#6b7280">(3.15%)</text>
 <g transform="translate(302.9,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2023-Q2</text></g>
-<rect x="328.1" y="285.0" width="24.3" height="35.0" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="340.3" y="269.0" text-anchor="middle" font-size="10" fill="#6b7280">86</text>
-<text x="340.3" y="281.0" text-anchor="middle" font-size="10" fill="#6b7280">(2.98%)</text>
+<rect x="328.1" y="284.9" width="24.3" height="35.1" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="340.3" y="268.9" text-anchor="middle" font-size="10" fill="#6b7280">86</text>
+<text x="340.3" y="280.9" text-anchor="middle" font-size="10" fill="#6b7280">(2.98%)</text>
 <g transform="translate(340.3,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2023-Q3</text></g>
-<rect x="365.5" y="291.9" width="24.3" height="28.1" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="377.6" y="275.9" text-anchor="middle" font-size="10" fill="#6b7280">69</text>
-<text x="377.6" y="287.9" text-anchor="middle" font-size="10" fill="#6b7280">(2.39%)</text>
+<rect x="365.5" y="291.8" width="24.3" height="28.2" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="377.6" y="275.8" text-anchor="middle" font-size="10" fill="#6b7280">69</text>
+<text x="377.6" y="287.8" text-anchor="middle" font-size="10" fill="#6b7280">(2.39%)</text>
 <g transform="translate(377.6,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2023-Q4</text></g>
-<rect x="402.9" y="270.7" width="24.3" height="49.3" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="415.0" y="254.7" text-anchor="middle" font-size="10" fill="#6b7280">121</text>
-<text x="415.0" y="266.7" text-anchor="middle" font-size="10" fill="#6b7280">(4.19%)</text>
+<rect x="402.9" y="270.6" width="24.3" height="49.4" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="415.0" y="254.6" text-anchor="middle" font-size="10" fill="#6b7280">121</text>
+<text x="415.0" y="266.6" text-anchor="middle" font-size="10" fill="#6b7280">(4.19%)</text>
 <g transform="translate(415.0,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2024-Q1</text></g>
-<rect x="440.2" y="265.8" width="24.3" height="54.2" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="452.4" y="249.8" text-anchor="middle" font-size="10" fill="#6b7280">133</text>
-<text x="452.4" y="261.8" text-anchor="middle" font-size="10" fill="#6b7280">(4.60%)</text>
+<rect x="440.2" y="265.7" width="24.3" height="54.3" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="452.4" y="249.7" text-anchor="middle" font-size="10" fill="#6b7280">133</text>
+<text x="452.4" y="261.7" text-anchor="middle" font-size="10" fill="#6b7280">(4.60%)</text>
 <g transform="translate(452.4,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2024-Q2</text></g>
 <rect x="477.6" y="267.4" width="24.3" height="52.6" fill="#34C759" rx="3" opacity="0.85"/>
 <text x="489.7" y="251.4" text-anchor="middle" font-size="10" fill="#6b7280">129</text>
 <text x="489.7" y="263.4" text-anchor="middle" font-size="10" fill="#6b7280">(4.46%)</text>
 <g transform="translate(489.7,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2024-Q3</text></g>
-<rect x="515.0" y="266.2" width="24.3" height="53.8" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="527.1" y="250.2" text-anchor="middle" font-size="10" fill="#6b7280">132</text>
-<text x="527.1" y="262.2" text-anchor="middle" font-size="10" fill="#6b7280">(4.57%)</text>
+<rect x="515.0" y="266.1" width="24.3" height="53.9" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="527.1" y="250.1" text-anchor="middle" font-size="10" fill="#6b7280">132</text>
+<text x="527.1" y="262.1" text-anchor="middle" font-size="10" fill="#6b7280">(4.57%)</text>
 <g transform="translate(527.1,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2024-Q4</text></g>
-<rect x="552.3" y="236.1" width="24.3" height="83.9" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="564.5" y="220.1" text-anchor="middle" font-size="10" fill="#6b7280">206</text>
-<text x="564.5" y="232.1" text-anchor="middle" font-size="10" fill="#6b7280">(7.13%)</text>
+<rect x="552.3" y="235.9" width="24.3" height="84.1" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="564.5" y="219.9" text-anchor="middle" font-size="10" fill="#6b7280">206</text>
+<text x="564.5" y="231.9" text-anchor="middle" font-size="10" fill="#6b7280">(7.13%)</text>
 <g transform="translate(564.5,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2025-Q1</text></g>
-<rect x="589.7" y="231.2" width="24.3" height="88.8" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="601.8" y="215.2" text-anchor="middle" font-size="10" fill="#6b7280">218</text>
-<text x="601.8" y="227.2" text-anchor="middle" font-size="10" fill="#6b7280">(7.54%)</text>
+<rect x="589.7" y="231.0" width="24.3" height="89.0" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="601.8" y="215.0" text-anchor="middle" font-size="10" fill="#6b7280">218</text>
+<text x="601.8" y="227.0" text-anchor="middle" font-size="10" fill="#6b7280">(7.54%)</text>
 <g transform="translate(601.8,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2025-Q2</text></g>
-<rect x="627.1" y="232.8" width="24.3" height="87.2" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="639.2" y="216.8" text-anchor="middle" font-size="10" fill="#6b7280">214</text>
-<text x="639.2" y="228.8" text-anchor="middle" font-size="10" fill="#6b7280">(7.40%)</text>
+<rect x="627.1" y="232.7" width="24.3" height="87.3" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="639.2" y="216.7" text-anchor="middle" font-size="10" fill="#6b7280">214</text>
+<text x="639.2" y="228.7" text-anchor="middle" font-size="10" fill="#6b7280">(7.40%)</text>
 <g transform="translate(639.2,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2025-Q3</text></g>
-<rect x="664.4" y="194.5" width="24.3" height="125.5" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="676.6" y="178.5" text-anchor="middle" font-size="10" fill="#6b7280">308</text>
-<text x="676.6" y="190.5" text-anchor="middle" font-size="10" fill="#6b7280">(10.66%)</text>
+<rect x="664.4" y="194.7" width="24.3" height="125.3" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="676.6" y="178.7" text-anchor="middle" font-size="10" fill="#6b7280">307</text>
+<text x="676.6" y="190.7" text-anchor="middle" font-size="10" fill="#6b7280">(10.62%)</text>
 <g transform="translate(676.6,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2025-Q4</text></g>
 <rect x="701.8" y="58.0" width="24.3" height="262.0" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="713.9" y="72.0" text-anchor="middle" font-size="10" fill="#6b7280">643</text>
-<text x="713.9" y="84.0" text-anchor="middle" font-size="10" fill="#6b7280">(22.25%)</text>
+<text x="713.9" y="72.0" text-anchor="middle" font-size="10" fill="#6b7280">642</text>
+<text x="713.9" y="84.0" text-anchor="middle" font-size="10" fill="#6b7280">(22.21%)</text>
 <g transform="translate(713.9,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2026-Q1</text></g>
-<rect x="739.2" y="212.0" width="24.3" height="108.0" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="751.3" y="196.0" text-anchor="middle" font-size="10" fill="#6b7280">265</text>
-<text x="751.3" y="208.0" text-anchor="middle" font-size="10" fill="#6b7280">(9.17%)</text>
+<rect x="739.2" y="211.0" width="24.3" height="109.0" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="751.3" y="195.0" text-anchor="middle" font-size="10" fill="#6b7280">267</text>
+<text x="751.3" y="207.0" text-anchor="middle" font-size="10" fill="#6b7280">(9.24%)</text>
 <g transform="translate(751.3,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2026-Q2</text></g>
 </svg>

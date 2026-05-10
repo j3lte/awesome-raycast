@@ -1,7 +1,7 @@
 # Awesome Raycast
 
 <!-- START UPDATETIME -->
-![Last update](graphics/update-time-368065e0e3d6d313.svg)&nbsp;[![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml)
+![Last update](graphics/update-time-eac52f14b708c6f1.svg)&nbsp;[![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -13,15 +13,15 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 ## Graphs
 
 <div align="center">
-<img src="graphics/graph-packages-growth-368065e0e3d6d313.svg" alt="Packages Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-community-growth-368065e0e3d6d313.svg" alt="Community Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-platform-growth-368065e0e3d6d313.svg" alt="Platform Support Over Time" width="98%" /><br />
-<img src="graphics/graph-package-freshness-368065e0e3d6d313.svg" alt="Package Freshness" width="98%" /><br />
-<img src="graphics/graph-quarterly-updates-368065e0e3d6d313.svg" alt="Packages by Last Updated Quarter" width="98%" /><br />
-<img src="graphics/graph-contributor-distribution-368065e0e3d6d313.svg" alt="Contributor Distribution" width="98%" /><br />
-<img src="graphics/graph-top-dependencies-368065e0e3d6d313.svg" alt="Top Dependencies" width="98%" /><br />
-<img src="graphics/graph-api-versions-368065e0e3d6d313.svg" alt="Top @raycast/api Versions" width="98%" /><br />
-<img src="graphics/graph-platform-distribution-368065e0e3d6d313.svg" alt="Platform Distribution" width="98%" /><br />
+<img src="graphics/graph-packages-growth-eac52f14b708c6f1.svg" alt="Packages Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-community-growth-eac52f14b708c6f1.svg" alt="Community Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-platform-growth-eac52f14b708c6f1.svg" alt="Platform Support Over Time" width="98%" /><br />
+<img src="graphics/graph-package-freshness-eac52f14b708c6f1.svg" alt="Package Freshness" width="98%" /><br />
+<img src="graphics/graph-quarterly-updates-eac52f14b708c6f1.svg" alt="Packages by Last Updated Quarter" width="98%" /><br />
+<img src="graphics/graph-contributor-distribution-eac52f14b708c6f1.svg" alt="Contributor Distribution" width="98%" /><br />
+<img src="graphics/graph-top-dependencies-eac52f14b708c6f1.svg" alt="Top Dependencies" width="98%" /><br />
+<img src="graphics/graph-api-versions-eac52f14b708c6f1.svg" alt="Top @raycast/api Versions" width="98%" /><br />
+<img src="graphics/graph-platform-distribution-eac52f14b708c6f1.svg" alt="Platform Distribution" width="98%" /><br />
 </div>
 <!-- END GRAPHS -->
 
@@ -55,13 +55,13 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 
 <!-- START STATISTICS -->
 
-- **2892** packages in **15** categories, **29** packages use Swift
+- **2893** packages in **15** categories, **29** packages use Swift
 - **1888** authors, **1143** contributors (of which **869** are only contributors, not authors)
-- **8359** total commands (5737 view, 2375 no-view, 247 menu-bar)
-- **861** AI tools
-- **1413** packages have no platform selected (48.86%, macOS only)
-- **814** packages have macOS only (28.15%)
-- **665** packages have Windows (22.99%), of which **25** packages have Windows only (0.86%)
+- **8361** total commands (5737 view, 2377 no-view, 247 menu-bar)
+- **863** AI tools
+- **1412** packages have no platform selected (48.81%, macOS only)
+- **815** packages have macOS only (28.17%)
+- **666** packages have Windows (23.02%), of which **25** packages have Windows only (0.86%)
 - Top **10** authors:
   - [xmok](https://raycast.com/xmok) (110)
   - [koinzhang](https://raycast.com/koinzhang) (50)

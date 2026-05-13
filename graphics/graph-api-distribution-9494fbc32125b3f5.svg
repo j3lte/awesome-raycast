@@ -2,7 +2,7 @@
 <defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
 <rect width="800" height="4408" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">@raycast/api Version Distribution</text>
-<text x="400" y="44" text-anchor="middle" font-size="11" fill="#6b7280">newest at top · 2,906 total extensions</text>
+<text x="400" y="44" text-anchor="middle" font-size="11" fill="#6b7280">newest at top · 2,910 total extensions</text>
 <line x1="90" y1="58" x2="90" y2="4358" stroke="#e5e7eb" stroke-width="1"/>
 <line x1="90" y1="4358" x2="660" y2="4358" stroke="#e5e7eb" stroke-width="1"/>
 <line x1="90.0" y1="58" x2="90.0" y2="4358" stroke="#f3f4f6" stroke-width="1"/>
@@ -15,21 +15,21 @@
 <text x="517.0" y="4374.0" text-anchor="middle" font-size="11" fill="#6b7280">209</text>
 <line x1="660.0" y1="58" x2="660.0" y2="4358" stroke="#f3f4f6" stroke-width="1"/>
 <text x="660.0" y="4374.0" text-anchor="middle" font-size="11" fill="#6b7280">279</text>
-<rect x="90" y="61.5" width="10.2" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="61.5" width="20.4" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="72.0" text-anchor="end" font-size="10" fill="#111827">1.104.16</text>
-<text x="105.2" y="72.0" font-size="10" fill="#6b7280">5 (0.17%)</text>
-<rect x="90" y="81.5" width="130.8" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<text x="115.4" y="72.0" font-size="10" fill="#6b7280">10 (0.34%)</text>
+<rect x="90" y="81.5" width="132.8" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="92.0" text-anchor="end" font-size="10" fill="#111827">1.104.15</text>
-<text x="225.8" y="92.0" font-size="10" fill="#6b7280">64 (2.20%)</text>
+<text x="227.8" y="92.0" font-size="10" fill="#6b7280">65 (2.23%)</text>
 <rect x="90" y="101.5" width="26.6" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="112.0" text-anchor="end" font-size="10" fill="#111827">1.104.13</text>
 <text x="121.6" y="112.0" font-size="10" fill="#6b7280">13 (0.45%)</text>
-<rect x="90" y="121.5" width="61.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="121.5" width="63.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="132.0" text-anchor="end" font-size="10" fill="#111827">1.104.12</text>
-<text x="156.3" y="132.0" font-size="10" fill="#6b7280">30 (1.03%)</text>
-<rect x="90" y="141.5" width="145.1" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<text x="158.3" y="132.0" font-size="10" fill="#6b7280">31 (1.07%)</text>
+<rect x="90" y="141.5" width="147.1" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="152.0" text-anchor="end" font-size="10" fill="#111827">1.104.11</text>
-<text x="240.1" y="152.0" font-size="10" fill="#6b7280">71 (2.44%)</text>
+<text x="242.1" y="152.0" font-size="10" fill="#6b7280">72 (2.47%)</text>
 <rect x="90" y="161.5" width="77.6" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="172.0" text-anchor="end" font-size="10" fill="#111827">1.104.10</text>
 <text x="172.6" y="172.0" font-size="10" fill="#6b7280">38 (1.31%)</text>
@@ -54,18 +54,18 @@
 <rect x="90" y="301.5" width="112.4" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="312.0" text-anchor="end" font-size="10" fill="#111827">1.104.3</text>
 <text x="207.4" y="312.0" font-size="10" fill="#6b7280">55 (1.89%)</text>
-<rect x="90" y="321.5" width="38.8" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="321.5" width="36.8" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="332.0" text-anchor="end" font-size="10" fill="#111827">1.104.2</text>
-<text x="133.8" y="332.0" font-size="10" fill="#6b7280">19 (0.65%)</text>
+<text x="131.8" y="332.0" font-size="10" fill="#6b7280">18 (0.62%)</text>
 <rect x="90" y="341.5" width="365.7" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="352.0" text-anchor="end" font-size="10" fill="#111827">1.104.1</text>
-<text x="460.7" y="352.0" font-size="10" fill="#6b7280">179 (6.16%)</text>
+<text x="460.7" y="352.0" font-size="10" fill="#6b7280">179 (6.15%)</text>
 <rect x="90" y="361.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="372.0" text-anchor="end" font-size="10" fill="#111827">1.104.0</text>
-<text x="111.3" y="372.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
-<rect x="90" y="381.5" width="192.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<text x="111.3" y="372.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
+<rect x="90" y="381.5" width="190.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="392.0" text-anchor="end" font-size="10" fill="#111827">1.103.10</text>
-<text x="287.0" y="392.0" font-size="10" fill="#6b7280">94 (3.23%)</text>
+<text x="285.0" y="392.0" font-size="10" fill="#6b7280">93 (3.20%)</text>
 <rect x="90" y="401.5" width="38.8" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="412.0" text-anchor="end" font-size="10" fill="#111827">1.103.9</text>
 <text x="133.8" y="412.0" font-size="10" fill="#6b7280">19 (0.65%)</text>
@@ -75,12 +75,12 @@
 <rect x="90" y="441.5" width="40.9" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="452.0" text-anchor="end" font-size="10" fill="#111827">1.103.7</text>
 <text x="135.9" y="452.0" font-size="10" fill="#6b7280">20 (0.69%)</text>
-<rect x="90" y="461.5" width="104.2" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="461.5" width="102.2" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="472.0" text-anchor="end" font-size="10" fill="#111827">1.103.6</text>
-<text x="199.2" y="472.0" font-size="10" fill="#6b7280">51 (1.75%)</text>
+<text x="197.2" y="472.0" font-size="10" fill="#6b7280">50 (1.72%)</text>
 <rect x="90" y="481.5" width="85.8" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="492.0" text-anchor="end" font-size="10" fill="#111827">1.103.5</text>
-<text x="180.8" y="492.0" font-size="10" fill="#6b7280">42 (1.45%)</text>
+<text x="180.8" y="492.0" font-size="10" fill="#6b7280">42 (1.44%)</text>
 <rect x="90" y="501.5" width="26.6" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="512.0" text-anchor="end" font-size="10" fill="#111827">1.103.4</text>
 <text x="121.6" y="512.0" font-size="10" fill="#6b7280">13 (0.45%)</text>
@@ -99,9 +99,9 @@
 <rect x="90" y="601.5" width="32.7" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="612.0" text-anchor="end" font-size="10" fill="#111827">1.102.7</text>
 <text x="127.7" y="612.0" font-size="10" fill="#6b7280">16 (0.55%)</text>
-<rect x="90" y="621.5" width="67.4" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="621.5" width="65.4" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="632.0" text-anchor="end" font-size="10" fill="#111827">1.102.6</text>
-<text x="162.4" y="632.0" font-size="10" fill="#6b7280">33 (1.14%)</text>
+<text x="160.4" y="632.0" font-size="10" fill="#6b7280">32 (1.10%)</text>
 <rect x="90" y="641.5" width="32.7" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="652.0" text-anchor="end" font-size="10" fill="#111827">1.102.5</text>
 <text x="127.7" y="652.0" font-size="10" fill="#6b7280">16 (0.55%)</text>
@@ -110,7 +110,7 @@
 <text x="123.6" y="672.0" font-size="10" fill="#6b7280">14 (0.48%)</text>
 <rect x="90" y="681.5" width="49.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="692.0" text-anchor="end" font-size="10" fill="#111827">1.102.3</text>
-<text x="144.0" y="692.0" font-size="10" fill="#6b7280">24 (0.83%)</text>
+<text x="144.0" y="692.0" font-size="10" fill="#6b7280">24 (0.82%)</text>
 <rect x="90" y="701.5" width="2.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="712.0" text-anchor="end" font-size="10" fill="#111827">1.102.2</text>
 <text x="97.0" y="712.0" font-size="10" fill="#6b7280">1 (0.03%)</text>
@@ -155,7 +155,7 @@
 <text x="103.2" y="972.0" font-size="10" fill="#6b7280">4 (0.14%)</text>
 <rect x="90" y="981.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="992.0" text-anchor="end" font-size="10" fill="#111827">1.97.0</text>
-<text x="111.3" y="992.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
+<text x="111.3" y="992.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
 <rect x="90" y="1001.5" width="12.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="1012.0" text-anchor="end" font-size="10" fill="#111827">1.96.3</text>
 <text x="107.3" y="1012.0" font-size="10" fill="#6b7280">6 (0.21%)</text>
@@ -179,7 +179,7 @@
 <text x="129.7" y="1132.0" font-size="10" fill="#6b7280">17 (0.58%)</text>
 <rect x="90" y="1141.5" width="570.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="1152.0" text-anchor="end" font-size="10" fill="#111827">1.93.2</text>
-<text x="665.0" y="1152.0" font-size="10" fill="#6b7280">279 (9.60%)</text>
+<text x="665.0" y="1152.0" font-size="10" fill="#6b7280">279 (9.59%)</text>
 <rect x="90" y="1161.5" width="20.4" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="1172.0" text-anchor="end" font-size="10" fill="#111827">1.93.1</text>
 <text x="115.4" y="1172.0" font-size="10" fill="#6b7280">10 (0.34%)</text>
@@ -305,7 +305,7 @@
 <text x="97.0" y="1972.0" font-size="10" fill="#6b7280">1 (0.03%)</text>
 <rect x="90" y="1981.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="1992.0" text-anchor="end" font-size="10" fill="#111827">1.73.2</text>
-<text x="111.3" y="1992.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
+<text x="111.3" y="1992.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
 <rect x="90" y="2001.5" width="55.2" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="2012.0" text-anchor="end" font-size="10" fill="#111827">1.72.1</text>
 <text x="150.2" y="2012.0" font-size="10" fill="#6b7280">27 (0.93%)</text>
@@ -335,7 +335,7 @@
 <text x="107.3" y="2172.0" font-size="10" fill="#6b7280">6 (0.21%)</text>
 <rect x="90" y="2181.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="2192.0" text-anchor="end" font-size="10" fill="#111827">1.69.0</text>
-<text x="111.3" y="2192.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
+<text x="111.3" y="2192.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
 <rect x="90" y="2201.5" width="32.7" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="2212.0" text-anchor="end" font-size="10" fill="#111827">1.68.1</text>
 <text x="127.7" y="2212.0" font-size="10" fill="#6b7280">16 (0.55%)</text>
@@ -365,7 +365,7 @@
 <text x="115.4" y="2372.0" font-size="10" fill="#6b7280">10 (0.34%)</text>
 <rect x="90" y="2381.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="2392.0" text-anchor="end" font-size="10" fill="#111827">1.64.5</text>
-<text x="111.3" y="2392.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
+<text x="111.3" y="2392.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
 <rect x="90" y="2401.5" width="22.5" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="2412.0" text-anchor="end" font-size="10" fill="#111827">1.64.4</text>
 <text x="117.5" y="2412.0" font-size="10" fill="#6b7280">11 (0.38%)</text>
@@ -455,7 +455,7 @@
 <text x="97.0" y="2972.0" font-size="10" fill="#6b7280">1 (0.03%)</text>
 <rect x="90" y="2981.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="2992.0" text-anchor="end" font-size="10" fill="#111827">1.51.3</text>
-<text x="111.3" y="2992.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
+<text x="111.3" y="2992.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
 <rect x="90" y="3001.5" width="32.7" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="3012.0" text-anchor="end" font-size="10" fill="#111827">1.51.1</text>
 <text x="127.7" y="3012.0" font-size="10" fill="#6b7280">16 (0.55%)</text>
@@ -506,7 +506,7 @@
 <text x="97.0" y="3312.0" font-size="10" fill="#6b7280">1 (0.03%)</text>
 <rect x="90" y="3321.5" width="49.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="3332.0" text-anchor="end" font-size="10" fill="#111827">1.47.3</text>
-<text x="144.0" y="3332.0" font-size="10" fill="#6b7280">24 (0.83%)</text>
+<text x="144.0" y="3332.0" font-size="10" fill="#6b7280">24 (0.82%)</text>
 <rect x="90" y="3341.5" width="8.2" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="3352.0" text-anchor="end" font-size="10" fill="#111827">1.47.2</text>
 <text x="103.2" y="3352.0" font-size="10" fill="#6b7280">4 (0.14%)</text>
@@ -551,7 +551,7 @@
 <text x="97.0" y="3612.0" font-size="10" fill="#6b7280">1 (0.03%)</text>
 <rect x="90" y="3621.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="3632.0" text-anchor="end" font-size="10" fill="#111827">1.40.3</text>
-<text x="111.3" y="3632.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
+<text x="111.3" y="3632.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
 <rect x="90" y="3641.5" width="24.5" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="3652.0" text-anchor="end" font-size="10" fill="#111827">1.40.1</text>
 <text x="119.5" y="3652.0" font-size="10" fill="#6b7280">12 (0.41%)</text>
@@ -584,7 +584,7 @@
 <text x="117.5" y="3832.0" font-size="10" fill="#6b7280">11 (0.38%)</text>
 <rect x="90" y="3841.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="3852.0" text-anchor="end" font-size="10" fill="#111827">1.36.1</text>
-<text x="111.3" y="3852.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
+<text x="111.3" y="3852.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
 <rect x="90" y="3861.5" width="12.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="3872.0" text-anchor="end" font-size="10" fill="#111827">1.36.0</text>
 <text x="107.3" y="3872.0" font-size="10" fill="#6b7280">6 (0.21%)</text>
@@ -599,7 +599,7 @@
 <text x="109.3" y="3932.0" font-size="10" fill="#6b7280">7 (0.24%)</text>
 <rect x="90" y="3941.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="3952.0" text-anchor="end" font-size="10" fill="#111827">1.33.2</text>
-<text x="111.3" y="3952.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
+<text x="111.3" y="3952.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
 <rect x="90" y="3961.5" width="2.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="3972.0" text-anchor="end" font-size="10" fill="#111827">1.33.1</text>
 <text x="97.0" y="3972.0" font-size="10" fill="#6b7280">1 (0.03%)</text>
@@ -620,13 +620,13 @@
 <text x="97.0" y="4072.0" font-size="10" fill="#6b7280">1 (0.03%)</text>
 <rect x="90" y="4081.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="4092.0" text-anchor="end" font-size="10" fill="#111827">1.29.1</text>
-<text x="111.3" y="4092.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
+<text x="111.3" y="4092.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
 <rect x="90" y="4101.5" width="2.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="4112.0" text-anchor="end" font-size="10" fill="#111827">1.29.0</text>
 <text x="97.0" y="4112.0" font-size="10" fill="#6b7280">1 (0.03%)</text>
 <rect x="90" y="4121.5" width="16.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="4132.0" text-anchor="end" font-size="10" fill="#111827">1.28.0</text>
-<text x="111.3" y="4132.0" font-size="10" fill="#6b7280">8 (0.28%)</text>
+<text x="111.3" y="4132.0" font-size="10" fill="#6b7280">8 (0.27%)</text>
 <rect x="90" y="4141.5" width="8.2" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="4152.0" text-anchor="end" font-size="10" fill="#111827">1.27.1</text>
 <text x="103.2" y="4152.0" font-size="10" fill="#6b7280">4 (0.14%)</text>

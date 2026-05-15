@@ -47,9 +47,9 @@
 <rect x="120" y="268.0" width="77.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="280.0" text-anchor="end" font-size="11" fill="#111827">fuse.js</text>
 <text x="202.1" y="280.0" font-size="11" fill="#6b7280">50</text>
-<rect x="120" y="290.0" width="75.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="290.0" width="74.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="302.0" text-anchor="end" font-size="11" fill="#111827">cross-fetch</text>
-<text x="200.6" y="302.0" font-size="11" fill="#6b7280">49</text>
+<text x="199.0" y="302.0" font-size="11" fill="#6b7280">48</text>
 <rect x="120" y="312.0" width="67.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="324.0" text-anchor="end" font-size="11" fill="#111827">react</text>
 <text x="192.9" y="324.0" font-size="11" fill="#6b7280">44</text>

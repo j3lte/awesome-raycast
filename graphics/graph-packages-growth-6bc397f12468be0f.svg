@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+<defs>
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style>
+  <linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0%" stop-color="#FF6363" stop-opacity="0.25"/>
+  <stop offset="100%" stop-color="#FF6363" stop-opacity="0"/>
+</linearGradient>
+  <clipPath id="ca"><rect x="72" y="45" width="698" height="295"/></clipPath>
+</defs>
+<rect width="800" height="400" fill="#ffffff" rx="12"/>
+<text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Packages Growth Over Time</text>
+<line x1="72" y1="340.0" x2="770" y2="340.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="344.0" text-anchor="end" font-size="11" fill="#6b7280">2.4k</text>
+<line x1="72" y1="290.8" x2="770" y2="290.8" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="294.8" text-anchor="end" font-size="11" fill="#6b7280">2.5k</text>
+<line x1="72" y1="241.7" x2="770" y2="241.7" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="245.7" text-anchor="end" font-size="11" fill="#6b7280">2.6k</text>
+<line x1="72" y1="192.5" x2="770" y2="192.5" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="196.5" text-anchor="end" font-size="11" fill="#6b7280">2.7k</text>
+<line x1="72" y1="143.3" x2="770" y2="143.3" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="147.3" text-anchor="end" font-size="11" fill="#6b7280">2.8k</text>
+<line x1="72" y1="94.2" x2="770" y2="94.2" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="98.2" text-anchor="end" font-size="11" fill="#6b7280">2.9k</text>
+<line x1="72" y1="45.0" x2="770" y2="45.0" stroke="#f3f4f6" stroke-width="1"/>
+<text x="66" y="49.0" text-anchor="end" font-size="11" fill="#6b7280">3.0k</text>
+<line x1="136.9" y1="45" x2="136.9" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<line x1="277.6" y1="45" x2="277.6" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<line x1="423.7" y1="45" x2="423.7" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<line x1="569.8" y1="45" x2="569.8" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<line x1="715.9" y1="45" x2="715.9" y2="340" stroke="#e5e7eb" stroke-width="1" stroke-dasharray="3,3" clip-path="url(#ca)"/>
+<text x="72.0" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Dec 11</text>
+<text x="212.7" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Jan 20</text>
+<text x="353.4" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Feb 15</text>
+<text x="488.6" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Mar 14</text>
+<text x="629.3" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">Apr 13</text>
+<text x="770.0" y="358.0" text-anchor="middle" font-size="11" fill="#6b7280">May 16</text>
+<line x1="72" y1="45" x2="72" y2="340" stroke="#e5e7eb" stroke-width="1"/>
+<line x1="72" y1="340" x2="770" y2="340" stroke="#e5e7eb" stroke-width="1"/>
+<text x="-192.5" y="18" text-anchor="middle" font-size="12" fill="#6b7280" transform="rotate(-90)">Extensions</text>
+<path d="M 72.0,340 L 72.0,302.1 L 77.4,301.6 L 82.8,301.6 L 88.2,300.2 L 93.6,300.2 L 99.1,299.2 L 104.5,298.2 L 109.9,297.7 L 115.3,295.3 L 120.7,293.3 L 126.1,293.3 L 131.5,293.3 L 136.9,293.3 L 142.3,292.3 L 147.8,292.3 L 153.2,292.3 L 158.6,291.3 L 164.0,289.4 L 169.4,285.9 L 174.8,283.5 L 180.2,282.5 L 185.6,282.0 L 191.0,280.0 L 196.4,274.1 L 201.9,272.1 L 207.3,272.1 L 212.7,267.2 L 218.1,265.8 L 223.5,263.8 L 228.9,262.3 L 234.3,259.4 L 239.7,256.9 L 245.1,256.4 L 250.6,252.5 L 256.0,249.0 L 261.4,249.0 L 266.8,246.6 L 272.2,244.6 L 277.6,244.1 L 283.0,243.6 L 288.4,243.1 L 293.8,241.7 L 299.3,232.8 L 304.7,228.9 L 310.1,226.9 L 315.5,225.9 L 320.9,224.5 L 326.3,221.0 L 331.7,220.0 L 337.1,219.1 L 342.5,216.1 L 348.0,215.1 L 353.4,214.1 L 358.8,214.1 L 364.2,205.3 L 369.6,204.3 L 375.0,203.3 L 380.4,201.3 L 385.8,198.9 L 391.2,198.9 L 396.7,195.0 L 402.1,188.6 L 407.5,187.6 L 412.9,188.1 L 418.3,186.6 L 423.7,186.1 L 429.1,186.1 L 434.5,183.2 L 439.9,180.7 L 445.3,178.7 L 450.8,176.3 L 456.2,175.8 L 461.6,175.8 L 467.0,172.3 L 472.4,171.4 L 477.8,170.9 L 483.2,165.0 L 488.6,164.5 L 494.0,164.5 L 499.5,164.5 L 504.9,164.0 L 510.3,161.5 L 515.7,159.6 L 521.1,157.1 L 526.5,156.6 L 531.9,155.1 L 537.3,150.7 L 542.7,146.8 L 548.2,146.3 L 553.6,145.8 L 559.0,144.3 L 564.4,139.4 L 569.8,138.4 L 575.2,136.9 L 580.6,134.0 L 586.0,133.5 L 591.4,133.0 L 596.9,133.0 L 602.3,132.0 L 607.7,129.1 L 613.1,128.1 L 618.5,127.1 L 623.9,126.6 L 629.3,125.6 L 634.7,120.7 L 640.1,120.2 L 645.6,119.2 L 651.0,118.8 L 656.4,116.3 L 661.8,115.8 L 667.2,115.3 L 672.6,113.8 L 678.0,111.9 L 683.4,111.9 L 688.8,111.9 L 694.2,111.9 L 699.7,110.9 L 705.1,108.4 L 710.5,107.9 L 715.9,105.5 L 721.3,105.0 L 726.7,104.5 L 732.1,101.5 L 737.5,98.6 L 742.9,98.1 L 748.4,97.6 L 753.8,91.2 L 759.2,89.3 L 764.6,87.8 L 770.0,87.3 L 770.0,340 Z" fill="url(#g1)" clip-path="url(#ca)"/>
+<path d="M 72.0,302.1 L 77.4,301.6 L 82.8,301.6 L 88.2,300.2 L 93.6,300.2 L 99.1,299.2 L 104.5,298.2 L 109.9,297.7 L 115.3,295.3 L 120.7,293.3 L 126.1,293.3 L 131.5,293.3 L 136.9,293.3 L 142.3,292.3 L 147.8,292.3 L 153.2,292.3 L 158.6,291.3 L 164.0,289.4 L 169.4,285.9 L 174.8,283.5 L 180.2,282.5 L 185.6,282.0 L 191.0,280.0 L 196.4,274.1 L 201.9,272.1 L 207.3,272.1 L 212.7,267.2 L 218.1,265.8 L 223.5,263.8 L 228.9,262.3 L 234.3,259.4 L 239.7,256.9 L 245.1,256.4 L 250.6,252.5 L 256.0,249.0 L 261.4,249.0 L 266.8,246.6 L 272.2,244.6 L 277.6,244.1 L 283.0,243.6 L 288.4,243.1 L 293.8,241.7 L 299.3,232.8 L 304.7,228.9 L 310.1,226.9 L 315.5,225.9 L 320.9,224.5 L 326.3,221.0 L 331.7,220.0 L 337.1,219.1 L 342.5,216.1 L 348.0,215.1 L 353.4,214.1 L 358.8,214.1 L 364.2,205.3 L 369.6,204.3 L 375.0,203.3 L 380.4,201.3 L 385.8,198.9 L 391.2,198.9 L 396.7,195.0 L 402.1,188.6 L 407.5,187.6 L 412.9,188.1 L 418.3,186.6 L 423.7,186.1 L 429.1,186.1 L 434.5,183.2 L 439.9,180.7 L 445.3,178.7 L 450.8,176.3 L 456.2,175.8 L 461.6,175.8 L 467.0,172.3 L 472.4,171.4 L 477.8,170.9 L 483.2,165.0 L 488.6,164.5 L 494.0,164.5 L 499.5,164.5 L 504.9,164.0 L 510.3,161.5 L 515.7,159.6 L 521.1,157.1 L 526.5,156.6 L 531.9,155.1 L 537.3,150.7 L 542.7,146.8 L 548.2,146.3 L 553.6,145.8 L 559.0,144.3 L 564.4,139.4 L 569.8,138.4 L 575.2,136.9 L 580.6,134.0 L 586.0,133.5 L 591.4,133.0 L 596.9,133.0 L 602.3,132.0 L 607.7,129.1 L 613.1,128.1 L 618.5,127.1 L 623.9,126.6 L 629.3,125.6 L 634.7,120.7 L 640.1,120.2 L 645.6,119.2 L 651.0,118.8 L 656.4,116.3 L 661.8,115.8 L 667.2,115.3 L 672.6,113.8 L 678.0,111.9 L 683.4,111.9 L 688.8,111.9 L 694.2,111.9 L 699.7,110.9 L 705.1,108.4 L 710.5,107.9 L 715.9,105.5 L 721.3,105.0 L 726.7,104.5 L 732.1,101.5 L 737.5,98.6 L 742.9,98.1 L 748.4,97.6 L 753.8,91.2 L 759.2,89.3 L 764.6,87.8 L 770.0,87.3" fill="none" stroke="#FF6363" stroke-width="2.5" stroke-linejoin="round" clip-path="url(#ca)"/>
+<text x="101.8" y="55.0" text-anchor="middle" font-size="9" fill="#FF6363" opacity="0.85" clip-path="url(#ca)">+0.7% (+18)</text>
+<text x="204.6" y="55.0" text-anchor="middle" font-size="9" fill="#FF6363" opacity="0.85" clip-path="url(#ca)">+4.0% (+99)</text>
+<text x="348.0" y="55.0" text-anchor="middle" font-size="9" fill="#FF6363" opacity="0.85" clip-path="url(#ca)">+4.5% (+117)</text>
+<text x="494.0" y="55.0" text-anchor="middle" font-size="9" fill="#FF6363" opacity="0.85" clip-path="url(#ca)">+3.5% (+95)</text>
+<text x="640.1" y="55.0" text-anchor="middle" font-size="9" fill="#FF6363" opacity="0.85" clip-path="url(#ca)">+2.2% (+62)</text>
+<text x="742.9" y="55.0" text-anchor="middle" font-size="9" fill="#FF6363" opacity="0.85" clip-path="url(#ca)">+1.3% (+37)</text>
+<rect x="351" y="369" width="12" height="12" fill="#FF6363" rx="2"/>
+<text x="367" y="379" font-size="12" fill="#111827">Extensions</text>
+<text x="72" y="394" font-size="8" fill="#e5e7eb">data since Dec 11, 2025</text>
+</svg>

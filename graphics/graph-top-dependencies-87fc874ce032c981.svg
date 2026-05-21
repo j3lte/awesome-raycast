@@ -20,12 +20,12 @@
 <rect x="120" y="70.0" width="342.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="82.0" text-anchor="end" font-size="11" fill="#111827">axios</text>
 <text x="467.6" y="82.0" font-size="11" fill="#6b7280">221</text>
-<rect x="120" y="92.0" width="215.4" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="92.0" width="217.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="104.0" text-anchor="end" font-size="11" fill="#111827">date-fns</text>
-<text x="340.4" y="104.0" font-size="11" fill="#6b7280">139</text>
-<rect x="120" y="114.0" width="181.3" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="342.0" y="104.0" font-size="11" fill="#6b7280">140</text>
+<rect x="120" y="114.0" width="179.8" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="126.0" text-anchor="end" font-size="11" fill="#111827">run-applescript</text>
-<text x="306.4" y="126.0" font-size="11" fill="#6b7280">117</text>
+<text x="304.8" y="126.0" font-size="11" fill="#6b7280">116</text>
 <rect x="120" y="136.0" width="127.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="148.0" text-anchor="end" font-size="11" fill="#111827">lodash</text>
 <text x="252.1" y="148.0" font-size="11" fill="#6b7280">82</text>

@@ -29,9 +29,9 @@
 <rect x="120" y="136.0" width="127.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="148.0" text-anchor="end" font-size="11" fill="#111827">lodash</text>
 <text x="252.1" y="148.0" font-size="11" fill="#6b7280">82</text>
-<rect x="120" y="158.0" width="106.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="158.0" width="108.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="170.0" text-anchor="end" font-size="11" fill="#111827">cheerio</text>
-<text x="231.9" y="170.0" font-size="11" fill="#6b7280">69</text>
+<text x="233.5" y="170.0" font-size="11" fill="#6b7280">70</text>
 <rect x="120" y="180.0" width="94.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="192.0" text-anchor="end" font-size="11" fill="#111827">dayjs</text>
 <text x="219.6" y="192.0" font-size="11" fill="#6b7280">61</text>

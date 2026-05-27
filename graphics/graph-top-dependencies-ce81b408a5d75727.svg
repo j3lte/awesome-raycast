@@ -20,9 +20,9 @@
 <rect x="120" y="70.0" width="342.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="82.0" text-anchor="end" font-size="11" fill="#111827">axios</text>
 <text x="467.6" y="82.0" font-size="11" fill="#6b7280">221</text>
-<rect x="120" y="92.0" width="217.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="92.0" width="218.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="104.0" text-anchor="end" font-size="11" fill="#111827">date-fns</text>
-<text x="342.0" y="104.0" font-size="11" fill="#6b7280">140</text>
+<text x="343.5" y="104.0" font-size="11" fill="#6b7280">141</text>
 <rect x="120" y="114.0" width="179.8" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="126.0" text-anchor="end" font-size="11" fill="#111827">run-applescript</text>
 <text x="304.8" y="126.0" font-size="11" fill="#6b7280">116</text>
@@ -36,11 +36,11 @@
 <text x="114" y="192.0" text-anchor="end" font-size="11" fill="#111827">dayjs</text>
 <text x="219.6" y="192.0" font-size="11" fill="#6b7280">61</text>
 <rect x="120" y="202.0" width="82.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
-<text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">nanoid</text>
+<text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
 <text x="207.2" y="214.0" font-size="11" fill="#6b7280">53</text>
-<rect x="120" y="224.0" width="80.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
-<text x="114" y="236.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
-<text x="205.6" y="236.0" font-size="11" fill="#6b7280">52</text>
+<rect x="120" y="224.0" width="82.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="236.0" text-anchor="end" font-size="11" fill="#111827">nanoid</text>
+<text x="207.2" y="236.0" font-size="11" fill="#6b7280">53</text>
 <rect x="120" y="246.0" width="79.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="258.0" text-anchor="end" font-size="11" fill="#111827">uuid</text>
 <text x="204.1" y="258.0" font-size="11" fill="#6b7280">51</text>

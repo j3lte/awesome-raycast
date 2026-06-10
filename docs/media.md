@@ -1,6 +1,6 @@
 # Media
 
-![Last update](../graphics/update-time-821afdffe83ad26b.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-a36c9ebf930d75d0.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[7TV Emotes Search](https://raycast.com/Paranjayy/seventv-search)** - Search, preview, copy, and paste 7TV emotes from Raycast. [`@Paranjayy`](https://raycast.com/Paranjayy) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+seventv-search%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+seventv-search%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/seventv-search) `api@1.104.17` `+Windows` `Last updated: 2026-04-25`
 - **[AG AudioFlow](https://raycast.com/adigold1/ag-audioflow)** - Professional audio editing and processing suite with advanced features [`@adigold1`](https://raycast.com/adigold1) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+ag-audioflow%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+ag-audioflow%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ag-audioflow) `api@1.102.3` `utils@2.2.0` `Last updated: 2025-08-07`

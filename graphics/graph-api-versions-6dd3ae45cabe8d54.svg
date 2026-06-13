@@ -32,9 +32,9 @@
 <rect x="120" y="188.3" width="162.9" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="200.3" text-anchor="end" font-size="11" fill="#111827">1.104.15</text>
 <text x="287.9" y="200.3" font-size="11" fill="#6b7280">72</text>
-<rect x="120" y="215.8" width="140.3" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<rect x="120" y="215.8" width="138.0" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="227.8" text-anchor="end" font-size="11" fill="#111827">1.100.3</text>
-<text x="265.3" y="227.8" font-size="11" fill="#6b7280">62</text>
+<text x="263.0" y="227.8" font-size="11" fill="#6b7280">61</text>
 <rect x="120" y="243.3" width="129.0" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="255.3" text-anchor="end" font-size="11" fill="#111827">1.103.3</text>
 <text x="254.0" y="255.3" font-size="11" fill="#6b7280">57</text>
@@ -47,8 +47,8 @@
 <rect x="120" y="325.8" width="95.0" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="337.8" text-anchor="end" font-size="11" fill="#111827">1.104.17</text>
 <text x="220.0" y="337.8" font-size="11" fill="#6b7280">42</text>
-<rect x="120" y="353.3" width="90.5" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
-<text x="114" y="365.3" text-anchor="end" font-size="11" fill="#111827">1.103.5</text>
-<text x="215.5" y="365.3" font-size="11" fill="#6b7280">40</text>
+<rect x="120" y="353.3" width="92.8" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<text x="114" y="365.3" text-anchor="end" font-size="11" fill="#111827">1.104.19</text>
+<text x="217.8" y="365.3" font-size="11" fill="#6b7280">41</text>
 <text x="400" y="410" text-anchor="middle" font-size="12" fill="#6b7280">Number of extensions</text>
 </svg>

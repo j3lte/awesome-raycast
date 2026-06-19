@@ -41,14 +41,14 @@
 <rect x="120" y="270.8" width="122.6" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="282.8" text-anchor="end" font-size="11" fill="#111827">1.104.3</text>
 <text x="247.6" y="282.8" font-size="11" fill="#6b7280">54</text>
-<rect x="120" y="298.3" width="115.8" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<rect x="120" y="298.3" width="118.1" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="310.3" text-anchor="end" font-size="11" fill="#111827">1.104.19</text>
-<text x="240.8" y="310.3" font-size="11" fill="#6b7280">51</text>
+<text x="243.1" y="310.3" font-size="11" fill="#6b7280">52</text>
 <rect x="120" y="325.8" width="111.3" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="337.8" text-anchor="end" font-size="11" fill="#111827">1.103.6</text>
 <text x="236.3" y="337.8" font-size="11" fill="#6b7280">49</text>
-<rect x="120" y="353.3" width="95.4" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<rect x="120" y="353.3" width="99.9" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="365.3" text-anchor="end" font-size="11" fill="#111827">1.104.17</text>
-<text x="220.4" y="365.3" font-size="11" fill="#6b7280">42</text>
+<text x="224.9" y="365.3" font-size="11" fill="#6b7280">44</text>
 <text x="400" y="410" text-anchor="middle" font-size="12" fill="#6b7280">Number of extensions</text>
 </svg>

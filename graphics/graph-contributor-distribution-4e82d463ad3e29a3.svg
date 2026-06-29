@@ -4,9 +4,9 @@
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Contributor Distribution</text>
 <path d="M 220.00 60.00 A 140 140 0 1 1 101.45 274.47 L 147.18 245.75 A 86 86 0 1 0 220.00 114.00 Z" fill="#4F8EF7"/>
 <path d="M 101.45 274.47 A 140 140 0 0 1 103.90 121.76 L 148.68 151.94 A 86 86 0 0 0 147.18 245.75 Z" fill="#34C759"/>
-<path d="M 103.90 121.76 A 140 140 0 0 1 142.06 83.70 L 172.12 128.56 A 86 86 0 0 0 148.68 151.94 Z" fill="#BF5AF2"/>
-<path d="M 142.06 83.70 A 140 140 0 0 1 166.04 70.82 L 186.85 120.64 A 86 86 0 0 0 172.12 128.56 Z" fill="#FF9F0A"/>
-<path d="M 166.04 70.82 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 186.85 120.64 Z" fill="#FF6363"/>
+<path d="M 103.90 121.76 A 140 140 0 0 1 141.82 83.86 L 171.98 128.66 A 86 86 0 0 0 148.68 151.94 Z" fill="#BF5AF2"/>
+<path d="M 141.82 83.86 A 140 140 0 0 1 165.77 70.93 L 186.69 120.71 A 86 86 0 0 0 171.98 128.66 Z" fill="#FF9F0A"/>
+<path d="M 165.77 70.93 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 186.69 120.71 Z" fill="#FF6363"/>
 <text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,033</text>
 <text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
 <rect x="430" y="80" width="14" height="14" fill="#4F8EF7" rx="3"/>
@@ -17,11 +17,11 @@
 <text x="450" y="159" font-size="11" fill="#6b7280">557 (18.4%)</text>
 <rect x="430" y="184" width="14" height="14" fill="#BF5AF2" rx="3"/>
 <text x="450" y="195" font-size="13" font-weight="500" fill="#111827">2 contributors</text>
-<text x="450" y="211" font-size="11" fill="#6b7280">187 (6.2%)</text>
+<text x="450" y="211" font-size="11" fill="#6b7280">186 (6.1%)</text>
 <rect x="430" y="236" width="14" height="14" fill="#FF9F0A" rx="3"/>
 <text x="450" y="247" font-size="13" font-weight="500" fill="#111827">3 contributors</text>
 <text x="450" y="263" font-size="11" fill="#6b7280">94 (3.1%)</text>
 <rect x="430" y="288" width="14" height="14" fill="#FF6363" rx="3"/>
 <text x="450" y="299" font-size="13" font-weight="500" fill="#111827">4+ contributors</text>
-<text x="450" y="315" font-size="11" fill="#6b7280">191 (6.3%)</text>
+<text x="450" y="315" font-size="11" fill="#6b7280">192 (6.3%)</text>
 </svg>

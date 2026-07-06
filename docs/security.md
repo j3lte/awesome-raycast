@@ -1,6 +1,6 @@
 # Security
 
-![Last update](../graphics/update-time-dafbc085680249c3.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-7995ce51f74a56d8.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[1Password](https://raycast.com/khasbilegt/1password)** - Search, open or edit your 1Password passwords from Raycast [`@khasbilegt`](https://raycast.com/khasbilegt) [`issues (4)`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+1password%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+1password%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1password) `api@1.103.6` `utils@2.2.2` `+Windows` `Last updated: 2026-06-15`
 - **[2FAS Authenticator](https://raycast.com/Lock/2fas-authenticator)** - Search and copy TOTP codes from 2FAS exports with a Keychain-encrypted local vault [`@Lock`](https://raycast.com/Lock) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+2fas-authenticator%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+2fas-authenticator%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator) `api@1.104.8` `Last updated: 2026-07-01`

@@ -3,9 +3,9 @@
 <rect width="800" height="400" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Platform Distribution (Current)</text>
 <path d="M 220.00 60.00 A 140 140 0 0 1 360.00 198.92 L 306.00 199.34 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
-<path d="M 360.00 198.92 A 140 140 0 0 1 172.57 331.72 L 190.86 280.91 A 86 86 0 0 0 306.00 199.34 Z" fill="#4F8EF7"/>
-<path d="M 172.57 331.72 A 140 140 0 0 1 165.08 328.78 L 186.27 279.11 A 86 86 0 0 0 190.86 280.91 Z" fill="#FF6363"/>
-<path d="M 165.08 328.78 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 186.27 279.11 Z" fill="#e5e7eb"/>
+<path d="M 360.00 198.92 A 140 140 0 0 1 172.03 331.52 L 190.53 280.79 A 86 86 0 0 0 306.00 199.34 Z" fill="#4F8EF7"/>
+<path d="M 172.03 331.52 A 140 140 0 0 1 164.56 328.55 L 185.94 278.97 A 86 86 0 0 0 190.53 280.79 Z" fill="#FF6363"/>
+<path d="M 164.56 328.55 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 185.94 278.97 Z" fill="#e5e7eb"/>
 <text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,063</text>
 <text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
 <rect x="430" y="106" width="14" height="14" fill="#34C759" rx="3"/>
@@ -13,11 +13,11 @@
 <text x="450" y="133" font-size="11" fill="#6b7280">762 (24.9%)</text>
 <rect x="430" y="158" width="14" height="14" fill="#4F8EF7" rx="3"/>
 <text x="450" y="169" font-size="13" font-weight="500" fill="#111827">macOS only</text>
-<text x="450" y="185" font-size="11" fill="#6b7280">938 (30.6%)</text>
+<text x="450" y="185" font-size="11" fill="#6b7280">940 (30.7%)</text>
 <rect x="430" y="210" width="14" height="14" fill="#FF6363" rx="3"/>
 <text x="450" y="221" font-size="13" font-weight="500" fill="#111827">Windows only</text>
 <text x="450" y="237" font-size="11" fill="#6b7280">28 (0.9%)</text>
 <rect x="430" y="262" width="14" height="14" fill="#e5e7eb" rx="3"/>
 <text x="450" y="273" font-size="13" font-weight="500" fill="#111827">No platform set</text>
-<text x="450" y="289" font-size="11" fill="#6b7280">1,335 (43.6%)</text>
+<text x="450" y="289" font-size="11" fill="#6b7280">1,333 (43.5%)</text>
 </svg>

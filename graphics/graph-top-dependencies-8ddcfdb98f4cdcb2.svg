@@ -17,9 +17,9 @@
 <rect x="120" y="48.0" width="620.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="60.0" text-anchor="end" font-size="11" fill="#111827">node-fetch</text>
 <text x="745.0" y="60.0" font-size="11" fill="#6b7280">388</text>
-<rect x="120" y="70.0" width="351.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="70.0" width="349.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="82.0" text-anchor="end" font-size="11" fill="#111827">axios</text>
-<text x="476.5" y="82.0" font-size="11" fill="#6b7280">220</text>
+<text x="474.9" y="82.0" font-size="11" fill="#6b7280">219</text>
 <rect x="120" y="92.0" width="225.3" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="104.0" text-anchor="end" font-size="11" fill="#111827">date-fns</text>
 <text x="350.3" y="104.0" font-size="11" fill="#6b7280">141</text>

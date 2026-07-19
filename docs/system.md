@@ -1,6 +1,6 @@
 # System
 
-![Last update](../graphics/update-time-3ae3c58765a9bb8f.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-989b8e91a9b03313.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[Amphetamine](https://raycast.com/gstvds/amphetamine)** - Control Amphetamine sleep sessions from Raycast [`@gstvds`](https://raycast.com/gstvds) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+amphetamine%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+amphetamine%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) `api@1.104.18` `Last updated: 2026-07-14`
 - **[App Cleaner](https://raycast.com/dziad/appcleaner)** - Uninstall applications with AppCleaner, Pearcleaner, TrashMe 3 or App Cleaner & Uninstaller [`@dziad`](https://raycast.com/dziad) [`issues (1)`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+appcleaner%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+appcleaner%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) `api@1.104.9` `utils@2.2.3` `Last updated: 2026-03-16`

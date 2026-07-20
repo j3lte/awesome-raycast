@@ -35,11 +35,11 @@
 <rect x="120" y="180.0" width="99.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="192.0" text-anchor="end" font-size="11" fill="#111827">dayjs</text>
 <text x="224.1" y="192.0" font-size="11" fill="#6b7280">62</text>
-<rect x="120" y="202.0" width="84.7" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
-<text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
-<text x="209.7" y="214.0" font-size="11" fill="#6b7280">53</text>
+<rect x="120" y="202.0" width="86.3" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">react</text>
+<text x="211.3" y="214.0" font-size="11" fill="#6b7280">54</text>
 <rect x="120" y="224.0" width="84.7" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
-<text x="114" y="236.0" text-anchor="end" font-size="11" fill="#111827">react</text>
+<text x="114" y="236.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
 <text x="209.7" y="236.0" font-size="11" fill="#6b7280">53</text>
 <rect x="120" y="246.0" width="84.7" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="258.0" text-anchor="end" font-size="11" fill="#111827">nanoid</text>

@@ -2,7 +2,7 @@
 <defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
 <rect width="800" height="4568" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">@raycast/api Version Distribution</text>
-<text x="400" y="44" text-anchor="middle" font-size="11" fill="#6b7280">newest at top · 3,079 total extensions</text>
+<text x="400" y="44" text-anchor="middle" font-size="11" fill="#6b7280">newest at top · 3,080 total extensions</text>
 <line x1="90" y1="58" x2="90" y2="4518" stroke="#e5e7eb" stroke-width="1"/>
 <line x1="90" y1="4518" x2="660" y2="4518" stroke="#e5e7eb" stroke-width="1"/>
 <line x1="90.0" y1="58" x2="90.0" y2="4518" stroke="#f3f4f6" stroke-width="1"/>
@@ -15,9 +15,9 @@
 <text x="518.6" y="4534.0" text-anchor="middle" font-size="11" fill="#6b7280">200</text>
 <line x1="660.0" y1="58" x2="660.0" y2="4518" stroke="#f3f4f6" stroke-width="1"/>
 <text x="660.0" y="4534.0" text-anchor="middle" font-size="11" fill="#6b7280">266</text>
-<rect x="90" y="61.5" width="25.7" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="61.5" width="30.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="72.0" text-anchor="end" font-size="10" fill="#111827">1.104.23</text>
-<text x="120.7" y="72.0" font-size="10" fill="#6b7280">12 (0.39%)</text>
+<text x="125.0" y="72.0" font-size="10" fill="#6b7280">14 (0.45%)</text>
 <rect x="90" y="81.5" width="40.7" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="92.0" text-anchor="end" font-size="10" fill="#111827">1.104.22</text>
 <text x="135.7" y="92.0" font-size="10" fill="#6b7280">19 (0.62%)</text>
@@ -60,12 +60,12 @@
 <rect x="90" y="341.5" width="62.1" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="352.0" text-anchor="end" font-size="10" fill="#111827">1.104.9</text>
 <text x="157.1" y="352.0" font-size="10" fill="#6b7280">29 (0.94%)</text>
-<rect x="90" y="361.5" width="75.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="361.5" width="72.9" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="372.0" text-anchor="end" font-size="10" fill="#111827">1.104.8</text>
-<text x="170.0" y="372.0" font-size="10" fill="#6b7280">35 (1.14%)</text>
-<rect x="90" y="381.5" width="57.9" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<text x="167.9" y="372.0" font-size="10" fill="#6b7280">34 (1.10%)</text>
+<rect x="90" y="381.5" width="60.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="392.0" text-anchor="end" font-size="10" fill="#111827">1.104.7</text>
-<text x="152.9" y="392.0" font-size="10" fill="#6b7280">27 (0.88%)</text>
+<text x="155.0" y="392.0" font-size="10" fill="#6b7280">28 (0.91%)</text>
 <rect x="90" y="401.5" width="171.4" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="412.0" text-anchor="end" font-size="10" fill="#111827">1.104.6</text>
 <text x="266.4" y="412.0" font-size="10" fill="#6b7280">80 (2.60%)</text>
@@ -81,9 +81,9 @@
 <rect x="90" y="481.5" width="34.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="492.0" text-anchor="end" font-size="10" fill="#111827">1.104.2</text>
 <text x="129.3" y="492.0" font-size="10" fill="#6b7280">16 (0.52%)</text>
-<rect x="90" y="501.5" width="349.3" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="501.5" width="347.1" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="512.0" text-anchor="end" font-size="10" fill="#111827">1.104.1</text>
-<text x="444.3" y="512.0" font-size="10" fill="#6b7280">163 (5.29%)</text>
+<text x="442.1" y="512.0" font-size="10" fill="#6b7280">162 (5.26%)</text>
 <rect x="90" y="521.5" width="15.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="532.0" text-anchor="end" font-size="10" fill="#111827">1.104.0</text>
 <text x="110.0" y="532.0" font-size="10" fill="#6b7280">7 (0.23%)</text>

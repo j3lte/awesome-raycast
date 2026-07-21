@@ -2,15 +2,15 @@
 <defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
 <rect width="800" height="400" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Platform Distribution (Current)</text>
-<path d="M 220.00 60.00 A 140 140 0 0 1 360.00 198.93 L 306.00 199.34 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
-<path d="M 360.00 198.93 A 140 140 0 0 1 168.26 330.09 L 188.22 279.91 A 86 86 0 0 0 306.00 199.34 Z" fill="#4F8EF7"/>
-<path d="M 168.26 330.09 A 140 140 0 0 1 160.92 326.92 L 183.71 277.97 A 86 86 0 0 0 188.22 279.91 Z" fill="#FF6363"/>
-<path d="M 160.92 326.92 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 183.71 277.97 Z" fill="#e5e7eb"/>
-<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,079</text>
+<path d="M 220.00 60.00 A 140 140 0 0 1 360.00 199.14 L 306.00 199.47 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
+<path d="M 360.00 199.14 A 140 140 0 0 1 168.14 330.04 L 188.15 279.88 A 86 86 0 0 0 306.00 199.47 Z" fill="#4F8EF7"/>
+<path d="M 168.14 330.04 A 140 140 0 0 1 160.80 326.87 L 183.64 277.93 A 86 86 0 0 0 188.15 279.88 Z" fill="#FF6363"/>
+<path d="M 160.80 326.87 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 183.64 277.93 Z" fill="#e5e7eb"/>
+<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,080</text>
 <text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
 <rect x="430" y="106" width="14" height="14" fill="#34C759" rx="3"/>
 <text x="450" y="117" font-size="13" font-weight="500" fill="#111827">macOS + Windows</text>
-<text x="450" y="133" font-size="11" fill="#6b7280">766 (24.9%)</text>
+<text x="450" y="133" font-size="11" fill="#6b7280">767 (24.9%)</text>
 <rect x="430" y="158" width="14" height="14" fill="#4F8EF7" rx="3"/>
 <text x="450" y="169" font-size="13" font-weight="500" fill="#111827">macOS only</text>
 <text x="450" y="185" font-size="11" fill="#6b7280">959 (31.1%)</text>

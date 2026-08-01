@@ -20,9 +20,9 @@
 <rect x="120" y="70.0" width="350.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="82.0" text-anchor="end" font-size="11" fill="#111827">axios</text>
 <text x="475.9" y="82.0" font-size="11" fill="#6b7280">219</text>
-<rect x="120" y="92.0" width="225.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="92.0" width="227.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="104.0" text-anchor="end" font-size="11" fill="#111827">date-fns</text>
-<text x="350.9" y="104.0" font-size="11" fill="#6b7280">141</text>
+<text x="352.5" y="104.0" font-size="11" fill="#6b7280">142</text>
 <rect x="120" y="114.0" width="187.4" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="126.0" text-anchor="end" font-size="11" fill="#111827">run-applescript</text>
 <text x="312.4" y="126.0" font-size="11" fill="#6b7280">117</text>

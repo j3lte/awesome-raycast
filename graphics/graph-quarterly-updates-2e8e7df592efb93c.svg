@@ -66,9 +66,9 @@
 <text x="468.3" y="249.8" text-anchor="middle" font-size="10" fill="#6b7280">119</text>
 <text x="468.3" y="261.8" text-anchor="middle" font-size="10" fill="#6b7280">(3.77%)</text>
 <g transform="translate(468.3,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2024-Q3</text></g>
-<rect x="492.2" y="269.4" width="23.1" height="50.6" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="503.8" y="253.4" text-anchor="middle" font-size="10" fill="#6b7280">111</text>
-<text x="503.8" y="265.4" text-anchor="middle" font-size="10" fill="#6b7280">(3.52%)</text>
+<rect x="492.2" y="269.9" width="23.1" height="50.1" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="503.8" y="253.9" text-anchor="middle" font-size="10" fill="#6b7280">110</text>
+<text x="503.8" y="265.9" text-anchor="middle" font-size="10" fill="#6b7280">(3.49%)</text>
 <g transform="translate(503.8,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2024-Q4</text></g>
 <rect x="527.7" y="237.1" width="23.1" height="82.9" fill="#34C759" rx="3" opacity="0.85"/>
 <text x="539.3" y="221.1" text-anchor="middle" font-size="10" fill="#6b7280">182</text>
@@ -94,8 +94,8 @@
 <text x="716.8" y="72.0" text-anchor="middle" font-size="10" fill="#6b7280">575</text>
 <text x="716.8" y="84.0" text-anchor="middle" font-size="10" fill="#6b7280">(18.23%)</text>
 <g transform="translate(716.8,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2026-Q2</text></g>
-<rect x="740.7" y="169.6" width="23.1" height="150.4" fill="#34C759" rx="3" opacity="0.85"/>
-<text x="752.3" y="153.6" text-anchor="middle" font-size="10" fill="#6b7280">330</text>
-<text x="752.3" y="165.6" text-anchor="middle" font-size="10" fill="#6b7280">(10.46%)</text>
+<rect x="740.7" y="169.2" width="23.1" height="150.8" fill="#34C759" rx="3" opacity="0.85"/>
+<text x="752.3" y="153.2" text-anchor="middle" font-size="10" fill="#6b7280">331</text>
+<text x="752.3" y="165.2" text-anchor="middle" font-size="10" fill="#6b7280">(10.49%)</text>
 <g transform="translate(752.3,330.0) rotate(-45)"><text text-anchor="end" font-size="10" fill="#111827">2026-Q3</text></g>
 </svg>

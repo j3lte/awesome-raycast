@@ -2,18 +2,18 @@
 <defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
 <rect width="800" height="400" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Platform Distribution (Current)</text>
-<path d="M 220.00 60.00 A 140 140 0 0 1 359.94 204.24 L 305.96 202.60 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
-<path d="M 359.94 204.24 A 140 140 0 0 1 156.13 324.58 L 180.76 276.53 A 86 86 0 0 0 305.96 202.60 Z" fill="#4F8EF7"/>
+<path d="M 220.00 60.00 A 140 140 0 0 1 359.93 204.52 L 305.96 202.78 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
+<path d="M 359.93 204.52 A 140 140 0 0 1 156.13 324.58 L 180.76 276.53 A 86 86 0 0 0 305.96 202.78 Z" fill="#4F8EF7"/>
 <path d="M 156.13 324.58 A 140 140 0 0 1 148.34 320.27 L 175.98 273.88 A 86 86 0 0 0 180.76 276.53 Z" fill="#FF6363"/>
 <path d="M 148.34 320.27 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 175.98 273.88 Z" fill="#e5e7eb"/>
 <text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,163</text>
 <text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
 <rect x="430" y="106" width="14" height="14" fill="#34C759" rx="3"/>
 <text x="450" y="117" font-size="13" font-weight="500" fill="#111827">macOS + Windows</text>
-<text x="450" y="133" font-size="11" fill="#6b7280">806 (25.5%)</text>
+<text x="450" y="133" font-size="11" fill="#6b7280">807 (25.5%)</text>
 <rect x="430" y="158" width="14" height="14" fill="#4F8EF7" rx="3"/>
 <text x="450" y="169" font-size="13" font-weight="500" fill="#111827">macOS only</text>
-<text x="450" y="185" font-size="11" fill="#6b7280">1,014 (32.1%)</text>
+<text x="450" y="185" font-size="11" fill="#6b7280">1,013 (32.0%)</text>
 <rect x="430" y="210" width="14" height="14" fill="#FF6363" rx="3"/>
 <text x="450" y="221" font-size="13" font-weight="500" fill="#111827">Windows only</text>
 <text x="450" y="237" font-size="11" fill="#6b7280">32 (1.0%)</text>

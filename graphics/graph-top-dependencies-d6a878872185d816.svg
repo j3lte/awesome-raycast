@@ -26,9 +26,9 @@
 <rect x="120" y="114.0" width="188.8" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="126.0" text-anchor="end" font-size="11" fill="#111827">run-applescript</text>
 <text x="313.8" y="126.0" font-size="11" fill="#6b7280">116</text>
-<rect x="120" y="136.0" width="130.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="136.0" width="131.8" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="148.0" text-anchor="end" font-size="11" fill="#111827">lodash</text>
-<text x="255.2" y="148.0" font-size="11" fill="#6b7280">80</text>
+<text x="256.8" y="148.0" font-size="11" fill="#6b7280">81</text>
 <rect x="120" y="158.0" width="110.7" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="170.0" text-anchor="end" font-size="11" fill="#111827">cheerio</text>
 <text x="235.7" y="170.0" font-size="11" fill="#6b7280">68</text>
@@ -41,9 +41,9 @@
 <rect x="120" y="224.0" width="87.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="236.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
 <text x="212.9" y="236.0" font-size="11" fill="#6b7280">54</text>
-<rect x="120" y="246.0" width="86.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="246.0" width="84.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="258.0" text-anchor="end" font-size="11" fill="#111827">nanoid</text>
-<text x="211.2" y="258.0" font-size="11" fill="#6b7280">53</text>
+<text x="209.6" y="258.0" font-size="11" fill="#6b7280">52</text>
 <rect x="120" y="268.0" width="83.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="280.0" text-anchor="end" font-size="11" fill="#111827">uuid</text>
 <text x="208.0" y="280.0" font-size="11" fill="#6b7280">51</text>

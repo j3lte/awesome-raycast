@@ -2,22 +2,22 @@
 <defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
 <rect width="800" height="400" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Package Freshness</text>
-<path d="M 220.00 60.00 A 140 140 0 0 1 358.71 181.04 L 305.21 188.35 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
-<path d="M 358.71 181.04 A 140 140 0 0 1 317.84 300.14 L 280.10 261.51 A 86 86 0 0 0 305.21 188.35 Z" fill="#4F8EF7"/>
-<path d="M 317.84 300.14 A 140 140 0 0 1 169.81 330.70 L 189.17 280.28 A 86 86 0 0 0 280.10 261.51 Z" fill="#FF9F0A"/>
-<path d="M 169.81 330.70 A 140 140 0 0 1 219.45 60.00 L 219.66 114.00 A 86 86 0 0 0 189.17 280.28 Z" fill="#FF6363"/>
+<path d="M 220.00 60.00 A 140 140 0 0 1 358.30 178.24 L 304.95 186.63 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
+<path d="M 358.30 178.24 A 140 140 0 0 1 317.91 300.06 L 280.15 261.47 A 86 86 0 0 0 304.95 186.63 Z" fill="#4F8EF7"/>
+<path d="M 317.91 300.06 A 140 140 0 0 1 169.70 330.65 L 189.10 280.26 A 86 86 0 0 0 280.15 261.47 Z" fill="#FF9F0A"/>
+<path d="M 169.70 330.65 A 140 140 0 0 1 219.45 60.00 L 219.66 114.00 A 86 86 0 0 0 189.10 280.26 Z" fill="#FF6363"/>
 <path d="M 219.45 60.00 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 219.66 114.00 Z" fill="#e5e7eb"/>
-<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,179</text>
+<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,180</text>
 <text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
 <rect x="430" y="80" width="14" height="14" fill="#34C759" rx="3"/>
 <text x="450" y="91" font-size="13" font-weight="500" fill="#111827">&lt;3 months</text>
-<text x="450" y="107" font-size="11" fill="#6b7280">726 (22.8%)</text>
+<text x="450" y="107" font-size="11" fill="#6b7280">716 (22.5%)</text>
 <rect x="430" y="132" width="14" height="14" fill="#4F8EF7" rx="3"/>
 <text x="450" y="143" font-size="13" font-weight="500" fill="#111827">3–6 months</text>
-<text x="450" y="159" font-size="11" fill="#6b7280">472 (14.8%)</text>
+<text x="450" y="159" font-size="11" fill="#6b7280">482 (15.2%)</text>
 <rect x="430" y="184" width="14" height="14" fill="#FF9F0A" rx="3"/>
 <text x="450" y="195" font-size="13" font-weight="500" fill="#111827">6–12 months</text>
-<text x="450" y="211" font-size="11" fill="#6b7280">577 (18.2%)</text>
+<text x="450" y="211" font-size="11" fill="#6b7280">578 (18.2%)</text>
 <rect x="430" y="236" width="14" height="14" fill="#FF6363" rx="3"/>
 <text x="450" y="247" font-size="13" font-weight="500" fill="#111827">&gt;1 year</text>
 <text x="450" y="263" font-size="11" fill="#6b7280">1,402 (44.1%)</text>

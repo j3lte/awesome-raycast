@@ -2,22 +2,22 @@
 <defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
 <rect width="800" height="400" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Platform Distribution (Current)</text>
-<path d="M 220.00 60.00 A 140 140 0 0 1 359.82 207.05 L 305.89 204.33 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
-<path d="M 359.82 207.05 A 140 140 0 0 1 152.21 322.49 L 178.36 275.24 A 86 86 0 0 0 305.89 204.33 Z" fill="#4F8EF7"/>
-<path d="M 152.21 322.49 A 140 140 0 0 1 144.61 317.97 L 173.69 272.46 A 86 86 0 0 0 178.36 275.24 Z" fill="#FF6363"/>
-<path d="M 144.61 317.97 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 173.69 272.46 Z" fill="#e5e7eb"/>
-<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,182</text>
+<path d="M 220.00 60.00 A 140 140 0 0 1 359.78 207.79 L 305.87 204.79 A 86 86 0 0 0 220.00 114.00 Z" fill="#34C759"/>
+<path d="M 359.78 207.79 A 140 140 0 0 1 151.22 321.94 L 177.75 274.91 A 86 86 0 0 0 305.87 204.79 Z" fill="#4F8EF7"/>
+<path d="M 151.22 321.94 A 140 140 0 0 1 143.67 317.36 L 173.11 272.09 A 86 86 0 0 0 177.75 274.91 Z" fill="#FF6363"/>
+<path d="M 143.67 317.36 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 173.11 272.09 Z" fill="#e5e7eb"/>
+<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,187</text>
 <text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
 <rect x="430" y="106" width="14" height="14" fill="#34C759" rx="3"/>
 <text x="450" y="117" font-size="13" font-weight="500" fill="#111827">macOS + Windows</text>
-<text x="450" y="133" font-size="11" fill="#6b7280">821 (25.8%)</text>
+<text x="450" y="133" font-size="11" fill="#6b7280">825 (25.9%)</text>
 <rect x="430" y="158" width="14" height="14" fill="#4F8EF7" rx="3"/>
 <text x="450" y="169" font-size="13" font-weight="500" fill="#111827">macOS only</text>
-<text x="450" y="185" font-size="11" fill="#6b7280">1,026 (32.2%)</text>
+<text x="450" y="185" font-size="11" fill="#6b7280">1,029 (32.3%)</text>
 <rect x="430" y="210" width="14" height="14" fill="#FF6363" rx="3"/>
 <text x="450" y="221" font-size="13" font-weight="500" fill="#111827">Windows only</text>
 <text x="450" y="237" font-size="11" fill="#6b7280">32 (1.0%)</text>
 <rect x="430" y="262" width="14" height="14" fill="#e5e7eb" rx="3"/>
 <text x="450" y="273" font-size="13" font-weight="500" fill="#111827">No platform set</text>
-<text x="450" y="289" font-size="11" fill="#6b7280">1,303 (40.9%)</text>
+<text x="450" y="289" font-size="11" fill="#6b7280">1,301 (40.8%)</text>
 </svg>

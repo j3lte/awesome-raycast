@@ -2,25 +2,25 @@
 <defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
 <rect width="800" height="400" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Contributor Distribution</text>
-<path d="M 220.00 60.00 A 140 140 0 1 1 99.50 271.27 L 145.98 243.78 A 86 86 0 1 0 220.00 114.00 Z" fill="#4F8EF7"/>
-<path d="M 99.50 271.27 A 140 140 0 0 1 103.16 122.87 L 148.23 152.62 A 86 86 0 0 0 145.98 243.78 Z" fill="#34C759"/>
-<path d="M 103.16 122.87 A 140 140 0 0 1 142.29 83.55 L 172.27 128.46 A 86 86 0 0 0 148.23 152.62 Z" fill="#BF5AF2"/>
-<path d="M 142.29 83.55 A 140 140 0 0 1 165.88 70.88 L 186.76 120.69 A 86 86 0 0 0 172.27 128.46 Z" fill="#FF9F0A"/>
-<path d="M 165.88 70.88 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 186.76 120.69 Z" fill="#FF6363"/>
-<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,182</text>
+<path d="M 220.00 60.00 A 140 140 0 1 1 99.27 270.87 L 145.83 243.54 A 86 86 0 1 0 220.00 114.00 Z" fill="#4F8EF7"/>
+<path d="M 99.27 270.87 A 140 140 0 0 1 103.13 122.92 L 148.21 152.65 A 86 86 0 0 0 145.83 243.54 Z" fill="#34C759"/>
+<path d="M 103.13 122.92 A 140 140 0 0 1 142.17 83.63 L 172.19 128.51 A 86 86 0 0 0 148.21 152.65 Z" fill="#BF5AF2"/>
+<path d="M 142.17 83.63 A 140 140 0 0 1 165.96 70.85 L 186.81 120.66 A 86 86 0 0 0 172.19 128.51 Z" fill="#FF9F0A"/>
+<path d="M 165.96 70.85 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 186.81 120.66 Z" fill="#FF6363"/>
+<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,187</text>
 <text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
 <rect x="430" y="80" width="14" height="14" fill="#4F8EF7" rx="3"/>
 <text x="450" y="91" font-size="13" font-weight="500" fill="#111827">Only author</text>
-<text x="450" y="107" font-size="11" fill="#6b7280">2,116 (66.5%)</text>
+<text x="450" y="107" font-size="11" fill="#6b7280">2,121 (66.6%)</text>
 <rect x="430" y="132" width="14" height="14" fill="#34C759" rx="3"/>
 <text x="450" y="143" font-size="13" font-weight="500" fill="#111827">1 contributor</text>
-<text x="450" y="159" font-size="11" fill="#6b7280">566 (17.8%)</text>
+<text x="450" y="159" font-size="11" fill="#6b7280">565 (17.7%)</text>
 <rect x="430" y="184" width="14" height="14" fill="#BF5AF2" rx="3"/>
 <text x="450" y="195" font-size="13" font-weight="500" fill="#111827">2 contributors</text>
 <text x="450" y="211" font-size="11" fill="#6b7280">202 (6.3%)</text>
 <rect x="430" y="236" width="14" height="14" fill="#FF9F0A" rx="3"/>
 <text x="450" y="247" font-size="13" font-weight="500" fill="#111827">3 contributors</text>
-<text x="450" y="263" font-size="11" fill="#6b7280">97 (3.0%)</text>
+<text x="450" y="263" font-size="11" fill="#6b7280">98 (3.1%)</text>
 <rect x="430" y="288" width="14" height="14" fill="#FF6363" rx="3"/>
 <text x="450" y="299" font-size="13" font-weight="500" fill="#111827">4+ contributors</text>
 <text x="450" y="315" font-size="11" fill="#6b7280">201 (6.3%)</text>

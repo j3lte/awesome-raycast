@@ -1,6 +1,6 @@
 # Communication
 
-![Last update](../graphics/update-time-6b29c5afbb60b48e.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-d3b38e46d5d09714.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[Akkoma](https://raycast.com/SevicheCC/akkoma)** - Publish status from Raycast to Akkoma or Pleroma, and view your bookmarked status [`@SevicheCC`](https://raycast.com/SevicheCC) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+akkoma%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+akkoma%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/akkoma) `api@1.100.2` `Last updated: 2025-06-18`
 - **[Area Code Search](https://raycast.com/mjking/area-code-search)** - Search US area codes by code, city, or state [`@mjking`](https://raycast.com/mjking) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+area-code-search%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+area-code-search%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/area-code-search) `api@1.104.22` `Last updated: 2026-07-16`

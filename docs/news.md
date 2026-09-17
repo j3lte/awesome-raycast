@@ -1,6 +1,6 @@
 # News
 
-![Last update](../graphics/update-time-9be26de3bf9cde0d.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-998952bc6177866c.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[Android Weekly](https://raycast.com/mibrahimdev/android-weekly)** - Browse Android Weekly issues and read the latest articles [`@mibrahimdev`](https://raycast.com/mibrahimdev) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+android-weekly%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+android-weekly%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/android-weekly) `api@1.104.25` `Last updated: 2026-09-14`
 - **[Ars Technica](https://raycast.com/edwin-dd-ong/ars-technica)** - Get the latest Ars Technica stories. [`@edwin-dd-ong`](https://raycast.com/edwin-dd-ong) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+ars-technica%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+ars-technica%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ars-technica) `api@1.65.0` `utils@1.10.1` `Last updated: 2024-01-12`

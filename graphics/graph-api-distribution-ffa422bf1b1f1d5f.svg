@@ -15,15 +15,15 @@
 <text x="517.1" y="4734.0" text-anchor="middle" font-size="11" fill="#6b7280">290</text>
 <line x1="660.0" y1="58" x2="660.0" y2="4718" stroke="#f3f4f6" stroke-width="1"/>
 <text x="660.0" y="4734.0" text-anchor="middle" font-size="11" fill="#6b7280">387</text>
-<rect x="90" y="61.5" width="2.9" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="61.5" width="5.9" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="72.0" text-anchor="end" font-size="10" fill="#111827">2.4.1</text>
-<text x="97.9" y="72.0" font-size="10" fill="#6b7280">2 (0.06%)</text>
+<text x="100.9" y="72.0" font-size="10" fill="#6b7280">4 (0.12%)</text>
 <rect x="90" y="81.5" width="8.8" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="92.0" text-anchor="end" font-size="10" fill="#111827">2.3.1</text>
 <text x="103.8" y="92.0" font-size="10" fill="#6b7280">6 (0.18%)</text>
-<rect x="90" y="101.5" width="5.9" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="101.5" width="7.4" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="112.0" text-anchor="end" font-size="10" fill="#111827">2.3.0</text>
-<text x="100.9" y="112.0" font-size="10" fill="#6b7280">4 (0.12%)</text>
+<text x="102.4" y="112.0" font-size="10" fill="#6b7280">5 (0.15%)</text>
 <rect x="90" y="121.5" width="7.4" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="132.0" text-anchor="end" font-size="10" fill="#111827">2.2.1</text>
 <text x="102.4" y="132.0" font-size="10" fill="#6b7280">5 (0.15%)</text>
@@ -102,15 +102,15 @@
 <rect x="90" y="621.5" width="44.2" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="632.0" text-anchor="end" font-size="10" fill="#111827">1.104.9</text>
 <text x="139.2" y="632.0" font-size="10" fill="#6b7280">30 (0.91%)</text>
-<rect x="90" y="641.5" width="47.1" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="641.5" width="45.7" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="652.0" text-anchor="end" font-size="10" fill="#111827">1.104.8</text>
-<text x="142.1" y="652.0" font-size="10" fill="#6b7280">32 (0.97%)</text>
+<text x="140.7" y="652.0" font-size="10" fill="#6b7280">31 (0.94%)</text>
 <rect x="90" y="661.5" width="41.2" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="672.0" text-anchor="end" font-size="10" fill="#111827">1.104.7</text>
 <text x="136.2" y="672.0" font-size="10" fill="#6b7280">28 (0.85%)</text>
-<rect x="90" y="681.5" width="116.4" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="681.5" width="114.9" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="692.0" text-anchor="end" font-size="10" fill="#111827">1.104.6</text>
-<text x="211.4" y="692.0" font-size="10" fill="#6b7280">79 (2.39%)</text>
+<text x="209.9" y="692.0" font-size="10" fill="#6b7280">78 (2.36%)</text>
 <rect x="90" y="701.5" width="41.2" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="712.0" text-anchor="end" font-size="10" fill="#111827">1.104.5</text>
 <text x="136.2" y="712.0" font-size="10" fill="#6b7280">28 (0.85%)</text>
@@ -249,9 +249,9 @@
 <rect x="90" y="1601.5" width="11.8" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="1612.0" text-anchor="end" font-size="10" fill="#111827">1.93.1</text>
 <text x="106.8" y="1612.0" font-size="10" fill="#6b7280">8 (0.24%)</text>
-<rect x="90" y="1621.5" width="28.0" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
+<rect x="90" y="1621.5" width="26.5" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="1632.0" text-anchor="end" font-size="10" fill="#111827">1.93.0</text>
-<text x="123.0" y="1632.0" font-size="10" fill="#6b7280">19 (0.58%)</text>
+<text x="121.5" y="1632.0" font-size="10" fill="#6b7280">18 (0.55%)</text>
 <rect x="90" y="1641.5" width="1.5" height="13" fill="#4F8EF7" rx="2" opacity="0.85"/>
 <text x="84" y="1652.0" text-anchor="end" font-size="10" fill="#111827">1.92.1</text>
 <text x="96.5" y="1652.0" font-size="10" fill="#6b7280">1 (0.03%)</text>

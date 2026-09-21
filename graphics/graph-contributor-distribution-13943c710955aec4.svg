@@ -4,8 +4,8 @@
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Contributor Distribution</text>
 <path d="M 220.00 60.00 A 140 140 0 1 1 97.32 267.45 L 144.64 241.43 A 86 86 0 1 0 220.00 114.00 Z" fill="#4F8EF7"/>
 <path d="M 97.32 267.45 A 140 140 0 0 1 102.95 123.19 L 148.10 152.82 A 86 86 0 0 0 144.64 241.43 Z" fill="#34C759"/>
-<path d="M 102.95 123.19 A 140 140 0 0 1 142.30 83.54 L 172.27 128.46 A 86 86 0 0 0 148.10 152.82 Z" fill="#BF5AF2"/>
-<path d="M 142.30 83.54 A 140 140 0 0 1 166.73 70.53 L 187.28 120.47 A 86 86 0 0 0 172.27 128.46 Z" fill="#FF9F0A"/>
+<path d="M 102.95 123.19 A 140 140 0 0 1 141.86 83.84 L 172.00 128.64 A 86 86 0 0 0 148.10 152.82 Z" fill="#BF5AF2"/>
+<path d="M 141.86 83.84 A 140 140 0 0 1 166.73 70.53 L 187.28 120.47 A 86 86 0 0 0 172.00 128.64 Z" fill="#FF9F0A"/>
 <path d="M 166.73 70.53 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 187.28 120.47 Z" fill="#FF6363"/>
 <text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,300</text>
 <text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
@@ -17,10 +17,10 @@
 <text x="450" y="159" font-size="11" fill="#6b7280">569 (17.2%)</text>
 <rect x="430" y="184" width="14" height="14" fill="#BF5AF2" rx="3"/>
 <text x="450" y="195" font-size="13" font-weight="500" fill="#111827">2 contributors</text>
-<text x="450" y="211" font-size="11" fill="#6b7280">211 (6.4%)</text>
+<text x="450" y="211" font-size="11" fill="#6b7280">209 (6.3%)</text>
 <rect x="430" y="236" width="14" height="14" fill="#FF9F0A" rx="3"/>
 <text x="450" y="247" font-size="13" font-weight="500" fill="#111827">3 contributors</text>
-<text x="450" y="263" font-size="11" fill="#6b7280">104 (3.2%)</text>
+<text x="450" y="263" font-size="11" fill="#6b7280">106 (3.2%)</text>
 <rect x="430" y="288" width="14" height="14" fill="#FF6363" rx="3"/>
 <text x="450" y="299" font-size="13" font-weight="500" fill="#111827">4+ contributors</text>
 <text x="450" y="315" font-size="11" fill="#6b7280">205 (6.2%)</text>

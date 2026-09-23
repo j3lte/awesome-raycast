@@ -17,9 +17,9 @@
 <rect x="120" y="48.0" width="620.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="60.0" text-anchor="end" font-size="11" fill="#111827">node-fetch</text>
 <text x="745.0" y="60.0" font-size="11" fill="#6b7280">373</text>
-<rect x="120" y="70.0" width="355.7" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="70.0" width="354.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="82.0" text-anchor="end" font-size="11" fill="#111827">axios</text>
-<text x="480.7" y="82.0" font-size="11" fill="#6b7280">214</text>
+<text x="479.0" y="82.0" font-size="11" fill="#6b7280">213</text>
 <rect x="120" y="92.0" width="236.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="104.0" text-anchor="end" font-size="11" fill="#111827">date-fns</text>
 <text x="361.0" y="104.0" font-size="11" fill="#6b7280">142</text>
@@ -29,12 +29,12 @@
 <rect x="120" y="136.0" width="134.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="148.0" text-anchor="end" font-size="11" fill="#111827">lodash</text>
 <text x="259.6" y="148.0" font-size="11" fill="#6b7280">81</text>
-<rect x="120" y="158.0" width="109.7" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="158.0" width="108.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="170.0" text-anchor="end" font-size="11" fill="#111827">cheerio</text>
-<text x="234.7" y="170.0" font-size="11" fill="#6b7280">66</text>
-<rect x="120" y="180.0" width="104.7" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="233.0" y="170.0" font-size="11" fill="#6b7280">65</text>
+<rect x="120" y="180.0" width="106.4" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="192.0" text-anchor="end" font-size="11" fill="#111827">react</text>
-<text x="229.7" y="192.0" font-size="11" fill="#6b7280">63</text>
+<text x="231.4" y="192.0" font-size="11" fill="#6b7280">64</text>
 <rect x="120" y="202.0" width="103.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">dayjs</text>
 <text x="228.1" y="214.0" font-size="11" fill="#6b7280">62</text>

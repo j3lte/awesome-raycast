@@ -255,5 +255,6 @@
   {"timestamp":1789885644100,"packages":3300,"authors":2192,"contributors":1297,"onlyContributors":976,"noPlatformSelected":1272,"macOnly":1109,"withWindows":919,"windowsOnly":34},
   {"timestamp":1789972426409,"packages":3300,"authors":2192,"contributors":1300,"onlyContributors":979,"noPlatformSelected":1271,"macOnly":1109,"withWindows":920,"windowsOnly":34},
   {"timestamp":1790058163318,"packages":3300,"authors":2192,"contributors":1302,"onlyContributors":981,"noPlatformSelected":1269,"macOnly":1110,"withWindows":921,"windowsOnly":34},
-  {"timestamp":1790143615781,"packages":3302,"authors":2194,"contributors":1303,"onlyContributors":982,"noPlatformSelected":1269,"macOnly":1110,"withWindows":923,"windowsOnly":34}
+  {"timestamp":1790143615781,"packages":3302,"authors":2194,"contributors":1303,"onlyContributors":982,"noPlatformSelected":1269,"macOnly":1110,"withWindows":923,"windowsOnly":34},
+  {"timestamp":1790230564729,"packages":3307,"authors":2199,"contributors":1302,"onlyContributors":980,"noPlatformSelected":1269,"macOnly":1114,"withWindows":924,"windowsOnly":35}
 ]

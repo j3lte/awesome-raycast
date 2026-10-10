@@ -29,9 +29,9 @@
 <rect x="120" y="136.0" width="136.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="148.0" text-anchor="end" font-size="11" fill="#111827">lodash</text>
 <text x="261.5" y="148.0" font-size="11" fill="#6b7280">81</text>
-<rect x="120" y="158.0" width="121.3" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="158.0" width="123.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="170.0" text-anchor="end" font-size="11" fill="#111827">react</text>
-<text x="246.3" y="170.0" font-size="11" fill="#6b7280">72</text>
+<text x="248.0" y="170.0" font-size="11" fill="#6b7280">73</text>
 <rect x="120" y="180.0" width="111.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="192.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
 <text x="236.2" y="192.0" font-size="11" fill="#6b7280">66</text>

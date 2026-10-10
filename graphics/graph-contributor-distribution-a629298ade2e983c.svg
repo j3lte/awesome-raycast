@@ -2,16 +2,16 @@
 <defs><style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }</style></defs>
 <rect width="800" height="400" fill="#ffffff" rx="12"/>
 <text x="400" y="26" text-anchor="middle" font-size="15" font-weight="600" fill="#111827">Contributor Distribution</text>
-<path d="M 220.00 60.00 A 140 140 0 1 1 95.10 263.24 L 143.27 238.85 A 86 86 0 1 0 220.00 114.00 Z" fill="#4F8EF7"/>
-<path d="M 95.10 263.24 A 140 140 0 0 1 104.10 121.47 L 148.80 151.76 A 86 86 0 0 0 143.27 238.85 Z" fill="#34C759"/>
-<path d="M 104.10 121.47 A 140 140 0 0 1 143.14 82.98 L 172.79 128.12 A 86 86 0 0 0 148.80 151.76 Z" fill="#BF5AF2"/>
-<path d="M 143.14 82.98 A 140 140 0 0 1 166.71 70.54 L 187.26 120.47 A 86 86 0 0 0 172.79 128.12 Z" fill="#FF9F0A"/>
-<path d="M 166.71 70.54 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 187.26 120.47 Z" fill="#FF6363"/>
-<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,395</text>
+<path d="M 220.00 60.00 A 140 140 0 1 1 94.83 262.72 L 143.11 238.53 A 86 86 0 1 0 220.00 114.00 Z" fill="#4F8EF7"/>
+<path d="M 94.83 262.72 A 140 140 0 0 1 104.25 121.24 L 148.90 151.62 A 86 86 0 0 0 143.11 238.53 Z" fill="#34C759"/>
+<path d="M 104.25 121.24 A 140 140 0 0 1 143.28 82.89 L 172.88 128.06 A 86 86 0 0 0 148.90 151.62 Z" fill="#BF5AF2"/>
+<path d="M 143.28 82.89 A 140 140 0 0 1 166.81 70.50 L 187.33 120.45 A 86 86 0 0 0 172.88 128.06 Z" fill="#FF9F0A"/>
+<path d="M 166.81 70.50 A 140 140 0 0 1 220.00 60.00 L 220.00 114.00 A 86 86 0 0 0 187.33 120.45 Z" fill="#FF6363"/>
+<text x="220" y="190" text-anchor="middle" font-size="28" font-weight="700" fill="#111827">3,402</text>
 <text x="220" y="214" text-anchor="middle" font-size="12" fill="#6b7280">extensions</text>
 <rect x="430" y="80" width="14" height="14" fill="#4F8EF7" rx="3"/>
 <text x="450" y="91" font-size="13" font-weight="500" fill="#111827">Only author</text>
-<text x="450" y="107" font-size="11" fill="#6b7280">2,293 (67.5%)</text>
+<text x="450" y="107" font-size="11" fill="#6b7280">2,300 (67.6%)</text>
 <rect x="430" y="132" width="14" height="14" fill="#34C759" rx="3"/>
 <text x="450" y="143" font-size="13" font-weight="500" fill="#111827">1 contributor</text>
 <text x="450" y="159" font-size="11" fill="#6b7280">575 (16.9%)</text>

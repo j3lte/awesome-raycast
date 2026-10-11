@@ -1,7 +1,7 @@
 # Awesome Raycast
 
 <!-- START UPDATETIME -->
-![Last update](graphics/update-time-a629298ade2e983c.svg)&nbsp;[![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml)
+![Last update](graphics/update-time-442a2880b300cbc8.svg)&nbsp;[![Last Run](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml/badge.svg)](https://github.com/j3lte/awesome-raycast/actions/workflows/cron.yml)
 <!-- END UPDATETIME -->
 Awesome Raycast is an automated list of all the extensions that are available for [Raycast](https://raycast.com). You can find these in the [Raycast Store](https://www.raycast.com/store) as well.
 
@@ -13,15 +13,15 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 ## Graphs
 
 <div align="center">
-<img src="graphics/graph-packages-growth-a629298ade2e983c.svg" alt="Packages Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-community-growth-a629298ade2e983c.svg" alt="Community Growth Over Time" width="98%" /><br />
-<img src="graphics/graph-platform-growth-a629298ade2e983c.svg" alt="Platform Support Over Time" width="98%" /><br />
-<img src="graphics/graph-package-freshness-a629298ade2e983c.svg" alt="Package Freshness" width="98%" /><br />
-<img src="graphics/graph-quarterly-updates-a629298ade2e983c.svg" alt="Packages by Last Updated Quarter" width="98%" /><br />
-<img src="graphics/graph-contributor-distribution-a629298ade2e983c.svg" alt="Contributor Distribution" width="98%" /><br />
-<img src="graphics/graph-top-dependencies-a629298ade2e983c.svg" alt="Top Dependencies" width="98%" /><br />
-<img src="graphics/graph-api-versions-a629298ade2e983c.svg" alt="Top @raycast/api Versions" width="98%" /><br />
-<img src="graphics/graph-platform-distribution-a629298ade2e983c.svg" alt="Platform Distribution" width="98%" /><br />
+<img src="graphics/graph-packages-growth-442a2880b300cbc8.svg" alt="Packages Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-community-growth-442a2880b300cbc8.svg" alt="Community Growth Over Time" width="98%" /><br />
+<img src="graphics/graph-platform-growth-442a2880b300cbc8.svg" alt="Platform Support Over Time" width="98%" /><br />
+<img src="graphics/graph-package-freshness-442a2880b300cbc8.svg" alt="Package Freshness" width="98%" /><br />
+<img src="graphics/graph-quarterly-updates-442a2880b300cbc8.svg" alt="Packages by Last Updated Quarter" width="98%" /><br />
+<img src="graphics/graph-contributor-distribution-442a2880b300cbc8.svg" alt="Contributor Distribution" width="98%" /><br />
+<img src="graphics/graph-top-dependencies-442a2880b300cbc8.svg" alt="Top Dependencies" width="98%" /><br />
+<img src="graphics/graph-api-versions-442a2880b300cbc8.svg" alt="Top @raycast/api Versions" width="98%" /><br />
+<img src="graphics/graph-platform-distribution-442a2880b300cbc8.svg" alt="Platform Distribution" width="98%" /><br />
 </div>
 <!-- END GRAPHS -->
 
@@ -56,9 +56,9 @@ Awesome Raycast is an automated list of all the extensions that are available fo
 <!-- START STATISTICS -->
 
 - **3402** packages in **15** categories, **46** packages use Swift
-- **2274** authors, **1320** contributors (of which **991** are only contributors, not authors)
-- **10788** total commands (7251 view, 3173 no-view, 364 menu-bar)
-- **1797** AI tools
+- **2274** authors, **1321** contributors (of which **992** are only contributors, not authors)
+- **10791** total commands (7252 view, 3174 no-view, 365 menu-bar)
+- **1809** AI tools
 - **1245** packages have no platform selected (36.6%, macOS only)
 - **1190** packages have macOS only (34.98%)
 - **967** packages have Windows (28.42%), of which **40** packages have Windows only (1.18%)
@@ -83,7 +83,7 @@ Awesome Raycast is an automated list of all the extensions that are available fo
   - [alexi.build](https://raycast.com/alexi.build) (38)
   - [litomore](https://raycast.com/litomore) (34)
   - [stelo](https://raycast.com/stelo) (25)
-  - [muhammadrizo](https://raycast.com/muhammadrizo) (24)
+  - [chrismessina](https://raycast.com/chrismessina) (24)
 
 <!-- END STATISTICS -->
 

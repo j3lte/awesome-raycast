@@ -17,9 +17,9 @@
 <rect x="120" y="48.0" width="620.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="60.0" text-anchor="end" font-size="11" fill="#111827">node-fetch</text>
 <text x="745.0" y="60.0" font-size="11" fill="#6b7280">367</text>
-<rect x="120" y="70.0" width="358.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="70.0" width="356.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="82.0" text-anchor="end" font-size="11" fill="#111827">axios</text>
-<text x="483.1" y="82.0" font-size="11" fill="#6b7280">212</text>
+<text x="481.5" y="82.0" font-size="11" fill="#6b7280">211</text>
 <rect x="120" y="92.0" width="238.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="104.0" text-anchor="end" font-size="11" fill="#111827">date-fns</text>
 <text x="363.2" y="104.0" font-size="11" fill="#6b7280">141</text>
@@ -32,9 +32,9 @@
 <rect x="120" y="158.0" width="128.4" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="170.0" text-anchor="end" font-size="11" fill="#111827">react</text>
 <text x="253.4" y="170.0" font-size="11" fill="#6b7280">76</text>
-<rect x="120" y="180.0" width="114.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="180.0" width="116.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="192.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
-<text x="239.9" y="192.0" font-size="11" fill="#6b7280">68</text>
+<text x="241.6" y="192.0" font-size="11" fill="#6b7280">69</text>
 <rect x="120" y="202.0" width="108.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">cheerio</text>
 <text x="233.1" y="214.0" font-size="11" fill="#6b7280">64</text>

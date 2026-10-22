@@ -53,9 +53,9 @@
 <rect x="120" y="312.0" width="78.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="324.0" text-anchor="end" font-size="11" fill="#111827">cross-fetch</text>
 <text x="203.1" y="324.0" font-size="11" fill="#6b7280">46</text>
-<rect x="120" y="334.0" width="66.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="334.0" width="67.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="346.0" text-anchor="end" font-size="11" fill="#111827">node-html-markdown</text>
-<text x="191.2" y="346.0" font-size="11" fill="#6b7280">39</text>
+<text x="192.9" y="346.0" font-size="11" fill="#6b7280">40</text>
 <rect x="120" y="356.0" width="66.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="368.0" text-anchor="end" font-size="11" fill="#111827">got</text>
 <text x="191.2" y="368.0" font-size="11" fill="#6b7280">39</text>

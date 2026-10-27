@@ -1,6 +1,6 @@
 # Finance
 
-![Last update](../graphics/update-time-49d3bf539721b02b.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-03acd3f04d77caf2.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[Adjacent](https://raycast.com/Lucas-Kohorst/adjacent)** - Browse, search, and read news on Adjacent prediction markets, indices, and rates. [`@Lucas-Kohorst`](https://raycast.com/Lucas-Kohorst) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+adjacent%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+adjacent%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/adjacent) `api@1.104.25` `utils@2.3.0` `ai-tools` `Last updated: 2026-09-07`
 - **[Alpaca Trading](https://raycast.com/stelo/alpaca-trading)** - Interact with your Alpaca trading account [`@stelo`](https://raycast.com/stelo) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+alpaca-trading%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+alpaca-trading%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/alpaca-trading) `api@1.75.1` `utils@1.19.1` `Last updated: 2024-06-06`

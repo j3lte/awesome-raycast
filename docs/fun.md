@@ -1,6 +1,6 @@
 # Fun
 
-![Last update](../graphics/update-time-ad486ae7c12d3b64.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-b1dbe8c4dc67a5aa.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[/dev/null](https://raycast.com/chrismessina/dev-null)** - Participate in the social network for devs. [`@chrismessina`](https://raycast.com/chrismessina) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+dev-null%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+dev-null%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dev-null) `api@2.8.2` `utils@2.3.3` `ai-tools` `Last updated: 2026-10-23`
 - **[1-Click Confetti](https://raycast.com/peduarte/1-click-confetti)** - Confetti Gun with just 1 click. [`@peduarte`](https://raycast.com/peduarte) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+1-click-confetti%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+1-click-confetti%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti) `api@1.103.9` `utils@2.2.2` `+Windows` `Last updated: 2025-12-01`

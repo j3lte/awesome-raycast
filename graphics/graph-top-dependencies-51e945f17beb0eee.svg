@@ -17,35 +17,35 @@
 <rect x="120" y="48.0" width="620.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="60.0" text-anchor="end" font-size="11" fill="#111827">node-fetch</text>
 <text x="745.0" y="60.0" font-size="11" fill="#6b7280">363</text>
-<rect x="120" y="70.0" width="358.7" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="70.0" width="357.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="82.0" text-anchor="end" font-size="11" fill="#111827">axios</text>
-<text x="483.7" y="82.0" font-size="11" fill="#6b7280">210</text>
+<text x="482.0" y="82.0" font-size="11" fill="#6b7280">209</text>
 <rect x="120" y="92.0" width="244.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="104.0" text-anchor="end" font-size="11" fill="#111827">date-fns</text>
 <text x="369.2" y="104.0" font-size="11" fill="#6b7280">143</text>
 <rect x="120" y="114.0" width="187.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="126.0" text-anchor="end" font-size="11" fill="#111827">run-applescript</text>
 <text x="312.9" y="126.0" font-size="11" fill="#6b7280">110</text>
-<rect x="120" y="136.0" width="138.3" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="136.0" width="141.8" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="148.0" text-anchor="end" font-size="11" fill="#111827">react</text>
-<text x="263.3" y="148.0" font-size="11" fill="#6b7280">81</text>
+<text x="266.8" y="148.0" font-size="11" fill="#6b7280">83</text>
 <rect x="120" y="158.0" width="138.3" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="170.0" text-anchor="end" font-size="11" fill="#111827">lodash</text>
 <text x="263.3" y="170.0" font-size="11" fill="#6b7280">81</text>
-<rect x="120" y="180.0" width="124.7" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="180.0" width="126.4" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="192.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
-<text x="249.7" y="192.0" font-size="11" fill="#6b7280">73</text>
+<text x="251.4" y="192.0" font-size="11" fill="#6b7280">74</text>
 <rect x="120" y="202.0" width="111.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">cheerio</text>
 <text x="236.0" y="214.0" font-size="11" fill="#6b7280">65</text>
 <rect x="120" y="224.0" width="105.9" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="236.0" text-anchor="end" font-size="11" fill="#111827">dayjs</text>
 <text x="230.9" y="236.0" font-size="11" fill="#6b7280">62</text>
-<rect x="120" y="246.0" width="88.8" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
-<text x="114" y="258.0" text-anchor="end" font-size="11" fill="#111827">nanoid</text>
-<text x="213.8" y="258.0" font-size="11" fill="#6b7280">52</text>
+<rect x="120" y="246.0" width="90.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<text x="114" y="258.0" text-anchor="end" font-size="11" fill="#111827">fuse.js</text>
+<text x="215.5" y="258.0" font-size="11" fill="#6b7280">53</text>
 <rect x="120" y="268.0" width="88.8" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
-<text x="114" y="280.0" text-anchor="end" font-size="11" fill="#111827">fuse.js</text>
+<text x="114" y="280.0" text-anchor="end" font-size="11" fill="#111827">nanoid</text>
 <text x="213.8" y="280.0" font-size="11" fill="#6b7280">52</text>
 <rect x="120" y="290.0" width="85.4" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="302.0" text-anchor="end" font-size="11" fill="#111827">uuid</text>

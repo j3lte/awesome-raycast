@@ -26,15 +26,15 @@
 <rect x="120" y="114.0" width="184.5" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="126.0" text-anchor="end" font-size="11" fill="#111827">run-applescript</text>
 <text x="309.5" y="126.0" font-size="11" fill="#6b7280">108</text>
-<rect x="120" y="136.0" width="145.2" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="136.0" width="148.6" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="148.0" text-anchor="end" font-size="11" fill="#111827">react</text>
-<text x="270.2" y="148.0" font-size="11" fill="#6b7280">85</text>
+<text x="273.6" y="148.0" font-size="11" fill="#6b7280">87</text>
 <rect x="120" y="158.0" width="138.3" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="170.0" text-anchor="end" font-size="11" fill="#111827">lodash</text>
 <text x="263.3" y="170.0" font-size="11" fill="#6b7280">81</text>
-<rect x="120" y="180.0" width="128.1" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
+<rect x="120" y="180.0" width="129.8" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="192.0" text-anchor="end" font-size="11" fill="#111827">zod</text>
-<text x="253.1" y="192.0" font-size="11" fill="#6b7280">75</text>
+<text x="254.8" y="192.0" font-size="11" fill="#6b7280">76</text>
 <rect x="120" y="202.0" width="111.0" height="16" fill="#4F8EF7" rx="3" opacity="0.85"/>
 <text x="114" y="214.0" text-anchor="end" font-size="11" fill="#111827">cheerio</text>
 <text x="236.0" y="214.0" font-size="11" fill="#6b7280">65</text>

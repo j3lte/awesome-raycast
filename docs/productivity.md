@@ -1,6 +1,6 @@
 # Productivity
 
-![Last update](../graphics/update-time-2c0985b4aa4118ce.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-3098e907e805d037.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[1Bookmark](https://raycast.com/onebookmark/1bookmark)** - One Bookmark Solution for Teams and Personal Use. [`@onebookmark`](https://raycast.com/onebookmark) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+1bookmark%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+1bookmark%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1bookmark) `api@1.104.12` `utils@2.3.2` `Last updated: 2026-09-29`
 - **[2Do](https://raycast.com/danielhaven/2do)** - Add, view, and edit 2Do tasks. [`@danielhaven`](https://raycast.com/danielhaven) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+2do%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+2do%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/2do) `api@2.7.3` `utils@2.3.2` `Last updated: 2026-11-09`

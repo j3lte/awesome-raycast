@@ -1,6 +1,6 @@
 # Design Tools
 
-![Last update](../graphics/update-time-fc682c8f152b8ecf.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-f547ccea73a369cd.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[8 Divide](https://raycast.com/pkliem/8-divide)** - Round a selected number up or down to the nearest multiple of 8 and paste it, for 8-point grid sizing in Figma and other design tools. [`@pkliem`](https://raycast.com/pkliem) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+8-divide%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+8-divide%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/8-divide) `api@1.79.1` `Last updated: 2024-11-20`
 - **[AI Screenshot](https://raycast.com/jochemloedeman/ai-screenshot)** - Take a screenshot and edit it with generative AI using OpenAI GPT-4o and DALL-E. Describe a change and get a modified image. [`@jochemloedeman`](https://raycast.com/jochemloedeman) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+ai-screenshot%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+ai-screenshot%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ai-screenshot) `api@1.65.1` `utils@1.12.5` `Last updated: 2026-11-05`

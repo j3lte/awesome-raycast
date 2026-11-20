@@ -1,6 +1,6 @@
 # Applications
 
-![Last update](../graphics/update-time-648e0dcfd68a5991.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-93ef411ad02b2e4d.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[(Basic) Bookmarks](https://raycast.com/rauno/bmrks)** - Save and search bookmarks on bmrks.com (Basic Bookmarks), including URLs from your browser, colors and notes, and organize them in groups. [`@rauno`](https://raycast.com/rauno) [`issues (1)`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+bmrks%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+bmrks%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/bmrks) `api@1.104.1` `utils@2.2.2` `Last updated: 2026-08-26`
 - **[0x0](https://raycast.com/pseudobun/0x0)** - Upload files to 0x0.st and get a shareable link, then browse, open and delete your upload history. [`@pseudobun`](https://raycast.com/pseudobun) [`issues (1)`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+0x0%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+0x0%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/0x0) `api@1.104.25` `utils@2.2.7` `+Windows` `Last updated: 2026-07-06`

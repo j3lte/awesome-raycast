@@ -1,6 +1,6 @@
 # Fun
 
-![Last update](../graphics/update-time-fae8e8146b645794.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-fdbfc0a6e15e3640.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[/dev/null](https://raycast.com/chrismessina/dev-null)** - Post signed commits to /dev/null, the social network for developers, and browse profiles, followers and commits, using your SSH key. [`@chrismessina`](https://raycast.com/chrismessina) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+dev-null%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+dev-null%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/dev-null) `api@2.8.2` `utils@2.3.3` `ai-tools` `Last updated: 2026-10-23`
 - **[1-Click Confetti](https://raycast.com/peduarte/1-click-confetti)** - Fire a confetti animation with sound from the menu bar or a single command, with one click. [`@peduarte`](https://raycast.com/peduarte) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+1-click-confetti%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+1-click-confetti%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1-click-confetti) `api@1.104.25` `utils@2.2.2` `+Windows` `Last updated: 2025-12-01`

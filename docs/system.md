@@ -1,6 +1,6 @@
 # System
 
-![Last update](../graphics/update-time-fae8e8146b645794.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-fdbfc0a6e15e3640.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[Amphetamine](https://raycast.com/gstvds/amphetamine)** - Start and end Amphetamine sessions to keep your Mac awake, set a duration or end time, and check remaining session time. [`@gstvds`](https://raycast.com/gstvds) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+amphetamine%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+amphetamine%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/amphetamine) `api@1.104.25` `Last updated: 2026-08-27`
 - **[App Cleaner](https://raycast.com/dziad/appcleaner)** - Uninstall Mac apps with AppCleaner, Pearcleaner, TrashMe 3, App Cleaner & Uninstaller, or another uninstaller app you choose. [`@dziad`](https://raycast.com/dziad) [`issues (2)`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+appcleaner%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+appcleaner%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/appcleaner) `api@1.104.25` `utils@2.2.3` `Last updated: 2026-03-16`

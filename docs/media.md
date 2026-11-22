@@ -1,6 +1,6 @@
 # Media
 
-![Last update](../graphics/update-time-fae8e8146b645794.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-fdbfc0a6e15e3640.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[7TV Emotes Search](https://raycast.com/nakama/seventv-search)** - Search 7TV, BetterTTV and FrankerFaceZ emotes, browse channel and creator emotes, and copy or paste them as GIF or PNG. [`@nakama`](https://raycast.com/nakama) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+seventv-search%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+seventv-search%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/seventv-search) `api@1.104.25` `+Windows` `Last updated: 2026-10-31`
 - **[AG AudioFlow](https://raycast.com/adigold1/ag-audioflow)** - Convert, trim silence, normalize, fade and change the volume or speed of audio files on your Mac with FFmpeg, including batch processing. [`@adigold1`](https://raycast.com/adigold1) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+ag-audioflow%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+ag-audioflow%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/ag-audioflow) `api@1.104.25` `utils@2.2.0` `Last updated: 2025-08-07`

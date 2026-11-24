@@ -1,6 +1,6 @@
 # Security
 
-![Last update](../graphics/update-time-880ff1c83929dcd8.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-efdd5a60816f1d5d.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[1Password](https://raycast.com/khasbilegt/1password)** - Search your 1Password vaults, copy passwords, usernames and one-time codes, open logins in your browser, and generate secure passwords. [`@khasbilegt`](https://raycast.com/khasbilegt) [`issues (3)`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+1password%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+1password%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/1password) `api@1.104.25` `utils@2.2.2` `+Windows` `Last updated: 2026-11-11`
 - **[2FAS Authenticator](https://raycast.com/Lock/2fas-authenticator)** - Search and copy 2FA (TOTP) codes from your 2FAS Authenticator export, stored offline in an encrypted local vault. [`@Lock`](https://raycast.com/Lock) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+2fas-authenticator%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+2fas-authenticator%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/2fas-authenticator) `api@2.13.1` `+Windows` `Last updated: 2026-10-26`

@@ -17,21 +17,21 @@
 <rect x="120" y="50.8" width="620.0" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="62.8" text-anchor="end" font-size="11" fill="#111827">1.104.25</text>
 <text x="745.0" y="62.8" font-size="11" fill="#6b7280">1646</text>
-<rect x="120" y="78.3" width="68.2" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<rect x="120" y="78.3" width="67.8" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="90.3" text-anchor="end" font-size="11" fill="#111827">1.85.2</text>
-<text x="193.2" y="90.3" font-size="11" fill="#6b7280">181</text>
-<rect x="120" y="105.8" width="56.5" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<text x="192.8" y="90.3" font-size="11" fill="#6b7280">180</text>
+<rect x="120" y="105.8" width="57.3" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="117.8" text-anchor="end" font-size="11" fill="#111827">2.13.1</text>
-<text x="181.5" y="117.8" font-size="11" fill="#6b7280">150</text>
+<text x="182.3" y="117.8" font-size="11" fill="#6b7280">152</text>
 <rect x="120" y="133.3" width="15.8" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="145.3" text-anchor="end" font-size="11" fill="#111827">2.11.1</text>
 <text x="140.8" y="145.3" font-size="11" fill="#6b7280">42</text>
-<rect x="120" y="160.8" width="14.3" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<rect x="120" y="160.8" width="14.7" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="172.8" text-anchor="end" font-size="11" fill="#111827">2.10.1</text>
-<text x="139.3" y="172.8" font-size="11" fill="#6b7280">38</text>
-<rect x="120" y="188.3" width="12.4" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<text x="139.7" y="172.8" font-size="11" fill="#6b7280">39</text>
+<rect x="120" y="188.3" width="12.1" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="200.3" text-anchor="end" font-size="11" fill="#111827">2.9.0</text>
-<text x="137.4" y="200.3" font-size="11" fill="#6b7280">33</text>
+<text x="137.1" y="200.3" font-size="11" fill="#6b7280">32</text>
 <rect x="120" y="215.8" width="11.7" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="227.8" text-anchor="end" font-size="11" fill="#111827">2.7.3</text>
 <text x="136.7" y="227.8" font-size="11" fill="#6b7280">31</text>

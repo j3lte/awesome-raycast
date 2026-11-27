@@ -20,18 +20,18 @@
 <rect x="120" y="78.3" width="67.8" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="90.3" text-anchor="end" font-size="11" fill="#111827">1.85.2</text>
 <text x="192.8" y="90.3" font-size="11" fill="#6b7280">180</text>
-<rect x="120" y="105.8" width="61.1" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<rect x="120" y="105.8" width="61.8" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="117.8" text-anchor="end" font-size="11" fill="#111827">2.13.1</text>
-<text x="186.1" y="117.8" font-size="11" fill="#6b7280">162</text>
-<rect x="120" y="133.3" width="16.2" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<text x="186.8" y="117.8" font-size="11" fill="#6b7280">164</text>
+<rect x="120" y="133.3" width="16.6" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="145.3" text-anchor="end" font-size="11" fill="#111827">2.11.1</text>
-<text x="141.2" y="145.3" font-size="11" fill="#6b7280">43</text>
-<rect x="120" y="160.8" width="15.1" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<text x="141.6" y="145.3" font-size="11" fill="#6b7280">44</text>
+<rect x="120" y="160.8" width="14.7" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="172.8" text-anchor="end" font-size="11" fill="#111827">2.10.1</text>
-<text x="140.1" y="172.8" font-size="11" fill="#6b7280">40</text>
-<rect x="120" y="188.3" width="12.8" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
+<text x="139.7" y="172.8" font-size="11" fill="#6b7280">39</text>
+<rect x="120" y="188.3" width="13.6" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="200.3" text-anchor="end" font-size="11" fill="#111827">2.9.0</text>
-<text x="137.8" y="200.3" font-size="11" fill="#6b7280">34</text>
+<text x="138.6" y="200.3" font-size="11" fill="#6b7280">36</text>
 <rect x="120" y="215.8" width="11.7" height="16" fill="#FF6363" rx="3" opacity="0.85"/>
 <text x="114" y="227.8" text-anchor="end" font-size="11" fill="#111827">2.7.3</text>
 <text x="136.7" y="227.8" font-size="11" fill="#6b7280">31</text>

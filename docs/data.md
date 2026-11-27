@@ -1,6 +1,6 @@
 # Data
 
-![Last update](../graphics/update-time-cd8e3751311dda54.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-69dfaa531ecffd09.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[5Devs](https://raycast.com/gustavofior/5devs)** - Generate fake Brazilian test data: people with CPF and RG, companies with CNPJ, addresses with CEP, vehicles, credit cards and more. [`@gustavofior`](https://raycast.com/gustavofior) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+5devs%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+5devs%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/5devs) `api@1.78.1` `utils@1.19.1` `Last updated: 2024-11-15`
 - **[A Song of Ice and Fire](https://raycast.com/xmok/asoiaf)** - Explore books, characters and houses from A Song of Ice and Fire and Game of Thrones, using An API of Ice and Fire. [`@xmok`](https://raycast.com/xmok) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+asoiaf%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+asoiaf%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/asoiaf) `api@1.73.2` `utils@1.19.1` `Last updated: 2026-05-21`

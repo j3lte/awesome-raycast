@@ -1,6 +1,6 @@
 # Web
 
-![Last update](../graphics/update-time-69dfaa531ecffd09.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
+![Last update](../graphics/update-time-3d5a3330cece704c.svg) — [← awesome-raycast](https://github.com/j3lte/awesome-raycast)
 
 - **[@ Profile](https://raycast.com/chrismessina/at-profile)** - Open social media profiles by username, find which sites a username exists on, and keep a history of profiles you visited. [`@chrismessina`](https://raycast.com/chrismessina) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+at-profile%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+at-profile%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/at-profile) `api@2.9.0` `utils@2.2.2` `ai-tools` `Last updated: 2026-11-11`
 - **[Aimlab Tracker](https://raycast.com/Whitespace/aimlab)** - View Aimlab player profiles, seasonal leaderboards, task leaderboards and top creators. [`@Whitespace`](https://raycast.com/Whitespace) [`issues`](https://github.com/raycast/extensions/issues?q=sort:updated-desc+state:open+label:%22extension:+aimlab%22)/[`PR`](https://github.com/raycast/extensions/pulls?q=sort:updated-desc+is:pr+is:open+label:%22extension:+aimlab%22) [`code`](https://github.com/raycast/extensions/tree/main/extensions/aimlab) `api@1.54.0` `utils@1.8.0` `Last updated: 2023-09-04`
